@@ -1,6 +1,0 @@
-<!ENTITY enabledHeader.label "Користи">
-<!ENTITY extensionsHeader.label "Додатак">
-<!ENTITY pluginInfo.label "Модули, доступни за следуће типове фајлова:">
-<!ENTITY pluginInfo2.label "Користи модуле за типове фајлова, како би фајлови тог типа били одмах отворени у програму, уместо да их прво сачувате.">
-<!ENTITY plugins.title "Модули">
-<!ENTITY typeHeader.label "Тип фајла">

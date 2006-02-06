@@ -1,9 +1,0 @@
-<!ENTITY allowControlContextMenu.label "укидање или замена пом. менија">
-<!ENTITY allowHideStatusBar.label "сакривање статусне линије">
-<!ENTITY allowScripts.label "Дозволи акције:">
-<!ENTITY allowScripts.title "Додатни параметри JavaScript-а">
-<!ENTITY allowWindowFlip.label "промена редоследа прозора">
-<!ENTITY allowWindowImageSrcChange.label "мењање слика">
-<!ENTITY allowWindowMoveResize.label "премештање/мењање прозора">
-<!ENTITY allowWindowOpen.label "самостално отварање прозора">
-<!ENTITY allowWindowStatusChange.label "мењање текста у стат. линији">

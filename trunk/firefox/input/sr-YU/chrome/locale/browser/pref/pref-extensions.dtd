@@ -1,9 +1,0 @@
-<!ENTITY author.tooltip "Затвори опције и пређи на веб-страну аутора">
-<!ENTITY disableExtension.label "Онемогући проширење">
-<!ENTITY extensionSettings.label "Опције...">
-<!ENTITY extensionTitle.label "Постоје следећа проширења:">
-<!ENTITY getNewExtensions.label "Преузми нова проширења">
-<!ENTITY getnew.tooltip "Затвори прозор додатака и пређи на главну страницу додатака за Mozilla Firebird">
-<!ENTITY getnew.url "http://texturizer.net/firebird/extensions/">
-<!ENTITY lHeader "Проширења">
-<!ENTITY uninstallExtension.label "Удаљи додатак">

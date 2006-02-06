@@ -1,9 +1,0 @@
-<!ENTITY masterPasswordDescription.label "Главна лозинка се користи да заштити податке као што су лозинке веб страна. Ако поставите главну лозинку мораћете је уносити сваки пут када &brandShortName; приступа податцима заштићеним лозинком.">
-<!ENTITY masterPasswordWarning.label "Уверите се да знате лозинку коју сте поставили. Ако заборавите главну лозинку, бићете онемогућени да приступате свим информацијам које она штити.">
-<!ENTITY setPassword.meter.label "Ниво безбедности лозинке">
-<!ENTITY setPassword.meter.loading "Учитавам">
-<!ENTITY setPassword.newPassword.label "Унесите нову лозинку:">
-<!ENTITY setPassword.oldPassword.label "Текућа лозинка:">
-<!ENTITY setPassword.reenterPassword.label "Поновите унос лозинке:">
-<!ENTITY setPassword.title "Промена главне лозинке">
-<!ENTITY setPassword.tokenName.label "Безбедносни уређај">

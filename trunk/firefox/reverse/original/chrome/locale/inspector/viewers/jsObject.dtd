@@ -1,7 +1,0 @@
-<!ENTITY jsCancel.label "Одустани">
-<!ENTITY jsCopyValue.label "Умножи значење">
-<!ENTITY jsEval.desc "Унесите образац JavaScript-а. Променљива &quot;target&quot; представља изабран објекат. Резултат ће бити приказан у делу прегледа JavaScript-а.">
-<!ENTITY jsEval.label "Избрши Javascript...">
-<!ENTITY jsExecute.label "Изврши">
-<!ENTITY jsProperty.label "Својство">
-<!ENTITY jsValue.label "Значење">
