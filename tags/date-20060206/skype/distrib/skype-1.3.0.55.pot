@@ -1,0 +1,6477 @@
+# Converted by skype2po
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2005-07-07 13:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: 1.3.0.55.lang.utf8:1
+msgid "View profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:2
+msgid "Add user to Contact List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:3
+#: 1.3.0.55.lang.utf8:385
+#: 1.3.0.55.lang.utf8:741
+#: 1.3.0.55.lang.utf8:888
+#: 1.3.0.55.lang.utf8:889
+#: 1.3.0.55.lang.utf8:1748
+msgid "Block User"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:4
+#: 1.3.0.55.lang.utf8:105
+msgid "View Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:5
+#: 1.3.0.55.lang.utf8:668
+#: 1.3.0.55.lang.utf8:1309
+msgid "Mute Microphone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:6
+msgid "Hold Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:7
+msgid "Busy Signal"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:8
+msgid "Echo Cancellation"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:9
+msgid "Automatic Gain Control"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:10
+msgid "All Calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:11
+#: 1.3.0.55.lang.utf8:33
+msgid "Missed Calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:12
+msgid "Incoming Calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:13
+msgid "Outgoing Calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:14
+#: 1.3.0.55.lang.utf8:128
+#: 1.3.0.55.lang.utf8:144
+#: 1.3.0.55.lang.utf8:375
+#: 1.3.0.55.lang.utf8:704
+msgid "Online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:15
+#: 1.3.0.55.lang.utf8:127
+#: 1.3.0.55.lang.utf8:142
+#: 1.3.0.55.lang.utf8:143
+#: 1.3.0.55.lang.utf8:373
+#: 1.3.0.55.lang.utf8:374
+#: 1.3.0.55.lang.utf8:379
+#: 1.3.0.55.lang.utf8:380
+#: 1.3.0.55.lang.utf8:702
+#: 1.3.0.55.lang.utf8:703
+msgid "Offline"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:16
+#: 1.3.0.55.lang.utf8:129
+#: 1.3.0.55.lang.utf8:145
+#: 1.3.0.55.lang.utf8:376
+#: 1.3.0.55.lang.utf8:705
+msgid "Away"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:17
+#: 1.3.0.55.lang.utf8:131
+#: 1.3.0.55.lang.utf8:147
+#: 1.3.0.55.lang.utf8:378
+#: 1.3.0.55.lang.utf8:707
+msgid "Do Not Disturb"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:18
+#: 1.3.0.55.lang.utf8:130
+#: 1.3.0.55.lang.utf8:146
+#: 1.3.0.55.lang.utf8:377
+msgid "Not Available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:19
+#: 1.3.0.55.lang.utf8:132
+#: 1.3.0.55.lang.utf8:148
+msgid "Invisible"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:20
+msgid "End Call and Close Tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:21
+msgid "Close tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:22
+#: 1.3.0.55.lang.utf8:1003
+msgid "Start"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:23
+msgid "Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:24
+msgid "Found: %d"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:25
+#: 1.3.0.55.lang.utf8:303
+msgid "Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:26
+msgid "End Call with %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:27
+#: 1.3.0.55.lang.utf8:926
+msgid "Call %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:28
+msgid "Login as New User"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:29
+#: 1.3.0.55.lang.utf8:217
+msgid "Password "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:30
+msgid "Unable to Log in (status: %s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:31
+#. You don't need to translate this entry
+#. It is just a placeholder and will be ignored
+#: 1.3.0.55.lang.utf8:35
+#: 1.3.0.55.lang.utf8:43
+#: 1.3.0.55.lang.utf8:230
+#: 1.3.0.55.lang.utf8:231
+#: 1.3.0.55.lang.utf8:232
+#: 1.3.0.55.lang.utf8:233
+#: 1.3.0.55.lang.utf8:234
+#: 1.3.0.55.lang.utf8:235
+#: 1.3.0.55.lang.utf8:236
+#: 1.3.0.55.lang.utf8:277
+#: 1.3.0.55.lang.utf8:278
+#: 1.3.0.55.lang.utf8:279
+#: 1.3.0.55.lang.utf8:347
+#: 1.3.0.55.lang.utf8:353
+#: 1.3.0.55.lang.utf8:366
+#: 1.3.0.55.lang.utf8:381
+#: 1.3.0.55.lang.utf8:386
+#: 1.3.0.55.lang.utf8:387
+#: 1.3.0.55.lang.utf8:388
+#: 1.3.0.55.lang.utf8:425
+#: 1.3.0.55.lang.utf8:432
+#: 1.3.0.55.lang.utf8:541
+#: 1.3.0.55.lang.utf8:555
+#: 1.3.0.55.lang.utf8:559
+#: 1.3.0.55.lang.utf8:600
+#: 1.3.0.55.lang.utf8:601
+#: 1.3.0.55.lang.utf8:679
+#: 1.3.0.55.lang.utf8:680
+#: 1.3.0.55.lang.utf8:681
+#: 1.3.0.55.lang.utf8:727
+#: 1.3.0.55.lang.utf8:750
+#: 1.3.0.55.lang.utf8:767
+#: 1.3.0.55.lang.utf8:781
+#: 1.3.0.55.lang.utf8:788
+#: 1.3.0.55.lang.utf8:789
+#: 1.3.0.55.lang.utf8:790
+#: 1.3.0.55.lang.utf8:791
+#: 1.3.0.55.lang.utf8:836
+#: 1.3.0.55.lang.utf8:933
+#: 1.3.0.55.lang.utf8:934
+#: 1.3.0.55.lang.utf8:1031
+#: 1.3.0.55.lang.utf8:1209
+#: 1.3.0.55.lang.utf8:1212
+#: 1.3.0.55.lang.utf8:1318
+#: 1.3.0.55.lang.utf8:1319
+#: 1.3.0.55.lang.utf8:1721
+#: 1.3.0.55.lang.utf8:1817
+#: 1.3.0.55.lang.utf8:1926
+#: 1.3.0.55.lang.utf8:1970
+#: 1.3.0.55.lang.utf8:1971
+msgid "---BLANK---"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:32
+msgid "Missed Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:34
+msgid "Missed Calls from %s, Click Here to View Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:36
+#: 1.3.0.55.lang.utf8:89
+#: 1.3.0.55.lang.utf8:1576
+#: 1.3.0.55.lang.utf8:1667
+msgid "Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:37
+#: 1.3.0.55.lang.utf8:302
+msgid "Chats"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:38
+msgid "Missed Chat Message from %s, Click Here to View"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:39
+#: 1.3.0.55.lang.utf8:1320
+msgid "No Contacts Online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:40
+msgid "Contact Online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:41
+msgid "Contacts Online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:42
+msgid "[%s]"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:44
+msgid "..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:45
+msgid "No Contacts have been added"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:46
+msgid "Cannot Add yourself to Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:47
+msgid "No Users Found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:48
+msgid "<All>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:49
+msgid "No Calls Made"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:50
+msgid "No Calls Match Search"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:51
+msgid "Name Missing"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:52
+msgid "Call Duration  "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:53
+#: 1.3.0.55.lang.utf8:916
+#: 1.3.0.55.lang.utf8:917
+#: 1.3.0.55.lang.utf8:964
+#: 1.3.0.55.lang.utf8:967
+#: 1.3.0.55.lang.utf8:1008
+#: 1.3.0.55.lang.utf8:1024
+#: 1.3.0.55.lang.utf8:1025
+#: 1.3.0.55.lang.utf8:1811
+msgid "Error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:54
+msgid "<not used>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:55
+msgid " is Calling..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:56
+msgid "Calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:57
+#: 1.3.0.55.lang.utf8:201
+#: 1.3.0.55.lang.utf8:1302
+msgid "Connecting..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:58
+msgid "Call with..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:59
+msgid "Call in Progress"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:60
+msgid "Finished "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:61
+msgid "Call from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:62
+#: 1.3.0.55.lang.utf8:121
+msgid "Call to"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:63
+msgid "No Answer "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:64
+msgid "Busy "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:65
+msgid "You can't call yourself"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:66
+msgid "Simultaneous calls are not available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:67
+msgid "Would you like to quit Skype?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:68
+msgid "Internal Fatal Error #%d:|%s|Skype will be Closed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:69
+msgid "Internal Error #%d %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:70
+#: 1.3.0.55.lang.utf8:449
+#: 1.3.0.55.lang.utf8:459
+#: 1.3.0.55.lang.utf8:1535
+msgid "Hang Up"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:71
+#: 1.3.0.55.lang.utf8:115
+#: 1.3.0.55.lang.utf8:445
+#: 1.3.0.55.lang.utf8:450
+#: 1.3.0.55.lang.utf8:455
+msgid "Answer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:72
+#: 1.3.0.55.lang.utf8:116
+msgid "Reject"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:73
+msgid "Close Call Tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:74
+#: 1.3.0.55.lang.utf8:1620
+msgid "File"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:75
+#: 1.3.0.55.lang.utf8:119
+msgid "Change Status"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:76
+msgid "My Profile..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:77
+msgid "Log in as a New User..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:78
+msgid "Select Language"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:79
+msgid "Options..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:80
+#: 1.3.0.55.lang.utf8:460
+#: 1.3.0.55.lang.utf8:546
+#: 1.3.0.55.lang.utf8:743
+#: 1.3.0.55.lang.utf8:771
+#: 1.3.0.55.lang.utf8:778
+#: 1.3.0.55.lang.utf8:785
+#: 1.3.0.55.lang.utf8:794
+#: 1.3.0.55.lang.utf8:1124
+#: 1.3.0.55.lang.utf8:1138
+#: 1.3.0.55.lang.utf8:1150
+#: 1.3.0.55.lang.utf8:1187
+#: 1.3.0.55.lang.utf8:1235
+#: 1.3.0.55.lang.utf8:1814
+msgid "Close"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:81
+msgid "View"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:82
+msgid "View Addressbar"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:83
+msgid "View Toolbar"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:84
+msgid "View Statusbar"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:85
+msgid "Show Text on Tabs"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:86
+msgid "Show Online Contacts Only"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:87
+msgid "Tools"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:88
+#: 1.3.0.55.lang.utf8:106
+#: 1.3.0.55.lang.utf8:112
+#: 1.3.0.55.lang.utf8:443
+#: 1.3.0.55.lang.utf8:453
+#: 1.3.0.55.lang.utf8:486
+#: 1.3.0.55.lang.utf8:1816
+msgid "Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:90
+#: 1.3.0.55.lang.utf8:100
+msgid "Send Contacts..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:91
+#: 1.3.0.55.lang.utf8:110
+#: 1.3.0.55.lang.utf8:351
+msgid "Clear Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:92
+#: 1.3.0.55.lang.utf8:761
+#: 1.3.0.55.lang.utf8:1248
+msgid "Share Skype with a Friend"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:93
+#: 1.3.0.55.lang.utf8:94
+msgid "Help"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:95
+msgid "FAQ"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:96
+msgid "Check for Update"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:97
+#: 1.3.0.55.lang.utf8:252
+#: 1.3.0.55.lang.utf8:404
+#: 1.3.0.55.lang.utf8:473
+msgid "About"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:98
+msgid "Call This Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:99
+msgid "Start Chat..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:101
+#: 1.3.0.55.lang.utf8:109
+#: 1.3.0.55.lang.utf8:113
+#: 1.3.0.55.lang.utf8:118
+#: 1.3.0.55.lang.utf8:384
+#: 1.3.0.55.lang.utf8:845
+#: 1.3.0.55.lang.utf8:1531
+msgid "View Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:102
+msgid "Rename..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:103
+msgid "Remove From Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:104
+msgid "Chat History"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:107
+#: 1.3.0.55.lang.utf8:117
+#: 1.3.0.55.lang.utf8:1532
+msgid "Start Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:108
+#: 1.3.0.55.lang.utf8:111
+#: 1.3.0.55.lang.utf8:345
+#: 1.3.0.55.lang.utf8:485
+#: 1.3.0.55.lang.utf8:843
+#: 1.3.0.55.lang.utf8:1792
+msgid "Add to Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:114
+msgid "Close Results Tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:120
+msgid "Start Chat with"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:122
+msgid "Open Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:123
+#: 1.3.0.55.lang.utf8:1405
+msgid "Quit"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:124
+#: 1.3.0.55.lang.utf8:134
+#: 1.3.0.55.lang.utf8:140
+msgid "Not Connected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:125
+#: 1.3.0.55.lang.utf8:141
+msgid "Connecting"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:126
+msgid "Waiting to Connect"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:133
+msgid "Call with %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:135
+#: 1.3.0.55.lang.utf8:151
+msgid "Logging in"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:136
+msgid "Invalid Password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:137
+msgid "Could not Connect"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:138
+msgid "Skype Name Taken"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:139
+#: 1.3.0.55.lang.utf8:1085
+#: 1.3.0.55.lang.utf8:1486
+#: 1.3.0.55.lang.utf8:1650
+msgid "Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:149
+msgid "Call With %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:150
+msgid "Not connected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:152
+msgid "Invalid password            "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:153
+msgid "Could not connect"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:154
+#: 1.3.0.55.lang.utf8:208
+msgid "Skype Name is taken"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:155
+msgid "A new version (%s) of Skype is available (%s), would you like to upgrade?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:156
+msgid "A new version (%s) of Skype is available (%s), you will need to upgrade."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:157
+msgid "Are you sure you want to clear the selected Call List entries?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:158
+msgid "Are you sure you want to clear Call List?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:159
+msgid "You can select a Skype Name from the list to view the Call List for that person.  Or choose <All> to view the Call List for all users."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:160
+msgid "You have "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:161
+msgid "Call failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:162
+msgid "Reason unknown"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:163
+msgid "User not found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:164
+msgid "User not online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:165
+msgid "No proxies found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:166
+msgid "Session ended"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:167
+msgid "No common codec"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:168
+msgid "Problem with sound device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:169
+msgid "Problem with remote sound device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:170
+msgid "Ringing..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:171
+msgid "Cancel call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:172
+msgid "Skype Name not valid  %s!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:173
+msgid "No calls with this user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:174
+msgid "Skype Name Not Found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:175
+msgid "Profile for %s (%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:176
+msgid "Profile for %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:177
+msgid "Full Name:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:178
+msgid "Country/Region:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:179
+msgid "City:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:180
+msgid "Language:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:181
+msgid "State/Province:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:182
+msgid "Home Phone:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:183
+msgid "Office Phone:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:184
+msgid "Mobile Phone:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:185
+msgid "Homepage:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:186
+msgid "About Me:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:187
+msgid "E-mail:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:188
+msgid "Birthdate:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:189
+msgid "Sex:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:190
+msgid "Unable to Find '%s' "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:191
+msgid "Male"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:192
+msgid "Female"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:193
+#: 1.3.0.55.lang.utf8:195
+#: 1.3.0.55.lang.utf8:763
+#: 1.3.0.55.lang.utf8:1203
+#: 1.3.0.55.lang.utf8:1214
+msgid "Next >"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:194
+msgid "< Back"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:196
+#: 1.3.0.55.lang.utf8:254
+#: 1.3.0.55.lang.utf8:318
+#: 1.3.0.55.lang.utf8:516
+#: 1.3.0.55.lang.utf8:539
+#: 1.3.0.55.lang.utf8:544
+#: 1.3.0.55.lang.utf8:764
+#: 1.3.0.55.lang.utf8:807
+#: 1.3.0.55.lang.utf8:1004
+#: 1.3.0.55.lang.utf8:1077
+#: 1.3.0.55.lang.utf8:1186
+#: 1.3.0.55.lang.utf8:1215
+#: 1.3.0.55.lang.utf8:1349
+#: 1.3.0.55.lang.utf8:1358
+#: 1.3.0.55.lang.utf8:1426
+#: 1.3.0.55.lang.utf8:1801
+msgid "Cancel"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:197
+msgid "Create Account"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:198
+msgid "Log in to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:199
+msgid "Login to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:200
+msgid "Create a new Skype account"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:202
+#: 1.3.0.55.lang.utf8:1200
+msgid "Logging in..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:203
+msgid "Creating Skype Name..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:204
+msgid "Passwords do not match"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:205
+msgid "Skype Name is too short"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:206
+#: 1.3.0.55.lang.utf8:615
+#: 1.3.0.55.lang.utf8:1243
+msgid "Invalid Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:207
+msgid "Unable to connect"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:209
+msgid "Action cancelled "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:210
+msgid "Action timed out"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:211
+msgid "Invalid Skype Name or password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:212
+msgid "Existing Users - Log in to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:213
+msgid "New Users - Create a Skype Account"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:214
+msgid "Enter Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:215
+msgid "Choose Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:216
+#: 1.3.0.55.lang.utf8:240
+#: 1.3.0.55.lang.utf8:391
+#: 1.3.0.55.lang.utf8:462
+#: 1.3.0.55.lang.utf8:1430
+msgid "Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:218
+msgid "Repeat Password "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:219
+msgid "Your E-mail Address"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:220
+msgid "Between 6 and 32 characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:221
+msgid "Between 4 and 20 characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:222
+msgid "Important Note: Please enter your valid email address or else we will be unable to send you your password if you forget it!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:223
+msgid "Forgot your password?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:224
+msgid "Skype End User Licence Agreement"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:225
+msgid "Please contact me about new features, services and other Skype related information."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:226
+msgid "Yes, I have read and I accept the "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:227
+#: 1.3.0.55.lang.utf8:1015
+msgid "No Answer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:228
+msgid "© 2003-2005 Skype Technologies S.A."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:229
+msgid "Protected by International Laws. All Rights Reserved."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:237
+msgid "Invalid e-mail address"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:238
+msgid "%d Users Online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:239
+msgid " My Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:241
+#: 1.3.0.55.lang.utf8:398
+#: 1.3.0.55.lang.utf8:463
+#: 1.3.0.55.lang.utf8:1431
+#: 1.3.0.55.lang.utf8:1895
+msgid "Full Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:242
+#: 1.3.0.55.lang.utf8:399
+#: 1.3.0.55.lang.utf8:637
+msgid "Birthdate"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:243
+#: 1.3.0.55.lang.utf8:393
+#: 1.3.0.55.lang.utf8:464
+msgid "Sex"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:244
+#: 1.3.0.55.lang.utf8:400
+#: 1.3.0.55.lang.utf8:466
+msgid "Language"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:245
+#: 1.3.0.55.lang.utf8:394
+#: 1.3.0.55.lang.utf8:465
+#: 1.3.0.55.lang.utf8:1432
+#: 1.3.0.55.lang.utf8:1896
+msgid "Country/Region"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:246
+#: 1.3.0.55.lang.utf8:1825
+msgid "State/Province"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:247
+#: 1.3.0.55.lang.utf8:396
+#: 1.3.0.55.lang.utf8:468
+#: 1.3.0.55.lang.utf8:1897
+msgid "City"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:248
+msgid "Office phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:249
+msgid "Mobile phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:250
+#: 1.3.0.55.lang.utf8:1433
+#: 1.3.0.55.lang.utf8:1898
+msgid "E-mail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:251
+#: 1.3.0.55.lang.utf8:397
+msgid "Homepage"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:253
+msgid "Update"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:255
+#: 1.3.0.55.lang.utf8:1676
+msgid "General"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:256
+msgid "Personal"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:257
+msgid "Call Alerts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:258
+#: 1.3.0.55.lang.utf8:1681
+msgid "Privacy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:259
+msgid "Chat Alerts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:260
+msgid "Firewall"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:261
+msgid "Sounds"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:262
+#: 1.3.0.55.lang.utf8:1673
+msgid "Advanced"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:263
+msgid "When I double-click on Contact or use the address field "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:264
+msgid "Show me as 'Away' when inactive for"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:265
+#: 1.3.0.55.lang.utf8:267
+msgid "minutes"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:266
+msgid "Show me as 'Not Available' when inactive for "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:268
+msgid "While in a chat, pressing 'Enter' will "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:269
+msgid "Start Skype when I start Windows"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:270
+msgid "Check for updates automatically"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:271
+msgid "Start call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:272
+msgid "Start chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:273
+#: 1.3.0.55.lang.utf8:484
+#: 1.3.0.55.lang.utf8:842
+#: 1.3.0.55.lang.utf8:932
+msgid "Send chat message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:274
+msgid "Insert a line break"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:275
+msgid "Go to my Skype Account Page"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:276
+msgid "Edit my Skype profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:280
+msgid "Do not show me in the Skype directory"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:281
+msgid "Only allow calls from my Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:282
+msgid "Only allow chats from my Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:283
+msgid "Ignore these people"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:284
+msgid "Do not show others when I am typing chat messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:285
+msgid "When a Contact calls me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:286
+msgid "When someone not in my Contact List calls me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:287
+#: 1.3.0.55.lang.utf8:290
+msgid "Pop up main window with call "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:288
+#: 1.3.0.55.lang.utf8:291
+msgid "Play ringtone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:289
+#: 1.3.0.55.lang.utf8:292
+msgid "Automatically answer call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:293
+msgid "When a Contact sends me a chat message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:294
+msgid "When someone not in my Contact List sends me a chat message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:295
+msgid "Pop up chat window"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:296
+#: 1.3.0.55.lang.utf8:299
+msgid "Flash icon in the Taskbar"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:297
+#: 1.3.0.55.lang.utf8:300
+msgid "Sound alert"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:298
+msgid "Pop up 'Chat' window"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:301
+msgid "Calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:304
+msgid "Play sound when a Contact is calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:305
+msgid "Play sound when someone who is not in my Contact List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:306
+msgid "Play sound when I put someone on hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:307
+msgid "Play sound when the other party hangs up"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:308
+msgid "Play sound when a chat message is received"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:309
+msgid "Play sound when contacts come online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:310
+msgid "Play sound when contacts go offline"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:311
+msgid "Open popup for all incoming chat messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:312
+msgid "Do not minimize/close to system tray"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:313
+msgid "Open call tab for all incoming calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:314
+msgid "Show icons in the context menu items"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:315
+msgid "Close call tab after a completed call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:316
+msgid "Actively check Contacts online status"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:317
+msgid "Save"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:319
+msgid " - Options"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:320
+msgid "Type Skype Name or number with country code"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:321
+msgid "You will only see these call alerts if you have enabled incoming calls from people not in your Contact List under privacy options."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:322
+#: 1.3.0.55.lang.utf8:323
+#: 1.3.0.55.lang.utf8:1079
+#: 1.3.0.55.lang.utf8:1080
+msgid "%s is Calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:324
+msgid "Answer Call From %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:325
+msgid "Send Busy Signal to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:326
+msgid "Cancel Calling %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:327
+#: 1.3.0.55.lang.utf8:328
+msgid "Calling %s..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:329
+msgid "Ignore Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:330
+#: 1.3.0.55.lang.utf8:446
+#: 1.3.0.55.lang.utf8:451
+#: 1.3.0.55.lang.utf8:456
+msgid "Ignore"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:331
+msgid "Report a Problem"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:332
+msgid "Copyright 2003-2005 Skype Technologies S.A."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:333
+msgid "Patents Pending, Skype Technologies S.A."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:334
+msgid "The \"Skype\" name, logo and the \"S\" symbol are trademarks of Skype Technologies S.A."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:335
+msgid "Portions Copyright © 2001-2005 Joltid ™ Limited. All rights reserved."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:336
+msgid "Patents Pending, Joltid Limited. www.joltid.com"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:337
+msgid "Portions Copyright © 1999-2005 Global IP Sound AB. All rights reserved."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:338
+msgid "Global IP Sound, GIPS, SoundWare, NetEQ, iPCM, iLBC, GIPS VoiceEngine, and"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:339
+msgid "associated design marks and logos are trademarks owned or used under license by "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:340
+msgid "Global IP Sound AB, and may be registered in the United States and other countries"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:341
+msgid "Patents and Patents Pending, Global IP Sound AB - www.globalipsound.com"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:342
+msgid "Warning: This program is protected by copyright law and international treaties."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:343
+#: 1.3.0.55.lang.utf8:344
+msgid "Unauthorized reproduction or distribution of this program, or any portions of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:346
+msgid "Home phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:348
+msgid "Authorization Waiting"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:349
+msgid "Authorizations Waiting"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:350
+msgid "Missed authorization message(s) from %s, click here to open"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:352
+msgid "Resume call with %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:354
+msgid "Call on hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:355
+msgid "Calls on hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:356
+msgid "Call with %s on hold.  Click here to resume."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:357
+msgid "Could not connect to server"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:358
+#: 1.3.0.55.lang.utf8:390
+#: 1.3.0.55.lang.utf8:653
+msgid "Search for Skype Users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:359
+msgid "Call on Hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:360
+msgid "Other Party Held the Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:361
+msgid "Hold the Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:362
+msgid "Resume the Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:363
+#: 1.3.0.55.lang.utf8:364
+#: 1.3.0.55.lang.utf8:365
+msgid "Search for Skype users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:367
+msgid "Error: You already have a call in progress"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:368
+msgid "You already have a call in progress, do you want to hold it and resume currently selected call?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:369
+msgid "Answer call from %s and place %s on hold?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:370
+msgid "Do you want to hold current call with %s and initiate a new call with %s?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:371
+msgid "Close All Call Tabs"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:372
+msgid "Pending Authorization"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:382
+msgid "wants to add you to His/Her Contact List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:383
+msgid "Add %s to my Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:389
+msgid "Confirm"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:392
+msgid "E-mail Address"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:395
+#: 1.3.0.55.lang.utf8:467
+msgid "State"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:401
+#: 1.3.0.55.lang.utf8:469
+msgid "Home Phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:402
+#: 1.3.0.55.lang.utf8:470
+msgid "Office Phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:403
+#: 1.3.0.55.lang.utf8:471
+msgid "Mobile Phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:405
+msgid "Look for"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:406
+msgid "Fill in as many or as few fields as you like"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:407
+#: 1.3.0.55.lang.utf8:1579
+msgid "Search"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:408
+#: 1.3.0.55.lang.utf8:1059
+msgid "Clear"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:409
+msgid "Advanced >>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:410
+msgid "<< Advanced"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:411
+msgid "Call the selected Skype user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:412
+msgid "View the profile of the selected Skype user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:413
+msgid "Add the selected Skype user to Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:414
+msgid "There were no results for %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:415
+msgid "No Results.  Please Try Again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:416
+msgid "Invite someone to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:417
+msgid "Invite %s to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:418
+msgid "Type in name, e-mail, Skype Name or other information and click on Search"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:419
+msgid "Order By"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:420
+msgid "Display Columns"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:421
+msgid "%s (%s) Skype Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:422
+msgid "View the Skype profile for %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:423
+msgid "Click this button to select Contacts and send them to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:424
+msgid "Click this button to call %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:426
+msgid "Chat with %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:427
+msgid "This chat message is encrypted"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:428
+msgid "My Picture"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:429
+msgid "Upload New"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:430
+msgid "Change..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:431
+#: 1.3.0.55.lang.utf8:1684
+msgid "Sound Alerts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:433
+msgid "Automatically pop up incoming authorization request window"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:434
+msgid "Allow simultaneous calls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:435
+msgid "Sound to play if a Contact is calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:436
+msgid "Sound to play if someone not in Contacts is calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:437
+msgid "Sound to play if I call someone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:438
+msgid "Sound to play if a call is put on hold, resumed or disconnected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:439
+msgid "Browse..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:440
+#: 1.3.0.55.lang.utf8:1914
+#: 1.3.0.55.lang.utf8:1915
+msgid "My Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:441
+msgid "The following information is searchable in the Skype Directory.  In order for others to find you, we recommend that you fill in as many fields as possible.  Your e-mail address will not be visible to others."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:442
+msgid "Search for Skype Users..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:444
+#: 1.3.0.55.lang.utf8:454
+msgid "Call Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:447
+#: 1.3.0.55.lang.utf8:458
+#: 1.3.0.55.lang.utf8:1727
+msgid "Resume"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:448
+#: 1.3.0.55.lang.utf8:457
+#: 1.3.0.55.lang.utf8:1726
+msgid "Hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:452
+msgid "End call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:461
+msgid "Play sound when a held call is resumed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:472
+msgid "Home Page"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:474
+msgid "You have not yet added anyone to your Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:475
+#: 1.3.0.55.lang.utf8:478
+msgid "Click here for advanced search"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:476
+msgid "There are no calls in your Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:477
+msgid "There were no results found.  Please try your search again."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:479
+#: 1.3.0.55.lang.utf8:1621
+msgid "Click here to search for Skype users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:480
+msgid "This shows the total number of users currently online in the Skype network"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:481
+msgid "Click here to send a Chat Message to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:482
+msgid "Show time with chat messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:483
+msgid "Type the Skype Name or number with country code, example +1 555 555 1234"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:487
+msgid "View User Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:488
+msgid "Send a Chat Message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:489
+msgid "Simultaneous calls are not yet available but stay tuned"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:490
+msgid "Enter new name for "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:491
+msgid " Rename "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:492
+msgid "Do not ask me again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:493
+msgid "Yes"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:494
+#: 1.3.0.55.lang.utf8:496
+#: 1.3.0.55.lang.utf8:502
+msgid "&Cancel"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:495
+#: 1.3.0.55.lang.utf8:501
+#: 1.3.0.55.lang.utf8:1076
+#: 1.3.0.55.lang.utf8:1317
+#: 1.3.0.55.lang.utf8:1334
+#: 1.3.0.55.lang.utf8:1800
+#: 1.3.0.55.lang.utf8:1815
+msgid "OK"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:497
+#: 1.3.0.55.lang.utf8:983
+#: 1.3.0.55.lang.utf8:1908
+msgid "Request Authorization"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:498
+#: 1.3.0.55.lang.utf8:1222
+msgid "Send a message to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:499
+msgid "%s will see this message when your request is sent"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:500
+msgid "Please allow me to see when you are online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:503
+#: 1.3.0.55.lang.utf8:985
+msgid "Authorize this user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:504
+#: 1.3.0.55.lang.utf8:505
+#: 1.3.0.55.lang.utf8:1468
+msgid "Searching..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:506
+#: 1.3.0.55.lang.utf8:1757
+msgid "Information"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:507
+msgid "Do not display this information again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:508
+msgid "Cannot send request to %s. The recipient may be offline but your request will be resent"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:509
+msgid "You will only see these alerts if you have enabled incoming Chats from people not in your Contacts List under privacy options"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:510
+msgid "and"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:511
+#: 1.3.0.55.lang.utf8:1685
+msgid "Change Password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:512
+msgid "Enter old password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:513
+msgid "Enter new password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:514
+msgid "Confirm new password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:515
+#: 1.3.0.55.lang.utf8:733
+msgid "Apply"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:517
+msgid "The password length should be between %d-%d characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:518
+msgid "The new password length should be between %d-%d characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:519
+msgid "The password confirmation field should be between %d-%d characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:520
+msgid "The passwords don't match. Please re-enter your new password and password confirmation again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:521
+msgid "Password Changing"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:522
+msgid "The old password you entered is invalid.  Please try again."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:523
+msgid "Unable to change password due to connection problems"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:524
+msgid "Your password was changed successfully. New changes will take effect the next time you log in."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:525
+#: 1.3.0.55.lang.utf8:532
+#: 1.3.0.55.lang.utf8:753
+#: 1.3.0.55.lang.utf8:844
+#: 1.3.0.55.lang.utf8:1161
+#: 1.3.0.55.lang.utf8:1305
+msgid "Send Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:526
+msgid "Send contacts to "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:527
+msgid "(Use a \"%s\" between multiple recipients)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:528
+msgid "All Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:529
+msgid "Contacts to send"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:530
+msgid "Sending contact list to %s ..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:531
+msgid "%d contacts were sent,%d failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:533
+msgid "Unable to send contacts to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:534
+msgid "Do you really want to cancel sending contacts?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:535
+msgid "Preparing contact %d from %d"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:536
+#: 1.3.0.55.lang.utf8:1121
+#: 1.3.0.55.lang.utf8:1510
+#: 1.3.0.55.lang.utf8:1575
+#: 1.3.0.55.lang.utf8:1730
+msgid "Add"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:537
+#: 1.3.0.55.lang.utf8:1122
+#: 1.3.0.55.lang.utf8:1335
+msgid "Remove"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:538
+#: 1.3.0.55.lang.utf8:1357
+#: 1.3.0.55.lang.utf8:1428
+#: 1.3.0.55.lang.utf8:1812
+msgid "Send"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:540
+msgid "Incoming Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:542
+msgid "You have received contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:543
+msgid "Add selected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:545
+msgid " Change Password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:547
+msgid "All calls will be closed. Continue?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:548
+msgid "Yesterday"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:549
+msgid "Today"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:550
+msgid "Tomorrow"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:551
+msgid "Duration "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:552
+msgid "You cannot send Contacts to yourself"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:553
+msgid "The password you have entered is too short"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:554
+msgid "The password you have entered contains invalid characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:556
+msgid "Contact List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:557
+msgid "Contact Lists"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:558
+msgid "Missed contact list from %s, click here to open"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:560
+#: 1.3.0.55.lang.utf8:561
+#: 1.3.0.55.lang.utf8:562
+#: 1.3.0.55.lang.utf8:563
+msgid "Display notification in the system tray"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:564
+msgid "All countries / regions"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:565
+msgid "All languages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:566
+#: 1.3.0.55.lang.utf8:1141
+msgid "All"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:567
+#: 1.3.0.55.lang.utf8:568
+msgid "%s is calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:569
+#: 1.3.0.55.lang.utf8:570
+msgid "Chat Message from %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:571
+msgid "authorization request from %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:572
+msgid "contacts from %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:573
+msgid "Missed contact list from "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:574
+#: 1.3.0.55.lang.utf8:577
+#: 1.3.0.55.lang.utf8:581
+msgid ", click here to open"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:575
+msgid "contacts in list"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:576
+msgid "Missed authorization message(s) from "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:578
+msgid "Call with"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:579
+msgid " on hold, click here to resume"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:580
+msgid "Missed Chat Messages from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:582
+msgid "Missed call from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:583
+msgid ", click here to view Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:584
+msgid "call(s), last at "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:585
+#: 1.3.0.55.lang.utf8:1674
+msgid "Connection"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:586
+msgid "Use port"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:587
+msgid "for incoming connections"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:588
+msgid "Use port 80 and 443 as alternatives for incoming connections"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:589
+msgid "Invalid port"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:590
+msgid "Your changes will be applied the next time you start Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:591
+msgid "This feature is not yet available in Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:592
+msgid "Setting sound devices failed, please review settings."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:593
+msgid "Windows default device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:594
+#: 1.3.0.55.lang.utf8:1675
+msgid "Sound Devices"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:595
+msgid "Audio In"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:596
+msgid "Audio Out"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:597
+msgid "Ringing"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:598
+msgid "USB Device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:599
+msgid "Disable Skype support for USB devices"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:602
+#: 1.3.0.55.lang.utf8:1952
+msgid "Choose another password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:603
+#: 1.3.0.55.lang.utf8:604
+msgid "%s says: "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:605
+msgid "System Message: "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:606
+msgid "Unable to send previous message, the user is probably disconnected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:607
+msgid "Unable to send message "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:608
+msgid "Click this button to block %s from contacting you in the future"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:609
+msgid "Clear Chat History with this user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:610
+msgid "View Chat History with this user (Chat history will open your default web browser)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:611
+msgid "Incoming, outgoing and system messages are displayed here"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:612
+msgid "Enter message text here"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:613
+msgid "Open Search window in advanced mode"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:614
+msgid "Skype Name must start with a Latin letter."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:616
+msgid "Close call tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:617
+msgid "Associate Skype with callto: links"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:618
+msgid "always on startup, silently"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:619
+msgid "always on startup, ask user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:620
+msgid "never"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:621
+msgid "Skype is not set as the default callto link. Set it now?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:622
+msgid "Copy Selection"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:623
+#: 1.3.0.55.lang.utf8:1422
+#: 1.3.0.55.lang.utf8:1636
+msgid "Select All"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:624
+msgid "Turn off USB Phone LED if handset is standing by"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:625
+msgid "English"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:626
+msgid " Set Speed Dial Key"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:627
+msgid "Enter new speed dial key for "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:628
+msgid "Duplicate speed dial keys are not allowed!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:629
+msgid "This call is end-to-end encrypted"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:630
+#: 1.3.0.55.lang.utf8:634
+msgid "No Contacts?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:631
+msgid "You can search for Contacts using Search.  Click the add button to add them to your Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:632
+msgid "Found nothing?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:633
+msgid "Try changing your search criteria."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:635
+msgid "To add or call Contacts, type a Skype Name in the address field below and press Enter, then select the user from the list and right-click to call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:636
+msgid "Registry access denied, cannot set Skype as callto: handler"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:638
+msgid "About Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:639
+msgid "There are no recording devices available for Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:640
+msgid "There are no playback devices available for Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:641
+msgid "There is a problem with your audio device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:642
+#: 1.3.0.55.lang.utf8:870
+#: 1.3.0.55.lang.utf8:871
+#: 1.3.0.55.lang.utf8:882
+#: 1.3.0.55.lang.utf8:883
+#: 1.3.0.55.lang.utf8:903
+#: 1.3.0.55.lang.utf8:904
+#: 1.3.0.55.lang.utf8:905
+#: 1.3.0.55.lang.utf8:906
+#: 1.3.0.55.lang.utf8:907
+#: 1.3.0.55.lang.utf8:909
+#: 1.3.0.55.lang.utf8:910
+#: 1.3.0.55.lang.utf8:911
+#: 1.3.0.55.lang.utf8:912
+#: 1.3.0.55.lang.utf8:913
+#: 1.3.0.55.lang.utf8:914
+#: 1.3.0.55.lang.utf8:918
+#: 1.3.0.55.lang.utf8:919
+#: 1.3.0.55.lang.utf8:920
+#: 1.3.0.55.lang.utf8:921
+msgid "Warning"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:643
+#: 1.3.0.55.lang.utf8:1677
+msgid "Hotkeys"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:644
+msgid "Disable Hotkey"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:645
+msgid "Enable Hotkey"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:646
+msgid "Enable global hotkeys"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:647
+msgid "Pressing Alt-S will send Chat Message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:648
+msgid "Change Hotkey"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:649
+msgid "Answer call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:650
+msgid "Ignore call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:651
+msgid "Reject/Hang up call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:652
+msgid "Focus Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:654
+msgid "Set hotkey for %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:655
+msgid "The hotkey for %s is probably used by another application and will be disabled for Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:656
+msgid "Manage Blocked Users..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:657
+msgid "%s is already blocked!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:658
+msgid "Are you sure you want to block \"%s\"?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:659
+msgid "Block user"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:660
+#: 1.3.0.55.lang.utf8:661
+#: 1.3.0.55.lang.utf8:662
+msgid "Block This User"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:663
+msgid "Are you sure you want to add %s to your block list?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:664
+msgid "Reset"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:665
+msgid "User Blocked!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:666
+msgid "Unable to load Chat History template"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:667
+#: 1.3.0.55.lang.utf8:695
+#: 1.3.0.55.lang.utf8:742
+msgid "Unblock User"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:669
+msgid "Unmute Microphone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:670
+msgid "Enable"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:671
+#: 1.3.0.55.lang.utf8:685
+msgid "Disable"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:672
+msgid "Enabled"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:673
+#: 1.3.0.55.lang.utf8:1710
+msgid "Disabled"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:674
+msgid "Skype language files"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:675
+msgid "Error (%d) loading language file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:676
+msgid "Action"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:677
+#: 1.3.0.55.lang.utf8:1060
+msgid "Status"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:678
+msgid "Hotkey"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:682
+msgid "Conflicted"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:683
+msgid "Sound to play for busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:684
+msgid "Languages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:686
+#: 1.3.0.55.lang.utf8:1635
+msgid "Delete"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:687
+#: 1.3.0.55.lang.utf8:734
+msgid "Load"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:688
+msgid "Enable user-defined languages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:689
+msgid "Send message to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:690
+msgid "Are you sure you want to clear your Chat History with this user?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:691
+msgid "%d contact sent,%d failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:692
+msgid "Unable to send contact to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:693
+msgid "Manage blocked users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:694
+msgid "Enable Chat History"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:696
+#: 1.3.0.55.lang.utf8:697
+msgid "View Chat History"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:698
+msgid "Show Offline Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:699
+msgid "Your status is set to 'Do Not Disturb'.  In this mode, you will not receive any notifications about incoming calls or messages."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:700
+msgid "Unable to convert Chat History to HTML file!|Chat History will not be available."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:701
+#: 1.3.0.55.lang.utf8:1874
+msgid "Pending authorization"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:706
+msgid "Not available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:708
+#: 1.3.0.55.lang.utf8:899
+#: 1.3.0.55.lang.utf8:900
+#: 1.3.0.55.lang.utf8:1706
+msgid "Blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:709
+msgid "Chat style to use"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:710
+msgid "Skype Default"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:711
+msgid "IRC-like style"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:712
+msgid "History on"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:713
+msgid "History off"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:714
+#: 1.3.0.55.lang.utf8:716
+msgid "Chat History is enabled | You can change this under Skype Options"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:715
+#: 1.3.0.55.lang.utf8:717
+msgid "Chat History is disabled | You can change this under Skype Options"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:718
+msgid "Cannot block yourself!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:719
+msgid "Edit Skype Language File..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:720
+msgid " (user-defined)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:721
+msgid "Load Skype Language File..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:722
+msgid "Log Off"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:723
+msgid "Click here to log in"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:724
+msgid "Log this user on automatically"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:725
+msgid "Store my Contacts && Call/IM history on this computer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:726
+msgid "Cancel current call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:728
+msgid "Please help us to improve Skype by reporting this error to us. The error report will be completely anonymous and we will only use the information provided to improve Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:729
+msgid "Please provide any additional information you think may help us to resolve this issue:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:730
+msgid "View contents of error report and additional information"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:731
+msgid "Skype UI Text Editor"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:732
+#: 1.3.0.55.lang.utf8:1184
+msgid "Save As..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:735
+msgid "The language file has been modified since the last save. Do you want to proceed (losing changes) or cancel?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:736
+#: 1.3.0.55.lang.utf8:1096
+msgid "No"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:737
+msgid "Comment"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:738
+msgid "Original"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:739
+msgid "Current"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:740
+#: 1.3.0.55.lang.utf8:1099
+msgid "Manage Blocked Users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:744
+msgid "Send Error Report"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:745
+msgid "Error Report Details"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:746
+msgid "A critical error has occurred"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:747
+msgid "This is being sent to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:748
+msgid "Remember my password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:749
+msgid "Auto-Pause Winamp"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:751
+msgid "Ring PC speaker"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:752
+msgid "Assign Speed-Dial"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:754
+msgid "Add a Contact..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:755
+#: 1.3.0.55.lang.utf8:756
+#: 1.3.0.55.lang.utf8:765
+#: 1.3.0.55.lang.utf8:772
+#: 1.3.0.55.lang.utf8:779
+#: 1.3.0.55.lang.utf8:786
+#: 1.3.0.55.lang.utf8:825
+#: 1.3.0.55.lang.utf8:1131
+#: 1.3.0.55.lang.utf8:1966
+#: 1.3.0.55.lang.utf8:1967
+msgid "Add a Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:757
+msgid "Enter the Skype Name or telephone number you wish to add"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:758
+msgid "Ex: mike1234 or +12125551212"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:759
+msgid "Allow this user to see when you are online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:760
+msgid "Search for people if you don't know their Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:762
+#: 1.3.0.55.lang.utf8:769
+#: 1.3.0.55.lang.utf8:776
+#: 1.3.0.55.lang.utf8:783
+#: 1.3.0.55.lang.utf8:792
+#: 1.3.0.55.lang.utf8:1136
+#: 1.3.0.55.lang.utf8:1148
+#: 1.3.0.55.lang.utf8:1213
+msgid "< Previous"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:766
+msgid "Contact was added!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:768
+#: 1.3.0.55.lang.utf8:1135
+#: 1.3.0.55.lang.utf8:1147
+msgid "Call %s now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:770
+#: 1.3.0.55.lang.utf8:777
+#: 1.3.0.55.lang.utf8:784
+#: 1.3.0.55.lang.utf8:793
+#: 1.3.0.55.lang.utf8:1137
+#: 1.3.0.55.lang.utf8:1149
+#: 1.3.0.55.lang.utf8:1216
+#: 1.3.0.55.lang.utf8:1429
+msgid "Finish"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:773
+msgid "Your Contact was added!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:774
+msgid "%s was added to your Contacts, even though the Skype Name was not found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:775
+msgid "The Skype Name does not exist or this person has not been online for a long time"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:780
+msgid "This Contact was not added"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:782
+msgid "Edit your list of blocked users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:787
+msgid "The Contact was not added"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:795
+msgid "Waiting to send..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:796
+msgid "Sending..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:797
+msgid "Completed, %d contact(s) sent , %d failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:798
+msgid "Skype cannot be started (#%d) "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:799
+msgid "Internal fatal error occurred, please report this problem to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:800
+msgid "Could not connect to registration server (#%d)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:801
+msgid "Skype was not able to connect to our registration server. You may be behind a corporate firewall or proxy that is blocking your access to the Internet. Please check with your system administrator or try again later"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:802
+msgid "Could not connect to Skype network (#%d)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:803
+msgid "Skype was not able to connect to the Skype p2p network. You may be behind a corporate firewall or proxy that is blocking your access to the Internet. Please check with your system administrator or try again later."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:804
+msgid "Connection timed out (#%d)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:805
+msgid "Skype was not able to connect to our registration server. You may be behind a corporate firewall or proxy that is blocking your access to the Internet. Please check with your system administrator or try again later."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:806
+msgid "The following data will be sent to Skype:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:808
+msgid "Displaying %d match(es)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:809
+msgid "Show %d more match(es)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:810
+msgid " or "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:811
+msgid "Read more about searches and search criteria here :|"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:812
+msgid "searches and search criteria"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:813
+msgid ".For a more specific search you can use "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:814
+msgid "advanced search "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:815
+msgid "add more search criteria"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:816
+msgid "To refine search "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:817
+#: 1.3.0.55.lang.utf8:818
+msgid "Not logged in"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:819
+msgid "All open calls will be closed, would you like to continue?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:820
+msgid "not-a-contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:821
+msgid "not-authorized-to-call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:822
+msgid "This is the port that Skype uses to listen for incoming communications from other Skype users (assuming your firewall does not block them). In addition, Skype will send out outgoing UDP packets from this port. Note that this setting does not affect outgoing communications  -- i.e. your ability to connect to other Skype users and the Skype network."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:823
+msgid "Remove %s from Contacts?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:824
+msgid "Resume the conference call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:826
+msgid "Click here to start a conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:827
+msgid "Click here to send contacts to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:828
+msgid "Invite selected Contacts to a conference call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:829
+msgid "Add selected person(s) to the current conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:830
+msgid "Log in"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:831
+#: 1.3.0.55.lang.utf8:832
+#: 1.3.0.55.lang.utf8:940
+msgid "End the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:833
+msgid "Hold Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:834
+msgid "Resume Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:835
+msgid "Resume Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:837
+msgid "Conference duration  "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:838
+#: 1.3.0.55.lang.utf8:1016
+#: 1.3.0.55.lang.utf8:1017
+#: 1.3.0.55.lang.utf8:1018
+msgid "Invite to Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:839
+msgid "Create Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:840
+msgid "The action you attempted is not possible because you have blocked the other party"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:841
+msgid "The call has been held by the other party and cannot be resumed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:846
+msgid "Unable to send message, misc error - Unable to send message due to connection problem. Message will be resent when a connection can be established"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:847
+msgid "Unable to send message, user not found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:848
+msgid "Unable to send message, user not online - message will be sent next time you are both online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:849
+msgid "Unable to send message, user blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:850
+msgid "Unable to send message, internal error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:851
+msgid "Unable to send message, privacy error - you are not in this users Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:852
+msgid "Unable to send message, privacy error - you have not been authorized by this person"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:853
+msgid "End the conference, are you sure?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:854
+msgid "Allow calls from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:855
+msgid "anyone can call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:856
+msgid "only people from my Contacts can call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:857
+msgid "only people whom I have authorized can call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:858
+msgid "Allow chats from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:859
+msgid "anyone can start chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:860
+msgid "only people from my Contacts can start chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:861
+msgid "only people whom I have authorized can start chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:862
+msgid "Display technical call info"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:863
+msgid "Only store last 48 hours of Call List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:864
+msgid "Conference [%s]"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:865
+msgid "In progress"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:866
+#: 1.3.0.55.lang.utf8:869
+msgid "On hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:867
+msgid "Ringing .."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:868
+#: 1.3.0.55.lang.utf8:1078
+msgid "Connecting .."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:872
+#: 1.3.0.55.lang.utf8:873
+msgid "Quit Skype?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:874
+#: 1.3.0.55.lang.utf8:875
+msgid "Remove Contact?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:876
+#: 1.3.0.55.lang.utf8:877
+msgid "Close all Calls?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:878
+#: 1.3.0.55.lang.utf8:879
+msgid "Upgrade Available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:880
+#: 1.3.0.55.lang.utf8:881
+msgid "Upgrade"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:884
+#: 1.3.0.55.lang.utf8:885
+#: 1.3.0.55.lang.utf8:886
+#: 1.3.0.55.lang.utf8:887
+msgid "Clear Call List?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:890
+#: 1.3.0.55.lang.utf8:891
+msgid "Block User?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:892
+#: 1.3.0.55.lang.utf8:893
+msgid "Associate with Callto"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:894
+#: 1.3.0.55.lang.utf8:895
+msgid "Hold Call?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:896
+msgid "You already have an active call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:897
+#: 1.3.0.55.lang.utf8:988
+msgid "Confirmation"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:898
+msgid "End Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:901
+#: 1.3.0.55.lang.utf8:902
+msgid "Call is Held"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:908
+msgid "User Already Blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:915
+msgid "Error %s|Cannot load custom language file!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:922
+msgid "%s has sent you following %d contact(s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:923
+msgid "%s was added to your Contacts!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:924
+msgid "%s is blocked and was not added."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:925
+msgid "%s is already in your Contacts and was not added again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:927
+msgid "Send a Chat Message to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:928
+msgid "See profile for %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:929
+msgid "%s has sent you following %s contact(s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:930
+msgid "Conference hosted by"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:931
+msgid "last seen:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:935
+msgid "You have been added to the Contact list"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:936
+msgid "Show more results"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:937
+msgid "(%d shown)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:938
+#: 1.3.0.55.lang.utf8:939
+msgid "Resume the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:941
+msgid "Leave the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:942
+#: 1.3.0.55.lang.utf8:943
+msgid "Hold the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:944
+msgid "Reject conference invite"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:945
+msgid "Ignore conference invite"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:946
+msgid "This can be due to the fact that the other person is calling you at the moment.  Please try again later."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:947
+msgid "Error!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:948
+msgid "Cannot place a call!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:949
+msgid "Answer conference call from %s and place %s on hold?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:950
+msgid "Answer call from %s and place conference with %s on hold?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:951
+msgid "Answer conference call from %s and place conference with %s on hold?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:952
+msgid "conference with "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:953
+msgid "Conference with "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:954
+msgid "Conference call "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:955
+#: 1.3.0.55.lang.utf8:956
+msgid "Conference call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:957
+msgid "Hang up on this participant"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:958
+msgid "In response to your request:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:959
+#: 1.3.0.55.lang.utf8:989
+#: 1.3.0.55.lang.utf8:1197
+#: 1.3.0.55.lang.utf8:1339
+msgid "What would you like to do?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:960
+msgid "Allow this person to see when you are online and contact you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:961
+msgid "Do not allow this person to see when you are online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:962
+msgid "Block this person from contacting you in the future"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:963
+msgid "Only the person hosting the conference can invite other participants!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:965
+msgid "Not a conference host!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:966
+msgid "The conference can only hold up to 5 participants including the conference host"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:968
+msgid "Too many participants"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:969
+#: 1.3.0.55.lang.utf8:970
+msgid "Busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:971
+#: 1.3.0.55.lang.utf8:1628
+msgid "Join Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:972
+msgid "Join the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:973
+msgid "Create conference with active call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:974
+msgid "Do you want to hold current conference call and initiate a new call with %s?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:975
+msgid "Join current call to the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:976
+msgid "Answer the call and join to the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:977
+msgid "Join current call to ongoing conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:978
+#: 1.3.0.55.lang.utf8:987
+msgid "Join current call to another call to create a conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:979
+msgid "Answer and join current call to the conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:980
+msgid "Answer and join current call to another call to create a conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:981
+msgid "Request authorization to see his/her status and allow this user to see when I am online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:982
+msgid "Request authorization to see his/her status but do not allow this user to see when I am online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:984
+msgid "Request Authorization from %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:986
+msgid "%s added you to their Contact List"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:990
+msgid "Create a Desktop Icon"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:991
+msgid "Create a Quick-Launch Icon"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:992
+msgid "Start Skype when the Computer Starts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:993
+msgid "Launch Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:994
+msgid "View Online Release Notes"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:995
+msgid "View Online Userguide"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:996
+#: 1.3.0.55.lang.utf8:997
+msgid "Start a Skype Conference Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:998
+msgid "Conference topic:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:999
+msgid "All Contacts:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1000
+msgid "Conference participants (max 4 + host):"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1001
+msgid "Add >>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1002
+msgid "<< Remove"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1005
+#: 1.3.0.55.lang.utf8:1006
+msgid "Skype Rocks ..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1007
+msgid "The Skype Name you entered is invalid!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1009
+msgid "Cannot Block"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1010
+msgid "Too many failed login attempts, wait 10 minutes to retry"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1011
+msgid "Cannot send contacts to %s -  the user is blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1012
+#: 1.3.0.55.lang.utf8:1013
+msgid "Recipient blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1014
+msgid "Finished"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1019
+msgid "Problem with recording device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1020
+msgid "Problem with playback device"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1021
+msgid "Enable automating sound device settings adjustment"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1022
+msgid " (refreshing ...)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1023
+msgid "Cannot send contacts to %s - Invalid Skype Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1026
+msgid "You have missed calls!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1027
+msgid "You have missed events displayed on start-tab!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1028
+msgid "Listen"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1029
+msgid "Stop playback"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1030
+#: 1.3.0.55.lang.utf8:1387
+msgid "Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1032
+msgid "new voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1033
+msgid "new voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1034
+msgid "New Voicemails from %s, Click Here to Listen"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1035
+msgid "New voicemail from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1036
+msgid ", click here to listen"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1037
+msgid "Voicemail(s), last at "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1038
+msgid "Create Conference..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1039
+msgid "The number you tried to dial was not entered correctly. You must dial + and then the country code and number you wish to call. Example: +1 212 555 1212"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1040
+msgid "Your Account"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1041
+#: 1.3.0.55.lang.utf8:1274
+msgid "Your SkypeOut account is active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1042
+#: 1.3.0.55.lang.utf8:1275
+#: 1.3.0.55.lang.utf8:1737
+#: 1.3.0.55.lang.utf8:1744
+#: 1.3.0.55.lang.utf8:1759
+msgid "Click here to go to your account page"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1043
+msgid "You Skype Plus subscription is active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1044
+msgid "Click here to renew subscription!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1045
+msgid "Internal error, please try again (#%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1046
+msgid "Out of credits"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1047
+msgid "You need SkypeOut to call to standard telephone numbers"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1048
+msgid "Not enough funds"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1049
+msgid "Another SkypeOut call is already active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1050
+msgid "Invalid password. Please log in again."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1051
+msgid "Invalid phone number (#%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1052
+msgid "Network error, please try again (#%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1053
+msgid "Please remember that a call to the public phone network is not free"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1054
+msgid "The call you made was shorter than %d seconds. You will not be charged for this call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1055
+msgid "Use the Dialpad and SkypeOut to call any phone in the world"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1056
+msgid "Busy (#%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1057
+msgid "You cannot use Skype to call any emergency services."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1058
+msgid "WARNING"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1061
+msgid "Dial"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1062
+msgid "Record"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1063
+msgid "Playback"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1064
+#: 1.3.0.55.lang.utf8:1123
+msgid "Set"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1065
+msgid "Reset to default welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1066
+msgid "Status:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1067
+msgid "Status message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1068
+#: 1.3.0.55.lang.utf8:1217
+#: 1.3.0.55.lang.utf8:1236
+msgid "Stop"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1069
+msgid "RECORDING"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1070
+msgid "RECORDED"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1071
+msgid "DOWNLOADING"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1072
+msgid "SET"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1073
+msgid "NOT SET"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1074
+msgid "PLAYING"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1075
+msgid "SENDING"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1081
+msgid "Invalid password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1082
+msgid "Home (%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1083
+msgid "Mobile (%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1084
+msgid "Office (%s)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1086
+msgid "View Dialpad"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1087
+msgid "SkypeOut contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1088
+msgid "Saving Skype user info..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1089
+msgid "Loading Skype user info..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1090
+msgid "Skype data file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1091
+msgid "All files"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1092
+msgid "All Contacts exported successfully"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1093
+msgid "All Contacts imported successfully"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1094
+msgid "One Contact was not imported"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1095
+msgid "Contacts were not imported"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1097
+#: 1.3.0.55.lang.utf8:1731
+msgid "Block"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1098
+msgid "Also remove him/her from Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1100
+msgid "Block this user:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1101
+msgid "Blocked users:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1102
+msgid "Export Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1103
+#: 1.3.0.55.lang.utf8:1420
+#: 1.3.0.55.lang.utf8:1590
+#: 1.3.0.55.lang.utf8:1903
+#: 1.3.0.55.lang.utf8:1927
+msgid "Import Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1104
+msgid "Smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1105
+msgid "Big smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1106
+msgid "Sad face"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1107
+msgid "Kiss"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1108
+msgid "Speechless smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1109
+msgid "Cool smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1110
+msgid "Surprised smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1111
+msgid "Smiley with tongue out"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1112
+msgid "Crying face"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1113
+msgid "Winking smiley"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1114
+msgid "Emoticons"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1115
+msgid "Choose your picture"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1116
+msgid "Show emoticons"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1117
+#: 1.3.0.55.lang.utf8:1118
+msgid "My Pictures"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1119
+msgid "This is your currently selected picture"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1120
+msgid "Select a picture from the list below and click \"Set\" to set it as your new picture"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1125
+msgid "The file you chose was invalid"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1126
+msgid "Are you sure you want to remove the picture from My Pictures? (Note that the picture is also removed from My Skype Pictures folder)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1127
+#: 1.3.0.55.lang.utf8:1128
+msgid "Removing Picture..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1129
+msgid "Available for random call/chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1130
+msgid "Search for people who are in 'Skype Me' mode"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1132
+msgid "Telephone number was added!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1133
+msgid "Success - you have entered the telephone number %s into your Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1134
+msgid "Now please enter a name for this contact and press Finish"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1139
+msgid "Invalid phone number (#6009)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1140
+msgid "Send to Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1142
+msgid "Age Range"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1143
+#: 1.3.0.55.lang.utf8:1176
+#: 1.3.0.55.lang.utf8:1198
+#: 1.3.0.55.lang.utf8:1467
+msgid " Status"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1144
+msgid "Add a contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1145
+msgid "Telephone number not added!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1146
+msgid "The telephone number %s you entered is already in your Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1151
+#: 1.3.0.55.lang.utf8:1152
+#: 1.3.0.55.lang.utf8:1153
+#: 1.3.0.55.lang.utf8:1154
+#: 1.3.0.55.lang.utf8:1155
+msgid "Skype Me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1156
+msgid "SkypeOut balance: %s %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1157
+msgid "You have 0 credits on your SkypeOut account"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1158
+msgid "50+"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1159
+msgid "Redial %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1160
+msgid "Go to My Account Page"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1162
+msgid "Visit"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1163
+msgid "Choose a file to send..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1164
+#: 1.3.0.55.lang.utf8:1166
+#: 1.3.0.55.lang.utf8:1355
+msgid "Sending file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1165
+#: 1.3.0.55.lang.utf8:1170
+msgid "Receiving file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1167
+msgid "Sending file. Done!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1168
+msgid "Sending file. Failed!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1169
+msgid "Sending file. Cancelled!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1171
+msgid "Receiving file. Done!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1172
+msgid "Receiving file. Failed!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1173
+msgid "Receiving file. Cancelled!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1174
+msgid "You are sending this file to %s:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1175
+msgid "%s is sending you this file:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1177
+msgid "Waiting for recipient..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1178
+msgid "Waiting to connect..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1179
+msgid "done (%d KB). %d minutes left (%d KB per second)."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1180
+msgid "Your file has been sent successfully"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1181
+msgid "Your file has been received successfully"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1182
+#: 1.3.0.55.lang.utf8:1232
+msgid "File transfer failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1183
+#: 1.3.0.55.lang.utf8:1231
+msgid "File transfer cancelled by other party"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1185
+#: 1.3.0.55.lang.utf8:1331
+msgid "Accept"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1188
+msgid "Open \"%s\""
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1189
+msgid "Open the folder containing the received file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1190
+msgid "File size: %d KB"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1191
+msgid "Save..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1192
+msgid "Are you sure you want to cancel the file transfer? If you cancel now then the other party will not receive this file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1193
+#: 1.3.0.55.lang.utf8:1194
+msgid "Cancelling file transfer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1195
+msgid "You can only send files to people who have authorized you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1196
+msgid "Send a file to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1199
+#: 1.3.0.55.lang.utf8:1470
+msgid "Waiting..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1201
+msgid "Creating account..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1202
+msgid "Please try again!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1204
+msgid "Sorry, but this Skype Name is taken."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1205
+msgid "The Skype Name you requested is already in use."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1206
+msgid "The following Skype Names are available."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1207
+msgid "Please select one of the available Skype Names and click \"Next\" to continue."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1208
+msgid "Available Skype Names:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1210
+msgid "If you don't like any of the suggested Skype Names above, feel free to try to register again with a different Skype Name:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1211
+msgid "Note: If you enter a new Skype Name above, we will attempt to create the account with the password you provided."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1218
+msgid "Your transfer is being relayed. "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1219
+#: 1.3.0.55.lang.utf8:1474
+#: 1.3.0.55.lang.utf8:1940
+msgid "What does this mean?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1220
+msgid "Your file transfer is being relayed through another peer as a direct connection could not be established. The transfer speed is limited to 0.5 KB. If you are sending a large file we recommended you cancel and find another way to transfer it"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1221
+msgid "Call to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1223
+msgid "View profile of %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1224
+msgid "Fields indicated with red asterisk ("
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1225
+msgid ") are required."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1226
+msgid "Skype Name must start with a letter, it can contain numbers, but you should not use spaces."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1227
+msgid "You entered a character that is not allowed in Skype Name."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1228
+msgid "From 6 to 32 characters (%d used)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1229
+msgid "From 4 to 20 characters (%d used)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1230
+#: 1.3.0.55.lang.utf8:1304
+#: 1.3.0.55.lang.utf8:1306
+#: 1.3.0.55.lang.utf8:1509
+#: 1.3.0.55.lang.utf8:1577
+msgid "Send File"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1233
+msgid "Are you sure you want to cancel the file transfer? If you cancel now you will not receive this file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1234
+msgid "Your file will be saved to:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1237
+msgid "Sending folders is not yet implemented"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1238
+msgid "done (%d KB). %s left (%d KB per second)."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1239
+msgid "done (%d KB). %s left (%d B per second)."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1240
+msgid "completed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1241
+msgid "The file you are trying to transfer must be smaller than 2 GB"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1242
+msgid "Open"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1244
+msgid "You must enter a valid Skype Name or number with country code.  Example: +12125551212"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1245
+msgid "Files can contain viruses. We strongly recommend the use of anti-virus software to scan received files, even if you know the sender. Are you sure you want to accept this file?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1246
+#: 1.3.0.55.lang.utf8:1247
+msgid "Enabling file transfer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1249
+msgid "Click here to share Skype with a Friend"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1250
+msgid "Number forbidden"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1251
+msgid "Call timed out"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1252
+msgid "Bad extension"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1253
+msgid "Temporarily unavailable"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1254
+#: 1.3.0.55.lang.utf8:1261
+msgid "Invalid phone number"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1255
+msgid "Call terminated"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1256
+msgid "Phone network Error - try again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1257
+msgid "Service unavailable - try again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1258
+msgid "Service timeout - try again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1259
+#: 1.3.0.55.lang.utf8:1262
+msgid "Network busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1260
+msgid "Call rejected"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1263
+msgid "Your Skype password has been recently changed. You need to log in again with the new password in order to make SkypeOut calls. This is a security measure taken in order to prevent your SkypeOut account from being abused."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1264
+msgid "Your Skype password has recently been changed. You need to log in again with your new password in order to continue using Skype.  This is a security measure taken in order to prevent your SkypeOut account from being abused."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1265
+msgid "Skype was unable to communicate with the registration server, you will be logged off from Skype. Please try to log in manually later. This is a security measure taken in order to prevent your SkypeOut account from being abused."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1266
+#: 1.3.0.55.lang.utf8:1267
+#: 1.3.0.55.lang.utf8:1268
+#: 1.3.0.55.lang.utf8:1269
+#: 1.3.0.55.lang.utf8:1270
+#: 1.3.0.55.lang.utf8:1271
+msgid "Password has been changed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1272
+#: 1.3.0.55.lang.utf8:1273
+msgid "Not a valid number"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1276
+msgid "SkypeOut: Only %s %s remaining"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1277
+#: 1.3.0.55.lang.utf8:1281
+#: 1.3.0.55.lang.utf8:1283
+msgid "Save more money - buy more SkypeOut credits"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1278
+#: 1.3.0.55.lang.utf8:1284
+#: 1.3.0.55.lang.utf8:1288
+msgid "SkypeOut: Global calling at local rates"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1279
+#: 1.3.0.55.lang.utf8:1285
+#: 1.3.0.55.lang.utf8:1289
+msgid "Get SkypeOut and call your offline friends"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1280
+msgid "SkypeOut: 0 credits left"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1282
+#: 1.3.0.55.lang.utf8:1290
+msgid "SkypeOut: Less than 1 Euro left"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1286
+msgid "Worried about unwanted calls?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1287
+msgid "Block unwanted calls..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1291
+msgid "Save your money - buy more SkypeOut credits"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1292
+msgid "%s (%s) %s Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1293
+msgid "You are enabling 'Skype Me' mode which means that you are letting everyone know that you are available and interested to Skype with them. This includes people whom you do not know or have not authorized but who can find you by searching the Skype directory.||For this to work, we have enabled accepting calls from people whom you have not authorized (or who are not in your Contacts list) for the time you are in the 'Skype Me' mode. Your privacy settings will be restored when you leave 'Skype Me' mode."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1294
+#: 1.3.0.55.lang.utf8:1295
+msgid "Available for Random Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1296
+msgid "Skype automatically enabled random calls because you are in the 'Skype Me' mode"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1297
+msgid "Sending file. Paused!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1298
+msgid "Receiving file. Paused!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1299
+msgid "File transfer paused..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1300
+msgid "Sending file. Connecting..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1301
+msgid "Receiving file. Connecting..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1303
+msgid "Cannot send messages to yourself"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1307
+#: 1.3.0.55.lang.utf8:1308
+#: 1.3.0.55.lang.utf8:1385
+msgid "Cancelled"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1310
+msgid "You have no associated application to open that file!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1311
+msgid "Show Users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1312
+msgid "Hide Users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1313
+msgid "Add more users to this chat!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1314
+msgid "Add to Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1315
+msgid "Chat participants"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1316
+msgid "Select the users you would like to add to this chat and press \"Add\"."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1321
+msgid "Could not connect to Skype Proxy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1322
+msgid "Start Skype when the Computer starts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1323
+msgid "%s only accepts contacts from authorized users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1324
+msgid "The person to whom you are sending the message is not authorized by you and you have disabled receiving messages from people not authorized. As a result he/she will not be able to reply to you."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1325
+msgid "File size: %d B"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1326
+msgid "Failed to add member %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1327
+msgid " %s is using a version of Skype which doesn't support multi-person chats. You cannot add participants to this chat. "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1328
+msgid "You have been invited to join a chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1329
+msgid "%s has invited you to join group chat with the following users:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1330
+msgid "Always ask my confirmation when group chat invitation arrives"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1332
+msgid "Deny"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1333
+msgid "Change"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1336
+msgid "Another program wants to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1337
+msgid "Another program is trying to access Skype. This can be a potential security risk."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1338
+msgid "** WARNING!** A changed program is trying to access Skype!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1340
+msgid "Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1341
+msgid "Publisher"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1342
+msgid "Allow this program to use Skype, but ask again in the future"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1343
+msgid "Allow this program to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1344
+msgid "Do not allow this program to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1345
+msgid "Manage API Access Control"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1346
+msgid "Allowed to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1347
+msgid "Allowed to use Skype for this session"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1348
+msgid "Not allowed to use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1350
+msgid "Active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1351
+msgid "Manage other programs' access to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1352
+msgid "You have lost Your Internet connection. In offline mode You cannot search for people."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1353
+msgid "You cannot send files to people who You have blocked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1354
+msgid "Send file to Skype contact..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1356
+msgid "Select Skype contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1359
+msgid "Please select Skype contact You want to send the file (%s) to and press \"Send\" to start the file transfer."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1360
+msgid "When I reject an incoming call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1361
+msgid "Send call to voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1362
+msgid "Play busy tone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1363
+msgid "When I am in a call and someone calls me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1364
+msgid "Place first call on hold"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1365
+msgid "Send new call to voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1366
+msgid "Send caller to voicemail if I do not answer within"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1367
+msgid "seconds"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1368
+msgid "Voicemail recording error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1369
+msgid "Voicemail playback error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1370
+msgid "Voicemail upload error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1371
+msgid "Error creating greeting object"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1372
+msgid "Are you sure you want to reset your welcome message to default?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1373
+#: 1.3.0.55.lang.utf8:1374
+msgid "Resetting My Welcome Message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1375
+msgid "Cannot block yourself"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1376
+msgid "Forwarded to voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1377
+msgid "Greeting playback"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1378
+msgid "Greeting download"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1379
+msgid "Greeting error"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1380
+msgid "Recording Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1381
+msgid "Voicemail recorded"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1382
+msgid "Sending Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1383
+msgid "Voicemail Sent"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1384
+msgid "Voicemail Failed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1386
+#: 1.3.0.55.lang.utf8:1627
+msgid "Send Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1388
+msgid "When I am in a call, send incoming call to voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1389
+msgid "Voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1390
+#: 1.3.0.55.lang.utf8:1391
+msgid "The whole world can talk for free."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1392
+msgid "Click this button to allow %s to contact you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1393
+#: 1.3.0.55.lang.utf8:1585
+msgid "Chat Topic"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1394
+msgid "Enter topic for this chat:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1395
+msgid "Are you sure you want to quit this chat?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1396
+msgid "Quit Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1397
+msgid "%s added %s to this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1398
+msgid "%s joined this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1399
+msgid "%s left this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1400
+msgid "%s is using older version of Skype which doesn't support multi-person chats and cannot join"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1401
+msgid "%s can't be added to this chat due to his/her privacy settings"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1402
+msgid "User %s not found"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1403
+msgid "%s has declined invitation to join this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1404
+msgid "Topic"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1406
+msgid "Topic: "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1407
+msgid "%s has changed the chat topic to \"%s\""
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1408
+msgid "You cannot listen to a voicemail during the call!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1409
+msgid "Information!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1410
+msgid "Are you sure you want to delete the voicemail?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1411
+#: 1.3.0.55.lang.utf8:1412
+msgid "Warning!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1413
+msgid "Unknown number"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1414
+msgid "done (%d KB). Over 24 hours left (%d KB per second)."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1415
+msgid "done (%d KB). Over 24 hours left (%d B per second)."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1416
+msgid "Certificate"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1417
+msgid "Users %s are currently added to this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1418
+msgid "Voicemail from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1419
+msgid "Import Contacts..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1421
+msgid "Import Contacts to Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1423
+msgid "Deselect All"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1424
+msgid "<< Previous"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1425
+msgid "Next >>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1427
+msgid "Exit"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1434
+msgid "Welcome to the Import Contacts Wizard!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1435
+msgid "This wizard can help you to find your friends who already use Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1436
+msgid "You can run Import Contacts from the Tools -> Import Contacts any time in the future, if you do not want to do it right now."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1437
+msgid "This wizard searches the Skype network for users who might be possible matches for friends in your addressbooks."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1438
+msgid "By clicking Next, Skype will start the search automatically."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1439
+msgid "To continue, click \"Next\". To exit this wizard, click \"Cancel\"."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1440
+msgid "The wizard is searching for contacts in your addressbooks. Please wait."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1441
+msgid "No contacts were found."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1442
+msgid "The wizard was unable to find any contacts."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1443
+msgid "To search for friends by yourself, select \"Search for Skype Users...\" from Tools menu."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1444
+msgid "To close this wizard, click Finish."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1445
+msgid "We found %s entries in the address books on your computer."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1446
+msgid "Now we will search the Skype network for these users."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1447
+msgid "This might take several minutes."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1448
+msgid "You can minimize this window, while Skype is searching for your contacts."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1449
+msgid "Skype will inform you when the search is complete."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1450
+msgid "Skype has found and added %s contacts to your Contact List."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1451
+msgid "To view your contact's Skype profile, click on the Skype Name."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1452
+msgid "To add all of these contacts to your Skype Contact List, click \"Next\"."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1453
+msgid "If you are unsure whether whether you know the proposed match, do not select the checkbox in front of the Skype Name."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1454
+msgid "To add the selected contacts to your Skype Contact List click \"Next\". If you do not wish to add any contacts to your Skype Contact List, click \"Cancel\"."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1455
+msgid "Congratulations! Contacts you selected have been added to your Skype Contact List."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1456
+msgid "However, this wizard was unable to find the following contacts on the Skype network."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1457
+msgid "Now might be a good time to suggest that they start using Skype by sending an invitation to them."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1458
+msgid "Click Next to compose a Welcome Message and send it to the users who have a checkbox in front of their name."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1459
+msgid "Click \"Cancel\" to exit this wizard without sending an invitation."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1460
+msgid "You are about to invite %s of your contacts to use Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1461
+msgid "Please provide your name, e-mail and optionally a welcome message for this invitation."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1462
+msgid "To send out your invitation and start using Skype, click \"Send\". "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1463
+msgid "To exit the wizard without sending any invitation, click \"Exit\"."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1464
+msgid "Your Name"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1465
+msgid "Your E-mail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1466
+#: 1.3.0.55.lang.utf8:1693
+msgid "Welcome Message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1469
+msgid "Finished searching"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1471
+msgid "Searching Skype network..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1472
+msgid "The wizard was unable to find any contacts from the Skype network."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1473
+msgid "Click Next to continue."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1475
+msgid "blush"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1476
+msgid "wondering"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1477
+msgid "sleepy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1478
+msgid "dull"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1479
+msgid "doh!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1480
+msgid "angry"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1481
+msgid "it wasn't me!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1482
+msgid "worried"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1483
+msgid "mmmmm..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1484
+msgid "nerdy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1485
+msgid "my lips are sealed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1487
+msgid "yes"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1488
+msgid "no"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1489
+msgid "heart"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1490
+msgid "broken heart"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1491
+msgid "flower"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1492
+msgid "phone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1493
+msgid "music"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1494
+msgid "CD"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1495
+msgid "mp3"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1496
+msgid "movie"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1497
+msgid "picture"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1498
+msgid "coffee"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1499
+msgid "(you have) mail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1500
+msgid "beer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1501
+msgid "drink"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1502
+msgid "cake"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1503
+msgid "time"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1504
+msgid "automobile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1505
+msgid "computer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1506
+msgid "star"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1507
+msgid "Send File to All"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1508
+msgid "Start Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1511
+msgid "%s and %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1512
+msgid "%d participants"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1513
+msgid "Add people to this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1514
+msgid "Set chat topic"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1515
+msgid "Leave this chat permanently"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1516
+msgid "Start conference call with chat participants"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1517
+msgid "Send a file to all participants of this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1518
+msgid "Send file to %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1519
+msgid "Are you sure you want to send file \"%s\" to %s?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1520
+msgid "Are you sure you want to send %d files to %s?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1521
+msgid "You cannot send files to more than %d users at once."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1522
+msgid "Edit my profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1523
+msgid "minute\\minutes\\hour\\hours\\day\\days"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1524
+msgid "Last message was posted %d %s ago"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1525
+msgid "%s \\| %s Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1526
+msgid "If you are using MS Outlook, you will see the following warning dialog on the right."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1527
+msgid "It is completely safe to click \"Yes\". Skype will only search for Outlook contacts who use Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1528
+msgid "Download Skype and start calling for free all over the world."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1529
+msgid "% completed"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1530
+msgid "Recent Chats"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1533
+msgid "Are you sure you want to clear Chat History with user %s?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1534
+msgid "Clear Chat History"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1536
+msgid "Hang up current call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1537
+msgid "Leaving voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1538
+msgid "Press here to abort the greeting and leave the Voicemail immediately"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1539
+msgid "Press here to hang up and NOT to leave a voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1540
+msgid "Press here if done with the voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1541
+msgid "says:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1542
+msgid "is calling you."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1543
+msgid "has just signed in."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1544
+msgid "went offline."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1545
+msgid "has sent you some contacts."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1546
+msgid "has asked an authorization from you."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1547
+msgid "wants to send you a file."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1548
+msgid "has sent you a voicemail."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1549
+msgid "You can simultaneously send files to a maximum of %d users."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1550
+msgid "Hang up the call with this contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1551
+msgid "The user is offline or unreachable. Your message(s) will be delivered the next time you are both online."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1552
+msgid "This file transfer is encrypted"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1553
+msgid "Host"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1554
+msgid "Port"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1555
+msgid "Username"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1556
+msgid "Password"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1557
+msgid "Enable proxy authentication"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1558
+msgid "Automatic proxy detection"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1559
+#: 1.3.0.55.lang.utf8:1560
+msgid "Proxy authentication failure"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1561
+msgid "Your file is received successfully to folder:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1562
+msgid "Open folder %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1563
+msgid "Done"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1564
+msgid "File size:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1565
+msgid "%s done, %s remain"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1566
+msgid "%s done, > 24 hours remain"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1567
+msgid "Clear History"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1568
+msgid "no history"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1569
+msgid "2 weeks"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1570
+msgid "1 month"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1571
+msgid "3 months"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1572
+msgid "forever"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1573
+msgid "Keep chat history for"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1574
+msgid "Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1578
+msgid "Add Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1580
+msgid "added you to conference call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1581
+msgid "Display Online Notifications in the system tray"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1582
+msgid "Create a new chat from current participants"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1583
+msgid "Chat History reloaded"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1584
+msgid "Create New Chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1586
+msgid "Create"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1587
+msgid "Select the users you would like to add to the new chat and press Create"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1588
+msgid "Skype Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1589
+msgid "SkypeOut Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1591
+msgid "Import contacts from Outlook or Opera etc.."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1592
+msgid "Click here to accept/deny."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1593
+msgid "You have new messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1594
+msgid "%s is not able to reply due to your privacy settings"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1595
+msgid "Find"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1596
+msgid "Fi&nd what:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1597
+msgid "Match &whole word only"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1598
+msgid "Match &case"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1599
+msgid "Direction"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1600
+msgid "&Up"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1601
+msgid "&Down"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1602
+msgid "&Find"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1603
+msgid "&Find..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1604
+msgid "Find &Again..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1605
+msgid "Click here to play."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1606
+msgid "Click here to see previous messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1607
+msgid "Your block of %s is not in effect in this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1608
+msgid "Messages in this chat are older than %d %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1609
+msgid "Message \"%s\" not delivered yet"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1610
+msgid "Show toolbar button texts on"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1611
+msgid "right"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1612
+msgid "bottom"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1613
+msgid "Do not show button texts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1614
+msgid "Clear Messages"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1615
+msgid "Delete all chat histories? (All open chats will be closed)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1616
+#: 1.3.0.55.lang.utf8:1617
+msgid "Deleting chat history"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1618
+msgid "Type:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1619
+msgid "%s file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1622
+msgid "All other participants have left the chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1623
+msgid "Import Contacts from your addressbooks"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1624
+msgid "Conference"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1625
+msgid "Chat is currently limited to %d participants at a time"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1626
+msgid "Skype language files (*.lang)|*.LANG"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1629
+msgid "Send file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1630
+msgid "Click here for more information"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1631
+msgid "Undo"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1632
+msgid "Cut"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1633
+msgid "Copy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1634
+msgid "Paste"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1637
+msgid "Hide users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1638
+msgid "Show users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1639
+msgid "Bookmarked Chats"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1640
+msgid "Your have been logged off due to an internal error in Skype. You may log in again immediately."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1641
+#: 1.3.0.55.lang.utf8:1642
+msgid "Logged off"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1643
+msgid "Message alerts disabled"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1644
+msgid "Only messages containing \"%s\" will produce alerts in this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1645
+msgid "This chat is bookmarked"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1646
+msgid "Click here to bookmark this chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1647
+msgid "Cannot find \"%s\""
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1648
+msgid "You have left the chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1649
+msgid "Unable to launch web browser"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1651
+#: 1.3.0.55.lang.utf8:1678
+msgid "Notifications"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1652
+#: 1.3.0.55.lang.utf8:1740
+msgid "Video"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1653
+msgid "Mute All Sounds"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1654
+msgid "comes online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1655
+msgid "calls me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1656
+msgid "starts chat with me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1657
+msgid "sends me a file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1658
+msgid "requests authorization"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1659
+msgid "sends me contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1660
+msgid "leaves me a voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1661
+msgid "Play sound when somebody is calling me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1662
+msgid "Play sound when I call someone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1663
+msgid "Play sound when other party is busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1664
+msgid "Play sound when chat message arrives"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1665
+msgid "Display notification, if someone..."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1666
+msgid "Startup"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1668
+msgid "Other"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1669
+msgid "Adjust sound devices"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1670
+#: 1.3.0.55.lang.utf8:1827
+msgid "Set connection parameters and proxies"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1671
+msgid "Configure sound alerts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1672
+msgid "Learn more how Skype deals with proxies and firewalls"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1679
+#: 1.3.0.55.lang.utf8:1680
+#: 1.3.0.55.lang.utf8:1682
+#: 1.3.0.55.lang.utf8:1683
+msgid "Related Tasks"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1686
+msgid "Duration: %s sec"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1687
+msgid "%s seconds remaining"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1688
+msgid "Loading my welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1689
+msgid "My welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1690
+msgid "Playing my welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1691
+msgid "Recording my welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1692
+msgid "Saving my welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1694
+msgid "Settings"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1695
+msgid "Reset to Skype default sound"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1696
+msgid "Select a custom WAV file"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1697
+msgid "Play:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1698
+msgid "Skype default sound"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1699
+msgid "Enable all sounds"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1700
+msgid "Click here to get your subscription"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1701
+msgid "You do not have valid voicemail subscription"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1702
+msgid "You have to be online to listen your welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1703
+msgid "You have to be online to record your welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1704
+msgid "You have to be online to reset your welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1705
+msgid "Recorded:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1707
+msgid "Show Toolbar Button Texts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1708
+msgid "At Bottom"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1709
+msgid "Right"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1711
+msgid "Welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1712
+msgid "Font"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1713
+msgid "Change message font"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1714
+msgid "Click \"Next\" to compose your invitation to the selected users."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1715
+msgid "Select the contacts to whom you want to send an invitation or click \"Select All\" to send it to all of them."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1716
+msgid "Some of your contacts do not seem to use Skype yet."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1717
+msgid "Why not send them an invitation?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1718
+msgid "%s new contacts were added to your Skype Contacts."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1719
+msgid "If unsure whether the proposed match is really your friend, deselect the check box in front of the Skype Name."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1720
+msgid "This Wizard checks whether any of the contacts in your addressbooks is already using Skype and helps you to add them to your Skype Contact list."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1722
+msgid "Searching for %s contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1723
+msgid "%s contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1724
+msgid "%s contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1725
+msgid "from %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1728
+msgid "Mute"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1729
+msgid "Unmute"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1732
+msgid "No New Voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1733
+msgid "%d New Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1734
+msgid "%d New Voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1735
+msgid "Click here to listen to new voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1736
+msgid "Your SkypeIn account is active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1738
+msgid "Default welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1739
+msgid "Playing default welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1741
+msgid "Import Contacts from vCard File"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1742
+msgid "Export Contacts to vCard File"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1743
+#: 1.3.0.55.lang.utf8:1758
+msgid "Your Voicemail account is active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1745
+msgid "Voicemail recorded: "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1746
+msgid "empty"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1747
+msgid "You have too many file transfer connections open"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1749
+msgid "Call is already in progress. Cannot start a new call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1750
+msgid "Cannot send Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1751
+msgid "Call already in progress"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1752
+msgid "You have to be online to configure your welcome message"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1753
+#: 1.3.0.55.lang.utf8:1798
+msgid "Abort Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1754
+msgid "%s  is calling. Would you like to answer to the call? If yes, voicemail recording will be finished and uploaded to the server. If no, voicemail recording will be continued"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1755
+msgid "Abort voicemail?||"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1756
+msgid "Cannot send Voicemail now, because a call is active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1760
+msgid "Time left: "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1761
+msgid "Voicemail: less than 1 week left"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1762
+msgid "Extend Voicemail service now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1763
+msgid "Voicemail: not active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1764
+msgid "Subscribe to Voicemail service now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1765
+msgid "SkypeIn: less than 1 week left"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1766
+msgid "Extend SkypeIn service now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1767
+msgid "SkypeIn: not active"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1768
+msgid "Subscribe to SkypeIn service now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1769
+msgid "You do not have any programs that use Skype API"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1770
+msgid "You have been %s with @TS1%s@TS0 often, would you like to add %s to your Skype Contacts?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1771
+msgid "Do not as ask me again"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1772
+msgid "Yes, ask for %s authorization &>>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1773
+msgid "calling"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1774
+msgid "chatting"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1775
+msgid "him"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1776
+msgid "her"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1777
+msgid "him/her"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1778
+msgid "Import Contacts from My Computer"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1779
+msgid "Search for Other Skype Users"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1780
+msgid "Make a Test Call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1781
+msgid "Edit My Profile"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1782
+msgid "Configure Privacy Options"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1783
+msgid "Getting Started Wizard"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1784
+msgid "Read Skype Help"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1785
+msgid "Do not show this wizard at startup"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1786
+msgid "Close Wizard for Now"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1787
+msgid "@TS1Welcome to Skype!@TS0|Start using Skype by choosing one of these frequently used functions."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1788
+msgid "Do You Have a New Friend?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1789
+msgid "Yes, add %s to my contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1790
+msgid "Hold/resume current call"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1791
+msgid "Mute/unmute the microphone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1793
+msgid "Block this Contact"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1794
+msgid "Start sending video"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1795
+msgid "Cannot send voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1796
+msgid "You have voicemail recording in progress. If you proceed with the call, voicemail recording will be finished and uploaded to the server. If not, voicemail recording will be continued"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1797
+msgid "Abort Voicemail?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1799
+msgid "Found so far:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1802
+msgid "Unknown number (SkypeIn)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1803
+msgid "Allow SkypeIn calls from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1804
+msgid "anyone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1805
+msgid "known numbers"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1806
+msgid "my contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1807
+msgid "Close this dialog box when download completes"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1808
+msgid "Ignore poster names"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1809
+msgid "Available commands:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1810
+msgid "Ungrouped Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1813
+msgid "Don't send"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1818
+#: 1.3.0.55.lang.utf8:1819
+msgid "SkypeOut: Less than 1 %s left"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1820
+msgid "Details that all Skype users will see"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1821
+msgid "Details that only my contacts will see"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1822
+msgid "All of the fields below are optional. However, the more information you provide, the easier it will be for your friends to find you on Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1823
+msgid "Gender"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1824
+msgid "Interests"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1826
+msgid "Are you sure you want to remove the picture %s from My Pictures? (Note that the picture is also removed from My Skype Pictures folder)"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1828
+msgid "Are you sure you want to delete your e-mail address?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1829
+msgid "Deleting your e-mail address"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1830
+msgid "Wrong e-mail address"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1831
+msgid "Wrong phone number"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1832
+msgid "Wrong homepage"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1833
+msgid "<<Click here to set chat topic>>"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1834
+msgid "He is offline"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1835
+msgid "He has not authorized you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1836
+msgid "You have blocked him"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1837
+msgid "He is online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1838
+msgid "He is online, but away"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1839
+msgid "He is online, but not available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1840
+msgid "He is online, but busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1841
+msgid "He is online and free for chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1842
+msgid "She is offline"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1843
+msgid "She has not authorized you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1844
+msgid "You have blocked her"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1845
+msgid "She is online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1846
+msgid "She is online, but away"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1847
+msgid "She is online, but not available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1848
+msgid "She is online, but busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1849
+msgid "She is online and free for chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1850
+msgid "She or he is offline"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1851
+msgid "She or he has not authorized you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1852
+msgid "You have blocked her or him"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1853
+msgid "She or he is online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1854
+msgid "She or he is online, but away"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1855
+msgid "She or he is online, but not available"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1856
+msgid "She or he is online, but busy"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1857
+msgid "She or he is online and free for chat"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1858
+msgid "Gender:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1859
+msgid "Location:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1860
+msgid "Age:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1861
+msgid "%s and a bit more"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1862
+msgid "Just got %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1863
+msgid "Last days %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1864
+msgid "Interests:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1865
+msgid "Click here to set chat topic"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1866
+msgid "Double-click here to set chat topic"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1867
+msgid "Getting Started"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1868
+msgid "View Content Tab"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1869
+msgid "Rename group"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1870
+msgid "Add group"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1871
+msgid "Remove group"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1872
+msgid "Recently contacted"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1873
+msgid "Currently online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1875
+msgid "Import my contacts from"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1876
+msgid "MSN, Outlook and other programs."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1877
+msgid "Search for my friends who use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1878
+msgid "and add them to Contacts."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1879
+msgid "Make a test call and check"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1880
+msgid "whether you have configured sound setup correctly. "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1881
+msgid "Adjust sound device settings and"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1882
+msgid "learn how to configure them properly."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1883
+#: 1.3.0.55.lang.utf8:1899
+msgid "Add Contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1884
+msgid "Check Speakers and Microphone"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1885
+msgid "Close Wizard"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1886
+msgid "Make a test call to Skype answering machine."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1887
+msgid "Learn more how to set up your audio settings."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1888
+msgid "Reset to Default"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1889
+msgid "Private details"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1890
+msgid "About Me"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1891
+#: 1.3.0.55.lang.utf8:1905
+msgid "Your e-mail will be kept private, but those who know it will be able to use it to search for you on Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1892
+msgid "Minimum %s characters"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1893
+msgid "Help your friends to find you"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1894
+msgid "Filling the fields is optional. The more information you provide about yourself below, the easier it will be for your friends and family to find you on Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1900
+msgid "Search for friends who use Skype"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1901
+msgid "and add them to Skype Contact List."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1902
+msgid "You are now ready to use Skype. Try some useful tools that Skype has to help you get started."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1904
+msgid "Minimum 6 characters. Your Skype Name must start with a letter and cannot include spaces."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1906
+msgid "Add more e-mail addresses."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1907
+#: 1.3.0.55.lang.utf8:1942
+msgid "Services"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1909
+msgid "Request Authorization from %s contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1910
+msgid "Send message to %s contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1911
+msgid "Contacts will see this message when your request is sent."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1912
+msgid "Request authorization to see their status and allow these users to see when I am online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1913
+msgid "Request authorization to see their status but do not allow these users to see when I am  online"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1916
+msgid "Day"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1917
+msgid "Month"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1918
+msgid "Year"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1919
+msgid "The following applications are connected to Skype via API:"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1920
+msgid "Blocked contacts"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1921
+msgid "There is %s unlistened voicemail(s) to be deleted. Do you want to continue?"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1922
+#: 1.3.0.55.lang.utf8:1923
+msgid "Clear New Voicemails"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1924
+msgid "Let Skype search for contacts in my addressbooks and notify me if any of my friends already use Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1925
+msgid "The Import Contacts wizard will look for contacts in your addressbooks who already use Skype."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1928
+msgid "No new events"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1929
+msgid "%d new events"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1930
+msgid "Chat history enabled"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1931
+msgid "1 new event"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1932
+msgid "Evil grin"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1933
+msgid "Talking"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1934
+msgid "Yawn"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1935
+msgid "Puking"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1936
+msgid "Handshake"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1937
+msgid "Raining"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1938
+msgid "Dancing"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1939
+msgid "Enter number with country code, for example: +155 55551234"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1941
+msgid "Click here to see older missed events"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1943
+msgid "You can now leave voicemail to each of your contacts who do not yet have Voicemail by right-clicking their name or calling them when they are offline."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1944
+msgid "Skype is searching for contacts in your addressbooks. You will be alerted after the search is finished."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1945
+msgid "Skype has found and added the Contacts above."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1946
+msgid "Click here to ACTIVATE all of them"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1947
+msgid "or right click each one and ACTIVATE or delete."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1948
+msgid "You can import your contacts from Outlook and other programs to your Skype Contact List."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1949
+msgid "Click here to start."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1950
+msgid "You can receive voicemails even without subscribing to Skype Voicemail. To leave voicemails, "
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1951
+msgid "get Skype Voicemail."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1953
+msgid "My Skype Name is %s. Add me when you get up and running on Skype!"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1954
+msgid "Note: We have added your e-mail address to your profile."
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1955
+msgid "New chat message from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1956
+msgid "New message in chat from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1957
+msgid "%s asked for your authorization at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1958
+msgid "Missed call from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1959
+msgid "New voicemail from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1960
+msgid "New contact list from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1961
+msgid "%d new chat messages from %s, last at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1962
+msgid "%d new messages in chat, last from %s at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1963
+msgid "%d missed calls from %s, last at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1964
+msgid "%d new voicemails from %s, last at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1965
+msgid "%d new contact lists from %s, last at %s"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1968
+msgid "Play the Voicemail"
+msgstr ""
+
+#: 1.3.0.55.lang.utf8:1969
+msgid "Delete the Voicemail"
+msgstr ""
+
