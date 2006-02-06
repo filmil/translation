@@ -1,0 +1,50 @@
+<!ENTITY acceptForSession.label "Дозволи само за текућу сесију">
+<!ENTITY acceptNormally.label "Дозволи колачиће">
+<!ENTITY askAboutCookies.label "Питај за сваки колачић">
+<!ENTITY butAskFirst.accesskey "з">
+<!ENTITY butAskFirst.label "питај пре замене">
+<!ENTITY cache.label "Кеш">
+<!ENTITY cacheExplanation.label "Прегледане стране које се чувају, како би убрзали време њиховог поновног учитавања.">
+<!ENTITY clearAll.label "Очисти све">
+<!ENTITY clearAllDescription.label "Очисти све податке настале за време рада:">
+<!ENTITY clearCache.label "Очисти">
+<!ENTITY clearCookies.label "Очисти">
+<!ENTITY clearDownloads.label "Очисти">
+<!ENTITY clearFormfill.label "Очисти">
+<!ENTITY clearHistory.label "Очисти">
+<!ENTITY clearPasswords.label "Очисти">
+<!ENTITY cookieExplanation.label "Колачићи - мали текстуални фајлови који чувају информацију о сајтовима које сте посетили и чувају се на Вашем компијутеру.">
+<!ENTITY cookieRetention.label "Сачувај колачиће:">
+<!ENTITY cookies.label "Колачићи">
+<!ENTITY days.label "Дана">
+<!ENTITY diskCache.accesskey "д">
+<!ENTITY diskCache.label "Користи до:">
+<!ENTITY downloads.label "Историјат Менаџера преузимања">
+<!ENTITY downloadsDescription.label "Менаџер преузимања чува информацију о недавно преузетим фајловима. ТИ ПАРАМЕТРИ ЈОШ НИСУ РЕАЛИЗОВАНИ.">
+<!ENTITY downloadsRemoveExit.label "При затварању Mozilla Firebird">
+<!ENTITY downloadsRemoveImmediately.label "По завршеном преузимању">
+<!ENTITY downloadsRemoveManually.label "Ручно">
+<!ENTITY downloadsRetentionPolicy.label "Удаљуј фајлове сацписка Менаџера преузимања">
+<!ENTITY enableCookies.accesskey "к">
+<!ENTITY enableCookies.label "Дозволи колачиће">
+<!ENTITY exceptions.label "Изузеци...">
+<!ENTITY forCurrentSessionOnly.accesskey "в">
+<!ENTITY forCurrentSessionOnly.label "само за време текуће сесије">
+<!ENTITY forOriginatingSiteOnly.accesskey "т">
+<!ENTITY forOriginatingSiteOnly.label "само са основног сајта">
+<!ENTITY formfill.label "Чување садржаја формулара">
+<!ENTITY formfillDescription.label "Садржај форума и линије претраге се памти како би убрзао попуњавање формулара и бржу претрагу.">
+<!ENTITY formfillEnable.accesskey "п">
+<!ENTITY formfillEnable.label "Памти податке које уносим у веб формуларима и линији претраге">
+<!ENTITY history.label "Историјат">
+<!ENTITY kbytes "Кб простора на диску.">
+<!ENTITY lHeader "Приватност">
+<!ENTITY pageHis.accesskey "п">
+<!ENTITY pageHis.label "Запамти последње посећене стране">
+<!ENTITY passwords.label "Чување лозинке">
+<!ENTITY passwordsDescription.label "Менаџер лозинки може памтити податке регистрације, како их не би морали уносити при поновном посећивању сајта.">
+<!ENTITY passwordsEnable.accesskey "л">
+<!ENTITY passwordsEnable.label "Памти лозинке">
+<!ENTITY privacyDescription.label "За време рада на мрежи подаци о томе где сте били, шта сте радили итд. се чувају у следећим местима...">
+<!ENTITY viewCookies.label "Преглед колачића...">
+<!ENTITY viewPasswords.label "Преглед сачуваних лозинки...">

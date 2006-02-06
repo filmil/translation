@@ -1,0 +1,10 @@
+<!ENTITY always.label "самостално:">
+<!ENTITY changeAction.title "Измена дејства">
+<!ENTITY changeApp.accesskey "и">
+<!ENTITY changeApp.label "Измени...">
+<!ENTITY changeAppWindowTitle.label "Изаберите програм...">
+<!ENTITY customAppPath.label "Кликните на 'Промени ...' како би изабрали програм.">
+<!ENTITY openApplication.label "Отвори у овом програму:">
+<!ENTITY openDefault.label "Отвори их у подразумеваном програму:">
+<!ENTITY saveToDisk.label "Сачувај на диск">
+<!ENTITY whenDownloading.label "При преузимању фајлова типа:">

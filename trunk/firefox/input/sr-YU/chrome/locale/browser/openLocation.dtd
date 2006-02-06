@@ -1,0 +1,9 @@
+<!ENTITY caption.label "Отварање веб адресе">
+<!ENTITY chooseFile.label "Изаберите фајл...">
+<!ENTITY enter.label "Унесите Интернет адрсу (URL) или укажите фајл на диску, који желите отворити:">
+<!ENTITY example.label "Пример: &vendorURL;">
+<!ENTITY newTab.label "Нови језичак">
+<!ENTITY newWindow.label "Нови прозор">
+<!ENTITY openBtn.label "Отвори">
+<!ENTITY openWhere.label "Отвори у:">
+<!ENTITY topWindow.label "У овом прозору Навигатора">

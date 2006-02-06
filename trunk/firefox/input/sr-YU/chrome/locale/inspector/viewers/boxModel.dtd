@@ -1,0 +1,5 @@
+<!ENTITY boxBorder.label "Оквир">
+<!ENTITY boxDimension.label "Димензије">
+<!ENTITY boxMargin.label "Маргине">
+<!ENTITY boxPadding.label "Упадање">
+<!ENTITY boxPosition.label "Позиција">

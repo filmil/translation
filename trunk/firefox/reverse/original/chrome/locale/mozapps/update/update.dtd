@@ -1,0 +1,63 @@
+<!ENTITY appInfo.label "Унапређење мора бити постављено независно од осталих.">
+<!ENTITY appupdate.intro.label "&brandShortName; Унапређење ће се сад затворити и одвешће вас на
+                                           страну са које можете преузети најновију верзију
+                                           &brandShortName;.">
+<!ENTITY appupdate.title "Обнављање &brandShortName;">
+<!ENTITY checking.intro.label "&brandShortName; провери постојање доступних унапређења...">
+<!ENTITY checking.status "Ово може потрајати неколико минута ...">
+<!ENTITY checking.title "Провери постојање унапређења...">
+<!ENTITY errors.details.accesskey "д">
+<!ENTITY errors.details.label "Детаљи">
+<!ENTITY errors.intro.label "&brandShortName; encountered problems when updating your
+                                           software, and as a result not all components could be updated.">
+<!ENTITY errors.title "Проблеми који су се јавили за време унапређења">
+<!ENTITY finished.enableChecking.label "Омогући да &brandShortName; проверава постојање унапређења.">
+<!ENTITY finished.error.label "&brandShortName; није могао да покрене и                                        постави нека унапређења.">
+<!ENTITY finished.mismatch.label "Click Finish to continue starting &brandShortName;.">
+<!ENTITY finished.remaining.label "Неки неодговарајући делови нису могли бити унапређени, вероватно                                            зато што њихове одговарајуће верзије тренутно нису доступне.                                            &brandShortName; ће с времена на време проверавати и обавестити                                            Вас о појави одговарајућих унапређења.">
+<!ENTITY finished.remaining2.label "Неки неодговарајући делови нису могли бити унапређени, вероватно                                            њихове одговарајуће верзије тренутно нису доступне.                                            &brandShortName; ће с времена на време проверавати и обавестити                                            Вас о појави одговарајућих унапређења.">
+<!ENTITY finished.title "Обнављање завршено">
+<!ENTITY finished.updated.label "&brandShortName; је завршио поставку доступних унапређења.">
+<!ENTITY found.addons.label "The following updates are available to Extensions and Themes that you already have installed">
+<!ENTITY found.app.infoLink "More Information...">
+<!ENTITY found.components.info "Installing these components may improve your browsing experience.">
+<!ENTITY found.components.label "The following components and plugins are available to install:">
+<!ENTITY found.criticalUpdates.info "You should install these updates immediately to protect your computer from attack.">
+<!ENTITY found.criticalUpdates.label "The following Critical Updates are available for &brandShortName;:">
+<!ENTITY found.instructions.label "Изаберите шта желите да поставите и притисните дугме Постави како би их поставили.">
+<!ENTITY found.intro.label "&brandShortName; found the following available updates:">
+<!ENTITY found.languages.label "The following language packs are available: ">
+<!ENTITY found.title "Пронађена су унапређења">
+<!ENTITY found.updatetype.addons.accesskey "E">
+<!ENTITY found.updatetype.components.accesskey "O">
+<!ENTITY found.updatetype.languages.accesskey "L">
+<!ENTITY found.updatetype.patches.accesskey "C">
+<!ENTITY from.label "од:">
+<!ENTITY installing.disclaimer.label "XXXben - this will not work until we have a scriptable API to XPInstall.">
+<!ENTITY installing.intro.label "Преузимам и постављам унапређења...">
+<!ENTITY installing.title "Постављање унапређења">
+<!ENTITY mismatch.intro1.label "Следеће компоненте нису подударне са новом верзијом                                              &brandShortName; коју само што сте поставили:">
+<!ENTITY mismatch.intro2.label "Биће онемогућени док не поставите њихову одговарајућу верзију.">
+<!ENTITY mismatch.intro3.label "&brandShortName; може проверити постојање нових, одговарајућих                                        верзија датих компонената и поставити их.">
+<!ENTITY mismatch.title "Неодговарајуће компоненте">
+<!ENTITY noupdates.enableChecking.label "Омогући да &brandShortName; проверава постојање унапређења.">
+<!ENTITY noupdates.intro.mismatch.label "&brandShortName; није могао да пронађе доступна унапређења -                                             можда одговарајуће верзије тренутно нису доступне.">
+<!ENTITY noupdates.intro.user.label "&brandShortName; неможе да пронађе нова унапређења.">
+<!ENTITY noupdates.intro2.mismatch.label "&brandShortName; ће с' времена на време проверавати постојање унапређења                                            и обавестити Вас о појави одговарајућих верзија.">
+<!ENTITY noupdates.intro3.mismatch.label "&brandShortName; може с' времена на време проверавати постојање унапређења                                            и обавестити Вас о појави одговарајућих верзија.">
+<!ENTITY noupdates.title "Не постоје нова унапређења">
+<!ENTITY optional.intro.label "Choose additional components you want to install, then click Install Now.">
+<!ENTITY optional.title "Optional Components">
+<!ENTITY resetHomepage.accesskey "H">
+<!ENTITY resetHomepage.label "Use &brandShortName; Start as my Home Page">
+<!ENTITY resolveMaxVersion.intro1.label "&brandShortName; is checking for compatibility updates to your Extensions and Themes...">
+<!ENTITY resolveMaxVersion.title "Checking for Compatible Extensions and Themes...">
+<!ENTITY restart.title "Upgrade Complete">
+<!ENTITY restart.updated.label "&brandShortName; successfully downloaded and installed updates. You will have to restart &brandShortName; to complete the update.">
+<!ENTITY updateCheckError.accesskey "д">
+<!ENTITY updateCheckError.description "&brandShortName; наилази на проблем при претраги                                            унапређења за неке компоненте.">
+<!ENTITY updateCheckError.label "Детаљи">
+<!ENTITY updateWizard.title "Обнављање &brandShortName;">
+<!ENTITY version.intro.label "&brandShortName; проверава усаглашеност унапређења Проширења и Тема...">
+<!ENTITY version.status "Ово може потрајати неколико минута ...">
+<!ENTITY version.title "Тражим одговарајућа унапређења">

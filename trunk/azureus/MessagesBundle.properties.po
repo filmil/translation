@@ -1,0 +1,6698 @@
+# extracted from MessagesBundle.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2005-07-11 09:50\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#There is a plugin to help with internationalizing these bundles at http://azureus.sourceforge.net/plugin_list.php
+#: MainWindow.menu.file.open.torrent
+msgid "Torrent File..."
+msgstr "Торент датотека..."
+
+#: MainWindow.menu.file.open.torrent.keybinding
+msgid "Meta+O"
+msgstr ""
+
+#: Main.download.state.waiting
+msgid "_: Main.download.state.waiting\n"
+"Waiting"
+msgstr "Чекање"
+
+#: Main.download.state.allocating
+msgid "_: Main.download.state.allocating\n"
+"Allocating"
+msgstr "Заузимање"
+
+#: Main.download.state.checking
+msgid "_: Main.download.state.checking\n"
+"Checking"
+msgstr "Провера"
+
+#: Main.download.state.ready
+msgid "_: Main.download.state.ready\n"
+"Ready"
+msgstr "Спремно"
+
+#: Main.download.state.downloading
+msgid "_: Main.download.state.downloading\n"
+"Downloading"
+msgstr "Преузимање"
+
+#: Main.download.state.seeding
+msgid "_: Main.download.state.seeding\n"
+"Seeding"
+msgstr "Сејање"
+
+#: Main.download.state.stopped
+msgid "_: Main.download.state.stopped\n"
+"Stopped"
+msgstr "Заустављено"
+
+#: Main.download.state.error
+msgid "_: Main.download.state.error\n"
+"Error"
+msgstr "Грешка"
+
+#: Main.parameter.usage
+msgid "Usage : java org.gudy.azureus2.cl.Main [parameters] \"file.torrent\" \"save path\""
+msgstr "Употреба : java org.gudy.azureus2.cl.Main [параметри] \"датотека.torrent\" \"стаза за снимање\""
+
+#: Main.parameter.maxUploads
+msgid "Max number of simultaneous uploads"
+msgstr "Максималан број истовремених слања"
+
+#: Main.parameter.maxSpeed
+msgid "Max upload speed in bytes/sec"
+msgstr "Максимална брзина слања у бајтовима/s"
+
+#: MainWindow.menu.file
+msgid "&File"
+msgstr "&Датотека"
+
+#: MainWindow.menu.file.open
+msgid "_: MainWindow.menu.file.open\n"
+"&Open"
+msgstr "&Отвори"
+
+#: MainWindow.menu.file.create
+msgid "&New Torrent..."
+msgstr "&Нови торент..."
+
+#: MainWindow.menu.file.create.keybinding
+msgid "Meta+N"
+msgstr "Meta+Н"
+
+#: MainWindow.menu.file.create.fromfile
+msgid "From a &File"
+msgstr "Из &датотеке"
+
+#: MainWindow.menu.file.create.fromdir
+msgid "From a &Directory"
+msgstr "Из ди&ректоријума"
+
+#: MainWindow.menu.file.export
+msgid "&Export XML Torrent..."
+msgstr "&Извези XML торент..."
+
+#: MainWindow.menu.file.export.keybinding
+msgid "Meta+E"
+msgstr ""
+
+#: MainWindow.menu.file.export.keybinding.mac
+msgid "Meta+Shift+E"
+msgstr ""
+
+#: MainWindow.menu.file.import
+msgid "&Import XML Torrent..."
+msgstr "&Увези XML торент..."
+
+#: MainWindow.menu.file.import.keybinding
+msgid "Meta+I"
+msgstr ""
+
+#: MainWindow.menu.file.import.keybinding.mac
+msgid "Meta+Shift+I"
+msgstr ""
+
+#: MainWindow.menu.file.closetab
+msgid "Close &Tab"
+msgstr "Затвори &језичак"
+
+#: MainWindow.menu.file.closetab.keybinding
+msgid "Meta+W"
+msgstr ""
+
+#: MainWindow.menu.file.closewindow
+msgid "Close &Window"
+msgstr "Затвори &прозор"
+
+#: MainWindow.menu.file.closewindow.keybinding
+msgid "Meta+Shift+W"
+msgstr ""
+
+#: MainWindow.menu.file.exit
+msgid "_: MainWindow.menu.file.exit\n"
+"E&xit"
+msgstr "&Крај"
+
+#: MainWindow.menu.file.exit.keybinding
+msgid "Alt+F4"
+msgstr ""
+
+#: MainWindow.dialog.choose.file
+msgid "Choose the torrent file"
+msgstr "Избор торент датотеке"
+
+#: MainWindow.menu.file.folder
+msgid "&Folder..."
+msgstr "&Директоријум..."
+
+#: MainWindow.menu.file.folder.keybinding
+msgid "Meta+Shift+O"
+msgstr ""
+
+#: MainWindow.dialog.choose.folder
+msgid "Choose the directory containing the torrent files"
+msgstr "Изаберите директоријум који садржи торент датотеке"
+
+#: MainWindow.menu.view
+msgid "&View"
+msgstr "&Преглед"
+
+#: MainWindow.menu.view.show
+msgid "Show"
+msgstr "Приказ"
+
+#: MainWindow.menu.view.mytorrents
+msgid "&My Torrents"
+msgstr "&Моји торенти"
+
+#: MainWindow.menu.view.mytorrents.keybinding
+msgid "Meta+1"
+msgstr ""
+
+#: MainWindow.menu.view.configuration
+msgid "&Options..."
+msgstr "&Опције..."
+
+#: MainWindow.menu.view.configuration.keybinding
+msgid "Meta+,"
+msgstr ""
+
+#: MainWindow.menu.view.console
+msgid "C&onsole"
+msgstr "К&онзола"
+
+#: MainWindow.menu.view.console.keybinding
+msgid "Meta+4"
+msgstr ""
+
+#: MainWindow.menu.view.irc
+msgid "&Irc"
+msgstr "&ИРЦ"
+
+#: MainWindow.menu.closealldetails
+msgid "Close &All Details"
+msgstr "Затвори &све детаље"
+
+#: MainWindow.menu.closealldownloadbars
+msgid "Close All Download &Bars"
+msgstr "Затвори све &траке са преузимањима"
+
+#: MainWindow.menu.language
+msgid "&Language"
+msgstr "&Језик"
+
+#: ConfigView.section.language
+msgid "Language"
+msgstr "Језик"
+
+#: MainWindow.menu.window
+msgid "&Window"
+msgstr "&Прозор"
+
+#: MainWindow.menu.window.minimize
+msgid "&Minimize"
+msgstr "&Умањи"
+
+#: MainWindow.menu.window.minimize.keybinding
+msgid "Meta+M"
+msgstr ""
+
+#: MainWindow.menu.window.zoom
+msgid "&Zoom"
+msgstr "У&већаj"
+
+#: MainWindow.menu.window.alltofront
+msgid "Bring All to &Front"
+msgstr ""
+
+#: MainWindow.menu.help
+msgid "&Help"
+msgstr ""
+
+#: MainWindow.menu.help.about
+msgid "About Azureus"
+msgstr ""
+
+#: MainWindow.about.title
+msgid "About"
+msgstr ""
+
+#: MainWindow.about.section.developers
+msgid "Developers"
+msgstr ""
+
+#: MainWindow.about.section.translators
+msgid "Translators"
+msgstr ""
+
+#: MainWindow.about.section.internet
+msgid "Internet"
+msgstr ""
+
+#: MainWindow.about.internet.homepage
+msgid "Azureus Homepage"
+msgstr ""
+
+#: MainWindow.about.internet.sourceforge
+msgid "Sourceforge Project Page"
+msgstr ""
+
+#: MainWindow.about.internet.sourceforgedownloads
+msgid "Sourceforge Downloads"
+msgstr ""
+
+#: MainWindow.about.internet.bugreports
+msgid "Bug Reports"
+msgstr ""
+
+#: MainWindow.about.internet.forumdiscussion
+msgid "Forums"
+msgstr ""
+
+#: MainWindow.about.internet.wiki
+msgid "Azureus Wiki FAQ"
+msgstr ""
+
+#: MainWindow.dialog.choose.savepath
+msgid "Choose the save path"
+msgstr ""
+
+#: MainWindow.dialog.choose.savepath_forallfiles
+msgid "Choose the save path for ALL files"
+msgstr ""
+
+#: MainWindow.status.latestversion
+msgid "Latest"
+msgstr ""
+
+#: MainWindow.status.latestversion.clickupdate
+msgid "Click to update"
+msgstr ""
+
+#: MainWindow.status.unknown
+msgid "unknown"
+msgstr ""
+
+#: MainWindow.status.checking
+msgid "checking"
+msgstr ""
+
+#: MyTorrentsView.mytorrents
+msgid "My Torrents"
+msgstr ""
+
+#: MyTorrentsView.name
+msgid "_: MyTorrentsView.name\n"
+"Name"
+msgstr ""
+
+#: MyTorrentsView.size
+msgid "_: MyTorrentsView.size\n"
+"Size"
+msgstr ""
+
+#: MyTorrentsView.done
+msgid "_: MyTorrentsView.done\n"
+"Done"
+msgstr ""
+
+#: MyTorrentsView.done.info
+msgid "Percentage done of current task"
+msgstr ""
+
+#: MyTorrentsView.status
+msgid "_: MyTorrentsView.status\n"
+"Status"
+msgstr ""
+
+#: MyTorrentsView.status.info
+msgid "What the torrent is doing"
+msgstr ""
+
+#: MyTorrentsView.seeds
+msgid "_: MyTorrentsView.seeds\n"
+"Seeds"
+msgstr ""
+
+#: MyTorrentsView.seeds.info
+msgid "# seeds connected to (# seeds total)"
+msgstr ""
+
+#: MyTorrentsView.peers
+msgid "_: MyTorrentsView.peers\n"
+"Peers"
+msgstr ""
+
+#: MyTorrentsView.peers.info
+msgid "# peers connected to (# peers total)"
+msgstr ""
+
+#: MyTorrentsView.downspeed
+msgid "_: MyTorrentsView.downspeed\n"
+"Down Speed"
+msgstr ""
+
+#: MyTorrentsView.upspeed
+msgid "_: MyTorrentsView.upspeed\n"
+"Up Speed"
+msgstr ""
+
+#: MyTorrentsView.eta
+msgid "ETA"
+msgstr ""
+
+#: MyTorrentsView.tracker
+msgid "Tracker Status"
+msgstr ""
+
+#: MyTorrentsView.tracker.info
+msgid "Status of tracker"
+msgstr ""
+
+#: MyTorrentsView.trackernextaccess
+msgid "Next Tracker Access"
+msgstr ""
+
+#: MyTorrentsView.trackernextaccess.info
+msgid "When the next tracker access will occur"
+msgstr ""
+
+#: MyTorrentsView.priority
+msgid "_: MyTorrentsView.priority\n"
+"Priority"
+msgstr ""
+
+#: MyTorrentsView.priority.info
+msgid "Determines how much upload bandwidth the torrent is given"
+msgstr ""
+
+#: MyTorrentsView.menu.showdetails
+msgid "Show &Details"
+msgstr ""
+
+#: MyTorrentsView.menu.showdownloadbar
+msgid "Show Download &Bar"
+msgstr ""
+
+#: MyTorrentsView.menu.open
+msgid "&Open File"
+msgstr ""
+
+#: MyTorrentsView.menu.setpriority
+msgid "Set &Priority"
+msgstr ""
+
+#: MyTorrentsView.menu.setpriority.high
+msgid "_: MyTorrentsView.menu.setpriority.high\n"
+"&High"
+msgstr ""
+
+#: MyTorrentsView.menu.setpriority.low
+msgid "&Low"
+msgstr ""
+
+#: MyTorrentsView.menu.start
+msgid "&Start"
+msgstr ""
+
+#: MyTorrentsView.menu.stop
+msgid "Sto&p"
+msgstr ""
+
+#: MyTorrentsView.menu.remove
+msgid "&Remove"
+msgstr ""
+
+#: MyTorrentsView.menu.changeTracker
+msgid "&Add Tracker URL"
+msgstr ""
+
+#: TrayWindow.menu.exit
+msgid "_: TrayWindow.menu.exit\n"
+"E&xit"
+msgstr ""
+
+#: TrayWindow.menu.show
+msgid "_: TrayWindow.menu.show\n"
+"&Show Azureus"
+msgstr ""
+
+#: SystemTray.menu.exit
+msgid "_: SystemTray.menu.exit\n"
+"E&xit"
+msgstr ""
+
+#: SystemTray.menu.closealldownloadbars
+msgid "Close &All Download Bars"
+msgstr ""
+
+#: SystemTray.menu.show
+msgid "_: SystemTray.menu.show\n"
+"&Show Azureus"
+msgstr ""
+
+#: PeersView.ip
+msgid "IP"
+msgstr ""
+
+#: PeersView.ip.info
+msgid "IP of the peer"
+msgstr ""
+
+#: PeersView.port
+msgid "_: PeersView.port\n"
+"Port"
+msgstr ""
+
+#: PeersView.port.info
+msgid "Port being used"
+msgstr ""
+
+#: PeersView.T
+msgid "T"
+msgstr ""
+
+#: PeersView.T.info
+msgid "l (local): you established the connection, r (remote): the peer established the connection."
+msgstr ""
+
+#: PeersView.I1
+msgid "I (Interested by the peer)"
+msgstr ""
+
+#: PeersView.I1.info
+msgid "Are you interested in what the other peer has?"
+msgstr ""
+
+#: PeersView.C1
+msgid "C (Choked by the peer)"
+msgstr ""
+
+#: PeersView.C1.info
+msgid "Whether the peer is stopping you from downloading"
+msgstr ""
+
+#: PeersView.pieces
+msgid "_: PeersView.pieces\n"
+"Pieces"
+msgstr ""
+
+#: PeersView.%
+msgid "_: PeersView.%\n"
+"%"
+msgstr ""
+
+#: PeersView.downloadspeed
+msgid "_: PeersView.downloadspeed\n"
+"Down Speed"
+msgstr ""
+
+#: PeersView.download
+msgid "Down"
+msgstr ""
+
+#: PeersView.I2
+msgid "I (Interesting for the peer)"
+msgstr ""
+
+#: PeersView.I2.info
+msgid "Is the peer interested in what you have?"
+msgstr ""
+
+#: PeersView.C2
+msgid "C (Choking the peer)"
+msgstr ""
+
+#: PeersView.C2.info
+msgid "Whether you are blocking the peer from downloading"
+msgstr ""
+
+#: PeersView.uploadspeed
+msgid "_: PeersView.uploadspeed\n"
+"Up Speed"
+msgstr ""
+
+#: PeersView.uploadspeed.info
+msgid "Your uploading speed to the peer"
+msgstr ""
+
+#: PeersView.upload
+msgid "Up"
+msgstr ""
+
+#: PeersView.upload.info
+msgid "Your overall upload to the peer."
+msgstr ""
+
+#: PeersView.statup
+msgid "Stat Up"
+msgstr ""
+
+#: PeersView.statup.info
+msgid "An estimated value of the upload speed of the peer"
+msgstr ""
+
+#: PeersView.S
+msgid "S"
+msgstr ""
+
+#: PeersView.S.info
+msgid "Snubbed: A peer can be \"snubbed\" manually, or automatically (for not delivering data at a high enough rate)"
+msgstr ""
+
+#: PeersView.downloadspeedoverall
+msgid "Overall Down Speed"
+msgstr ""
+
+#: PeersView.optunchoke
+msgid "Opt. Unchoke"
+msgstr ""
+
+#: PeersView.client
+msgid "_: PeersView.client\n"
+"Client"
+msgstr ""
+
+#: PeersView.client.info
+msgid "Type of BT client the peer is using"
+msgstr ""
+
+#: PeersView.menu.snubbed
+msgid "&Snubbed"
+msgstr ""
+
+#: PeersView.title.short
+msgid "_: PeersView.title.short\n"
+"Peers"
+msgstr ""
+
+#: PeersView.title.full
+msgid "_: PeersView.title.full\n"
+"Peers"
+msgstr ""
+
+#: ConfigView.section.files
+msgid "_: ConfigView.section.files\n"
+"Files"
+msgstr ""
+
+#: ConfigView.label.usefastresume
+msgid "Use Fast Resume mode"
+msgstr ""
+
+#: ConfigView.label.incrementalfile
+msgid "Enable incremental file creation [Required for FAT32 under Linux]"
+msgstr ""
+
+#: ConfigView.label.defaultsavepath
+msgid "Save to default data directory"
+msgstr ""
+
+#: ConfigView.button.browse
+msgid "_: ConfigView.button.browse\n"
+"Browse..."
+msgstr ""
+
+#: ConfigView.dialog.choosedefaultsavepath
+msgid "Please choose the default save directory"
+msgstr ""
+
+#: ConfigView.section.server
+msgid "Connection"
+msgstr ""
+
+#: ConfigView.section.global
+msgid "_: ConfigView.section.global\n"
+"General"
+msgstr ""
+
+#: ConfigView.label.disconnetseed
+msgid "Disconnect seeds when seeding"
+msgstr ""
+
+#: ConfigView.label.switchpriority
+msgid "Auto-switch to low-priority when seeding"
+msgstr ""
+
+#: ConfigView.label.maxdownloads
+msgid "Max simultaneous downloads [0: unlimited]\n"
+" - Cannot be higher than the number of max active torrents"
+msgstr ""
+
+#: ConfigView.label.maxdownloads.tooltip
+msgid "You will always be able to actively download the number you provide here, with one exception.\n"
+"A completed torrent matching First Priority may take over an active download slot if absolutely required."
+msgstr ""
+
+#: ConfigView.label.maxactivetorrents
+msgid "Max active torrents [0: unlimited]\n"
+" - New torrents won't start if you are downloading/seeding more"
+msgstr ""
+
+#: ConfigView.label.priorityExtensions
+msgid "Auto-prioritize files with extension\n"
+" - eg: .txt;.nfo;.jpg"
+msgstr ""
+
+#: ConfigView.section.transfer
+msgid "_: ConfigView.section.transfer\n"
+"Transfer"
+msgstr ""
+
+#: ConfigView.label.maxuploads
+msgid "Default max upload slots per torrent"
+msgstr ""
+
+#: ConfigView.label.maxuploadspeed
+msgid "KB/s global max upload speed [0: unlimited]"
+msgstr ""
+
+#: ConfigView.label.saveresumeinterval
+msgid "Update resume data every"
+msgstr ""
+
+#: ConfigView.unlimited
+msgid "_: ConfigView.unlimited\n"
+"Unlimited"
+msgstr ""
+
+#: ConfigView.section.display
+msgid "Display"
+msgstr ""
+
+#: ConfigView.label.opendetails
+msgid "Auto open details tab"
+msgstr ""
+
+#: ConfigView.label.openbar
+msgid "Auto open download bar"
+msgstr ""
+
+#: ConfigView.label.closetotray
+msgid "Close minimizes to System Tray"
+msgstr ""
+
+#: ConfigView.label.minimizetotray
+msgid "Minimize minimizes to System Tray"
+msgstr ""
+
+#: ConfigView.section.general
+msgid "_: ConfigView.section.general\n"
+"General"
+msgstr ""
+
+#: ConfigView.section.start
+msgid "_: ConfigView.section.start\n"
+"Start"
+msgstr ""
+
+#: ConfigView.label.showsplash
+msgid "Show splash screen"
+msgstr ""
+
+#: ConfigView.label.autoupdate
+msgid "Open Upgrade dialog when newer version is available"
+msgstr ""
+
+#: ConfigView.label.openconsole
+msgid "Open Console on startup"
+msgstr ""
+
+#: ConfigView.label.openconfig
+msgid "Open Options on startup"
+msgstr ""
+
+#: ConfigView.label.startminimized
+msgid "Start minimized"
+msgstr ""
+
+#: ConfigView.section.irc
+msgid "_: ConfigView.section.irc\n"
+"Irc"
+msgstr ""
+
+#: ConfigView.label.ircserver
+msgid "_: ConfigView.label.ircserver\n"
+"Server"
+msgstr ""
+
+#: ConfigView.label.ircchannel
+msgid "_: ConfigView.label.ircchannel\n"
+"Channel"
+msgstr ""
+
+#: ConfigView.label.irclogin
+msgid "Nickname"
+msgstr ""
+
+#: ConfigView.section.security
+msgid "_: ConfigView.section.security\n"
+"Security"
+msgstr ""
+
+#: ConfigView.label.password
+msgid "Protect Azureus using a password\n"
+" - Will be asked when de-iconifying and when started."
+msgstr ""
+
+#: ConfigView.label.passwordconfirm
+msgid "Password (confirm)"
+msgstr ""
+
+#: ConfigView.label.passwordmatch
+msgid "Password activated :"
+msgstr ""
+
+#: ConfigView.label.passwordmatchnone
+msgid "_: ConfigView.label.passwordmatchnone\n"
+"No"
+msgstr ""
+
+#: ConfigView.label.passwordmatchno
+msgid "No / Passwords don't match"
+msgstr ""
+
+#: ConfigView.label.passwordmatchyes
+msgid "_: ConfigView.label.passwordmatchyes\n"
+"Yes"
+msgstr ""
+
+#: ConfigView.button.save
+msgid "_: ConfigView.button.save\n"
+"Save"
+msgstr ""
+
+#: ConfigView.title.short
+msgid "_: ConfigView.title.short\n"
+"Options"
+msgstr ""
+
+#: ConfigView.title.full
+msgid "_: ConfigView.title.full\n"
+"Options"
+msgstr ""
+
+#: ConsoleView.title.short
+msgid "_: ConsoleView.title.short\n"
+"Console"
+msgstr ""
+
+#: ConsoleView.title.full
+msgid "_: ConsoleView.title.full\n"
+"Console"
+msgstr ""
+
+#: FileItem.write
+msgid "write"
+msgstr ""
+
+#: FileItem.read
+msgid "read"
+msgstr ""
+
+#: FileItem.normal
+msgid "normal"
+msgstr ""
+
+#: FileItem.high
+msgid "_: FileItem.high\n"
+"high"
+msgstr ""
+
+#: FileItem.donotdownload
+msgid "Do not download"
+msgstr ""
+
+#: FilesView.name
+msgid "_: FilesView.name\n"
+"Name"
+msgstr ""
+
+#: FilesView.size
+msgid "_: FilesView.size\n"
+"Size"
+msgstr ""
+
+#: FilesView.done
+msgid "_: FilesView.done\n"
+"Done"
+msgstr ""
+
+#: FilesView.%
+msgid "_: FilesView.%\n"
+"%"
+msgstr ""
+
+#: FilesView.firstpiece
+msgid "First piece \\#"
+msgstr ""
+
+#: FilesView.numberofpieces
+msgid "\\# of pieces"
+msgstr ""
+
+#: FilesView.pieces
+msgid "_: FilesView.pieces\n"
+"Pieces"
+msgstr ""
+
+#: FilesView.mode
+msgid "Mode"
+msgstr ""
+
+#: FilesView.priority
+msgid "_: FilesView.priority\n"
+"Priority"
+msgstr ""
+
+#: FilesView.menu.open
+msgid "_: FilesView.menu.open\n"
+"&Open"
+msgstr ""
+
+#: FilesView.menu.setpriority
+msgid "&Set Priority"
+msgstr ""
+
+#: FilesView.menu.setpriority.high
+msgid "_: FilesView.menu.setpriority.high\n"
+"&High"
+msgstr ""
+
+#: FilesView.menu.setpriority.normal
+msgid "&Normal"
+msgstr ""
+
+#: FilesView.menu.setpriority.skipped
+msgid "&Do not download"
+msgstr ""
+
+#: FilesView.title.short
+msgid "_: FilesView.title.short\n"
+"Files"
+msgstr ""
+
+#: FilesView.title.full
+msgid "_: FilesView.title.full\n"
+"Files"
+msgstr ""
+
+#: GeneralView.section.downloaded
+msgid "_: GeneralView.section.downloaded\n"
+"Downloaded"
+msgstr ""
+
+#: GeneralView.label.status.file
+msgid "File Status"
+msgstr ""
+
+#: GeneralView.label.status.pieces
+msgid "_: GeneralView.label.status.pieces\n"
+"Pieces Status"
+msgstr ""
+
+#: GeneralView.section.availability
+msgid "_: GeneralView.section.availability\n"
+"Availability"
+msgstr ""
+
+#: GeneralView.label.status.pieces_available
+msgid "_: GeneralView.label.status.pieces_available\n"
+"Pieces Status"
+msgstr ""
+
+#: GeneralView.section.transfer
+msgid "_: GeneralView.section.transfer\n"
+"Transfer"
+msgstr ""
+
+#: GeneralView.section.info
+msgid "Info"
+msgstr ""
+
+#: GeneralView.title.short
+msgid "_: GeneralView.title.short\n"
+"General"
+msgstr ""
+
+#: GeneralView.title.full
+msgid "_: GeneralView.title.full\n"
+"General"
+msgstr ""
+
+#: GeneralView.label.timeelapsed
+msgid "Time Elapsed :"
+msgstr ""
+
+#: GeneralView.label.remaining
+msgid "Remaining :"
+msgstr ""
+
+#: GeneralView.label.downloaded
+msgid "Downloaded :"
+msgstr ""
+
+#: GeneralView.label.downloadspeed
+msgid "Download Speed :"
+msgstr ""
+
+#: GeneralView.label.maxuploads
+msgid "Upload Slots :"
+msgstr ""
+
+#: GeneralView.label.maxuploads.tooltip
+msgid "Maximum number of peers that will be unchoked at any given time."
+msgstr ""
+
+#: GeneralView.label.uploaded
+msgid "Uploaded :"
+msgstr ""
+
+#: GeneralView.label.uploadspeed
+msgid "Upload Speed :"
+msgstr ""
+
+#: GeneralView.label.seeds
+msgid "Seeds :"
+msgstr ""
+
+#: GeneralView.label.peers
+msgid "Peers :"
+msgstr ""
+
+#: GeneralView.label.totalspeed
+msgid "Swarm Speed :"
+msgstr ""
+
+#: GeneralView.label.totalspeed.tooltip
+msgid "Total (and average) speed of all clients you are connected to."
+msgstr ""
+
+#: GeneralView.label.averagespeed
+msgid "average"
+msgstr ""
+
+#: GeneralView.label.filename
+msgid "File Name :"
+msgstr ""
+
+#: GeneralView.label.totalsize
+msgid "Total Size :"
+msgstr ""
+
+#: GeneralView.label.savein
+msgid "Save In :"
+msgstr ""
+
+#: GeneralView.label.hash
+msgid "Hash :"
+msgstr ""
+
+#: GeneralView.label.numberofpieces
+msgid "\\# of Pieces :"
+msgstr ""
+
+#: GeneralView.label.size
+msgid "Size :"
+msgstr ""
+
+#: GeneralView.label.tracker
+msgid "Tracker Status :"
+msgstr ""
+
+#: GeneralView.label.updatein
+msgid "Update in :"
+msgstr ""
+
+#: GeneralView.label.trackerurl
+msgid "Tracker URL :"
+msgstr ""
+
+#: GeneralView.label.trackerurlupdate
+msgid "Update Tracker"
+msgstr ""
+
+#: GeneralView.label.comment
+msgid "Comment :"
+msgstr ""
+
+#: ManagerItem.waiting
+msgid "_: ManagerItem.waiting\n"
+"Waiting"
+msgstr ""
+
+#: ManagerItem.allocating
+msgid "_: ManagerItem.allocating\n"
+"Allocating"
+msgstr ""
+
+#: ManagerItem.checking
+msgid "_: ManagerItem.checking\n"
+"Checking"
+msgstr ""
+
+#: ManagerItem.ready
+msgid "_: ManagerItem.ready\n"
+"Ready"
+msgstr ""
+
+#: ManagerItem.downloading
+msgid "_: ManagerItem.downloading\n"
+"Downloading"
+msgstr ""
+
+#: ManagerItem.seeding
+msgid "_: ManagerItem.seeding\n"
+"Seeding"
+msgstr ""
+
+#: ManagerItem.stopped
+msgid "_: ManagerItem.stopped\n"
+"Stopped"
+msgstr ""
+
+#: ManagerItem.error
+msgid "_: ManagerItem.error\n"
+"Error"
+msgstr ""
+
+#: ManagerItem.high
+msgid "_: ManagerItem.high\n"
+"high"
+msgstr ""
+
+#: ManagerItem.low
+msgid "low"
+msgstr ""
+
+#: MinimizedWindow.name
+msgid "Name:"
+msgstr ""
+
+#: PiecesView.#
+msgid "_: PiecesView.#\n"
+"#"
+msgstr ""
+
+#: PiecesView.size
+msgid "_: PiecesView.size\n"
+"Size"
+msgstr ""
+
+#: PiecesView.numberofblocks
+msgid "\\# of Blocks"
+msgstr ""
+
+#: PiecesView.blocks
+msgid "Blocks"
+msgstr ""
+
+#: PiecesView.completed
+msgid "_: PiecesView.completed\n"
+"Completed"
+msgstr ""
+
+#: PiecesView.availability
+msgid "_: PiecesView.availability\n"
+"Availability"
+msgstr ""
+
+#: PiecesView.reservedby
+msgid "Reserved"
+msgstr ""
+
+#: PiecesView.writers
+msgid "Block Contributors"
+msgstr ""
+
+#: PiecesView.title.short
+msgid "_: PiecesView.title.short\n"
+"Pieces"
+msgstr ""
+
+#: PiecesView.title.full
+msgid "_: PiecesView.title.full\n"
+"Pieces"
+msgstr ""
+
+#: SystemTray.tooltip.seeding
+msgid "\\ seeding,"
+msgstr ""
+
+#: SystemTray.tooltip.downloading
+msgid "\\ downloading,"
+msgstr ""
+
+#: DownloadManager.error.filenotfound
+msgid "File Not Found"
+msgstr ""
+
+#: DownloadManager.error.fileempty
+msgid "Torrent file is empty"
+msgstr ""
+
+#: DownloadManager.error.filetoobig
+msgid "Torrent file is too big"
+msgstr ""
+
+#: DownloadManager.error.filewithouttorrentinfo
+msgid "No Torrent information found in file"
+msgstr ""
+
+#: DownloadManager.error.unsupportedencoding
+msgid "Unsupported Encoding"
+msgstr ""
+
+#: DownloadManager.error.ioerror
+msgid "IO Error"
+msgstr ""
+
+#: DownloadManager.error.sha1
+msgid "No such Algorithm (SHA1) Error"
+msgstr ""
+
+#: PeerManager.status.offline
+msgid "Connection Error"
+msgstr ""
+
+#: PeerManager.status.ok
+msgid "_: PeerManager.status.ok\n"
+"OK"
+msgstr ""
+
+#: PeerManager.status.checking
+msgid "_: PeerManager.status.checking\n"
+"Checking"
+msgstr ""
+
+#: PeerManager.status.finished
+msgid "Finished"
+msgstr ""
+
+#: PeerManager.status.finishedin
+msgid "Finished in"
+msgstr ""
+
+#: MainWindow.upgrade.assistant
+msgid "Upgrade Assistant"
+msgstr ""
+
+#: MainWindow.upgrade.newerversion
+msgid "There is a newer version of Azureus available for download"
+msgstr ""
+
+#: MainWindow.upgrade.explanation
+msgid "This assistant will download the new version into your Azureus folder and restart Azureus"
+msgstr ""
+
+#: MainWindow.upgrade.explanation.manual
+msgid "You can update manually by closing Azureus, downloading the new Version and restarting Azureus"
+msgstr ""
+
+#: MainWindow.upgrade.step1
+msgid "Step 1: Download the new version"
+msgstr ""
+
+#: MainWindow.upgrade.step2
+msgid "Step 2: Close this version and restart the new version of Azureus"
+msgstr ""
+
+#: MainWindow.upgrade.hint1
+msgid "Hint:	Pressing Finish does everything automatic"
+msgstr ""
+
+#: MainWindow.upgrade.hint2
+msgid "Hint:	If you want to close Azureus later, press Cancel and\n"
+"	rename Azureus2-new.jar to Azureus2.jar after closing"
+msgstr ""
+
+#: MainWindow.upgrade.error.downloading.hint
+msgid "Error:	Unable to download new version, please update manually"
+msgstr ""
+
+#: MainWindow.upgrade.section.info
+msgid "New Version Available"
+msgstr ""
+
+#: MainWindow.upgrade.section.manual
+msgid "Manual Update"
+msgstr ""
+
+#: MainWindow.upgrade.section.automatic
+msgid "Automatic Update"
+msgstr ""
+
+#: MainWindow.upgrade.tooltip.progressbar
+msgid "The download progress is shown here"
+msgstr ""
+
+#: Button.next
+msgid "Next"
+msgstr ""
+
+#: Button.finish
+msgid "_: Button.finish\n"
+"Finish"
+msgstr ""
+
+#: Button.cancel
+msgid "_: Button.cancel\n"
+"Cancel"
+msgstr ""
+
+#: LocaleUtil.title
+msgid "Choose Encoding"
+msgstr ""
+
+#: LocaleUtil.section.chooseencoding
+msgid "Choose encoding for filename"
+msgstr ""
+
+#: LocaleUtil.label.chooseencoding
+msgid "Please select the best matching encoding"
+msgstr ""
+
+#: LocaleUtil.label.hint.doubleclick
+msgid "Hint: double-clicking on a row chooses encoding and closes the dialog"
+msgstr ""
+
+#: LocaleUtil.label.checkbox.rememberdecision
+msgid "Remember decision for remaining filenames"
+msgstr ""
+
+#: LocaleUtil.column.filename
+msgid "Filename"
+msgstr ""
+
+#: LocaleUtil.column.encoding
+msgid "Encoding"
+msgstr ""
+
+#: IrcClient.copyright
+msgid "Using the PircBot Java IRC API - http://www.jibble.org/pircbot.php"
+msgstr ""
+
+#: IrcClient.connecting
+msgid "Connecting to"
+msgstr ""
+
+#: IrcClient.connected
+msgid "Connected to"
+msgstr ""
+
+#: IrcClient.joining
+msgid "Joining"
+msgstr ""
+
+#: IrcClient.channel
+msgid "_: IrcClient.channel\n"
+"Channel"
+msgstr ""
+
+#: IrcClient.joined
+msgid "joined"
+msgstr ""
+
+#: IrcClient.error
+msgid "_: IrcClient.error\n"
+"Error"
+msgstr ""
+
+#: IrcClient.hasjoined
+msgid "has joined"
+msgstr ""
+
+#: IrcClient.haskicked
+msgid "has kicked"
+msgstr ""
+
+#: IrcClient.hasleft
+msgid "has left"
+msgstr ""
+
+#: IrcClient.nowknown
+msgid "is now known as"
+msgstr ""
+
+#: IrcClient.topicforchannel
+msgid "Topic for channel"
+msgstr ""
+
+#: IrcClient.disconnected
+msgid "Disconnected from"
+msgstr ""
+
+#: IrcClient.noNick
+msgid "No Nickname Specified. Please go to 'Options' View"
+msgstr ""
+
+#: IrcView.title.short
+msgid "_: IrcView.title.short\n"
+"Irc"
+msgstr ""
+
+#: IrcView.title.full
+msgid "_: IrcView.title.full\n"
+"Irc"
+msgstr ""
+
+#: IrcView.actionnotsupported
+msgid "This action isn't supported"
+msgstr ""
+
+#: IrcView.clientsconnected
+msgid "users"
+msgstr ""
+
+#: IrcView.privateto
+msgid "To"
+msgstr ""
+
+#: IrcView.privatefrom
+msgid "From"
+msgstr ""
+
+#: IrcView.noticefrom
+msgid "Notice :"
+msgstr ""
+
+#: IrcView.errormsg
+msgid "Wrong Syntax on /msg : /msg user text"
+msgstr ""
+
+#: IrcView.help
+msgid "Valid commands are :\n"
+" . /help : displays this message\n"
+" . /nick | /name : changes your name \n"
+" . /me action : sends an action \n"
+" . /msg nick message : sends a private message to <nick>\n"
+" . /r message : reply to last private message\n"
+" . /join #channel : changes current channel"
+msgstr ""
+
+#: PasswordWindow.title
+msgid "Azureus is locked"
+msgstr ""
+
+#: PasswordWindow.passwordprotected
+msgid "Azureus is password protected.\n"
+"To show Azureus window, please enter your password here :"
+msgstr ""
+
+#: Button.ok
+msgid "_: Button.ok\n"
+"OK"
+msgstr ""
+
+#: TrackerChangerWindow.title
+msgid "Add Tracker"
+msgstr ""
+
+#: TrackerChangerWindow.newtracker
+msgid "Enter new tracker url"
+msgstr ""
+
+#: PeersView.discarded
+msgid "Discarded"
+msgstr ""
+
+#: PeersView.discarded.info
+msgid "Data you somehow received although you didn't need it, so you got rid of it."
+msgstr ""
+
+#: discarded
+msgid "discarded"
+msgstr ""
+
+#: MyTorrentsView.#
+msgid "_: MyTorrentsView.#\n"
+"#"
+msgstr ""
+
+#: MyTorrentsView.menu.move
+msgid "&Move"
+msgstr ""
+
+#: MyTorrentsView.menu.moveUp
+msgid "&Up"
+msgstr ""
+
+#: MyTorrentsView.menu.moveDown
+msgid "&Down"
+msgstr ""
+
+#: GeneralView.label.hashfails
+msgid "Hash Fails :"
+msgstr ""
+
+#: GeneralView.label.shareRatio
+msgid "Share Ratio :"
+msgstr ""
+
+#: ConfigView.section.downloadManagement
+msgid "Download Management"
+msgstr ""
+
+#: ConfigView.label.startRatioPeers
+msgid "Start seeding when there is less than 1 seed for"
+msgstr ""
+
+#: ConfigView.text.neverStop
+msgid "Never Stop"
+msgstr ""
+
+#: ConfigView.text.neverStart
+msgid "Never Start"
+msgstr ""
+
+#: ConfigView.text.peers
+msgid "_: ConfigView.text.peers\n"
+"Peers"
+msgstr ""
+
+#: ConfigView.label.checkOncompletion
+msgid "Re-check pieces when download is done"
+msgstr ""
+
+#: wizard.title
+msgid "Make a torrent"
+msgstr ""
+
+#: wizard.previous
+msgid "< Back"
+msgstr ""
+
+#: wizard.next
+msgid "Next >"
+msgstr ""
+
+#: wizard.finish
+msgid "_: wizard.finish\n"
+"Finish"
+msgstr ""
+
+#: wizard.mode
+msgid "Tracker / Mode"
+msgstr ""
+
+#: wizard.tracker
+msgid "Tracker:"
+msgstr ""
+
+#: wizard.invalidurl
+msgid "This URL isn't valid"
+msgstr ""
+
+#: wizard.singlefile
+msgid "Single file"
+msgstr ""
+
+#: wizard.singlefile.help
+msgid "Create a torrent from a single file"
+msgstr ""
+
+#: wizard.directory
+msgid "_: wizard.directory\n"
+"Directory"
+msgstr ""
+
+#: wizard.directory.help
+msgid "Create a torrent from a directory"
+msgstr ""
+
+#: wizard.choosefile
+msgid "Choose the file"
+msgstr ""
+
+#: wizard.file
+msgid "_: wizard.file\n"
+"File :"
+msgstr ""
+
+#: wizard.browse
+msgid "_: wizard.browse\n"
+"Browse..."
+msgstr ""
+
+#: wizard.choosedirectory
+msgid "Choose a directory"
+msgstr ""
+
+#: wizard.invalidfile
+msgid "Invalid File!"
+msgstr ""
+
+#: wizard.invaliddirectory
+msgid "Invalid Directory!"
+msgstr ""
+
+#: wizard.torrentFile
+msgid "Torrent File"
+msgstr ""
+
+#: wizard.choosetorrent
+msgid "Please choose the torrent file to create"
+msgstr ""
+
+#: wizard.information
+msgid "_: wizard.information\n"
+"Information"
+msgstr ""
+
+#: wizard.notimplemented
+msgid "Not yet implemented"
+msgstr ""
+
+#: wizard.progresstitle
+msgid "Creating Torrent File"
+msgstr ""
+
+#: wizard.savingfile
+msgid "Saving File..."
+msgstr ""
+
+#: wizard.filesaved
+msgid "File saved."
+msgstr ""
+
+#: wizard.close
+msgid "_: wizard.close\n"
+"Close"
+msgstr ""
+
+#: Torrent.create.progress.piecelength
+msgid "Piece length:"
+msgstr ""
+
+#: Torrent.create.progress.piececount
+msgid "Piece count:"
+msgstr ""
+
+#: Torrent.create.progress.totalfilesize
+msgid "Total file size:"
+msgstr ""
+
+#: Torrent.create.progress.totalfilecount
+msgid "Total file count:"
+msgstr ""
+
+#: Torrent.create.progress.parsingfiles
+msgid "Parsing files"
+msgstr ""
+
+#: Torrent.create.progress.hashing
+msgid "Hashing files"
+msgstr ""
+
+#: MainWindow.upgrade.downloadingfrom
+msgid "Downloading from :"
+msgstr ""
+
+#: MainWindow.menu.view.ipFilter
+msgid "&IP Filters"
+msgstr ""
+
+#: ConfigView.section.ipfilter
+msgid "IP Filters"
+msgstr ""
+
+#: ConfigView.section.ipfilter.description
+msgid "_: ConfigView.section.ipfilter.description\n"
+"Description"
+msgstr ""
+
+#: ConfigView.section.ipfilter.start
+msgid "Start IP"
+msgstr ""
+
+#: ConfigView.section.ipfilter.end
+msgid "End IP"
+msgstr ""
+
+#: ConfigView.section.ipfilter.add
+msgid "Add"
+msgstr ""
+
+#: ConfigView.section.ipfilter.remove
+msgid "_: ConfigView.section.ipfilter.remove\n"
+"Remove"
+msgstr ""
+
+#: ConfigView.section.ipfilter.edit
+msgid "_: ConfigView.section.ipfilter.edit\n"
+"Edit"
+msgstr ""
+
+#: ConfigView.section.ipfilter.save
+msgid "_: ConfigView.section.ipfilter.save\n"
+"Save"
+msgstr ""
+
+#: ConfigView.section.ipfilter.editFilter
+msgid "Edit Filter"
+msgstr ""
+
+#: ConfigView.section.ipfilter.enable
+msgid "_: ConfigView.section.ipfilter.enable\n"
+"Enable"
+msgstr ""
+
+#: PeersView.menu.close
+msgid "&Close"
+msgstr ""
+
+#: seedmore.title
+msgid "Torrent is not seeded enough"
+msgstr ""
+
+#: seedmore.shareratio
+msgid "Your share ratio on this torrent is of"
+msgstr ""
+
+#: seedmore.uploadmore
+msgid "Having a share ratio under 100 percent is not a good thing for the bittorrent network.\n"
+"You should let this torrent seed a little bit more.\n"
+"Are you sure you want to proceed?"
+msgstr ""
+
+#: ConfigView.label.showpopuponclose
+msgid "Show confirmation popup when stopping seeding with a share ratio lower than 1"
+msgstr ""
+
+#: ConfigView.label.startNumSeeds
+msgid "Start seeding if there is less than\n"
+" - Overrides all other rules"
+msgstr ""
+
+#: ConfigView.label.seeds
+msgid "seeds"
+msgstr ""
+
+#: ConfigView.section.seeding
+msgid "_: ConfigView.section.seeding\n"
+"Seeding"
+msgstr ""
+
+#: MyTorrentsView.menu.removeand
+msgid "Remo&ve and"
+msgstr ""
+
+#: MyTorrentsView.menu.removeand.deletetorrent
+msgid "Delete &Torrent File"
+msgstr ""
+
+#: MyTorrentsView.menu.removeand.deletedata
+msgid "Delete &Data"
+msgstr ""
+
+#: MyTorrentsView.menu.removeand.deleteboth
+msgid "Delete &Both"
+msgstr ""
+
+#: deletedata.title
+msgid "_: deletedata.title\n"
+"Warning"
+msgstr ""
+
+#: deletedata.message1
+msgid "You are about to delete the DATA from :"
+msgstr ""
+
+#: deletedata.message2
+msgid "_: deletedata.message2\n"
+"Are you sure you want to proceed?"
+msgstr ""
+
+#: MainWindow.menu.file.configure
+msgid "Configuration &Wizard..."
+msgstr ""
+
+#: configureWizard.title
+msgid "Configuration Wizard"
+msgstr ""
+
+#: configureWizard.welcome.title
+msgid "Welcome to the Azureus Configuration Wizard"
+msgstr ""
+
+#: configureWizard.welcome.message
+msgid "This wizard will help you configure Azureus for most common use. You can modify the configuration in depth using the Tools->Options menu."
+msgstr ""
+
+#: configureWizard.transfer.title
+msgid "Transfer and Connection setup"
+msgstr ""
+
+#: configureWizard.transfer.hint
+msgid "Hint : Using a little bit less than your line speed is the best setting."
+msgstr ""
+
+#: configureWizard.transfer.message
+msgid "Please choose a connection below. Be aware that not allowing enough upload speed will result in slow download speeds. As upload speed only counts PER torrent you're downloading, trying to download too many torrents at the same time will also result in slow speeds. We recommend using 5KB/s per torrent as a STRICT minimum. The faster you upload, the faster you'll download (with respect to the torrent speed)."
+msgstr ""
+
+#: configureWizard.transfer.connection
+msgid "Line"
+msgstr ""
+
+#: configureWizard.transfer.connection.0
+msgid "Custom"
+msgstr ""
+
+#: configureWizard.transfer.connection.1
+msgid "modem"
+msgstr ""
+
+#: configureWizard.transfer.connection.2
+msgid "adsl/cable xxx/128 kbps"
+msgstr ""
+
+#: configureWizard.transfer.connection.3
+msgid "adsl/cable xxx/256 kbps"
+msgstr ""
+
+#: configureWizard.transfer.connection.4
+msgid "adsl/cable xxx/384 kbps"
+msgstr ""
+
+#: configureWizard.transfer.connection.5
+msgid "adsl/cable xxx/512 kbps"
+msgstr ""
+
+#: configureWizard.transfer.connection.6
+msgid "adsl/cable xxx/768 kbps"
+msgstr ""
+
+#: configureWizard.transfer.connection.7
+msgid "adsl/cable xxx/1024 kbps"
+msgstr ""
+
+#: configureWizard.transfer.maxUpSpeed
+msgid "Max Up Speed (KB/s)"
+msgstr ""
+
+#: configureWizard.transfer.maxActiveTorrents
+msgid "Max Active"
+msgstr ""
+
+#: configureWizard.transfer.maxDownloads
+msgid "Max Downloads"
+msgstr ""
+
+#: configureWizard.transfer.maxUploadsPerTorrent
+msgid "Max Uploads per Torrent"
+msgstr ""
+
+#: configureWizard.nat.title
+msgid "NAT / Server Port"
+msgstr ""
+
+#: configureWizard.nat.message
+msgid "In order to get the best out of BitTorrent, it's highly recommended to be fully accessible from the internet. This tool lets you test and / or change the port. NOTE: Port 6880 is reserved internally, so it cannot be used."
+msgstr ""
+
+#: configureWizard.nat.test
+msgid "Test"
+msgstr ""
+
+#: configureWizard.nat.testing
+msgid "Testing port"
+msgstr ""
+
+#: configureWizard.nat.ok
+msgid "OK !"
+msgstr ""
+
+#: configureWizard.nat.ko
+msgid "NAT Error"
+msgstr ""
+
+#: configureWizard.nat.unable
+msgid "Unable to test (invalid port given, or test service failed)"
+msgstr ""
+
+#: configureWizard.file.title
+msgid "Torrents / Files"
+msgstr ""
+
+#: configureWizard.file.message1
+msgid "Azureus will save opened torrents in a specific folder, you can choose this folder here:"
+msgstr ""
+
+#: configureWizard.file.path
+msgid "_: configureWizard.file.path\n"
+"Path"
+msgstr ""
+
+#: configureWizard.file.browse
+msgid "_: configureWizard.file.browse\n"
+"Browse"
+msgstr ""
+
+#: configureWizard.file.message2
+msgid "Azureus is able to resume your files instantly, by adding some resume data to your torrents. Using this feature, you'll also resume partially downloaded pieces."
+msgstr ""
+
+#: configureWizard.file.fastResume
+msgid "Enable fast Resume"
+msgstr ""
+
+#: configureWizard.file.invalidPath
+msgid "Invalid directory"
+msgstr ""
+
+#: configureWizard.finish.title
+msgid "_: configureWizard.finish.title\n"
+"Completed"
+msgstr ""
+
+#: configureWizard.finish.message
+msgid "Azureus is now configured, have fun !"
+msgstr ""
+
+#: wizard.close.confirmation
+msgid "Confirmation"
+msgstr ""
+
+#: wizard.close.message
+msgid "Do you want this wizard to load\n"
+" next time Azureus is started?"
+msgstr ""
+
+#: exportTorrentWizard.title
+msgid "Export a XML torrent"
+msgstr ""
+
+#: exportTorrentWizard.torrentfile.title
+msgid "_: exportTorrentWizard.torrentfile.title\n"
+"Input Torrent Selection"
+msgstr ""
+
+#: exportTorrentWizard.torrentfile.message
+msgid "Select the torrent file to export"
+msgstr ""
+
+#: exportTorrentWizard.torrentfile.path
+msgid "_: exportTorrentWizard.torrentfile.path\n"
+"Path"
+msgstr ""
+
+#: exportTorrentWizard.torrentfile.browse
+msgid "_: exportTorrentWizard.torrentfile.browse\n"
+"Browse"
+msgstr ""
+
+#: exportTorrentWizard.torrentfile.invalidPath
+msgid "_: exportTorrentWizard.torrentfile.invalidPath\n"
+"Invalid torrent file"
+msgstr ""
+
+#: exportTorrentWizard.exportfile.title
+msgid "Export File Selection"
+msgstr ""
+
+#: exportTorrentWizard.exportfile.message
+msgid "Enter the xml file to export to"
+msgstr ""
+
+#: exportTorrentWizard.exportfile.path
+msgid "_: exportTorrentWizard.exportfile.path\n"
+"Path"
+msgstr ""
+
+#: exportTorrentWizard.exportfile.browse
+msgid "_: exportTorrentWizard.exportfile.browse\n"
+"Browse"
+msgstr ""
+
+#: exportTorrentWizard.exportfile.invalidPath
+msgid "Invalid export file"
+msgstr ""
+
+#: exportTorrentWizard.finish.title
+msgid "_: exportTorrentWizard.finish.title\n"
+"Completed"
+msgstr ""
+
+#: exportTorrentWizard.finish.message
+msgid "Export completed successfully"
+msgstr ""
+
+#: exportTorrentWizard.process.inputfilebad.title
+msgid "Torrent File Invalid"
+msgstr ""
+
+#: exportTorrentWizard.process.inputfilebad.message
+msgid "_: exportTorrentWizard.process.inputfilebad.message\n"
+"A failure occurred accessing the input file:"
+msgstr ""
+
+#: exportTorrentWizard.process.outputfileexists.title
+msgid "_: exportTorrentWizard.process.outputfileexists.title\n"
+"File Exists"
+msgstr ""
+
+#: exportTorrentWizard.process.outputfileexists.message
+msgid "_: exportTorrentWizard.process.outputfileexists.message\n"
+"Output file exists - overwrite?"
+msgstr ""
+
+#: exportTorrentWizard.process.torrentfail.title
+msgid "Torrent Read Fails"
+msgstr ""
+
+#: exportTorrentWizard.process.exportfail.title
+msgid "Torrent Export Fails"
+msgstr ""
+
+#: exportTorrentWizard.process.unknownfail.title
+msgid "_: exportTorrentWizard.process.unknownfail.title\n"
+"Unexpected Error"
+msgstr ""
+
+#: importTorrentWizard.title
+msgid "Import a XML torrent"
+msgstr ""
+
+#: importTorrentWizard.torrentfile.title
+msgid "_: importTorrentWizard.torrentfile.title\n"
+"Input Torrent Selection"
+msgstr ""
+
+#: importTorrentWizard.torrentfile.message
+msgid "Enter the torrent file to import into"
+msgstr ""
+
+#: importTorrentWizard.torrentfile.path
+msgid "_: importTorrentWizard.torrentfile.path\n"
+"Path"
+msgstr ""
+
+#: importTorrentWizard.torrentfile.browse
+msgid "_: importTorrentWizard.torrentfile.browse\n"
+"Browse"
+msgstr ""
+
+#: importTorrentWizard.torrentfile.invalidPath
+msgid "_: importTorrentWizard.torrentfile.invalidPath\n"
+"Invalid torrent file"
+msgstr ""
+
+#: importTorrentWizard.importfile.title
+msgid "Import File Selection"
+msgstr ""
+
+#: importTorrentWizard.importfile.message
+msgid "Select the xml file to import"
+msgstr ""
+
+#: importTorrentWizard.importfile.path
+msgid "_: importTorrentWizard.importfile.path\n"
+"Path"
+msgstr ""
+
+#: importTorrentWizard.importfile.browse
+msgid "_: importTorrentWizard.importfile.browse\n"
+"Browse"
+msgstr ""
+
+#: importTorrentWizard.importfile.invalidPath
+msgid "Invalid import file"
+msgstr ""
+
+#: importTorrentWizard.finish.title
+msgid "_: importTorrentWizard.finish.title\n"
+"Completed"
+msgstr ""
+
+#: importTorrentWizard.finish.message
+msgid "Import completed successfully"
+msgstr ""
+
+#: importTorrentWizard.process.inputfilebad.title
+msgid "Import File Invalid"
+msgstr ""
+
+#: importTorrentWizard.process.inputfilebad.message
+msgid "_: importTorrentWizard.process.inputfilebad.message\n"
+"A failure occurred accessing the input file:"
+msgstr ""
+
+#: importTorrentWizard.process.outputfileexists.title
+msgid "_: importTorrentWizard.process.outputfileexists.title\n"
+"File Exists"
+msgstr ""
+
+#: importTorrentWizard.process.outputfileexists.message
+msgid "_: importTorrentWizard.process.outputfileexists.message\n"
+"Output file exists - overwrite?"
+msgstr ""
+
+#: importTorrentWizard.process.torrentfail.title
+msgid "Torrent Write Fails"
+msgstr ""
+
+#: importTorrentWizard.process.importfail.title
+msgid "Torrent Import Fails"
+msgstr ""
+
+#: importTorrentWizard.process.unknownfail.title
+msgid "_: importTorrentWizard.process.unknownfail.title\n"
+"Unexpected Error"
+msgstr ""
+
+#: ConfigView.label.bindip
+msgid "Bind to local IP address"
+msgstr ""
+
+#: ConfigView.label.zeronewfiles
+msgid "Allocate and zero new files on creation"
+msgstr ""
+
+#: ConfigView.label.zeronewfiles.tooltip
+msgid "Minimizes fragmentation"
+msgstr ""
+
+#: ConfigView.section.stats
+msgid "_: ConfigView.section.stats\n"
+"Statistics"
+msgstr ""
+
+#: ConfigView.section.stats.enable
+msgid "_: ConfigView.section.stats.enable\n"
+"Enable"
+msgstr ""
+
+#: ConfigView.section.stats.defaultsavepath
+msgid "Statistics save directory"
+msgstr ""
+
+#: ConfigView.section.stats.choosedefaultsavepath
+msgid "Please choose the statistics save directory"
+msgstr ""
+
+#: ConfigView.section.stats.savefreq
+msgid "Save frequency"
+msgstr ""
+
+#: ConfigView.section.stats.minutes
+msgid "min"
+msgstr ""
+
+#: ConfigView.section.stats.hours
+msgid "hr"
+msgstr ""
+
+#: ConfigView.section.stats.seconds
+msgid "sec"
+msgstr ""
+
+#: ConfigView.section.stats.savefile
+msgid "Statistics file name"
+msgstr ""
+
+#: MyTorrentsView.menu.export
+msgid "&XML Torrent..."
+msgstr ""
+
+#: MyTorrentsView.menu.host
+msgid "&Host..."
+msgstr ""
+
+#: ManagerItem.finishing
+msgid "Finishing"
+msgstr ""
+
+#: ConfigView.dialog.choosedefaulttorrentpath
+msgid "Please choose the default torrent directory"
+msgstr ""
+
+#: ConfigView.dialog.choosemovepath
+msgid "Please choose the directory to move to"
+msgstr ""
+
+#: ConfigView.label.movecompleted
+msgid "Move completed files"
+msgstr ""
+
+#: ConfigView.label.savetorrents
+msgid "Save .torrent files"
+msgstr ""
+
+#: MainWindow.menu.view.mytracker
+msgid "My &Tracker"
+msgstr ""
+
+#: MainWindow.menu.view.mytracker.keybinding
+msgid "Meta+2"
+msgstr ""
+
+#: MyTrackerView.title.full
+msgid "My Tracker"
+msgstr ""
+
+#: Tab.closeHint
+msgid "(Hit 'Esc' to close)"
+msgstr ""
+
+#: MyTrackerView.name
+msgid "_: MyTrackerView.name\n"
+"Name"
+msgstr ""
+
+#: MyTrackerView.tracker
+msgid "_: MyTrackerView.tracker\n"
+"Tracker"
+msgstr ""
+
+#: MyTrackerView.status
+msgid "_: MyTrackerView.status\n"
+"Status"
+msgstr ""
+
+#: MyTrackerView.status.started
+msgid "_: MyTrackerView.status.started\n"
+"Running"
+msgstr ""
+
+#: MyTrackerView.status.stopped
+msgid "_: MyTrackerView.status.stopped\n"
+"Stopped"
+msgstr ""
+
+#: MyTrackerView.peers
+msgid "_: MyTrackerView.peers\n"
+"Peers"
+msgstr ""
+
+#: MyTrackerView.seeds
+msgid "_: MyTrackerView.seeds\n"
+"Seeds"
+msgstr ""
+
+#: MyTrackerView.announces
+msgid "Announces"
+msgstr ""
+
+#: MyTrackerView.uploaded
+msgid "_: MyTrackerView.uploaded\n"
+"Uploaded"
+msgstr ""
+
+#: MyTrackerView.downloaded
+msgid "_: MyTrackerView.downloaded\n"
+"Downloaded"
+msgstr ""
+
+#: MyTrackerView.left
+msgid "Left"
+msgstr ""
+
+#: ConfigView.section.style
+msgid "Interface"
+msgstr ""
+
+#: ConfigView.section.style.useCustomTabs
+msgid "Use closeable tabs (needs restart)"
+msgstr ""
+
+#: MainWindow.menu.view.plugins
+msgid "&Plugins"
+msgstr ""
+
+#: fileDownloadWindow.saveTorrentIn
+msgid "Save Torrent File In"
+msgstr ""
+
+#: fileDownloadWindow.title
+msgid "Azureus - Torrent Downloader"
+msgstr ""
+
+#: fileDownloadWindow.downloading
+msgid "Downloading From :"
+msgstr ""
+
+#: fileDownloadWindow.status
+msgid "Status :"
+msgstr ""
+
+#: fileDownloadWindow.state_initializing
+msgid "_: fileDownloadWindow.state_initializing\n"
+"Initializing"
+msgstr ""
+
+#: fileDownloadWindow.state_downloading
+msgid "_: fileDownloadWindow.state_downloading\n"
+"Downloading"
+msgstr ""
+
+#: fileDownloadWindow.state_error
+msgid "Error :"
+msgstr ""
+
+#: MainWindow.menu.file.open.url
+msgid "&Location..."
+msgstr ""
+
+#: MainWindow.menu.file.open.url.keybinding
+msgid "Meta+L"
+msgstr ""
+
+#: openUrl.title
+msgid "Open Location"
+msgstr ""
+
+#: openUrl.url
+msgid "URL :"
+msgstr ""
+
+#: MyTorrentsView.menu.host.error.title
+msgid "Torrent Hosting Failed"
+msgstr ""
+
+#: MyTorrentsView.menu.host.error.message
+msgid "The following error occurred when hosting the torrent"
+msgstr ""
+
+#: ConfigView.section.tracker
+msgid "_: ConfigView.section.tracker\n"
+"Tracker"
+msgstr ""
+
+#: ConfigView.section.tracker.pollinterval
+msgid "Tracker client poll interval (secs)"
+msgstr ""
+
+#: ConfigView.section.tracker.publishenable
+msgid "Publish torrent details to \"<tracker_url>\""
+msgstr ""
+
+#: ConfigView.section.tracker.ip
+msgid "Tracker external IP address"
+msgstr ""
+
+#: MainWindow.menu.help.faq
+msgid "&Frequently Asked Questions"
+msgstr ""
+
+#: MainWindow.menu.help.faq.keybinding.mac
+msgid "Meta+?"
+msgstr ""
+
+#: MainWindow.menu.help.donate
+msgid "&Make a Donation"
+msgstr ""
+
+#: ConfigView.section.style.enableXPStyle
+msgid "Enable XP style (needs restart)"
+msgstr ""
+
+#: IPChecker.external.service.dyndns.name
+msgid "DynDNS"
+msgstr ""
+
+#: IPChecker.external.service.dyndns.url
+msgid "http://www.dyndns.org/"
+msgstr ""
+
+#: IPChecker.external.service.dyndns.description
+msgid "Dynamic DNS Network Services, LLC"
+msgstr ""
+
+#: ConfigView.section.tracker.checkip
+msgid "Auto-discover external IP address..."
+msgstr ""
+
+#: ipCheckerWizard.title
+msgid "IP Checker Wizard"
+msgstr ""
+
+#: ipCheckerWizard.service
+msgid "Service"
+msgstr ""
+
+#: ipCheckerWizard.chooseService
+msgid "Please Choose an IP Checker Service from the services listed"
+msgstr ""
+
+#: ipCheckerWizard.explanations
+msgid "You can use this wizard to find out what your external IP address is. If your IP address is dynamic, we recommend that you open an account with a Dynamic DNS Service. Some such services are listed below, use the link provided to create an account (where supported). Then fill the IP address field with your dynamic hostname (e.g. myhostname.dyndns.org). You'll need a program to automatically update your Dynamic DNS Service with your IP address. That way, you'll be able to host torrents, even if your IP changes."
+msgstr ""
+
+#: ipCheckerWizard.service.description
+msgid "Description :"
+msgstr ""
+
+#: ipCheckerWizard.service.url
+msgid "Link :"
+msgstr ""
+
+#: ipCheckerWizard.progresstitle
+msgid "Checking IP"
+msgstr ""
+
+#: ipCheckerWizard.checkComplete
+msgid "Completed IP :"
+msgstr ""
+
+#: ipCheckerWizard.checkFailed
+msgid "Failed, reason :"
+msgstr ""
+
+#: wizard.tracker.local
+msgid "Use Azureus Embedded Tracker"
+msgstr ""
+
+#: wizard.tracker.external
+msgid "Use an external Tracker"
+msgstr ""
+
+#: wizard.tracker.howToLocal
+msgid "Go to 'Tools->Options->Tracker' to enable it"
+msgstr ""
+
+#: wizard.announceUrl
+msgid "Announce URL :"
+msgstr ""
+
+#: IPChecker.external.service.discoveryvip.name
+msgid "Discoveryvip"
+msgstr ""
+
+#: IPChecker.external.service.discoveryvip.url
+msgid "http://ip.discoveryvip.com/"
+msgstr ""
+
+#: IPChecker.external.service.discoveryvip.description
+msgid "Discoveryvip - IP address checking only"
+msgstr ""
+
+#: IPChecker.external.httpinvalidresponse
+msgid "Invalid HTTP response"
+msgstr ""
+
+#: IPChecker.external.loadingwebpage
+msgid "Loading web page"
+msgstr ""
+
+#: IPChecker.external.analysingresponse
+msgid "Analysing response"
+msgstr ""
+
+#: IPChecker.external.addressextracted
+msgid "Extracted IP address"
+msgstr ""
+
+#: IPChecker.external.httploadfail
+msgid "Failed to load page"
+msgstr ""
+
+#: IPChecker.external.timeout
+msgid "Timeout occurred"
+msgstr ""
+
+#: IPChecker.external.ipnotfound
+msgid "IP address not found"
+msgstr ""
+
+#: ConfigView.section.tracker.pollintervalmin
+msgid "Minimum"
+msgstr ""
+
+#: ConfigView.section.tracker.pollintervalmax
+msgid "Maximum"
+msgstr ""
+
+#: ConfigView.section.tracker.pollintervalincby
+msgid "Increase by"
+msgstr ""
+
+#: ConfigView.section.tracker.pollintervalincper
+msgid "Every 'n' clients"
+msgstr ""
+
+#: splash.loadingImages
+msgid "Loading Images"
+msgstr ""
+
+#: splash.initializeGui
+msgid "Initializing Main Window"
+msgstr ""
+
+#: splash.openViews
+msgid "Opening Views"
+msgstr ""
+
+#: splash.plugin
+msgid "Loading Plugin :"
+msgstr ""
+
+#: configureWizard.nat.tooManyPorts
+msgid "Too many ports to test (9 max)"
+msgstr ""
+
+#: ConfigView.section.style.colorScheme
+msgid "Color scheme\n"
+" - Console must be closed"
+msgstr ""
+
+#: PeerSocket.unknown
+msgid "Unknown"
+msgstr ""
+
+#: MyTorrentsView.menu.publish
+msgid "&Publish..."
+msgstr ""
+
+#: MyTrackerView.status.published
+msgid "Published"
+msgstr ""
+
+#: MyTrackerView.completed
+msgid "_: MyTrackerView.completed\n"
+"Completed"
+msgstr ""
+
+#: MainWindow.menu.file.open.torrentnodefault
+msgid "Torrent File... (No Default Save)"
+msgstr ""
+
+#: MainWindow.menu.file.open.torrentnodefault.keybinding.mac
+msgid "Meta+Opt+O"
+msgstr ""
+
+#: wizard.comment
+msgid "Comment"
+msgstr ""
+
+#: ConfigView.label.movetorrent
+msgid "Move .torrent"
+msgstr ""
+
+#: ConfigView.section.file.decoder.label
+msgid "Default torrent encoding when selection required"
+msgstr ""
+
+#: ConfigView.section.file.decoder.nodecoder
+msgid "_: ConfigView.section.file.decoder.nodecoder\n"
+"None"
+msgstr ""
+
+#: IPChecker.external.service.no-ip.name
+msgid "No-IP"
+msgstr ""
+
+#: IPChecker.external.service.no-ip.url
+msgid "http://www.no-ip.com/"
+msgstr ""
+
+#: IPChecker.external.service.no-ip.description
+msgid "Dynamic and Static DNS service provider\n"
+"(no freely available 'check address' service)"
+msgstr ""
+
+#: ConfigView.section.tracker.publicenable
+msgid "Enable external torrents"
+msgstr ""
+
+#: ConfigView.label.playdownloadspeech
+msgid "Speak when a download is finished"
+msgstr ""
+
+#: ConfigView.label.playdownloadspeech.info
+msgid "Speech Services currently works best with English"
+msgstr ""
+
+#
+# Tooltips
+#
+#: GeneralView.label.status.pieces_available.tooltip
+msgid "Displays the number of available copies of each piece.\n"
+"Should the number on the right be less than 1, you are not seeing one entire copy of the file (and may have trouble completing the download)."
+msgstr ""
+
+#: GeneralView.label.trackerurl.tooltip
+msgid "Click to copy the announce url to the clipboard"
+msgstr ""
+
+#: GeneralView.label.trackerurlopen.tooltip
+msgid "Click to open the tracker main page"
+msgstr ""
+
+#
+# 2.0.4.4
+#
+#: ConfigView.section.style.guiUpdate
+msgid "Update GUI every"
+msgstr ""
+
+#: ConfigView.section.style.graphicsUpdate
+msgid "Update Graphical bars every N GUI update(s)"
+msgstr ""
+
+#: ConfigView.section.style.reOrderDelay
+msgid "Re Order tables every N GUI update(s) [0: never]"
+msgstr ""
+
+#: ConfigView.section.style.reOrderDelay.never
+msgid "Never"
+msgstr ""
+
+#: ConfigView.section.logging
+msgid "Logging"
+msgstr ""
+
+#: ConfigView.section.logging.enable
+msgid "Enable logging to file"
+msgstr ""
+
+#: ConfigView.section.logging.logdir
+msgid "Log file directory"
+msgstr ""
+
+#: ConfigView.section.logging.choosedefaultsavepath
+msgid "Please choose the save directory"
+msgstr ""
+
+#: GeneralView.label.updatein.querying
+msgid "Querying..."
+msgstr ""
+
+#: configureWizard.nat.sharePort
+msgid "Use a single shared incoming port for all torrents"
+msgstr ""
+
+#: ConfigView.section.logging.maxsize
+msgid "Maximum log file size"
+msgstr ""
+
+#: ConfigView.section.tracker.passwordenableweb
+msgid "Enable password on tracker web"
+msgstr ""
+
+#: ConfigView.section.tracker.passwordenabletorrent
+msgid "Enable password on torrents"
+msgstr ""
+
+#: ConfigView.section.tracker.username
+msgid "_: ConfigView.section.tracker.username\n"
+"User name"
+msgstr ""
+
+#: ConfigView.section.tracker.password
+msgid "_: ConfigView.section.tracker.password\n"
+"Password"
+msgstr ""
+
+#: columnChooser.title
+msgid "Choose the columns to display"
+msgstr ""
+
+#: columnChooser.move
+msgid "Drag rows to re-order them"
+msgstr ""
+
+#: columnChooser.apply
+msgid "_: columnChooser.apply\n"
+"Apply"
+msgstr ""
+
+#: columnChooser.columnname
+msgid "Column Name"
+msgstr ""
+
+#: columnChooser.columndescription
+msgid "_: columnChooser.columndescription\n"
+"Description"
+msgstr ""
+
+#: MyTorrentsView.shareRatio
+msgid "Share Ratio"
+msgstr ""
+
+#: MyTorrentsView.menu.editTableColumns
+msgid "&Column Setup"
+msgstr ""
+
+#: wizard.operationfailed
+msgid "Operation failed"
+msgstr ""
+
+#: authenticator.title
+msgid "Authentication Required"
+msgstr ""
+
+#: authenticator.realm
+msgid "Realm"
+msgstr ""
+
+#: authenticator.tracker
+msgid "_: authenticator.tracker\n"
+"Tracker"
+msgstr ""
+
+#: authenticator.user
+msgid "_: authenticator.user\n"
+"User name"
+msgstr ""
+
+#: authenticator.password
+msgid "_: authenticator.password\n"
+"Password"
+msgstr ""
+
+#: ConfigView.label.allowSendVersion
+msgid "Allow Azureus to send anonymous version number and random id while checking for new version"
+msgstr ""
+
+#: wizard.hint.mode
+msgid "Hint:	You can Drag and Drop a single file or directory on this wizard\n"
+"	to choose a file or directory"
+msgstr ""
+
+#: wizard.hint.file
+msgid "Hint:	You can choose a single file with Drag and Drop"
+msgstr ""
+
+#: wizard.hint.directory
+msgid "Hint:	You can choose a single directory with Drag and Drop"
+msgstr ""
+
+#: MainWindow.menu.help.checkupdate
+msgid "&Check for Updates..."
+msgstr ""
+
+#: MyTorrentsView.down
+msgid "_: MyTorrentsView.down\n"
+"Downloaded"
+msgstr ""
+
+#: MyTorrentsView.up
+msgid "_: MyTorrentsView.up\n"
+"Uploaded"
+msgstr ""
+
+#: ConfigView.section.tracker.passwordenabletorrent.info
+msgid "Requires suitable BitTorrent client (e.g. Azureus)"
+msgstr ""
+
+#: ConfigView.section.style.confirmationOnExit
+msgid "Show confirmation dialog on exit"
+msgstr ""
+
+#: MainWindow.dialog.exitconfirmation.title
+msgid "Exit Azureus?"
+msgstr ""
+
+#: MainWindow.dialog.exitconfirmation.text
+msgid "Do you really want to exit Azureus?"
+msgstr ""
+
+#: SystemTray.menu.stopalltransfers
+msgid "Stop &All Transfers"
+msgstr ""
+
+#: TrayWindow.menu.stopalldownloads
+msgid "Stop &All Downloads"
+msgstr ""
+
+#: ConfigView.section.tracker.sslport.info
+msgid "See the FAQ for further information"
+msgstr ""
+
+#: wizard.tracker.ssl
+msgid "Use SSL"
+msgstr ""
+
+#: ConfigView.label.playdownloadfinished
+msgid "Play a sound when a download is finished"
+msgstr ""
+
+#: MyTorrentsView.pieces
+msgid "_: MyTorrentsView.pieces\n"
+"Pieces"
+msgstr ""
+
+#: MyTorrentsView.pieces.info
+msgid "Graphical bar representing which pieces you have downloaded"
+msgstr ""
+
+#: MyTorrentsView.completion
+msgid "Completion"
+msgstr ""
+
+#: MyTorrentsView.completion.info
+msgid "Graphical representation of % downloaded"
+msgstr ""
+
+#: ConfigView.section.style.showdownloadbasket
+msgid "Show Download Basket (Drag and Drop .torrents)"
+msgstr ""
+
+#: ConfigView.section.style.alwaysShowTorrentFiles
+msgid "Always show Torrent files in Details/Files"
+msgstr ""
+
+#: wizard.multitracker
+msgid "Add Multi-Tracker information to the torrent"
+msgstr ""
+
+#: wizard.multitracker.title
+msgid "Multi-Tracker"
+msgstr ""
+
+#: wizard.multitracker.configuration
+msgid "Multi-Tracker Configuration"
+msgstr ""
+
+#: wizard.multitracker.new
+msgid "New..."
+msgstr ""
+
+#: wizard.multitracker.edit
+msgid "Edit..."
+msgstr ""
+
+#: wizard.multitracker.delete
+msgid "_: wizard.multitracker.delete\n"
+"Delete"
+msgstr ""
+
+#: wizard.multitracker.group
+msgid "Tracker Group"
+msgstr ""
+
+#: wizard.multitracker.edit.title
+msgid "Multi-Tracker Editor"
+msgstr ""
+
+#: wizard.multitracker.edit.name
+msgid "_: wizard.multitracker.edit.name\n"
+"Name"
+msgstr ""
+
+#: wizard.multitracker.edit.save
+msgid "_: wizard.multitracker.edit.save\n"
+"Save"
+msgstr ""
+
+#: wizard.multitracker.edit.newgroup
+msgid "New Group"
+msgstr ""
+
+#: wizard.multitracker.edit.deletegroup
+msgid "_: wizard.multitracker.edit.deletegroup\n"
+"Delete"
+msgstr ""
+
+#: wizard.multitracker.edit.newtracker
+msgid "New Tracker"
+msgstr ""
+
+#: wizard.multitracker.edit.deletetracker
+msgid "_: wizard.multitracker.edit.deletetracker\n"
+"Delete"
+msgstr ""
+
+#: wizard.multitracker.edit.edit
+msgid "_: wizard.multitracker.edit.edit\n"
+"Edit"
+msgstr ""
+
+#: wizard.addingmt
+msgid "Adding Multi-Tracker info"
+msgstr ""
+
+#: wizard.multitracker.noannounce
+msgid "Announce URL isn't present in your trackers list"
+msgstr ""
+
+#: MyTorrentsView.menu.recheck
+msgid "Force Re-chec&k"
+msgstr ""
+
+#: iconBar.showDownloadBar.tooltip
+msgid "Show Download Bar"
+msgstr ""
+
+#: iconBar.start.tooltip
+msgid "_: iconBar.start.tooltip\n"
+"Start"
+msgstr ""
+
+#: iconBar.stop.tooltip
+msgid "Stop"
+msgstr ""
+
+#: iconBar.remove.tooltip
+msgid "_: iconBar.remove.tooltip\n"
+"Remove"
+msgstr ""
+
+#: iconBar.open.tooltip
+msgid "Open a .torrent file"
+msgstr ""
+
+#: iconBar.openNoDefault.tooltip
+msgid "Open a .torrent file (no default save)"
+msgstr ""
+
+#: iconBar.openURL.tooltip
+msgid "Open an URL"
+msgstr ""
+
+#: iconBar.openFolder.tooltip
+msgid "Open a Folder"
+msgstr ""
+
+#: iconBar.new.tooltip
+msgid "Create a torrent"
+msgstr ""
+
+#: iconBar.up.tooltip
+msgid "Move up"
+msgstr ""
+
+#: iconBar.down.tooltip
+msgid "Move Down"
+msgstr ""
+
+#: iconBar.run.tooltip
+msgid "Open"
+msgstr ""
+
+#: iconBar.host.tooltip
+msgid "_: iconBar.host.tooltip\n"
+"Host"
+msgstr ""
+
+#: iconBar.publish.tooltip
+msgid "Publish"
+msgstr ""
+
+#: MyTorrentsView.menu.editTracker
+msgid "&Edit Tracker URL(s)"
+msgstr ""
+
+#: GeneralView.menu.selectTracker
+msgid "Select"
+msgstr ""
+
+#: ConfigView.section.stats.xslfile
+msgid "XSL file name"
+msgstr ""
+
+#: ConfigView.section.stats.xslfiledetails
+msgid "This will be included in stats file header via <?xml-stylesheet> tag"
+msgstr ""
+
+#: ConfigView.label.savetorrentbackup
+msgid "Save Backup"
+msgstr ""
+
+#: ConfigView.section.tracker.forceport
+msgid "Force hosted external torrents to default port"
+msgstr ""
+
+#: ConfigView.section.ipfilter.allow
+msgid "ALLOW these ranges (default is DENY)"
+msgstr ""
+
+#: ConfigView.section.ipfilter.list.inrange
+msgid "was in range"
+msgstr ""
+
+#: ConfigView.section.ipfilter.list.notinrange
+msgid "was not in any range"
+msgstr ""
+
+#: ConfigView.section.ipfilter.list.title
+msgid "Blocked IPs"
+msgstr ""
+
+#: ConfigView.label.allowsameip
+msgid "Allow multiple connections from the same IP"
+msgstr ""
+
+#: ConfigView.label.allowsameip.tooltip
+msgid "Only check if you NEED it.\n"
+"This is a leecher protection (when disabled)."
+msgstr ""
+
+#: ManagerItem.superseeding
+msgid "Super-Seeding"
+msgstr ""
+
+#: ConfigView.label.userSuperSeeding
+msgid "Use Super Seeding"
+msgstr ""
+
+#: PeersView.uniquepiece
+msgid "Piece (Super-Seed Mode)"
+msgstr ""
+
+#: PeersView.uniquepiece.none
+msgid "_: PeersView.uniquepiece.none\n"
+"None"
+msgstr ""
+
+#: PeersView.timetosend
+msgid "Time to resend Piece (Super-Seed Mode)"
+msgstr ""
+
+#: ConfigView.section.style.addurlsilently
+msgid "Open passed URLs silently"
+msgstr ""
+
+#: ConfigView.section.style.addurlsilently.tooltip
+msgid "Automatically download passed/dropped .torrent URLs without opening prompt dialog box."
+msgstr ""
+
+#: ConfigView.section.file.decoder.prompt
+msgid "Always prompt when encoding choice available"
+msgstr ""
+
+#: ConfigView.section.file.decoder.prompt.tooltip
+msgid "Always show dialog when encoding choice is available"
+msgstr ""
+
+#: MyTorrentsView.menu.moveTop
+msgid "&Top"
+msgstr ""
+
+#: MyTorrentsView.menu.moveEnd
+msgid "&Bottom"
+msgstr ""
+
+#: ConfigView.label.moveonlyusingdefaultsave
+msgid "only if in default data dir"
+msgstr ""
+
+#: ConfigView.label.moveonlyusingdefaultsave.tooltip
+msgid "Move only if downloaded data is in the default data dir"
+msgstr ""
+
+#: ConfigView.label.watchtorrentfolder
+msgid "Import new .torrents automatically"
+msgstr ""
+
+#: ConfigView.label.watchtorrentfolder.tooltip
+msgid "Looks for new .torrents regularly"
+msgstr ""
+
+#: ConfigView.label.watchtorrentfolderinterval
+msgid "Interval"
+msgstr ""
+
+#: ConfigView.label.watchtorrentfolderinterval.tooltip
+msgid "The pause until the folder will be scanned again"
+msgstr ""
+
+#: ConfigView.dialog.choosewatchtorrentfolderpath
+msgid "Please choose the .torrent import directory"
+msgstr ""
+
+#: ConfigView.label.startwatchedtorrentsstopped
+msgid "Begin stopped"
+msgstr ""
+
+#: ConfigView.label.startwatchedtorrentsstopped.tooltip
+msgid "Add new .torrents in STOPPED state"
+msgstr ""
+
+#: ConfigView.section.plugins
+msgid "Plugins"
+msgstr ""
+
+#: wizard.maketorrent.filesize
+msgid "File(s) Size"
+msgstr ""
+
+#: wizard.maketorrent.piececount
+msgid "Piece Count"
+msgstr ""
+
+#: wizard.maketorrent.piecesize
+msgid "Piece Size"
+msgstr ""
+
+#: wizard.maketorrent.auto
+msgid "Auto"
+msgstr ""
+
+#: MainWindow.menu.view.stats
+msgid "&Statistics"
+msgstr ""
+
+#: MainWindow.menu.view.stats.keybinding
+msgid "Meta+5"
+msgstr ""
+
+#: SpeedView.title.full
+msgid "_: SpeedView.title.full\n"
+"Activity"
+msgstr ""
+
+#: SpeedView.downloadSpeed.title
+msgid "Download Speed"
+msgstr ""
+
+#: SpeedView.uploadSpeed.title
+msgid "Upload Speed"
+msgstr ""
+
+#: ConfigView.section.style.useSIUnits
+msgid "Use SI Units (KB -> KiB etc.)"
+msgstr ""
+
+#: iconBar.top.tooltip
+msgid "Move to top"
+msgstr ""
+
+#: iconBar.bottom.tooltip
+msgid "Move to bottom"
+msgstr ""
+
+#: MyTorrentsView.health
+msgid "Health"
+msgstr ""
+
+#: MyTorrentsView.menu.health
+msgid "About Health"
+msgstr ""
+
+#: health.explain.grey
+msgid "means that your torrent is not running (downloading or uploading)"
+msgstr ""
+
+#: health.explain.red
+msgid "means that you're not connected to any peer while downloading"
+msgstr ""
+
+#: health.explain.blue
+msgid "when seeding, it means that you're not yet connected to any peer\n"
+"when downloading, it means that you are connected to some peers but the tracker is down"
+msgstr ""
+
+#: health.explain.yellow
+msgid "means that the tracker is ok, you're connected to peers, but you don't have any remote connection.\n"
+"You may have a NAT problem if your torrents stay on yellow status all the time"
+msgstr ""
+
+#: health.explain.green
+msgid "means that everything is going fine."
+msgstr ""
+
+#: ConfigView.section.style.alwaysRefreshMyTorrents
+msgid "Always refresh My Torrents"
+msgstr ""
+
+#: ConfigView.section.style.alwaysRefreshMyTorrents.tooltip
+msgid "This option will refresh the My Torrents view even if not displayed (usefull for some mirc plugins)"
+msgstr ""
+
+#
+#2.0.7.0
+#
+#: ConfigView.section.style.verticaloffset
+msgid "Graphics Vertical Offset (GTK fix)"
+msgstr ""
+
+#: security.certtruster.title
+msgid "Security Certificate Warning"
+msgstr ""
+
+#: security.certtruster.intro
+msgid "The security certificate was issued by a company you do not trust"
+msgstr ""
+
+#: security.certtruster.resource
+msgid "Resource:"
+msgstr ""
+
+#: security.certtruster.issuedto
+msgid "Issued To:"
+msgstr ""
+
+#: security.certtruster.issuedby
+msgid "Issued By:"
+msgstr ""
+
+#: security.certtruster.prompt
+msgid "Do you want to trust it?"
+msgstr ""
+
+#: security.certtruster.yes
+msgid "_: security.certtruster.yes\n"
+"Yes"
+msgstr ""
+
+#: security.certtruster.no
+msgid "_: security.certtruster.no\n"
+"No"
+msgstr ""
+
+#: ConfigView.section.tracker.torrentsperpage
+msgid "How many torrents per page ?  [0: unlimited]"
+msgstr ""
+
+#: MainWindow.menu.file.share
+msgid "&Share"
+msgstr ""
+
+#: MainWindow.menu.file.share.file
+msgid "&File..."
+msgstr ""
+
+#: MainWindow.menu.file.share.dir
+msgid "F&older..."
+msgstr ""
+
+#: MainWindow.menu.file.share.dircontents
+msgid "Folder &Contents..."
+msgstr ""
+
+#: MainWindow.menu.file.share.dircontentsrecursive
+msgid "Folder Contents... (&Recursive)"
+msgstr ""
+
+#: MainWindow.dialog.share.sharefile
+msgid "Select File To Share"
+msgstr ""
+
+#: MainWindow.dialog.share.sharedir
+msgid "Select Folder To Share"
+msgstr ""
+
+#: MainWindow.dialog.share.sharedircontents
+msgid "Select Folder Contents To Share"
+msgstr ""
+
+#: MainWindow.dialog.share.sharedircontents.recursive
+msgid "Recursive"
+msgstr ""
+
+#: globalmanager.download.remove.veto
+msgid "Removal Action Vetoed"
+msgstr ""
+
+#: plugin.sharing.download.remove.veto
+msgid "This download is the result of a resource being shared.\n"
+"To remove the download remove the associated share"
+msgstr ""
+
+#: ConfigView.section.tracker.main
+msgid "_: ConfigView.section.tracker.main\n"
+"Main"
+msgstr ""
+
+#: ConfigView.section.tracker.web
+msgid "Web"
+msgstr ""
+
+#: ConfigView.label.prioritizefirstpiece
+msgid "Prioritize first and last piece of file(s)"
+msgstr ""
+
+#: ConfigView.label.prioritizefirstpiece.tooltip
+msgid "Attempts to download the very beginning and very end of a file first.\n"
+"For support of early previewing."
+msgstr ""
+
+#: ConfigView.section.file.confirm_data_delete
+msgid "Confirm when deleting data"
+msgstr ""
+
+#: ConfigView.section.file.confirm_data_delete.tooltip
+msgid "Confirm data deletion when using 'Remove and Delete...'"
+msgstr ""
+
+#: TrayWindow.menu.startalldownloads
+msgid "Start All Downloads"
+msgstr ""
+
+#: SystemTray.menu.startalltransfers
+msgid "Start All Transfers"
+msgstr ""
+
+#: sharing.progress.title
+msgid "Sharing Progress"
+msgstr ""
+
+#: sharing.progress.hide
+msgid "_: sharing.progress.hide\n"
+"Hide"
+msgstr ""
+
+#: MainWindow.menu.view.myshares
+msgid "_: MainWindow.menu.view.myshares\n"
+"My Shares"
+msgstr ""
+
+#: MainWindow.menu.view.myshares.keybinding
+msgid "Meta+3"
+msgstr ""
+
+#: MySharesView.title.full
+msgid "_: MySharesView.title.full\n"
+"My Shares"
+msgstr ""
+
+#: MySharesView.name
+msgid "_: MySharesView.name\n"
+"Name"
+msgstr ""
+
+#: MySharesView.type
+msgid "_: MySharesView.type\n"
+"Type"
+msgstr ""
+
+#: MySharesView.type.file
+msgid "File"
+msgstr ""
+
+#: MySharesView.type.dir
+msgid "_: MySharesView.type.dir\n"
+"Directory"
+msgstr ""
+
+#: MySharesView.type.dircontents
+msgid "Directory contents"
+msgstr ""
+
+#: MySharesView.type.dircontentsrecursive
+msgid "Directory contents (recursive)"
+msgstr ""
+
+#: MySharesView.menu.remove
+msgid "_: MySharesView.menu.remove\n"
+"Remove"
+msgstr ""
+
+#: ConfigView.section.tracker.extensions
+msgid "Extensions"
+msgstr ""
+
+#: ConfigView.section.tracker.sendpeerids
+msgid "Send peer identity to downloaders"
+msgstr ""
+
+#: ConfigView.section.tracker.enableudp
+msgid "Enable UDP tracker protocol"
+msgstr ""
+
+#: plugin.sharing.torrent.remove.veto
+msgid "This tracker registration is the result of a resource being shared.\n"
+"To remove the download remove the associated share"
+msgstr ""
+
+#: plugin.download.remove.veto.notstopped
+msgid "Download can't be removed as it is not stopped"
+msgstr ""
+
+#: plugin.sharing.remove.veto
+msgid "This share is a sub-share of a 'directory contents' share and can't be explicitly deleted.\n"
+" Delete the root share"
+msgstr ""
+
+#: GeneralView.label.hash.tooltip
+msgid "Click to copy the hash to the clipboard"
+msgstr ""
+
+#: ConfigView.section.tracker.maxpeersreturned
+msgid "Maximum peers returned [0: unlimited]"
+msgstr ""
+
+#: ConfigView.label.serverport
+msgid "Incoming TCP listen port"
+msgstr ""
+
+#: ConfigView.label.serverport.tooltip
+msgid "Port must within 1-65535 range, and not 6880 as that is reserved for internal Azureus use."
+msgstr ""
+
+#: configureWizard.nat.server.tcp_listen_port
+msgid "Incoming TCP Listen Port"
+msgstr ""
+
+#: ConfigView.section.sharing
+msgid "Sharing"
+msgstr ""
+
+#: ConfigView.section.sharing.usessl
+msgid "Use SSL for shared resources (requires Tracker configuration)"
+msgstr ""
+
+#: ConfigView.section.style.dropdiraction
+msgid "Drag and Drop action for directories"
+msgstr ""
+
+#: ConfigView.section.style.dropdiraction.opentorrents
+msgid "Open Torrents"
+msgstr ""
+
+#: ConfigView.section.style.dropdiraction.sharefolder
+msgid "Share Directory"
+msgstr ""
+
+#: ConfigView.section.style.dropdiraction.sharefoldercontents
+msgid "Share Contents"
+msgstr ""
+
+#
+# 2.0.7.x
+#
+#: Categories.all
+msgid "All"
+msgstr ""
+
+#: Categories.uncategorized
+msgid "Uncategorized"
+msgstr ""
+
+#: CategoryAddWindow.message
+msgid "Enter a new category name"
+msgstr ""
+
+#: CategoryAddWindow.title
+msgid "Add New Category"
+msgstr ""
+
+#: ConfigView.label.autoSeedingIgnoreInfo
+msgid "Ignored torrents go to the bottom of the seeding queue. They do not get automatically started.\n"
+"Ignore rules do not apply to torrents that match the First Priority criteria.\n"
+"Unless otherwise stated, use a value of 0 to disable a rule."
+msgstr ""
+
+#: ConfigView.label.directory
+msgid "_: ConfigView.label.directory\n"
+"Directory"
+msgstr ""
+
+#: ConfigView.label.disconnetseed.tooltip
+msgid "When seeding a torrent, disconnect any clients that are also seeding.\n"
+"They don't need to be talking to you."
+msgstr ""
+
+#: ConfigView.label.ignoreCase
+msgid "Ignore Case"
+msgstr ""
+
+#: ConfigView.label.ignoreSeeds
+msgid "Ignore torrents with at least"
+msgstr ""
+
+#: ConfigView.label.importdirectory
+msgid "Import Directory"
+msgstr ""
+
+#: ConfigView.label.minPeersToBoostNoSeeds.tooltip
+msgid "Any torrents with no seeds and having less peers than you specify\n"
+"will be towards the bottom of the queue."
+msgstr ""
+
+#: ConfigView.label.minPeersToBoostNoSeeds
+msgid "Lower Seeding Rank for torrents with no seeds and less than"
+msgstr ""
+
+#: ConfigView.label.minSeedingTime.tooltip
+msgid "Seeding Ranks can fluctuate often in a short period time, sometimes causing the torrent to automatically start, only to be stopped && queued immediately afterwards.\n"
+"This alleviates the problem by forcing the torrent to stay seeding for a given period of time.  You can still stop it manually if you want."
+msgstr ""
+
+#: ConfigView.label.minSeedingTime
+msgid "Minimum seeding time in seconds"
+msgstr ""
+
+#: ConfigView.label.minSpeedForActiveDL.tooltip
+msgid "A download slot is always used for the initial 30 seconds\n"
+"after the incomplete torrent starts."
+msgstr ""
+
+#: ConfigView.label.minSpeedForActiveDL
+msgid "Don't count torrent as using a download slot if speed is below"
+msgstr ""
+
+#: ConfigView.label.peers
+msgid "peers"
+msgstr ""
+
+#: ConfigView.label.queue.debuglog
+msgid "Log debug information"
+msgstr ""
+
+#: ConfigView.label.queue.debuglog.info
+msgid "Adds queue debug info to the console/log file.\n"
+"Although cryptic, the debug info tells you the state of the torrents and why they are/aren't starting/queueing."
+msgstr ""
+
+#: ConfigView.label.queue.minQueueingShareRatio
+msgid "Don't queue or stop torrent until its share ratio reaches"
+msgstr ""
+
+#: ConfigView.label.ratio
+msgid "ratio"
+msgstr ""
+
+#: ConfigView.label.removeOnStop
+msgid "Remove torrent from list after it automatically stops"
+msgstr ""
+
+#: ConfigView.label.savedirectory
+msgid "Save Directory"
+msgstr ""
+
+#: ConfigView.label.seeding.autoReposition.tooltip
+msgid "If enabled, the order of the torrents (the '#' column) will be altered to match that of the Seeding Rank\n"
+"This is usefully if you don't like seeing the Seeding Rank numbers, but still want to know the order that the completed torrents will start in."
+msgstr ""
+
+#: ConfigView.label.seeding.autoReposition
+msgid "Automatically reposition torrents based on Seeding Rank"
+msgstr ""
+
+#: ConfigView.label.seeding.fakeFullCopySeedStart.tooltip
+msgid "Often, torrents with low seed counts and high peer counts means that there probably isn't a full copy amoungst the peers.\n"
+"Therefore, you may not want the seeding rules pretending there's a full copy (and thus incorrectly reducing its rank)"
+msgstr ""
+
+#: ConfigView.label.seeding.fakeFullCopySeedStart
+msgid "but only for torrents with at least"
+msgstr ""
+
+#: ConfigView.label.seeding.ignore
+msgid "_: ConfigView.label.seeding.ignore\n"
+"Ignore Rules"
+msgstr ""
+
+#: ConfigView.label.seeding.ignore0Peers
+msgid "Ignore torrents with 0 peers"
+msgstr ""
+
+#: ConfigView.label.seeding.ignoreRatioPeers
+msgid "Ignore torrents that have at least 1 seed for every"
+msgstr ""
+
+#: ConfigView.label.seeding.ignoreShareRatio
+msgid "Ignore torrents that have a share ratio of"
+msgstr ""
+
+#: ConfigView.label.seeding.ignore.header.evenFirstPriority
+msgid "Ignore torrent even if\n"
+"First Priority rules apply"
+msgstr ""
+
+#: ConfigView.label.seeding.ignore.header.rule
+msgid "Rule"
+msgstr ""
+
+#: ConfigView.label.seeding.ignore.header.value
+msgid "Value"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.info
+msgid "First Priority torrents will always be at the top of the queue.\n"
+"Any torrents matching the First Priority criteria will not be automatically stopped and queued.\n"
+"A torrent matching First Priority criteria will take a Simultaneous Download slot if it needs to."
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.FP
+msgid "_: ConfigView.label.seeding.firstPriority.FP\n"
+"First Priority"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority
+msgid "First priority goes to torrents with"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.following
+msgid "of the following:"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.shareRatio
+msgid "A share ratio under"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.seedingMinutes
+msgid "An elapsed time since changing from downloading to seeding"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.DLMinutes
+msgid "An elapsed time since the start of downloading"
+msgstr ""
+
+#: ConfigView.label.seeding.numPeersAsFullCopy.tooltip
+msgid "By pretending there is 1 full copy per X peers, you reduce the rank of torrents with high peer counts.\n"
+"Most likely, torrents with high peer counts also have high traffic.\n"
+"This does not change any '# of seeds' displays."
+msgstr ""
+
+#: ConfigView.label.seeding.numPeersAsFullCopy
+msgid "Pretend there's 1 full copy for every\n"
+"(0 : No Pretending)"
+msgstr ""
+
+#: ConfigView.label.seeding.preferLargerSwarms.tooltip
+msgid "If you are mainly seeding torrents with peers that are \"stuck\", prefering larger swarms makes sense\n"
+"When you are mainly seeding torrents with high availability, prefering smaller swarms makes sense."
+msgstr ""
+
+#: ConfigView.label.seeding.preferLargerSwarms
+msgid "When torrents have the same rank, prefer larger swarms"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.none.tooltip
+msgid "Order based on # column"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.none
+msgid "_: ConfigView.label.seeding.rankType.none\n"
+"None"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.peerSeed.options
+msgid "Seeds:Peers Ratio Options"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.peerSeed.tooltip
+msgid "Higher Ratio = Higher Rank"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.peerSeed
+msgid "Peers:Seed Ratio"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.seed.fallback
+msgid "Fallback to Peers:Seed Ratio after\n"
+"(0 : Never Fallback)"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.seed.options
+msgid "Seed Count Only Options"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.seed.tooltip
+msgid "Less Seeds = Higher Rank"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.seed
+msgid "Seed Count Only"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.timedRotation.tooltip
+msgid "All queued completed torrents will rotate into seeding mode.\n"
+"Duration of seeding time is set by 'Minimum Seeding Time'"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.timedRotation
+msgid "Timed Rotation"
+msgstr ""
+
+#: ConfigView.label.seeding.rankType.tooltip
+msgid "Highest ranked torrents are automatically started.\n"
+"When another torrent gets a higher ranking, the lower ranking one stops and goes back into the queue.\n"
+"\n"
+"Only torrents in a Queued state are available for automatic starting.\n"
+"Stopped torrents are never automatically started."
+msgstr ""
+
+#: ConfigView.label.seeding.rankType
+msgid "Rank completed torrents for auto-starting based on:"
+msgstr ""
+
+#: ConfigView.label.stopAfterMinutes
+msgid "Once switched to seeding, stop after a duration of time"
+msgstr ""
+
+#: ConfigView.label.switchpriority.tooltip
+msgid "Low priority reduces the amount of upload bandwidth allotted to the torrent."
+msgstr ""
+
+#: ConfigView.pluginlist.info
+msgid "The following plugins have been identified.  Some plugins may not have configuration tabs."
+msgstr ""
+
+#: ConfigView.pluginlist.noplugins
+msgid "No plugins have been found."
+msgstr ""
+
+#: ConfigView.section.logging.log0component
+msgid "Log General"
+msgstr ""
+
+#: ConfigView.section.logging.log0type
+msgid "_: ConfigView.section.logging.log0type\n"
+"Information"
+msgstr ""
+
+#: ConfigView.section.logging.log1component
+msgid "Log Peer Transport Protocol"
+msgstr ""
+
+#: ConfigView.section.logging.log1type
+msgid "_: ConfigView.section.logging.log1type\n"
+"Received"
+msgstr ""
+
+#: ConfigView.section.logging.log2component
+msgid "Log Tracker Client"
+msgstr ""
+
+#: ConfigView.section.logging.log2type
+msgid "_: ConfigView.section.logging.log2type\n"
+"Sent"
+msgstr ""
+
+#: ConfigView.section.logging.log3type
+msgid "_: ConfigView.section.logging.log3type\n"
+"Error"
+msgstr ""
+
+#: ConfigView.section.logging.log4component
+msgid "Log Peer Server"
+msgstr ""
+
+#: ConfigView.section.pluginslist
+msgid "List"
+msgstr ""
+
+#: ConfigView.section.queue.seeding
+msgid "_: ConfigView.section.queue.seeding\n"
+"Seeding"
+msgstr ""
+
+#: ConfigView.section.queue.seeding.autoStarting
+msgid "Auto Starting"
+msgstr ""
+
+#: ConfigView.section.queue.seeding.ignore
+msgid "_: ConfigView.section.queue.seeding.ignore\n"
+"Ignore Rules"
+msgstr ""
+
+#: ConfigView.section.queue.seeding.firstPriority
+msgid "_: ConfigView.section.queue.seeding.firstPriority\n"
+"First Priority"
+msgstr ""
+
+#: ConfigView.section.queue.main
+msgid "_: ConfigView.section.queue.main\n"
+"Main"
+msgstr ""
+
+#: ConfigView.section.queue
+msgid "_: ConfigView.section.queue\n"
+"Queue"
+msgstr ""
+
+#: ConfigView.section.torrents
+msgid "Torrents"
+msgstr ""
+
+#: ConfigView.text.all
+msgid "all"
+msgstr ""
+
+#: ConfigView.text.hours
+msgid "_: ConfigView.text.hours\n"
+"hours"
+msgstr ""
+
+#: ConfigView.text.ignoreRule
+msgid "Ignore Rule"
+msgstr ""
+
+#: ConfigView.text.ignore
+msgid "_: ConfigView.text.ignore\n"
+"Ignore"
+msgstr ""
+
+#: ConfigView.text.minutes
+msgid "minutes"
+msgstr ""
+
+#: ConfigView.text.neverIgnore
+msgid "Never Ignore"
+msgstr ""
+
+#: ConfigView.text.any
+msgid "any"
+msgstr ""
+
+#: DownloadManager.error.datamissing
+msgid "Data Missing"
+msgstr ""
+
+#: iconBar.queue.tooltip
+msgid "_: iconBar.queue.tooltip\n"
+"Queue"
+msgstr ""
+
+#: MainWindow.menu.file.open.torrentforseeding
+msgid "Torrent File... (For Seeding)"
+msgstr ""
+
+#: MainWindow.menu.language.refresh
+msgid "&Refresh"
+msgstr ""
+
+#: ManagerItem.forced
+msgid "Forced"
+msgstr ""
+
+#: ManagerItem.queued
+msgid "_: ManagerItem.queued\n"
+"Queued"
+msgstr ""
+
+#: MySeedersView.header
+msgid "Complete Torrents"
+msgstr ""
+
+#: MyTorrentsView.availability.info
+msgid "# full copies being seen"
+msgstr ""
+
+#: MyTorrentsView.availability
+msgid "_: MyTorrentsView.availability\n"
+"Availability"
+msgstr ""
+
+#: MyTorrentsView.category
+msgid "_: MyTorrentsView.category\n"
+"Category"
+msgstr ""
+
+#: MyTorrentsView.header
+msgid "Incomplete Torrents"
+msgstr ""
+
+#: MyTorrentsView.maxuploads
+msgid "Max # Uploads"
+msgstr ""
+
+#: MyTorrentsView.menu.category.delete
+msgid "&Delete Category"
+msgstr ""
+
+#: MyTorrentsView.menu.forceStart
+msgid "&Force Start"
+msgstr ""
+
+#: MyTorrentsView.menu.queue
+msgid "&Queue"
+msgstr ""
+
+#: MyTorrentsView.menu.setCategory.add
+msgid "&Add Category..."
+msgstr ""
+
+#: MyTorrentsView.menu.setCategory
+msgid "Assign Category"
+msgstr ""
+
+#: MyTorrentsView.savepath
+msgid "Save Path"
+msgstr ""
+
+#: MyTorrentsView.SeedingRank
+msgid "Seeding Rank"
+msgstr ""
+
+#: MyTorrentsView.totalspeed.info
+msgid "Total Speed of all peers you are connected to"
+msgstr ""
+
+#: MyTorrentsView.totalspeed
+msgid "Total Speed"
+msgstr ""
+
+#: splash.initializePlugins
+msgid "Initializing Plugins"
+msgstr ""
+
+#: StartStopRules.SPratioMet
+msgid "FP / S:P Ratio OK"
+msgstr ""
+
+#: StartStopRules.FP0Peers
+msgid "FP / 0 Peers"
+msgstr ""
+
+#: StartStopRules.0Peers
+msgid "0 Peers"
+msgstr ""
+
+#: StartStopRules.numSeedsMet
+msgid "# Seeds OK"
+msgstr ""
+
+#: StartStopRules.ratioMet
+msgid "Peers:Seed OK"
+msgstr ""
+
+#: StartStopRules.shareRatioMet
+msgid "Share Ratio OK"
+msgstr ""
+
+#: StartStopRules.waiting
+msgid "_: StartStopRules.waiting\n"
+"Waiting"
+msgstr ""
+
+#: StartStopRules.firstPriority
+msgid "1st Priority"
+msgstr ""
+
+#: ConfigView.section.style.dropdiraction.sharefoldercontentsrecursive
+msgid "Share Contents (Recursive)"
+msgstr ""
+
+#: DownloadManager.error.unabletostartserver
+msgid "Unable to Start Server - check incoming port configuration / firewall permissions for application to act as server"
+msgstr ""
+
+#: GeneralView.label.creationdate
+msgid "Created On :"
+msgstr ""
+
+#: ConfigView.section.tracker.announcescrapepercentage
+msgid "Scrape interval as %age of announce\n"
+"e.g. 200 = 2:1. 0 = let peer decide"
+msgstr ""
+
+#: ManagerItem.stopping
+msgid "Stopping"
+msgstr ""
+
+#: ConfigView.section.tracker.announcecacheperiod
+msgid "Announce cache (millis)"
+msgstr ""
+
+#: ConfigView.section.tracker.scrapecacheperiod
+msgid "Scrape cache (millis)"
+msgstr ""
+
+#: ConfigView.section.tracker.scrapeandcache
+msgid "Scrape and cache"
+msgstr ""
+
+#: ConfigView.section.tracker.announcecacheminpeers
+msgid "Announce cache enable peer threshold"
+msgstr ""
+
+#: MyTrackerView.scrapes
+msgid "Scrapes"
+msgstr ""
+
+#: fileDownloadWindow.retry
+msgid "Retry"
+msgstr ""
+
+#: MyTrackerView.bytesin
+msgid "Bytes In"
+msgstr ""
+
+#: MyTrackerView.bytesinave
+msgid "Ave In"
+msgstr ""
+
+#: MyTrackerView.bytesout
+msgid "Bytes Out"
+msgstr ""
+
+#: MyTrackerView.bytesoutave
+msgid "Ave Out"
+msgstr ""
+
+#: ConfigView.section.file.max_open_files
+msgid "Maximum files opened for read/write\n"
+"[0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.file.max_open_files.tooltip
+msgid "Useful if you download torrents with hundreds/thousands of files in them, and you if you're reaching file handle limits of the OS."
+msgstr ""
+
+#: ConfigView.section.proxy
+msgid "Proxy"
+msgstr ""
+
+#: ConfigView.section.proxy.enable_proxy
+msgid "Enable proxying of tracker communications [restart required]"
+msgstr ""
+
+#: ConfigView.section.proxy.host
+msgid "_: ConfigView.section.proxy.host\n"
+"Host"
+msgstr ""
+
+#: ConfigView.section.proxy.port
+msgid "_: ConfigView.section.proxy.port\n"
+"Port"
+msgstr ""
+
+#: ConfigView.section.proxy.username
+msgid "Username"
+msgstr ""
+
+#: ConfigView.section.proxy.password
+msgid "_: ConfigView.section.proxy.password\n"
+"Password"
+msgstr ""
+
+#: ConfigView.section.proxy.enable_socks
+msgid "I have a SOCKS proxy"
+msgstr ""
+
+#: wizard.createtorrent.extrahashes
+msgid "Add hashes for other networks (e.g. Gnutella2, eDonkey2000)"
+msgstr ""
+
+#: GeneralView.label.connected
+msgid "connected"
+msgstr ""
+
+#: GeneralView.label.in_swarm
+msgid "in swarm"
+msgstr ""
+
+#: ManagerItem.initializing
+msgid "_: ManagerItem.initializing\n"
+"Initializing"
+msgstr ""
+
+#: AlertMessageBox.error
+msgid "_: AlertMessageBox.error\n"
+"Error"
+msgstr ""
+
+#: AlertMessageBox.warning
+msgid "_: AlertMessageBox.warning\n"
+"Warning"
+msgstr ""
+
+#: AlertMessageBox.comment
+msgid "_: AlertMessageBox.comment\n"
+"Information"
+msgstr ""
+
+#: AlertMessageBox.information
+msgid "_: AlertMessageBox.information\n"
+"Information"
+msgstr ""
+
+#: SharedPortServer.alert.selectorfailed
+msgid "Failed to establish listener for incoming data.\n"
+"Check firewall settings are permitting java(w).exe to act as a 'server'"
+msgstr ""
+
+#: Tracker.alert.listenfail
+msgid "Failed to establish listen on port %1.\n"
+"Check that other applications aren't already using this port.\n"
+"Also check for another copy of Azureus running."
+msgstr ""
+
+#: DonationWindow.title
+msgid "We Need Your Help !"
+msgstr ""
+
+#: DonationWindow.text.downloaded
+msgid "(downloaded)"
+msgstr ""
+
+#: DonationWindow.text.uploaded
+msgid "(uploaded)"
+msgstr ""
+
+#: DonationWindow.text.hours
+msgid "_: DonationWindow.text.hours\n"
+"hours"
+msgstr ""
+
+#: DonationWindow.text
+msgid "Even though Azureus is a free software product, it nevertheless\n"
+"takes us a great deal of time and hard work to develop and maintain.\n"
+"To help us continue making Azureus even better\n"
+"...or simply because you like the program and want to thank us...\n"
+"you can give support by making a small donation.\n"
+"We are not asking for much; even $5 would be greatly appreciated.\n"
+"Of course, we always accept bigger donations....."
+msgstr ""
+
+#: DonationWindow.text.footer
+msgid "\\ \\ \\ \\ \\ \\ \\ \\ \\ If the donation page doesn't appear, you can donate using the link at the very bottom."
+msgstr ""
+
+#: DonationWindow.options.donate
+msgid "I want to help this project, bring me to the donation page."
+msgstr ""
+
+#: DonationWindow.options.nodonate
+msgid "Sorry, but I don't want to donate."
+msgstr ""
+
+#: DonationWindow.options.later
+msgid "I'd like to try Azureus a little bit longer before donating."
+msgstr ""
+
+#: DonationWindow.options.already
+msgid "I've already donated."
+msgstr ""
+
+#: DonationWindow.ok
+msgid "_: DonationWindow.ok\n"
+"OK"
+msgstr ""
+
+#: DonationWindow.ok.waiting
+msgid "Waiting..."
+msgstr ""
+
+#: DonationWindow.thanks.title
+msgid "Thanks !"
+msgstr ""
+
+#: DonationWindow.thanks.text
+msgid "The whole Azureus team wants to thank you for supporting us!"
+msgstr ""
+
+#: DiskManager.alert.movefileexists
+msgid "Error moving completed files\n"
+"File %1 already exists in MoveTo destination dir"
+msgstr ""
+
+#: DiskManager.alert.movefilefails
+msgid "Error moving completed files\n"
+"Move of file %1 failed, %2"
+msgstr ""
+
+#: DiskManager.alert.movefilerecoveryfails
+msgid "Error recovering after move failed\n"
+"Restore of file %1 failed, %2"
+msgstr ""
+
+#: ConfigView.section.tracker.logenable
+msgid "Log periodic statistics to 'tracker.log'"
+msgstr ""
+
+#: SpeedView.stats.title
+msgid "Stats"
+msgstr ""
+
+#: SpeedView.stats.total
+msgid "Total"
+msgstr ""
+
+#: SpeedView.stats.session
+msgid "This Session"
+msgstr ""
+
+#: SpeedView.stats.session.tooltip
+msgid "_: SpeedView.stats.session.tooltip\n"
+"Total (Protocol)"
+msgstr ""
+
+#: SpeedView.stats.downloaded
+msgid "Downloaded (Protocol)"
+msgstr ""
+
+#: SpeedView.stats.uploaded
+msgid "Uploaded (Protocol)"
+msgstr ""
+
+#: SpeedView.stats.ratio
+msgid "Ratio"
+msgstr ""
+
+#: SpeedView.stats.uptime
+msgid "Up Time"
+msgstr ""
+
+#: SpeedView.stats.now
+msgid "Now"
+msgstr ""
+
+#: SpeedView.stats.now.tooltip
+msgid "_: SpeedView.stats.now.tooltip\n"
+"Total (Protocol)"
+msgstr ""
+
+#: AutoMigration.useralert
+msgid "Azureus user config files/dirs auto-migration results:\n"
+"\n"
+"%1\n"
+"Any failures must be migrated manually.\n"
+"DON'T FORGET TO UPDATE YOUR SAVE PATHS IN CONFIGURATION IF THEY'VE BEEN MIGRATED!"
+msgstr ""
+
+#
+# > 2.0.8.0
+#
+#: OpenTorrentWindow.title
+msgid "Open Torrent(s)"
+msgstr ""
+
+#: OpenTorrentWindow.message
+msgid "Experimental"
+msgstr ""
+
+#: OpenTorrentWindow.addFiles
+msgid "&Add Files"
+msgstr ""
+
+#: OpenTorrentWindow.torrentLocation
+msgid "Torrent Files:\n"
+"(One torrent file per line)"
+msgstr ""
+
+#: OpenTorrentWindow.dataLocation
+msgid "Location to save data:"
+msgstr ""
+
+#: OpenTorrentWindow.startMode
+msgid "Add Mode"
+msgstr ""
+
+#: OpenTorrentWindow.startMode.queued
+msgid "_: OpenTorrentWindow.startMode.queued\n"
+"Queued"
+msgstr ""
+
+#: OpenTorrentWindow.startMode.stopped
+msgid "_: OpenTorrentWindow.startMode.stopped\n"
+"Stopped"
+msgstr ""
+
+#: OpenTorrentWindow.startMode.forceStarted
+msgid "Force Started"
+msgstr ""
+
+#: OpenTorrentWindow.addPosition
+msgid "Queue Position"
+msgstr ""
+
+#: OpenTorrentWindow.addPosition.first
+msgid "First"
+msgstr ""
+
+#: OpenTorrentWindow.addPosition.last
+msgid "Last"
+msgstr ""
+
+#: MyTorrentsView.remaining.info
+msgid "Amount remaining to download"
+msgstr ""
+
+#: MyTorrentsView.remaining
+msgid "Remaining"
+msgstr ""
+
+#: ConfigView.section.tracker.enablecompact
+msgid "Enable compact announce protocol"
+msgstr ""
+
+#: ConfigView.section.tracker.enablekey
+msgid "Enable key passing to tracker for enhanced security"
+msgstr ""
+
+#: ConfigView.section.file.perf
+msgid "Performance Options"
+msgstr ""
+
+#: ConfigView.section.file.perf.explain
+msgid "Warning - unqualified changes to these parameters may adversely affect download performance. Restart required.\n"
+"If you have \"out of memory\" problems consider limiting connections per torrent (See Transfer config)"
+msgstr ""
+
+#: ConfigView.section.file.write_block_limit
+msgid "Maximum outstanding disk block writes\n"
+"[0: unlimited]. Block size %1"
+msgstr ""
+
+#: ConfigView.section.file.write_block_limit.explain
+msgid "If you have slow disk write performance such that disk writing is slower than download speed (numerous red blocks in pieces view), limiting write queue length may decrease memory usage"
+msgstr ""
+
+#: ConfigView.section.file.check_piece_limit
+msgid "Maximum outstanding check pieces\n"
+"[0: unlimited]. Piece size depends on torrent"
+msgstr ""
+
+#: ConfigView.section.file.check_piece_limit.explain
+msgid "If you have a slow CPU such that hash calculations lag behind disk writing (numerous complete pieces in pieces view), limiting check queue length may decrease memory usage"
+msgstr ""
+
+#: ConfigView.section.file.max_open_files.explain
+msgid "Opening too many files can cause operating system problems due to limited resources such as file handles. This limits the number of concurrently opened files."
+msgstr ""
+
+#: popup.error.hide
+msgid "_: popup.error.hide\n"
+"Hide"
+msgstr ""
+
+#: popup.error.details
+msgid "_: popup.error.details\n"
+"Details"
+msgstr ""
+
+#: ConfigView.section.style.colorOverrides
+msgid "Color Overrides"
+msgstr ""
+
+#: ConfigView.section.style.colorOverride.progressBar
+msgid "Progress Bar"
+msgstr ""
+
+#: ConfigView.section.style.colorOverride.error
+msgid "_: ConfigView.section.style.colorOverride.error\n"
+"Error"
+msgstr ""
+
+#: MainWindow.status.tooOld
+msgid "is old, please update it."
+msgstr ""
+
+#: ConfigView.section.style.colorOverride.warning
+msgid "_: ConfigView.section.style.colorOverride.warning\n"
+"Warning"
+msgstr ""
+
+#: ConfigView.section.style.colorOverride.altRow
+msgid "Alternate Rows"
+msgstr ""
+
+#: ConfigView.section.file.save.peers.enable
+msgid "Save peer connections for quick reconnects"
+msgstr ""
+
+#: ConfigView.section.file.save.peers.max
+msgid "Maximum peers to save [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.file.save.peers.pertorrent
+msgid "per torrent"
+msgstr ""
+
+#: ConfigView.label.max_peers_per_torrent
+msgid "Maximum number of connections per torrent [0: unlimited]"
+msgstr ""
+
+#: ConfigView.label.max_peers_total
+msgid "Maximum number of connections globally [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.style.colorOverrides.reset
+msgid "Reset Color"
+msgstr ""
+
+#: ConfigView.section.language.info
+msgid "When enabled, an update check will occur every time Azureus starts."
+msgstr ""
+
+#: ConfigView.section.language.enableUpdate
+msgid "Enable Web Update"
+msgstr ""
+
+#: ConfigView.section.language.UpdateURL
+msgid "Update URL"
+msgstr ""
+
+#: ConfigView.section.language.UpdateNow
+msgid "Update Now!"
+msgstr ""
+
+#: Button.revert
+msgid "Revert"
+msgstr ""
+
+#: MyTorrentsView.menu.changeDirectory
+msgid "Change Data Directory"
+msgstr ""
+
+#: GenericText.column
+msgid "column"
+msgstr ""
+
+#: MyTorrentsView.menu.thisColumn.remove
+msgid "Remove Column"
+msgstr ""
+
+#: MyTorrentsView.menu.thisColumn.toClipboard
+msgid "Copy Text To Clipboard"
+msgstr ""
+
+#: MyTorrentsView.menu.tracker
+msgid "_: MyTorrentsView.menu.tracker\n"
+"Tracker"
+msgstr ""
+
+#: ConfigView.download.abbreviated
+msgid "D:"
+msgstr ""
+
+#: ConfigView.upload.abbreviated
+msgid "U:"
+msgstr ""
+
+#: ConfigView.complete.abbreviated
+msgid "C:"
+msgstr ""
+
+#: MyTorrentsView.secondsseeding
+msgid "Seeding For"
+msgstr ""
+
+#: MyTorrentsView.secondsseeding.info
+msgid "Total amount of time you have been seeding."
+msgstr ""
+
+#: MyTorrentsView.secondsdownloading
+msgid "DLing For"
+msgstr ""
+
+#: MyTorrentsView.secondsdownloading.info
+msgid "Amount of time you have been downloading."
+msgstr ""
+
+#: ConfigView.section.tracker.udpversion
+msgid "UDP Protocol Version (1 or 2)"
+msgstr ""
+
+#: window.updateswt.title
+msgid "Your SWT Version is too old!"
+msgstr ""
+
+#: window.updateswt.text
+msgid "Your SWT Version is too old!\n"
+"SWT is the graphic library used by Azureus, and the version you have is too old to run the latest Azureus version. Click the OK button to update your SWT."
+msgstr ""
+
+#: window.updateswt.status
+msgid "_: window.updateswt.status\n"
+"Status"
+msgstr ""
+
+#: window.updateswt.failed
+msgid "Update failed, press OK again to restart."
+msgstr ""
+
+#: window.updateswt.status.downloading.updater
+msgid "Downloading the Updater Module"
+msgstr ""
+
+#: window.updateswt.status.finding
+msgid "Finding latest SWT Version"
+msgstr ""
+
+#: window.updateswt.status.downloading
+msgid "Downloading Latest SWT Version"
+msgstr ""
+
+#: window.updateswt.status.done
+msgid "Restarting"
+msgstr ""
+
+#: window.updateswt.ok
+msgid "_: window.updateswt.ok\n"
+"OK"
+msgstr ""
+
+#: window.updateswt.cancel
+msgid "_: window.updateswt.cancel\n"
+"Cancel"
+msgstr ""
+
+#: swt.updater.downloader.downloading
+msgid "Downloading SWT from"
+msgstr ""
+
+#: swt.updater.urlsgetter.downloading
+msgid "Getting a list of mirrors from"
+msgstr ""
+
+#: swt.updater.urlsgetter.platform
+msgid "SWT for platform :"
+msgstr ""
+
+#: window.updateswt.ignore
+msgid "_: window.updateswt.ignore\n"
+"Ignore"
+msgstr ""
+
+#: ConfigView.section.style.useFancyTabs
+msgid "Use Fancy Tabs"
+msgstr ""
+
+#: splash.initializeGM
+msgid "Initializing Global Torrent Manager"
+msgstr ""
+
+#: splash.loadingTorrents
+msgid "Loading Torrents"
+msgstr ""
+
+#: splash.firstMessageNoI18N
+msgid "(: Azureus :)"
+msgstr ""
+
+#: MyTorrentsView.menu.thisColumn.sort
+msgid "&Sort"
+msgstr ""
+
+#: Scrape.status.ok
+msgid "Scrape OK"
+msgstr ""
+
+#: Scrape.status.error
+msgid "Scrape Error:"
+msgstr ""
+
+#: Scrape.status.error.badURL
+msgid "Announce URL doesn't follow scrape specifications."
+msgstr ""
+
+#: Scrape.status.error.nohash
+msgid "Hash missing from reply."
+msgstr ""
+
+#: Scrape.status.error.invalid
+msgid "Invalid reply."
+msgstr ""
+
+#: Scrape.status.nextScrapeAt
+msgid "Next scrape at %1"
+msgstr ""
+
+#: Scrape.status.scraping
+msgid "Scraping.."
+msgstr ""
+
+#: Scrape.status.initializing
+msgid "Waiting to Scrape"
+msgstr ""
+
+#: ConfigView.label.minSpeedForActiveSeeding
+msgid "Don't count completed torrent as using a slot if speed is below"
+msgstr ""
+
+#: ConfigView.section.stats.exportpeers
+msgid "Export peer details"
+msgstr ""
+
+#: MainWindow.menu.view.irc.moved
+msgid "Irc is now available as a plugin, see http://azureus.sourceforge.net/plugin_list.php. When installed use the view->plugins->IRC menu to access it."
+msgstr ""
+
+#: MyTrackerView.webui.contextmenu.copyurl
+msgid "Copy torrent URL to clipboard"
+msgstr ""
+
+#: ConfigView.section.file.torrent.ignorefiles
+msgid "Files to ignore when creating torrents\n"
+"e.g. .DS_Store;Thumbs.db"
+msgstr ""
+
+#: Torrent.create.progress.ignoringfile
+msgid "Ignoring file"
+msgstr ""
+
+#: ConfigView.section.style.useUnitsRateBits
+msgid "Use bits instead of bytes for byte-based rate values (KiB/s->Kibit/s etc.)"
+msgstr ""
+
+#: ConfigView.section.interface.resetassoc
+msgid "Reset explorer file associations (.torrent)"
+msgstr ""
+
+#: ConfigView.section.interface.resetassocbutton
+msgid "_: ConfigView.section.interface.resetassocbutton\n"
+"Reset"
+msgstr ""
+
+#: ConfigView.section.interface.checkassoc
+msgid "Check associations on startup"
+msgstr ""
+
+#: dialog.associations.title
+msgid "Association Check"
+msgstr ""
+
+#: Button.yes
+msgid "_: Button.yes\n"
+"Yes"
+msgstr ""
+
+#: Button.no
+msgid "_: Button.no\n"
+"No"
+msgstr ""
+
+#: ConfigView.label.seeding.autoStart0Peers
+msgid "Auto Start all completed torrents with 0 peers"
+msgstr ""
+
+#: ConfigView.label.seeding.autoStart0Peers.tooltip
+msgid "Turn on if you want the tracker to always list seeds for 0 peer torrents."
+msgstr ""
+
+#: dialog.associations.prompt
+msgid "Azureus isn't the default application for BitTorrent files.\n"
+"Would you like to associate .torrent files with Azureus?"
+msgstr ""
+
+#: dialog.associations.askagain
+msgid "Check on startup"
+msgstr ""
+
+#: ConfigView.section.plugins.update
+msgid "Plugin Update"
+msgstr ""
+
+#: Plugin.pluginupdate.enablecheck
+msgid "Enable plugin update checking"
+msgstr ""
+
+#: plugins.basicview.status
+msgid "Status:"
+msgstr ""
+
+#: plugins.basicview.activity
+msgid "Activity:"
+msgstr ""
+
+#: plugins.basicview.progress
+msgid "Progress:"
+msgstr ""
+
+#: plugins.basicview.log
+msgid "Log:"
+msgstr ""
+
+#: ConfigView.label.maxdownloadspeed
+msgid "KB/s global max download speed [0: unlimited]"
+msgstr ""
+
+#: splash.loadingTorrent
+msgid "Loading Torrent"
+msgstr ""
+
+#: splash.of
+msgid "of"
+msgstr ""
+
+#: ConfigView.section.plugins.irc
+msgid "_: ConfigView.section.plugins.irc\n"
+"Irc"
+msgstr ""
+
+#: swt.update.window.title
+msgid "Azureus Updater"
+msgstr ""
+
+#: swt.update.window.header
+msgid "The following components need an update :"
+msgstr ""
+
+#: swt.update.window.columns.install
+msgid "_: swt.update.window.columns.install\n"
+"Install"
+msgstr ""
+
+#: swt.update.window.columns.name
+msgid "_: swt.update.window.columns.name\n"
+"Name"
+msgstr ""
+
+#: swt.update.window.columns.version
+msgid "_: swt.update.window.columns.version\n"
+"Version"
+msgstr ""
+
+#: swt.update.window.columns.size
+msgid "_: swt.update.window.columns.size\n"
+"Size"
+msgstr ""
+
+#: swt.update.window.cancel
+msgid "_: swt.update.window.cancel\n"
+"Cancel"
+msgstr ""
+
+#: swt.update.window.quit
+msgid "Quit"
+msgstr ""
+
+#: swt.update.window.close
+msgid "_: swt.update.window.close\n"
+"Close"
+msgstr ""
+
+#: swt.update.window.ok
+msgid "Update"
+msgstr ""
+
+#: swt.update.window.restart
+msgid "Restart"
+msgstr ""
+
+#: swt.update.window.status.downloading
+msgid "_: swt.update.window.status.downloading\n"
+"Downloading"
+msgstr ""
+
+#: swt.update.window.status.done
+msgid "_: swt.update.window.status.done\n"
+"Done"
+msgstr ""
+
+#: swt.update.window.status.failed
+msgid "_: swt.update.window.status.failed\n"
+"Failed"
+msgstr ""
+
+#: swt.update.window.status.restartNeeded
+msgid "Restart will be required!"
+msgstr ""
+
+#: ConfigView.pluginlist.broken
+msgid "Broken"
+msgstr ""
+
+#: ConfigView.pluginlist.whereToPut
+msgid "Place any user-specific plugins in their own directory under:"
+msgstr ""
+
+#: ConfigView.pluginlist.whereToPutOr
+msgid "For shared plugins use:"
+msgstr ""
+
+#: MainWindow.statusText.checking
+msgid "_: MainWindow.statusText.checking\n"
+"Checking for Updates"
+msgstr ""
+
+#: MyTorrentsView.OnlyCDing4
+msgid "OnlyCDing4"
+msgstr ""
+
+#: MyTorrentsView.OnlyCDing4.info
+msgid "Amount of time the torrent has been only seeding.  Excludes the time the torrent was downloading (and seeding)."
+msgstr ""
+
+#: ConfigView.section.style.alternateTablePainting
+msgid "Use alternate method to paint graphic table columns (may require a restart)"
+msgstr ""
+
+#: swt.update.window.status.restartMaybeNeeded
+msgid "Restart may be required"
+msgstr ""
+
+#: ConfigView.pluginlist.shared
+msgid "shared"
+msgstr ""
+
+#: PeersView.host
+msgid "Host Name"
+msgstr ""
+
+#: PeersView.host.info
+msgid "The host name of the peer, where available (may affect performance)"
+msgstr ""
+
+#: MainWindow.menu.help.whatsnew
+msgid "What's New"
+msgstr ""
+
+#: ConfigView.label.checkonstart
+msgid "Check for latest version when Azureus starts"
+msgstr ""
+
+#: ConfigView.label.periodiccheck
+msgid "Check for latest version periodically"
+msgstr ""
+
+#: ConfigView.label.opendialog
+msgid "Automatically open the Update Assistant when an update is available"
+msgstr ""
+
+#: MainWindow.updateavail
+msgid "Click here for updates"
+msgstr ""
+
+#: MainWindow.status.unofficialversion
+msgid "Azureus Beta"
+msgstr ""
+
+#: MainWindow.status.latestversionunchecked
+msgid "Version checking disabled"
+msgstr ""
+
+#: GeneralView.label.updatein.stopped
+msgid "_: GeneralView.label.updatein.stopped\n"
+"Stopped"
+msgstr ""
+
+#: StartStopRules.menu.viewDebug
+msgid "View Debug Info"
+msgstr ""
+
+#: ConfigView.section.style.doNotUseGB
+msgid "Do not use GB unit"
+msgstr ""
+
+#: ConfigView.section.style.doNotUseGB.tooltip
+msgid "If checked, Azureus will continue to use MB even for sizes greater than 1024MB"
+msgstr ""
+
+#: MainWindow.menu.help.plugins
+msgid "Get Plugins"
+msgstr ""
+
+#: ConfigView.section.plugins.TrackerWeb
+msgid "Tracker Web"
+msgstr ""
+
+#: ConfigView.section.tracker.enablecategories
+msgid "Separate torrents by category"
+msgstr ""
+
+#: health.explain.share
+msgid "means that the torrent is either hosted or published"
+msgstr ""
+
+#: ConfigView.section.tracker.createcert
+msgid "Create self-signed certificate"
+msgstr ""
+
+#: ConfigView.section.tracker.createbutton
+msgid "_: ConfigView.section.tracker.createbutton\n"
+"Create"
+msgstr ""
+
+#: security.certcreate.title
+msgid "Create Self-Signed Certificate"
+msgstr ""
+
+#: security.certcreate.intro
+msgid "This dialog lets you create a self-signed certificate"
+msgstr ""
+
+#: security.certcreate.alias
+msgid "Alias"
+msgstr ""
+
+#: security.certcreate.strength
+msgid "Strength"
+msgstr ""
+
+#: security.certcreate.firstlastname
+msgid "First and last name"
+msgstr ""
+
+#: security.certcreate.orgunit
+msgid "Organisational Unit"
+msgstr ""
+
+#: security.certcreate.org
+msgid "Organisation"
+msgstr ""
+
+#: security.certcreate.city
+msgid "City or Locality"
+msgstr ""
+
+#: security.certcreate.state
+msgid "State or Province"
+msgstr ""
+
+#: security.certcreate.country
+msgid "Two-letter country code"
+msgstr ""
+
+#: security.certcreate.ok
+msgid "_: security.certcreate.ok\n"
+"Create"
+msgstr ""
+
+#: security.certcreate.cancel
+msgid "_: security.certcreate.cancel\n"
+"Cancel"
+msgstr ""
+
+#: security.certcreate.createok
+msgid "Certificate created successfully"
+msgstr ""
+
+#: security.certcreate.createfail
+msgid "Certificate creation failed"
+msgstr ""
+
+#: ConfigView.section.plugins.webui
+msgid "Swing Web Interface"
+msgstr ""
+
+#: ConfigView.section.plugins.xml_http_if
+msgid "XML/HTTP Interface"
+msgstr ""
+
+#: webui.passwordenable
+msgid "Enable password"
+msgstr ""
+
+#: webui.user
+msgid "_: webui.user\n"
+"User name"
+msgstr ""
+
+#: webui.password
+msgid "_: webui.password\n"
+"Password"
+msgstr ""
+
+#: webui.port
+msgid "Port (*)"
+msgstr ""
+
+#: webui.protocol
+msgid "Protocol (*)"
+msgstr ""
+
+#: webui.homepage
+msgid "Home page (*)"
+msgstr ""
+
+#: webui.rootdir
+msgid "Root directory (*)"
+msgstr ""
+
+#: webui.rootres
+msgid "Root resource (*)"
+msgstr ""
+
+#: webui.mode
+msgid "Mode (*)"
+msgstr ""
+
+#: webui.mode.info
+msgid "Mode can be\n"
+"	\"full\"	= all operations available (default)\n"
+"	\"view\"	= view only (but can update refresh frequency)"
+msgstr ""
+
+#: webui.access
+msgid "Access (*)"
+msgstr ""
+
+#: webui.access.info
+msgid "Access can be\n"
+"	\"local\"	= meaning only the local machine can connect\n"
+"	\"all\"	= unrestricted access (default)\n"
+"	IP	= e.g. 192.168.0.2			one IP only\n"
+"	IP1-IP2	= e.g. 192.168.0.1-192.168.0.255	inclusive range of IPs"
+msgstr ""
+
+#: GeneralView.label.maxdownloadspeed
+msgid "Max Down"
+msgstr ""
+
+#: ConfigView.section.security
+msgid "_: ConfigView.section.security\n"
+"Security"
+msgstr ""
+
+#: Security.keystore.corrupt
+msgid "Keystore '%1' failed to load, please delete it and recreate/re-import the certificates"
+msgstr ""
+
+#: Security.keystore.empty
+msgid "Keystore is empty. Please create a self-signed certificate (see Tools->Options->Security) or import an existing certificate into '%1'"
+msgstr ""
+
+#: webui.restart.info
+msgid "Changes to parameters marked with a (*) require a restart to take effect"
+msgstr ""
+
+#: GeneralView.label.maxdownloadspeed.tooltip
+msgid "Max download speed [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.UPnP
+msgid "UPnP"
+msgstr ""
+
+#: upnp.enable
+msgid "Enable UPnP"
+msgstr ""
+
+#: upnp.info
+msgid "Universal Plug and Play (UPnP) allows the automatic mapping of ports on UPnP enabled routers."
+msgstr ""
+
+#: upnp.mapping.dataport
+msgid "Incoming Peer Data Port"
+msgstr ""
+
+#: upnp.mapping.tcptrackerport
+msgid "TCP Tracker Port"
+msgstr ""
+
+#: upnp.mapping.udptrackerport
+msgid "UDP Tracker Port"
+msgstr ""
+
+#: upnp.alert.differenthost
+msgid "UPnP: Mapping '%1' has been reserved by '%2' - please select a different port"
+msgstr ""
+
+#: upnp.alert.mappingok
+msgid "UPnP: Mapping '%1' established"
+msgstr ""
+
+#: upnp.alert.mappingfailed
+msgid "UPnP: Mapping '%1' failed"
+msgstr ""
+
+#: upnp.alertsuccess
+msgid "Report successfull mappings"
+msgstr ""
+
+#: upnp.alert.lostdevice
+msgid "UPnP: Lost connection to service '%1' on UPnP device '%2'"
+msgstr ""
+
+#: upnp.grabports
+msgid "Map ports even if owned by another computer"
+msgstr ""
+
+#: upnp.refresh.label
+msgid "Refresh the mappings"
+msgstr ""
+
+#: upnp.refresh.button
+msgid "Refresh"
+msgstr ""
+
+#: upnp.alert.mappinggrabbed
+msgid "UPnP: Mapping '%1' established - grabbed from '%2'"
+msgstr ""
+
+#: upnp.mapping.tcpssltrackerport
+msgid "TCP SSL Tracker Port"
+msgstr ""
+
+#: upnp.alertothermappings
+msgid "Report ports owned by other computers"
+msgstr ""
+
+#: upnp.alertdeviceproblems
+msgid "Report problems with the UPnP device"
+msgstr ""
+
+
+#: ConfigView.pluginlist.coreplugins
+msgid "The following built-in plugins are loaded:"
+msgstr ""
+
+#: Peers.column.DLedFromOthers
+msgid "From Others"
+msgstr ""
+
+#: Peers.column.DLedFromOthers.info
+msgid "Amount of data downloaded from others while connected to you"
+msgstr ""
+
+#: Peers.column.UpDownRatio
+msgid "Up:Down"
+msgstr ""
+
+#: Peers.column.UpDownRatio.info
+msgid "Peer's \"Uploaded : Downloaded\" Ratio"
+msgstr ""
+
+#: Peers.column.UpRatio
+msgid "Up Ratio"
+msgstr ""
+
+#: Peers.column.UpRatio.info
+msgid "Peer's \"Upload from you : Uploaded from other\" ratio"
+msgstr ""
+
+#: upnp.releasemappings
+msgid "Release mappings on closedown"
+msgstr ""
+
+#: webui.upnpenable
+msgid "Enable UPnP for this port (*)"
+msgstr ""
+
+#: ConfigView.section.file.friendly.hashchecking
+msgid "Friendly hash checking"
+msgstr ""
+
+#: ConfigView.section.file.friendly.hashchecking.tooltip
+msgid "A slightly slower, but much less stressful on cpu/system, piece hashchecking mode."
+msgstr ""
+
+#: ConfigView.section.tracker.seedretention
+msgid "Max seeds retained per torrent [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.tracker.seedretention.info
+msgid "Note: Upload statistics will be lost for non-retained seeds"
+msgstr ""
+
+#: ConfigView.section.tracker.port
+msgid "Enable tracker on HTTP port"
+msgstr ""
+
+#: ConfigView.section.tracker.sslport
+msgid "Enable tracker on HTTPS port"
+msgstr ""
+
+#: ConfigView.section.tracker.publicenable.info
+msgid "This permits others to create torrents that use your tracker\n"
+"without you hosting/publishing them"
+msgstr ""
+
+#: Button.clear
+msgid "_: Button.clear\n"
+"Clear"
+msgstr ""
+
+#: MainWindow.IPs.tooltip
+msgid "{Last update of filter list} Total IPFilters in list - Number of blocked/banned/bad IPs this session.\n"
+"Double-click for details."
+msgstr ""
+
+#: ConfigView.section.ipfilter.list.banned
+msgid "has been banned"
+msgstr ""
+
+#: ConfigView.section.ipfilter.list.baddata
+msgid "has sent bad data: occurrences ="
+msgstr ""
+
+#: Button.reset
+msgid "_: Button.reset\n"
+"Reset"
+msgstr ""
+
+#: ConfigView.section.ipfilter.bannedinfo
+msgid "IPs that have sent bad data - banned if limits exceeded"
+msgstr ""
+
+#: ConfigView.section.ipfilter.blockedinfo
+msgid "IPs that have been blocked due to IP filters"
+msgstr ""
+
+#: download.removerules.name
+msgid "Removal Rules"
+msgstr ""
+
+#: download.removerules.unauthorised.info
+msgid "Unauthorized torrents are those where the announce response contains either \"not authoris(z)ed\" or \"unauthoris(z)ed\" in the \"failure response\""
+msgstr ""
+
+#: download.removerules.unauthorised
+msgid "Automatically remove unauthorized torrents"
+msgstr ""
+
+#: download.removerules.unauthorised.seedingonly
+msgid "Only if seeding"
+msgstr ""
+
+#: download.removerules.removed.ok
+msgid "Automatic removal of torrent '%1' succeeded. This was caused by the torrent removal rules."
+msgstr ""
+
+#: download.removerules.updatetorrents
+msgid "Remove Azureus update torrents as the swarm requires"
+msgstr ""
+
+#: ConfigView.label.defaultstarttorrentsstopped
+msgid "By default add new torrents in a stopped state"
+msgstr ""
+
+#: ConfigView.section.server.enableudp
+msgid "Enable UDP tracker client protocol. This uses the same port number as the TCP server"
+msgstr ""
+
+#: upnp.mapping.dataportudp
+msgid "UDP tracker client port"
+msgstr ""
+
+#: ConfigView.section.file.decoder.showlax
+msgid "Show less likely encodings"
+msgstr ""
+
+#: ConfigView.section.file.decoder.showall
+msgid "Consider all possible encodings"
+msgstr ""
+
+#: MainWindow.status.updowndetails.tooltip
+msgid "Upload/download speed details - right-click to change"
+msgstr ""
+
+#: TrackerClient.announce.warningmessage
+msgid "Tracker for '%1' returned warning '%2'"
+msgstr ""
+
+#: ConfigView.section.tracker.natcheckenable
+msgid "Check 'incoming data port' connectability and report failures to peers"
+msgstr ""
+
+#: ConfigView.section.tracker.publishenabledetails
+msgid "Publish all torrent details"
+msgstr ""
+
+#: ConfigView.section.tracker.publishenablepeerdetails
+msgid "Publish peer details"
+msgstr ""
+
+#: MyTrackerView.badnat
+msgid "Bad NAT"
+msgstr ""
+
+#: MyTrackerView.badnat.info
+msgid "Seeds/Peers that have failed a NAT check, if enabled"
+msgstr ""
+
+#: ConfigView.section.tracker.natchecktimeout
+msgid "Check timeout (secs)"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.enable
+msgid "Enable disk cache"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.size
+msgid "Size of cache in %1"
+msgstr ""
+
+#Removed
+#MyTorrentsView.menu.setSpeed=Set Upload Speed
+#: MainWindow.menu.transfers
+msgid "T&ransfers"
+msgstr ""
+
+#: MainWindow.menu.transfers.startalltransfers
+msgid "St&art All"
+msgstr ""
+
+#: MainWindow.menu.transfers.stopalltransfers
+msgid "St&op All"
+msgstr ""
+
+#: MainWindow.menu.transfers.pausetransfers
+msgid "&Pause"
+msgstr ""
+
+#: MainWindow.menu.transfers.pausetransfers.keybinding.mac
+msgid "Meta+."
+msgstr ""
+
+#: MainWindow.menu.transfers.resumetransfers
+msgid "&Resume"
+msgstr ""
+
+#: ConfigView.label.experimental.osx.kernel.panic.fix
+msgid "Experimental fix for kernel panics on dual-cpu OSX systems [requires restart]"
+msgstr ""
+
+#: SystemTray.menu.pausetransfers
+msgid "Pause Transfers"
+msgstr ""
+
+#: SystemTray.menu.resumetransfers
+msgid "Resume Transfers"
+msgstr ""
+
+#: ConfigView.section.file.truncate.too.large
+msgid "Truncate existing files that are too large"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.trace
+msgid "Trace cache operations for diagnostic purposes"
+msgstr ""
+
+#: ConfigView.section.interface.enabletray
+msgid "Enable System Tray [restart required]"
+msgstr ""
+
+#: PeerManager.status.error
+msgid "_: PeerManager.status.error\n"
+"Error"
+msgstr ""
+
+#: ConfigView.section.style.sortDefaultAscending
+msgid "Table column sort order default is ascending"
+msgstr ""
+
+#: Stats.title.full
+msgid "_: Stats.title.full\n"
+"Statistics"
+msgstr ""
+
+#: TransferStatsView.title.full
+msgid "Transfers"
+msgstr ""
+
+#: CacheView.title.full
+msgid "Cache"
+msgstr ""
+
+#: CacheView.general.size
+msgid "Total Size"
+msgstr ""
+
+#: CacheView.general.inUse
+msgid "In Use"
+msgstr ""
+
+#: CacheView.general.title
+msgid "Cache Info"
+msgstr ""
+
+#: CacheView.reads.title
+msgid "I/O Reads"
+msgstr ""
+
+#: CacheView.reads.fromFile
+msgid "From File"
+msgstr ""
+
+#: CacheView.reads.fromCache
+msgid "From Cache"
+msgstr ""
+
+#: CacheView.reads.hits
+msgid "Hits"
+msgstr ""
+
+#: CacheView.writes.title
+msgid "I/O Writes"
+msgstr ""
+
+#: CacheView.writes.toCache
+msgid "To Cache"
+msgstr ""
+
+#: CacheView.writes.toFile
+msgid "To File"
+msgstr ""
+
+#: CacheView.writes.hits
+msgid "Saved"
+msgstr ""
+
+#: CacheView.speeds.title
+msgid "Data Rates"
+msgstr ""
+
+#: CacheView.speeds.reads
+msgid "Reads"
+msgstr ""
+
+#: CacheView.speeds.writes
+msgid "Writes"
+msgstr ""
+
+#: CacheView.speeds.fromCache
+msgid "From/To Cache"
+msgstr ""
+
+#: CacheView.speeds.fromFile
+msgid "From/To File"
+msgstr ""
+
+#: CacheView.reads.#
+msgid "_: CacheView.reads.#\n"
+"#"
+msgstr ""
+
+#: CacheView.reads.amount
+msgid "Amount"
+msgstr ""
+
+#: CacheView.reads.avgsize
+msgid "Avg Size"
+msgstr ""
+
+#: openUrl.referrer
+msgid "Referring page URL :"
+msgstr ""
+
+#: openUrl.referrer.info
+msgid "Only required for web sites that mandate it"
+msgstr ""
+
+#: diagnostics.log_found
+msgid "Azureus did not shutdown tidily. Please check %1 for diagnostic log files and consider reporting them to the Azureus team if this is the result of an application error."
+msgstr ""
+
+#: ConfigView.label.maxuploadspeedseeding
+msgid "KB/s global max upload speed when only seeding [0: unlimited]"
+msgstr ""
+
+#: ConfigView.label.transfer.ignorepeerports
+msgid "Ignore peers with these data ports (';' separated, e.g. 0;25)"
+msgstr ""
+
+#: ConfigView.section.proxy.enable_socks.peer
+msgid "Enable proxying of peer communications (outgoing connections only) [restart required]"
+msgstr ""
+
+#: ConfigView.section.proxy.peer.informtracker
+msgid "Inform tracker of limitation"
+msgstr ""
+
+#: ConfigView.section.proxy.socks.version
+msgid "SOCKS version"
+msgstr ""
+
+#: PiecesView.legend.written
+msgid "Written"
+msgstr ""
+
+#: PiecesView.legend.requested
+msgid "Requested"
+msgstr ""
+
+#: PiecesView.legend.downloaded
+msgid "Downloaded, write pending"
+msgstr ""
+
+#: PiecesView.legend.incache
+msgid "Data is in Cache"
+msgstr ""
+
+#: PiecesView.typeItem.0
+msgid "Slow"
+msgstr ""
+
+#: PiecesView.typeItem.1
+msgid "Fast"
+msgstr ""
+
+#: PiecesView.type
+msgid "_: PiecesView.type\n"
+"Type"
+msgstr ""
+
+#: Security.jar.tools_not_found
+msgid "JAR signing fails - 'tools.jar' not found in %1. See Tools->Options->Security for details."
+msgstr ""
+
+#: Security.jar.signfail
+msgid "JAR signing fails - %1"
+msgstr ""
+
+#: ConfigView.section.security.toolsinfo
+msgid "Signed JAR files are used to support some plugins, for example the Swing Web Interface (when configured to do so).\n"
+"In order to sign JAR files it is necessary to have access to the 'tools.jar' file that comes with the Sun JDK (not JRE) install.\n"
+"If you have only installed the JRE then please install the JDK.\n"
+"Azureus can normally find the file for you. However, if this fails you can explicitly set the containing directory here."
+msgstr ""
+
+#: ConfigView.section.security.toolsdir
+msgid "Directory containing 'tools.jar'"
+msgstr ""
+
+#: ConfigView.section.security.choosetoolssavedir
+msgid "Select folder containing 'tools.jar'"
+msgstr ""
+
+#: authenticator.torrent
+msgid "Torrent"
+msgstr ""
+
+#: ConfigView.section.proxy.peer.same
+msgid "Use same proxy settings for tracker and peer communications proxy"
+msgstr ""
+
+#: ConfigView.section.connection.network.max.simultaneous.connect.attempts
+msgid "Max simultaneous outbound connection attempts [0: outbound disabled]"
+msgstr ""
+
+#: ConfigView.section.connection.network.max.simultaneous.connect.attempts.tooltip
+msgid "Max number of new outbound connection establishments Azureus should attempt any given time.\n"
+"NOTE: WindowsXP Service Pack 2 (SP2) imposes a system-wide limit of 10 simultaneous connect attempts.\n"
+"Default value is 8. Value of 0 disables outbound connects entirely."
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.size.explain
+msgid "The cache is used to reduce reads from/writes to disk. Unless you are using the java option '-XX:MaxDirectMemorySize' to explicitly set the memory available for cache and network IO use, you should keep this value at least %1 below your maximum VM size. The current maximum VM size is %2. For instructions on how to change this, see MemoryUsage in the wiki on %3. Failure to use sensible settings will result on 'out of memory' errors. More than 32MB of cache is probably overkill."
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.unlimit
+msgid "No limit"
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.unlimited
+msgid "_: MyTorrentsView.menu.setSpeed.unlimited\n"
+"Unlimited"
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.disable
+msgid "Disable Upload"
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.disabled
+msgid "_: MyTorrentsView.menu.setSpeed.disabled\n"
+"Disabled"
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.in
+msgid "in"
+msgstr ""
+
+#: MyTorrentsView.menu.setSpeed.slots
+msgid "slots of"
+msgstr ""
+
+#: GeneralView.label.maxuploadspeed
+msgid "Max Up"
+msgstr ""
+
+#: GeneralView.label.maxuploadspeed.tooltip
+msgid "Max Upload Speed [0 : unlimited]"
+msgstr ""
+
+#: MyTorrents.items.UpSpeedLimit.disabled
+msgid "No upload"
+msgstr ""
+
+#: MyTorrents.items.UpSpeedLimit.unlimited
+msgid "_: MyTorrents.items.UpSpeedLimit.unlimited\n"
+"Unlimited"
+msgstr ""
+
+#: MyTorrentsView.maxupspeed
+msgid "Max Up Speed"
+msgstr ""
+
+#: MyTorrentsView.maxupspeed.info
+msgid "Max Upload Speed per torrent"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.enable.write
+msgid "Cache download data to reduce disk writes and also decrease disk reads required for piece checking"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.enable.read
+msgid "Perform read-aheads to reduce disk reads when uploading"
+msgstr ""
+
+#: ConfigView.section.tracker.separatepeerids
+msgid "Use different peer identities for tracker and data communication"
+msgstr ""
+
+#: ConfigView.section.tracker.separatepeerids.info
+msgid "Increases anonymity if downloading/seeding anonymously\n"
+"while using a non-anonymous tracker connection"
+msgstr ""
+
+#: ConfigView.section.interface.wavlocation
+msgid "Location of .wav file"
+msgstr ""
+
+#: ConfigView.section.interface.wavlocation.info
+msgid "Select .wav file or leave blank for default sound"
+msgstr ""
+
+#: ConfigView.section.tracker.server
+msgid "_: ConfigView.section.tracker.server\n"
+"Server"
+msgstr ""
+
+#: ConfigView.section.tracker.client
+msgid "_: ConfigView.section.tracker.client\n"
+"Client"
+msgstr ""
+
+#: ConfigView.section.tracker.client.connecttimeout
+msgid "Connect timeout (secs)"
+msgstr ""
+
+#: ConfigView.section.tracker.client.readtimeout
+msgid "Read timeout (secs)"
+msgstr ""
+
+#: MainWindow.menu.tools
+msgid "&Tools"
+msgstr ""
+
+#: FilesView.path
+msgid "_: FilesView.path\n"
+"Path"
+msgstr ""
+
+#: FilesView.fullpath
+msgid "Show Full Path"
+msgstr ""
+
+#: FilesView.remaining
+msgid "Remaining pieces"
+msgstr ""
+
+#: MyTorrentsView.trackername
+msgid "Tracker Name"
+msgstr ""
+
+#: MyTorrentsView.trackername.info
+msgid "Name of the tracker based on announce URL"
+msgstr ""
+
+#: ConfigView.label.announceport
+msgid "Override tracker announce port"
+msgstr ""
+
+#: ConfigView.label.announceport.tooltip
+msgid "Inform the tracker of a different port than the one you're listening on. Leave blank not to use the option."
+msgstr ""
+
+#: ConfigView.group.override
+msgid "Override Options"
+msgstr ""
+
+#: ConfigView.connection.group.proxy
+msgid "Proxy Options"
+msgstr ""
+
+#: ConfigView.section.file.perf.cache.notsmallerthan
+msgid "Do not cache files smaller than this (in %1)"
+msgstr ""
+
+#: PeersView.menu.blockupload
+msgid "Block Upload"
+msgstr ""
+
+#: PeersView.menu.kickandban
+msgid "Kick and Ban"
+msgstr ""
+
+#: PeersView.menu.kickandban.reason
+msgid "Peer manually banned"
+msgstr ""
+
+#: PeersView.state
+msgid "State"
+msgstr ""
+
+#: PeersView.state.info
+msgid "State of the peer connection"
+msgstr ""
+
+#: PeersView.state.pending
+msgid "Pending"
+msgstr ""
+
+#: PeersView.state.connecting
+msgid "Connecting"
+msgstr ""
+
+#: PeersView.state.handshake
+msgid "Waiting for handshake"
+msgstr ""
+
+#: PeersView.state.established
+msgid "Fully established"
+msgstr ""
+
+#: ConfigView.section.tracker.processinglimits
+msgid "Processing limits"
+msgstr ""
+
+#: ConfigView.section.tracker.maxgettime
+msgid "Max time for GET processing (secs) [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.tracker.maxgettime.info
+msgid "Used for announces and scrapes"
+msgstr ""
+
+#: ConfigView.section.tracker.maxposttimemultiplier
+msgid "GET time multiplier for POST processing [0: unlimited]"
+msgstr ""
+
+#: ConfigView.section.tracker.maxposttimemultiplier.info
+msgid "Used for form submissions and uploads"
+msgstr ""
+
+#: ConfigView.section.tracker.maxthreads
+msgid "Max concurrent requests"
+msgstr ""
+
+#: DownloadManager.error.operationcancancelled
+msgid "_: DownloadManager.error.operationcancancelled\n"
+"Operation cancelled"
+msgstr ""
+
+#: Torrent.create.progress.cancelled
+msgid "_: Torrent.create.progress.cancelled\n"
+"Operation cancelled"
+msgstr ""
+
+#: sharing.progress.cancel
+msgid "_: sharing.progress.cancel\n"
+"Cancel"
+msgstr ""
+
+#: wizard.maketorrents.autoopen
+msgid "Open the torrent for seeding when done"
+msgstr ""
+
+#: ConfigView.section.sharing.rescanenable
+msgid "Enable periodic rescanning of shares for changes"
+msgstr ""
+
+#: ConfigView.section.sharing.rescanperiod
+msgid "Rescan period (secs)"
+msgstr ""
+
+#: ConfigView.connection.group.advanced
+msgid "Advanced Network Settings"
+msgstr ""
+
+#: ConfigView.connection.group.advanced.tooltip
+msgid "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.mtu
+msgid "Line Maximum Transmission Unit (MTU)"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.mtu.tooltip
+msgid "Maximum size of a packet that can be transferred in one frame over a network.\n"
+"Azureus uses MTU-40 (MSS) for upload packet-payload optimizations.\n"
+"Recommended values:\n"
+"  576 - Dial-up connections\n"
+"1492 - PPPoE broadband connections\n"
+"1500 - Ethernet, DSL and Cable broadband connections"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.SO_RCVBUF
+msgid "Socket SO_RCVBUF size [0: use OS default]"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.SO_RCVBUF.tooltip
+msgid "Sets the standard socket SO_RCVBUF value (in bytes), i.e. TCP receive window size and scale.\n"
+"Azureus leaves this unset by default, meaning the defaults for the underlying OS are used.\n"
+"NOTE: Linux doubles the given value."
+msgstr ""
+
+#: ConfigView.section.connection.advanced.SO_SNDBUF
+msgid "Socket SO_SNDBUF size [0: use OS default]"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.SO_SNDBUF.tooltip
+msgid "Sets the standard socket SO_SNDBUF value (in bytes), i.e. the TCP send window size.\n"
+"Azureus leaves this unset by default, meaning the defaults for the underlying OS are used.\n"
+"NOTE: Linux doubles the given value."
+msgstr ""
+
+#: ConfigView.section.connection.advanced.IPTOS
+msgid "Outgoing packet type-of-service (TOS) [see http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings]"
+msgstr ""
+
+#: ConfigView.section.connection.advanced.IPTOS.tooltip
+msgid "Sets traffic class / type-of-service (TOS) field in the IP header for outgoing packets.\n"
+"Azureus leaves this unset by default, meaning the defaults for the underlying OS are used.\n"
+"Example values are:\n"
+"0x02 for IPTOS_LOWCOST\n"
+"0x04 for IPTOS_RELIABILITY\n"
+"0x08 for IPTOS_THROUGHPUT\n"
+"0x10 for IPTOS_LOWDELAY\n"
+"NOTE: Underlying network implementations may ignore this value, so this option is highly dependent on OS and JRE versions."
+msgstr ""
+
+#: ConfigView.section.interface.confirm_torrent_removal
+msgid "Show confirmation dialog on torrent removal"
+msgstr ""
+
+#: ConfigView.section.interface.confirm_torrent_removal.tooltip
+msgid "Confirm when Removing a torrent from the MyTorrents view."
+msgstr ""
+
+#: MyTorrentsView.confirm_torrent_removal
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: MyTorrentsView.seed_to_peer_ratio
+msgid "Seed2PeerRatio"
+msgstr ""
+
+#: MyTorrentsView.seed_to_peer_ratio.info
+msgid "Total swarm seeds to peers ratio"
+msgstr ""
+
+#: PeersView.connected_time
+msgid "Connected Time"
+msgstr ""
+
+#: PeersView.connected_time.info
+msgid "Total time connected with peer"
+msgstr ""
+
+#: ConfigView.section.interface.display.add_torrents_silently
+msgid "Add torrents silently"
+msgstr ""
+
+#: ConfigView.section.interface.display.add_torrents_silently.tooltip
+msgid "Add torrent downloads without activating main Azureus window."
+msgstr ""
+
+#: MyTorrentsView.maxdownspeed
+msgid "Max Down Speed"
+msgstr ""
+
+#: MyTorrentsView.maxdownspeed.info
+msgid "Max Download Speed per torrent"
+msgstr ""
+
+#: PeersGraphicView.title
+msgid "Swarm"
+msgstr ""
+
+#: ConfigView.section.tracker.passwordwebhttpsonly
+msgid "Only allow access via HTTPS"
+msgstr ""
+
+#: MyTorrentsView.torrentpath
+msgid "Torrent Location"
+msgstr ""
+
+#: MyTorrentsView.torrentpath.info
+msgid "Location of the Torrent on disk"
+msgstr ""
+
+#: ConfigView.section.sharing.torrentcomment
+msgid "Comment for generated torrents"
+msgstr ""
+
+#: ConfigView.label.copyanddeleteratherthanmove
+msgid "Copy and then delete the original data rather than move it in one operation - can help avoid data loss on some file systems"
+msgstr ""
+
+#: ConfigView.label.openstatsonstart
+msgid "Open Statistics on startup"
+msgstr ""
+
+#: swt.install.window.title
+msgid "Azureus Plugin Installer"
+msgstr ""
+
+#: swt.install.window.ok
+msgid "_: swt.install.window.ok\n"
+"Install"
+msgstr ""
+
+#: swt.install.window.header
+msgid "The following components have been selected for installation :"
+msgstr ""
+
+#: swt.uninstall.window.title
+msgid "Azureus Plugin Remover"
+msgstr ""
+
+#: swt.uninstall.window.ok
+msgid "_: swt.uninstall.window.ok\n"
+"Remove"
+msgstr ""
+
+#: swt.uninstall.window.header
+msgid "The following components have been selected for removal :"
+msgstr ""
+
+#: installPluginsWizard.title
+msgid "Install Plugins"
+msgstr ""
+
+#: installPluginsWizard.mode.title
+msgid "Please choose an installation method"
+msgstr ""
+
+#: installPluginsWizard.mode.list
+msgid "By list from sourceforge.net"
+msgstr ""
+
+#: installPluginsWizard.list.title
+msgid "Installable Plugin List"
+msgstr ""
+
+#: installPluginsWizard.list.loading
+msgid "Please wait while the Plugin list is loaded."
+msgstr ""
+
+#: installPluginsWizard.list.loaded
+msgid "Please choose the plugins you want to install."
+msgstr ""
+
+#: installPluginsWizard.list.name
+msgid "_: installPluginsWizard.list.name\n"
+"Name"
+msgstr ""
+
+#: installPluginsWizard.list.version
+msgid "_: installPluginsWizard.list.version\n"
+"Version"
+msgstr ""
+
+#: installPluginsWizard.list.description
+msgid "Plugin's description"
+msgstr ""
+
+#: installPluginsWizard.finish.title
+msgid "Installation in Progress"
+msgstr ""
+
+#: installPluginsWizard.finish.explanation
+msgid "The selected Plugins will be installed using the Update Assistant.\n"
+"\n"
+"Please be patient, this can take a short while to appear.\n"
+"\n"
+"For a progress report, double click on the left of the status bar."
+msgstr ""
+
+#: installPluginsWizard.details.loading
+msgid "Details loading, please wait..."
+msgstr ""
+
+#: installPluginsWizard.mode.file
+msgid "By file"
+msgstr ""
+
+#: installPluginsWizard.installMode.title
+msgid "Please choose the installation type"
+msgstr ""
+
+#: installPluginsWizard.installMode.user
+msgid "Install the plugin(s) for you only"
+msgstr ""
+
+#: installPluginsWizard.installMode.shared
+msgid "Install the plugin(s) for all users"
+msgstr ""
+
+#: installPluginsWizard.file.title
+msgid "Please browse for the plugin you want to install"
+msgstr ""
+
+#: installPluginsWizard.file.file
+msgid "_: installPluginsWizard.file.file\n"
+"File :"
+msgstr ""
+
+#: installPluginsWizard.file.invalidfile
+msgid "The file isn't a valid Azureus plugin."
+msgstr ""
+
+#: installPluginsWizard.file.browse
+msgid "_: installPluginsWizard.file.browse\n"
+"Browse..."
+msgstr ""
+
+#: uninstallPluginsWizard.title
+msgid "Uninstall Plugins"
+msgstr ""
+
+#: uninstallPluginsWizard.list.title
+msgid "Installed Plugin List"
+msgstr ""
+
+#: uninstallPluginsWizard.list.loaded
+msgid "Please choose the plugins you want to uninstall."
+msgstr ""
+
+#: installPluginsWizard.list.nullversion
+msgid "No Version"
+msgstr ""
+
+#: uninstallPluginsWizard.finish.title
+msgid "Uninstallation in Progress"
+msgstr ""
+
+#: uninstallPluginsWizard.finish.explanation
+msgid "The selected Plugins will be uninstalled using the Update Assistant."
+msgstr ""
+
+#: MainWindow.menu.plugins.installPlugins
+msgid "Installation Wizard..."
+msgstr ""
+
+#: MainWindow.menu.plugins.uninstallPlugins
+msgid "Uninstallation Wizard..."
+msgstr ""
+
+#: ConfigView.section.ipfilter.totalIPs
+msgid "%1 IPs blocked in total, which is %2 of the internet."
+msgstr ""
+
+#: update.instance.install
+msgid "Checking Install"
+msgstr ""
+
+#: update.instance.uninstall
+msgid "Checking Uninstall"
+msgstr ""
+
+#: update.instance.update
+msgid "_: update.instance.update\n"
+"Checking for Updates"
+msgstr ""
+
+#: MainWindow.status.update.tooltip
+msgid "Double click for progress information"
+msgstr ""
+
+#: updater.progress.window.title
+msgid "Current Installation Tasks"
+msgstr ""
+
+#: updater.progress.window.info
+msgid "Press 'Abort' to terminate all outstanding tasks"
+msgstr ""
+
+#: Button.abort
+msgid "Abort"
+msgstr ""
+
+#: ConfigView.section.ipfilter.enablebanning
+msgid "Block peers that consistently send bad data"
+msgstr ""
+
+#: Network.alert.acceptfail
+msgid "Too many successive failures occurred on port %1, %2 - processing abandoned. Please check firewall settings for this port to ensure that it is enabled for receiving connections."
+msgstr ""
+
+#: MyShares.column.category
+msgid "_: MyShares.column.category\n"
+"Category"
+msgstr ""
+
+#: swt.update.window.restartLater
+msgid "Restart Later"
+msgstr ""
+
+#: MainWindow.menu.file.restart
+msgid "Restart Azureus"
+msgstr ""
+
+#: MainWindow.dialog.restartconfirmation.title
+msgid "Restart Azureus?"
+msgstr ""
+
+#: MainWindow.dialog.restartconfirmation.text
+msgid "Do you really want to restart Azureus?"
+msgstr ""
+
+#: deletetorrent.message1
+msgid "You are about to delete the TORRENT for :"
+msgstr ""
+
+#: deletetorrent.message2
+msgid "_: deletetorrent.message2\n"
+"Are you sure you want to proceed?"
+msgstr ""
+
+#: ConfigView.label.prioritizemostcompletedfiles
+msgid "Prioritize most completed files"
+msgstr ""
+
+#: splash.plugin.init
+msgid "Initializing Plugin:"
+msgstr ""
+
+#: ConfigView.section.style.osx_small_fonts
+msgid "Use small fonts [restart required]"
+msgstr ""
+
+#: ConfigView.section.tracker.tcpnonblocking
+msgid "Use non-blocking I/O for TCP tracker processing. Selecting this option requires the tracker web to be run on an alternative port. Experimental!"
+msgstr ""
+
+#: ConfigView.section.tracker.nonblocking
+msgid "Non-blocking options"
+msgstr ""
+
+#: ConfigView.section.tracker.nonblockingconcmax
+msgid "Max concurrent connections [0: unlimited]"
+msgstr ""
+
+#: MyTorrentsView.menu.exportmenu
+msgid "Export"
+msgstr ""
+
+#: MyTorrentsView.menu.exporttorrent
+msgid "Torrent..."
+msgstr ""
+
+#: ConfigView.group.scrape
+msgid "Scrape"
+msgstr ""
+
+#: ConfigView.section.tracker.client.scrapeinfo
+msgid "Disabling scraping will prevent many of the torrent queueing rules from working as they rely on swarm information retrieved by scraping trackers."
+msgstr ""
+
+#: ConfigView.section.tracker.client.scrapeenable
+msgid "Enable scraping"
+msgstr ""
+
+#: ConfigView.section.tracker.client.scrapestoppedenable
+msgid "Scrape torrents that aren't running"
+msgstr ""
+
+#: Scrape.status.disabled
+msgid "Scrape Disabled"
+msgstr ""
+
+#: MyTorrentsView.menu.explore
+msgid "Show File"
+msgstr ""
+
+#: MyTorrentsView.menu.explore._mac
+msgid "Show In Finder"
+msgstr ""
+
+#: MyTorrentsView.menu.explore._windows
+msgid "Show In Explorer"
+msgstr ""
+
+#: wizard.maketorrents.autohost
+msgid "Host the torrent on the built-in tracker"
+msgstr ""
+
+#: ConfigView.label.overrideip
+msgid "Override tracker announce IP(s) - semicolon separate if more than one for different networks"
+msgstr ""
+
+#: ConfigView.label.overrideip.tooltip
+msgid "Inform the tracker of different IP address(es) than the one outgoing packets come from. Leave blank not to use the option."
+msgstr ""
+
+#: ConfigView.section.connection.group.networks
+msgid "_: ConfigView.section.connection.group.networks\n"
+"Networks"
+msgstr ""
+
+#: ConfigView.section.connection.group.networks.info
+msgid "Select the default permitted networks for peer-peer data transmission"
+msgstr ""
+
+#: ConfigView.section.connection.networks.prompt
+msgid "Prompt for selection when a download with an anonymous tracker is added"
+msgstr ""
+
+#: ConfigView.section.connection.networks.Public
+msgid "Public IP network (not anonymous)"
+msgstr ""
+
+#: ConfigView.section.connection.networks.I2P
+msgid "I2P network"
+msgstr ""
+
+#: ConfigView.section.connection.networks.Tor
+msgid "The Onion Router (Tor) network"
+msgstr ""
+
+#: MyTorrentsView.networks
+msgid "_: MyTorrentsView.networks\n"
+"Networks"
+msgstr ""
+
+#: MyTorrentsView.networks.info
+msgid "Networks permitted for peer-peer data communication"
+msgstr ""
+
+#: Scrape.status.networkdisabled
+msgid "Network not enabled"
+msgstr ""
+
+#: ConfigView.section.tracker.server.group.networks
+msgid "_: ConfigView.section.tracker.server.group.networks\n"
+"Networks"
+msgstr ""
+
+#: ConfigView.section.tracker.server.group.networks.info
+msgid "Select the networks for which the tracker will accept peers"
+msgstr ""
+
+#: window.networkselection.title
+msgid "Network Selection"
+msgstr ""
+
+#: window.networkselection.info
+msgid "The torrent listed below has tracker(s) that support the following networks.\n"
+"Select the ones to enable for tracker and peer communication.\n"
+"If it is an anonymous tracker that supports public clients enable both the anonymous and public networks.\n"
+"Enabling the public network has the obvious consequence of removing anonymity!"
+msgstr ""
+
+#: window.networkselection.description
+msgid "Torrent :"
+msgstr ""
+
+#: plugins.basicview.clear
+msgid "_: plugins.basicview.clear\n"
+"Clear"
+msgstr ""
+
+#: ConfigView.section.connection.group.peersources
+msgid "_: ConfigView.section.connection.group.peersources\n"
+"Peer Sources"
+msgstr ""
+
+#: ConfigView.section.connection.group.peersources.info
+msgid "Select the default permitted sources for peer connections"
+msgstr ""
+
+#: ConfigView.section.connection.peersource.Tracker
+msgid "From a tracker"
+msgstr ""
+
+#: ConfigView.section.connection.peersource.DHT
+msgid "Decentralized tracking"
+msgstr ""
+
+#: ConfigView.section.connection.peersource.PeerExchange
+msgid "Supplied by another peer"
+msgstr ""
+
+#: ConfigView.section.connection.peersource.Plugin
+msgid "Added by a plugin"
+msgstr ""
+
+#: ConfigView.section.connection.peersource.Incoming
+msgid "Incoming connection"
+msgstr ""
+
+#: PeersView.source
+msgid "Source"
+msgstr ""
+
+#: PeersView.source.info
+msgid "The source of this peer"
+msgstr ""
+
+#: MyTorrentsView.peersources
+msgid "_: MyTorrentsView.peersources\n"
+"Peer Sources"
+msgstr ""
+
+#: MyTorrentsView.peersources.info
+msgid "Peer sources permitted for the establishment of peer connections"
+msgstr ""
+
+#: wizard.tracker.dht
+msgid "Decentralized (Azureus clients only)"
+msgstr ""
+
+#: MyTorrentsView.menu.advancedmenu
+msgid "Advanced"
+msgstr ""
+
+#: MyTorrentsView.menu.networks
+msgid "_: MyTorrentsView.menu.networks\n"
+"Networks"
+msgstr ""
+
+#: MyTorrentsView.menu.peersource
+msgid "Peers Sources"
+msgstr ""
+
+#: ConfigView.section.sharing.permitdht
+msgid "Allow decentralized tracking when tracker is unavailable"
+msgstr ""
+
+#: ConfigView.section.sharing.protocol
+msgid "Protocol for shared resources (tracker configuration required)"
+msgstr ""
+
+#: PeersView.Messaging
+msgid "Messaging"
+msgstr ""
+
+#: PeersView.Messaging.info
+msgid "Supports advanced messaging API."
+msgstr ""
+
+#: ConfigView.label.queue.newseedsmovetop
+msgid "Move newly completed torrents to the front of the seeding list"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.ignore.info
+msgid "Be aware that using these rules may result in stopping a torrent\n"
+"as soon as the download finishes."
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.ignore
+msgid "Ignore First Priority rules above for:"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.ignoreSPRatio
+msgid "Torrents with a Seeds to Peers ratio over"
+msgstr ""
+
+#: ConfigView.label.seeding.firstPriority.ignore0Peer
+msgid "Torrents with 0 Peers"
+msgstr ""
+
+#: ConfigView.section.tracker.sendjavaversionandos
+msgid "Send Java version and OS name"
+msgstr ""
+
+#: MagnetPlugin.contextmenu.exporturi
+msgid "Copy Magnet URI to Clipboard"
+msgstr ""
+
+#: ConfigView.section.plugins.dht
+msgid "Distributed DB"
+msgstr ""
+
+#: dht.info
+msgid "This plugin supports decentralized tracking, amongst other things, - disabling it will reduce your ability to download"
+msgstr ""
+
+#: dht.enabled
+msgid "Enable the distributed database"
+msgstr ""
+
+#: dht.portdefault
+msgid "Use the default port"
+msgstr ""
+
+#: dht.port
+msgid "UDP port for the database"
+msgstr ""
+
+#: dht.execute.command
+msgid "Diagnostic command"
+msgstr ""
+
+#: dht.execute.info
+msgid "Press to execute the command"
+msgstr ""
+
+#: dht.execute
+msgid "Run"
+msgstr ""
+
+#: dht.logging
+msgid "Enable tracing of activity"
+msgstr ""
+
+#: ConfigView.section.plugins.dhttracker
+msgid "Distributed Tracker"
+msgstr ""
+
+#: dhttracker.tracknormalwhenoffline
+msgid "Only track normal torrents when their tracker is unavailable"
+msgstr ""
+
+#: ConfigView.section.file.nativedelete._mac
+msgid "Use Trash when deleting files"
+msgstr ""
+
+#: ConfigView.section.file.nativedelete._windows
+msgid "Move deleted files to the Recycle Bin"
+msgstr ""
+
+#: ConfigView.section.logging.generatediagnostics
+msgid "Generate"
+msgstr ""
+
+#: ConfigView.section.logging.generatediagnostics.info
+msgid "Generate diagnostic information and copy to the clipboard and log file, if configured"
+msgstr ""
+
+#: ConfigView.section.sharing.privatetorrent
+msgid "Private torrent - only accept peers from the tracker"
+msgstr ""
+
+#: MainWindow.menu.tools.nattest
+msgid "&NAT / Firewall Test"
+msgstr ""
+
+#: Button.apply
+msgid "_: Button.apply\n"
+"Apply"
+msgstr ""
+
+#: Button.close
+msgid "_: Button.close\n"
+"Close"
+msgstr ""
+
+#: window.welcome.version
+msgid "2304"
+msgstr ""
+
+#: window.welcome.title.2304
+msgid "Welcome to Azureus 2.3.0.4"
+msgstr ""
+
+#: window.welcome.file
+msgid "whatsnew.english.stf"
+msgstr ""
+
+#: MainWindow.menu.help.releasenotes
+msgid "Release Notes"
+msgstr ""
+
+#: dht.reseed.label
+msgid "Normally reseeding of the Distributed Database is not necessary. However, if the number of contacts is low this can be used for re-integration.\n"
+"Leave blank to bootstrap off connected peers or enter IP and port to explicitly bootstrap from a known peer."
+msgstr ""
+
+#: dht.reseed.group
+msgid "_: dht.reseed.group\n"
+"Reseed"
+msgstr ""
+
+#: dht.reseed.ip
+msgid "IP address"
+msgstr ""
+
+#: dht.reseed.port
+msgid "_: dht.reseed.port\n"
+"Port"
+msgstr ""
+
+#: dht.reseed
+msgid "_: dht.reseed\n"
+"Reseed"
+msgstr ""
+
+#: dht.reseed.info
+msgid "Reseed the database"
+msgstr ""
+
+#: dht.diagnostics.group
+msgid "Diagnostics"
+msgstr ""
+
+#: DHTView.title.full
+msgid "Distributed Database"
+msgstr ""
+
+#: DHTView.title.fullcvs
+msgid "Distributed Database CVS"
+msgstr ""
+
+#: DHTView.general.title
+msgid "_: DHTView.general.title\n"
+"General"
+msgstr ""
+
+#: DHTView.general.uptime
+msgid "Uptime:"
+msgstr ""
+
+#: DHTView.general.users
+msgid "Users:"
+msgstr ""
+
+#: DHTView.general.nodes
+msgid "Nodes:"
+msgstr ""
+
+#: DHTView.general.leaves
+msgid "Leaves:"
+msgstr ""
+
+#: DHTView.general.contacts
+msgid "Contacts:"
+msgstr ""
+
+#: DHTView.general.replacements
+msgid "Replacements:"
+msgstr ""
+
+#: DHTView.general.live
+msgid "Live:"
+msgstr ""
+
+#: DHTView.general.unknown
+msgid "Unknown:"
+msgstr ""
+
+#: DHTView.general.dying
+msgid "Dying:"
+msgstr ""
+
+#: DHTView.transport.title
+msgid "Transport Details"
+msgstr ""
+
+#: DHTView.transport.packets
+msgid "Packets"
+msgstr ""
+
+#: DHTView.transport.bytes
+msgid "Bytes"
+msgstr ""
+
+#: DHTView.transport.received
+msgid "_: DHTView.transport.received\n"
+"Received"
+msgstr ""
+
+#: DHTView.transport.sent
+msgid "_: DHTView.transport.sent\n"
+"Sent"
+msgstr ""
+
+#: DHTView.transport.in
+msgid "In :"
+msgstr ""
+
+#: DHTView.transport.out
+msgid "Out :"
+msgstr ""
+
+#: DHTView.operations.title
+msgid "Operation Details"
+msgstr ""
+
+#: DHTView.operations.sent
+msgid "_: DHTView.operations.sent\n"
+"Sent"
+msgstr ""
+
+#: DHTView.operations.ok
+msgid "Ok"
+msgstr ""
+
+#: DHTView.operations.failed
+msgid "_: DHTView.operations.failed\n"
+"Failed"
+msgstr ""
+
+#: DHTView.operations.received
+msgid "_: DHTView.operations.received\n"
+"Received"
+msgstr ""
+
+#: DHTView.operations.ping
+msgid "Ping"
+msgstr ""
+
+#: DHTView.operations.findNode
+msgid "Find Node"
+msgstr ""
+
+#: DHTView.operations.findValue
+msgid "Find Value"
+msgstr ""
+
+#: DHTView.operations.store
+msgid "Store"
+msgstr ""
+
+#: DHTView.activity.title
+msgid "_: DHTView.activity.title\n"
+"Activity"
+msgstr ""
+
+#: DHTView.activity.status
+msgid "_: DHTView.activity.status\n"
+"Status"
+msgstr ""
+
+#: DHTView.activity.status.true
+msgid "_: DHTView.activity.status.true\n"
+"Queued"
+msgstr ""
+
+#: DHTView.activity.status.false
+msgid "_: DHTView.activity.status.false\n"
+"Running"
+msgstr ""
+
+#: DHTView.activity.type
+msgid "_: DHTView.activity.type\n"
+"Type"
+msgstr ""
+
+#: DHTView.activity.type.1
+msgid "Internal Get"
+msgstr ""
+
+#: DHTView.activity.type.2
+msgid "External Get"
+msgstr ""
+
+#: DHTView.activity.type.3
+msgid "Internal Put"
+msgstr ""
+
+#: DHTView.activity.type.4
+msgid "External Put"
+msgstr ""
+
+#: DHTView.activity.target
+msgid "Target"
+msgstr ""
+
+#: DHTView.activity.details
+msgid "_: DHTView.activity.details\n"
+"Details"
+msgstr ""
+
+#: DHTView.db.title
+msgid "Database"
+msgstr ""
+
+#: DHTView.db.keys
+msgid "Keys"
+msgstr ""
+
+#: DHTView.db.values
+msgid "Values"
+msgstr ""
+
+#: DHTView.db.local
+msgid "Local"
+msgstr ""
+
+#: DHTView.db.direct
+msgid "Direct"
+msgstr ""
+
+#: DHTView.db.indirect
+msgid "Indirect"
+msgstr ""
+
+#: DHTView.db.divfreq
+msgid "Freq. Div."
+msgstr ""
+
+#: DHTView.db.divsize
+msgid "Size Div."
+msgstr ""
+
+#: MainWindow.dht.status.tooltip
+msgid "When the Distributed Database is running this shows the estimated number of users currently online"
+msgstr ""
+
+#: MainWindow.dht.status.disabled
+msgid "_: MainWindow.dht.status.disabled\n"
+"Disabled"
+msgstr ""
+
+#: MainWindow.dht.status.failed
+msgid "_: MainWindow.dht.status.failed\n"
+"Failed"
+msgstr ""
+
+#: MainWindow.dht.status.initializing
+msgid "_: MainWindow.dht.status.initializing\n"
+"Initializing"
+msgstr ""
+
+#: MainWindow.dht.status.running
+msgid "_: MainWindow.dht.status.running\n"
+"Running"
+msgstr ""
+
+#: MainWindow.dht.status.users
+msgid "Users"
+msgstr ""
+
+#: MyTorrentsView.menu.setUpSpeed
+msgid "Set Up Speed"
+msgstr ""
+
+#: MyTorrentsView.menu.setDownSpeed
+msgid "Set Down Speed"
+msgstr ""
+
+#: ConfigView.section.tracker.client.showwarnings
+msgid "Show warning messages reported by trackers"
+msgstr ""
+
+#: dht.advanced
+msgid "Enable advanced settings"
+msgstr ""
+
+#: dht.advanced.group
+msgid "Advanced settings"
+msgstr ""
+
+#: dht.advanced.label
+msgid "Only amend these values if you really know what you're doing"
+msgstr ""
+
+#: dht.override.ip
+msgid "Override external IP address"
+msgstr ""
+
+#: ConfigView.section.logging.loggerenable
+msgid "Enable logging"
+msgstr ""
+
+#: ConfigView.section.ipfilter.blockbanning
+msgid "Ban a block of 256 addresses when at least this many in the block have been banned"
+msgstr ""
+
+#: MyTrackerView.passive
+msgid "Passive"
+msgstr ""
+
+#: MyTorrentsView.swarm_average_speed
+msgid "Swarm Ave Speed"
+msgstr ""
+
+#: MyTorrentsView.swarm_average_speed.info
+msgid "The average speed of peers in the swarm"
+msgstr ""
+
+#: MyTrackerView.category
+msgid "_: MyTrackerView.category\n"
+"Category"
+msgstr ""
+
+#: MainWindow.menu.file.open.torrentfortracking
+msgid "Torrent File... (Tracking Only)"
+msgstr ""
+
+#: VivaldiView.title.full
+msgid "Vivaldi"
+msgstr ""
+
+#: MyTrackerView.date_added
+msgid "Added"
+msgstr ""
+

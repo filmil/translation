@@ -1,0 +1,30 @@
+<!ENTITY checkForDefault.accesskey "п">
+<!ENTITY checkForDefault.label "При покретању &brandShortName;-а провери да ли је он подразумевани браузер.">
+<!ENTITY checkNow.accesskey "с">
+<!ENTITY checkNow.label "Провери сад">
+<!ENTITY connectionsInfo.caption "Повезивање">
+<!ENTITY defaultBrowserButton.label "Постављање подразумеваног клијента">
+<!ENTITY defaultBrowserGroup.label "Подразумевани клијент">
+<!ENTITY fonts.caption "Фонт и боје">
+<!ENTITY fontsInfo.label "Избор фонта и боје, коришћене за приказ страница.">
+<!ENTITY header2.label "Почетна страна">
+<!ENTITY lHeader "Опште">
+<!ENTITY languages.caption "Језици">
+<!ENTITY languagesInfo.label "Изабор језика и кодирања, коришћених за приказ страна.">
+<!ENTITY location.accesskey "а">
+<!ENTITY location.label "Адреса:">
+<!ENTITY makeDefaultText "Поставите &brandShortName; као ваш подразумевани клијент.">
+<!ENTITY proxiesInfo.label "Изабор прокси сервер за приступ Интернету.">
+<!ENTITY showConnections.accesskey "о">
+<!ENTITY showConnections.label "Параметри повезивања...">
+<!ENTITY showFontsAndColors.accesskey "б">
+<!ENTITY showFontsAndColors.label "Фонт и боја...">
+<!ENTITY showLanguages.accesskey "ј">
+<!ENTITY showLanguages.label "Језици...">
+<!ENTITY useBlank.accesskey "с">
+<!ENTITY useBlank.label "Празна страна">
+<!ENTITY useBookmark.accesskey "о">
+<!ENTITY useBookmark.label "Омиљено...">
+<!ENTITY useCurrent.accesskey "т">
+<!ENTITY useCurrent.label "Текућа страна">
+<!ENTITY useCurrentMultiple.label "Текућа група страна">

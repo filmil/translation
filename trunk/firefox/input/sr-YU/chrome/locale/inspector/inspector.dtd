@@ -1,0 +1,50 @@
+<!ENTITY Inspector.title "Инспектор DOM">
+<!ENTITY browserPanel.label "Браузер">
+<!ENTITY btnFind.tooltip "Пронађи чвор за истраживање по идентификатору, тагу или атрибуту">
+<!ENTITY btnInspect.label "Истражи">
+<!ENTITY btnSelecting.tooltip "Штиклирањем изабери чвор за истраживање">
+<!ENTITY bxDocPanel.title "Докуменат">
+<!ENTITY bxObjectPanel.title "Објекат">
+<!ENTITY cmdClearSearch.label "Очисти">
+<!ENTITY cmdClose.accesskey "з">
+<!ENTITY cmdClose.label "Затвори">
+<!ENTITY cmdCopy.accesskey "ж">
+<!ENTITY cmdCopy.label "Умножи">
+<!ENTITY cmdCopySearchItemAll.label "Умножи све">
+<!ENTITY cmdCopySearchItemLine.label "Умножи ред">
+<!ENTITY cmdCut.accesskey "и">
+<!ENTITY cmdCut.label "Исеци">
+<!ENTITY cmdDelete.accesskey "у">
+<!ENTITY cmdDelete.label "Удаљи">
+<!ENTITY cmdEditSearchItem.label "Измени...">
+<!ENTITY cmdExit.accesskey "и">
+<!ENTITY cmdExit.label "Излаз">
+<!ENTITY cmdHideSearchItems.label "Сакри">
+<!ENTITY cmdPaste.accesskey "б">
+<!ENTITY cmdPaste.label "Убаци">
+<!ENTITY cmdRedo.accesskey "п">
+<!ENTITY cmdRedo.label "Понови">
+<!ENTITY cmdRunSearch.accesskey "в">
+<!ENTITY cmdRunSearch.label "Изврши...">
+<!ENTITY cmdSaveSearchItemText.label "Чувам...">
+<!ENTITY cmdShowOpenURLDialog.accesskey "и">
+<!ENTITY cmdShowOpenURLDialog.label "Истражи адресу...">
+<!ENTITY cmdToggleBrowser.label "Браузер">
+<!ENTITY cmdToggleSearch.label "Резултати претраге">
+<!ENTITY cmdUndo.accesskey "о">
+<!ENTITY cmdUndo.label "Опозови">
+<!ENTITY cmdViewSearchItem.label "Преглед...">
+<!ENTITY inspectNewWindow.label "Истражи у новом прозору">
+<!ENTITY mnEdit.accesskey "и">
+<!ENTITY mnEdit.label "Измена">
+<!ENTITY mnFile.accesskey "ф">
+<!ENTITY mnFile.label "Фајл">
+<!ENTITY mnSearch.accesskey "п">
+<!ENTITY mnSearch.label "Претрага">
+<!ENTITY mnSearchPlugins.accesskey "д">
+<!ENTITY mnSearchPlugins.label "Додатак">
+<!ENTITY mnView.accesskey "п">
+<!ENTITY mnView.label "Поглед">
+<!ENTITY mnWindows.accesskey "и">
+<!ENTITY mnWindows.label "Истражи прозор">
+<!ENTITY thDOMNodes.label "Чворови DOM-а">

@@ -1,0 +1,23 @@
+<!ENTITY connectionFailure.longDesc "Браузер није могао да се повеже са изабраним сајтом, иако он постоји. Вероватно, сајт забрањује приступ са Вашег компијутера, тренутно не ради или не користи протокол или порт који сте изабрали.">
+<!ENTITY connectionFailure.title "Грешка при повезивању">
+<!ENTITY dnsNotFound.longDesc "The address (URL) does not correspond to a known site and could not be loaded. This could be due to a misspelling in the address or because the site does not exist. If the address is known to be valid, or if the problem occurs for many sites, it may be an issue with your proxy service (if you use one) or the directory name service lookup. In such cases you should consult your system documentation, administrator or Internet Service Provider (ISP) as appropriate for further assistance.">
+<!ENTITY dnsNotFound.title "Адреса није пронбађена">
+<!ENTITY fileNotFound.longDesc "The file specified by the address (URL) cannot be found. Check that the file exists and that you have sufficient permissions to view it.">
+<!ENTITY fileNotFound.title "Фајл није пронађен">
+<!ENTITY generic.longDesc "Не могу да учитам страницу, вероватно она не постоји или локација није исправна.<br/>Провери исправност адресе.">
+<!ENTITY loadError.label "Грешка при учитавању странице">
+<!ENTITY malformedURI.longDesc "The address (URL) is not a valid format and cannot be read. A typical address will start with &quot;http://&quot;, followed by an address, (e.g. www.netscape.com), followed by a path to the content (or just &quot;/&quot;). A common cause for the problem is using backslashes(\) instead of forward slashes (/).">
+<!ENTITY malformedURI.title "Неисправна адреса">
+<!ENTITY netOffline.longDesc "Бразуер ради у самосталном режиму рада и не може се повезати са тим сајтом. Повежите се и покушајте поново.">
+<!ENTITY netOffline.title "Ван мреже">
+<!ENTITY netReset.longDesc "За време предаје података веза са сајтом се прекинула. Вероватно је настала грешка на делу мреже између сајта и Вашег компијутера. Покушајте поново, ако проблем не нестане, обратите се документацији о Вашем систему, администратору система или даваоцу интернет услуга.">
+<!ENTITY netReset.title "Веза је прекинута">
+<!ENTITY netTimeout.longDesc "Истекло је време ишчекивања за време покушаја повезивања са изабраним сајтом. Вероватно је сервер сајта преоптерећен или се појавио проблем у мрежи, онемогућујући предају података на Ваш компијутер. Ако је сајт још увек преоптерећен, сачекајте неко време и попкушајте поново.">
+<!ENTITY netTimeout.title "Истекло је време ишчекивања">
+<!ENTITY protocolNotFound.longDesc "The address (URL) starts with a protocol that is not recognized by the browser. A protocol is the part at the front of the address, such as http: or ftp: which tells the browser how to connect to the site. In this instance, the protocol is unknown so loading cannot continue. Check that the address is correct before retrying.">
+<!ENTITY protocolNotFound.title "Protocol Not Known Error">
+<!ENTITY redirectLoop.longDesc "The browser has stopped a connection because the site is redirecting requests to itself in a manner which prevents it from ever completing.">
+<!ENTITY redirectLoop.title "Поновна грешка">
+<!ENTITY retry.label "Пробај поново">
+<!ENTITY unknownSocketType.longDesc "Сајт је неочекивано одговорио на упит. Вероватно користи други порт за овај протокол или је посебно подешен.">
+<!ENTITY unknownSocketType.title "Непознат тип сокета">

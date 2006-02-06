@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!--
+
+-->
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest"
+               em:id="{9E20245A-B2EE-4ee6-815B-99C30B35D0D2}"
+               em:name="Serbian (SR) Language Pack"
+               em:version="1.0"
+               em:creator="scar.gradac.net">
+    <em:contributor>Nikola Radovanovic</em:contributor>
+    <em:file>
+      <Description about="urn:mozilla:extension:file:sr-YU.jar">
+        <em:locale>locale/global/</em:locale>
+        <em:locale>locale/global-platform/</em:locale>
+        <em:locale>locale/global-region/</em:locale>
+
+        <em:locale>locale/browser/</em:locale>
+        <em:locale>locale/browser-region/</em:locale>
+        <em:locale>locale/passwordmgr/</em:locale>
+        <em:locale>locale/mozapps/</em:locale>
+
+        <em:locale>locale/necko/</em:locale>
+        <em:locale>locale/cookie/</em:locale>
+        <em:locale>locale/pippki/</em:locale>
+        <em:locale>locale/pipnss/</em:locale>
+
+        <em:locale>locale/inspector/</em:locale>
+      </Description>
+    </em:file>
+
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>1.0</em:minVersion>
+        <em:maxVersion>1.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

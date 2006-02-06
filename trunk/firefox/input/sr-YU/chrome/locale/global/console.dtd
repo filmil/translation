@@ -1,0 +1,25 @@
+<!ENTITY all.accesskey "В">
+<!ENTITY all.label "Све">
+<!ENTITY clear.accesskey "ч">
+<!ENTITY clear.label "Очисти">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY console.title "JavaScript конзола">
+<!ENTITY copyCmd.accesskey "у">
+<!ENTITY copyCmd.commandkey "C">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY errColumn.label "Символ:">
+<!ENTITY errFile.label "Извор:">
+<!ENTITY errLine.label "Ред:">
+<!ENTITY errors.accesskey "г">
+<!ENTITY errors.label "Грешке">
+<!ENTITY evaluate.label "Анализирај">
+<!ENTITY focus1.commandkey "l">
+<!ENTITY focus2.commandkey "d">
+<!ENTITY messages.accesskey "п">
+<!ENTITY messages.label "Поруке">
+<!ENTITY sortFirst.accesskey "р">
+<!ENTITY sortFirst.label "Сортирање по растућем редоследу">
+<!ENTITY sortLast.accesskey "о">
+<!ENTITY sortLast.label "Сортирање по опадајућем редоследу">
+<!ENTITY warnings.accesskey "у">
+<!ENTITY warnings.label "Упозорења">

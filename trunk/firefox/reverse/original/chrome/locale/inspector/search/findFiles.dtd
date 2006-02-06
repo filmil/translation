@@ -1,0 +1,4 @@
+<!ENTITY cbRecurse.label "Тражи по изабраним каталозима">
+<!ENTITY findFiles.title "Пронађи фајлове...">
+<!ENTITY txSearchFor.label "Тражи:">
+<!ENTITY txSearchPath.label "Тражи у:">

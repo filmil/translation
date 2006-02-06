@@ -1,0 +1,19 @@
+<!ENTITY backwardsCheckbox.accesskey "о">
+<!ENTITY backwardsCheckbox.label "Претрага у обрнутом сверу">
+<!ENTITY cancelButton.label "Одустани">
+<!ENTITY caseSensitiveCheckbox.accesskey "С">
+<!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
+<!ENTITY direction.label "Смер">
+<!ENTITY down.accesskey "д">
+<!ENTITY down.label "На доле">
+<!ENTITY findButton.accesskey "Н">
+<!ENTITY findButton.label "Пронађи">
+<!ENTITY findDialog.title "Пронађи на овој страни">
+<!ENTITY findDialogFrame.title "Нађи у овом фрејму">
+<!ENTITY findField.accesskey "т">
+<!ENTITY findField.label "Пронађи текст:">
+<!ENTITY findField.tooltip "Наведите једну или више речи">
+<!ENTITY up.accesskey "г">
+<!ENTITY up.label "На горе">
+<!ENTITY wrapCheckbox.accesskey "п">
+<!ENTITY wrapCheckbox.label "Од почетка странице">

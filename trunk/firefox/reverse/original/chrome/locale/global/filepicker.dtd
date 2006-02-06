@@ -1,0 +1,16 @@
+<!ENTITY filterMenuList.accesskey "Т">
+<!ENTITY filterMenuList.label "Тип фајлова:">
+<!ENTITY folderHome.tooltiptext "Пређи на почетак">
+<!ENTITY folderNew.tooltiptext "Направи нови каталог">
+<!ENTITY folderUp.tooltiptext "Пређи на виши ниво">
+<!ENTITY lastModified.label "Последња измена">
+<!ENTITY lookInMenuList.accesskey "у">
+<!ENTITY lookInMenuList.label "Погледај у:">
+<!ENTITY name.label "Име">
+<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
+<!ENTITY permissions.label "Права">
+<!ENTITY showHiddenFiles.accesskey "с">
+<!ENTITY showHiddenFiles.label "Приказ сакривених фајлова и каталога">
+<!ENTITY size.label "Величина">
+<!ENTITY textInput.accesskey "И">
+<!ENTITY textInput.label "Назив фајла:">

@@ -1,0 +1,21 @@
+<!ENTITY alwaysAsk.label "Питај где да сачувам сваки фајл">
+<!ENTITY askOnSave.label "Каталог преузимања">
+<!ENTITY choose.label "Остали...">
+<!ENTITY closeWhenDone.label "Затвори прозор Менаџера преузимања по завршеном преузимању">
+<!ENTITY desktop.label "Радну површину">
+<!ENTITY downloadManagerWindow.label "Менаџер преузимања">
+<!ENTITY downloads.label "Моја преузимања">
+<!ENTITY editFileHandler.accesskey "а">
+<!ENTITY editFileHandler.label "Промени акцију...">
+<!ENTITY fileHandlerColName.label "Прилог">
+<!ENTITY fileTypeColName.label "Тип фајла">
+<!ENTITY fileTypes.label "Типови фајлова">
+<!ENTITY fileTypesDescription.label "Самостално присвоји акције за све следеће типове:">
+<!ENTITY lHeader "Преузимања">
+<!ENTITY neverAsk.label "Сачувај све фајлове у каталог:">
+<!ENTITY plugins.accesskey "м">
+<!ENTITY plugins.label "Модули...">
+<!ENTITY removeFileHandler.accesskey "о">
+<!ENTITY removeFileHandler.label "Уклони">
+<!ENTITY showFolder.label "Отвори каталог">
+<!ENTITY showWhenStarting.label "Отвори прозор Менаџера преузимања">

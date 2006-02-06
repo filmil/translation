@@ -1,0 +1,10 @@
+<!ENTITY advanced.label "Напредно">
+<!ENTITY downloads.label "Преузимања">
+<!ENTITY ext.label "Проширења">
+<!ENTITY features.label "Додатне функције">
+<!ENTITY general.label "Опште">
+<!ENTITY prefWindow.size "width: 67em; height: 43em;">
+<!ENTITY prefWindow.title "Опције">
+<!ENTITY prefWindowUnix.title "Подешавања">
+<!ENTITY privacy.label "Приватност">
+<!ENTITY themes.label "Теме">

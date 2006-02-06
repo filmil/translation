@@ -1,0 +1,9 @@
+<!ENTITY newserver.examine "Провери сертификат...">
+<!ENTITY newserver.notify "Молим, пријавите проблем уређивачу веб-стране.">
+<!ENTITY newserver.reason1 "- Your browser does not recognize the Certificate Authority that issued the site's certificate.">
+<!ENTITY newserver.reason2 "- The site's certificate is incomplete due to a server misconfiguration.">
+<!ENTITY newserver.reasons "Possible reasons for this error:">
+<!ENTITY newserver.refuse "Do not accept this certificate and do not connect to this Web site">
+<!ENTITY newserver.remember "Accept this certificate permanently">
+<!ENTITY newserver.session "Примај овај сертификат само за време текуће сесије">
+<!ENTITY newserver.title "Website Certified by an Unknown Authority">

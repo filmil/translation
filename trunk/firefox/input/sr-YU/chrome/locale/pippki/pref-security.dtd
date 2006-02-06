@@ -1,0 +1,16 @@
+<!ENTITY certs.label "Сертификати">
+<!ENTITY certs.title "Сертификати">
+<!ENTITY managecerts.accesskey "у">
+<!ENTITY managecerts.button "Уреди сертификате...">
+<!ENTITY managecerts.label "Уређење сертификата">
+<!ENTITY managecerts.text "Користи менаџер сертификата за уређење личних, као и сертификата других људи њихових веродостојности.">
+<!ENTITY managedevices.accesskey "у">
+<!ENTITY managedevices.button "Уреди безбедносне уређаје...">
+<!ENTITY managedevices.label "Уређивање механизма заштите">
+<!ENTITY managedevices.text "Користи ово дугме за уређење безбедносних уређеја, као што су смарт картице.">
+<!ENTITY resetpreferences.label "Обнављање подешавања...">
+<!ENTITY resetsettings.label "Обнављање параметара">
+<!ENTITY security.description "Параметри приватности и безбедности">
+<!ENTITY security.label "Приватност и безбедност">
+<!ENTITY security.title "Подешавање безбедности">
+<!ENTITY ssl.label "SSL">

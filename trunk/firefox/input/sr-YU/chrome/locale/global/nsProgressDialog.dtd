@@ -1,0 +1,27 @@
+<!ENTITY cancel "Одустани">
+<!ENTITY close "Затвори">
+<!ENTITY completeMsg "Завршено, #2 KB преузет (трајало је #1)">
+<!ENTITY defaultTitle "Чување">
+<!ENTITY keep "Остави овај прозор отворен после завршетка преузимања.">
+<!ENTITY launch "Отвори фајл">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY openingSource "Отворите из:">
+<!ENTITY openingTarget "Помоћу:">
+<!ENTITY openingTitle "Завршено #2&#037; из #1">
+<!ENTITY pause "Пауза">
+<!ENTITY pausedMsg "Download Paused">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "Напредак:">
+<!ENTITY progressMsg "#1 Кб из #2 Кб (#3 Кб/сек.)">
+<!ENTITY resume "Настави">
+<!ENTITY reveal "Отвори каталог">
+<!ENTITY savingSource "Чување из:">
+<!ENTITY savingTarget "В:">
+<!ENTITY savingTitle "Сачувано #2&#037; из #1">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY status "Статус:">
+<!ENTITY timeElapsed "Протекло време:">
+<!ENTITY timeLeft "Преостало време:">
+<!ENTITY unknownOpeningTitle "Отварање #1">
+<!ENTITY unknownSavingTitle "Чување #1">
+<!ENTITY unknownTime "Непознато">

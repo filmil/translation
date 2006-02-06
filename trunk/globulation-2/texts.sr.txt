@@ -1,0 +1,3478 @@
+10
+[language]
+Français
+English
+Deutsch
+Česky
+Polski
+Italiano
+Русский
+Español
+Magyar
+Српски
+[language-code]
+fr
+en
+de
+cz
+pl
+it
+ru
+es
+hu
+sr
+[language-tr]
+Langue
+Language
+Sprache
+Jazyk
+Język
+Lingua
+Язык
+Idioma
+Nyelv
+Језик
+[hp]
+Pts vie
+HP
+Leben
+Životy
+Życie
+HP
+Здоровье
+Здоровье
+Életpont
+Живот
+[heal]
+Santé
+Health
+Gesundheit
+Zdravý
+Leczenie
+Guarisci
+Лечение
+Salud
+Egészség
+Здравље
+[armor]
+Armure
+Armour
+Rüstung
+Opevnění
+Zbroja
+Armatura
+Броня
+Armadura
+Páncél
+Оклоп
+[damage]
+Dommages
+Damage
+Schaden
+Poškození
+Uszkodzenia
+Danno
+Повреждения
+Daño
+Kár
+Штета
+[food]
+Nourriture
+Food
+Nahrung
+Potrava
+Jedzenie
+Cibo
+Еда
+Comida
+Élelmiszer
+Храна
+[working]
+Travaillant
+Working
+An der Arbeit
+Pracují
+Praca
+Al lavoro
+Работает
+Trabajando
+Dolgozik
+Ради се
+[inside]
+Dedans
+Inside
+Drinnen
+Uvnitř
+Wewnątrz
+Interno
+Внутри
+Dentro
+Belül
+Унутра
+[ressources]
+Ressources
+Resources
+Ressourcen
+Prostředky
+Zasoby
+Risorse
+Ресурсы
+Recursos
+Erőforrások
+Извори
+[Wood]
+Bois
+Wood
+Holz
+Dřevo
+Drewno
+Legno
+Дерево
+Madera
+Fa
+Дрво
+[Corn]
+Blé
+Wheat
+Weizen
+Obilí
+Zboże
+Frumento
+Зерно
+Maiz
+Búza
+Жито
+[Papyrus]
+Papyrus
+Papyrus
+Papyrus
+Papyrus
+Papyrus
+Papyrus
+Папирус
+Papiro
+Papírusz
+Папирус
+[Stone]
+Pierre
+Stone
+Stein
+Kamení
+Kamień
+Pietra
+Камень
+Piedra
+Kő
+Камен
+[Alga]
+Algue
+Algae
+Algen
+Řasy
+Algi
+Alghe
+Водоросли
+Alga
+Alga
+Алге
+[Cherry]
+Cerise
+Cherry
+Kirsche
+Třešně
+Wiśnie
+Ciliegia
+Вишни
+Cereza
+Cseresznye
+Вишње
+[Orange]
+Orange
+Orange
+Orange
+Pomarenče
+Pomarańcze
+Arancia
+Апельсины
+Naranja
+Narancs
+Наранџе
+[Prune]
+Prune
+Prune
+Pflaume
+Švestky
+Śliwki
+Prugna
+Сливы
+Pasa
+Szilva
+Шљиве
+[Clearing:]
+Défrichage de:
+Clearing:
+Rodung
+Vyčištění:
+
+
+
+Limpiando
+Tisztítás: 
+Чишћење:
+[Min required level:]
+Niveau minimum requis:
+Minimum required level:
+Mindestlevel:
+Min. úroveň bojovníků:
+
+
+
+Nivel Minimo requerido
+Minimális szükséges szint:
+Најмањи потребни ниво:
+[Bullets]
+Boulets
+Bullets
+Kugeln
+Střelivo
+Amunicja
+Proiettili
+Боеприпасы
+Balas
+Lőszer
+Муниција
+[range]
+Portée
+Range
+Reichweite
+Rozsah
+Zasięg
+Intervallo
+Расстояние
+Rango
+Hatótávolság
+Домет
+[destroy]
+Détruire
+Destroy
+Zerstören
+Zničit
+Zniszcz
+Distruggi
+Уничтожить
+Destruir
+Megsemmisít
+Уништи
+[cancel destroy]
+Annuler destruction
+Cancel destruction
+Zerstörung verhindern
+Stornuj zničeni
+Przerwij niszczenie
+Annulla distruggi
+Отмена уничтожения
+Cancelar destruccion
+Megsemmisítés megszakítása
+Заустави уништење
+[wait destroy]
+En attente de destruction
+Awaiting destruction
+Warten auf Zerstörung
+Očekávám zničení
+Oczekiwanie na zniszczenie
+Aspetta distruggi
+Ожидает уничтожения
+Esperar a destruir
+Megsemmisítésre várva
+Одложи уништење
+[upgrade]
+Améliorer
+Upgrade
+Verbessern
+Vylepšit
+Rozbudowa
+Aggiorna
+Улучшение
+Mejorar
+Fejleszteni
+Догради
+[repair]
+Réparer
+Repair
+Reparieren
+Opravit
+Naprawa
+Ripara
+Починка
+Reparar
+Megjavítani
+Поправи
+[cancel upgrade]
+Annuler amélioration
+Cancel upgrade
+Verbesserung stornieren
+Stornuj vylepšeni
+Przerwij rozbudowę
+Annulla aggiorna
+Отмена улучшения
+Cancelar mejorar
+Fejlesztés megszakítása
+Одложи дограду
+[cancel repair]
+Annuler réparation
+Cancel repair
+Reparatur stornieren
+Stornuj opravu
+Przerwij naprawę
+Annulla ripara
+Отмена починки
+Cancelar reparar
+Javítás megszakítása
+Одложи поправку
+[units type]
+type d'unités
+unit type
+Einheitentyp
+druh jednotek
+Typ jednostek
+Tipo di unità
+Тип юнитов
+Tipo de unidad
+Egység típus
+Врсте јединица
+[workers]
+ouvrières
+workers
+Arbeiter
+dělníci
+pracownicy
+operai
+Рабочие
+Trabajadores
+dolgozók
+Радници
+[explorers]
+exploratrices
+explorers
+Entdecker
+průzkumníci
+odkrywcy
+esploratori
+Разведчики
+Exploradores
+felderítők
+Извиђачи
+[warriors]
+guerrières
+warriors
+Krieger
+válečníci
+wojownicy
+guerrieri
+Воины
+Guerreros
+harcosok
+Ратници
+[Unit type]
+Type d'unite
+Unit type
+Typ der Einheit
+Druh jednotky
+Typ jednostki
+Tipo di unità
+Тип юнита
+Tipo de unidad
+Egység típus
+Врста јединице
+[Worker]
+Ouvrière
+Worker
+Arbeiter
+Dělník
+Pracownik
+Operaio
+Рабочий
+Trabajador
+Dolgozó
+Радник
+[Explorer]
+Exploratrice
+Explorer
+Entdecker
+Průzkumník
+Poszukiwacz
+Esploratore
+Разведчик
+Explorador
+Felderítő
+Извиђач
+[Warrior]
+Guerrière
+Warrior
+Krieger
+Válečník
+Wojownik
+Guerriero
+Воин
+Guerrero
+Harcos
+Ратник
+[still (w)]
+Encore 
+Still
+Noch
+Dosud 
+Ciągle
+Ancora
+Всё ещё
+Ahora
+Még mindig
+Чекање
+[units working]
+ unites travaillent
+ units work
+ Einheiten arbeiten
+ jednotek pracuje
+ jednostek pracujących
+ unit�al lavoro
+ юнитов работает
+ Unidades trabajando
+ az egységek dolgoznak
+ јединица у послу
+[still one unit working]
+Une unité travaille
+One unit left working
+Eine Einheit arbeitet
+Ještě 1 jednotka pracuje
+Jeszcze 1 jednostka pracująca
+Ancora un unità al lavoro
+Один юнит продолжает работать
+Una unidad trabajando
+Egy egység dolgozik
+Једна јединица у послу
+[Still (i)]
+Encore
+Still 
+Noch 
+Dosud 
+Wciąż
+Ancora
+Всё ещё
+Ahora
+Még mindig
+Још
+[Still one]
+Encore une
+One left
+Noch eine
+Ještě 1
+Jeszcze jedna
+Ancora uno
+Один остаётся
+Ahora una
+Még egy
+Још једна
+[Building name]
+Nom du batiment
+Building name
+Gebäudename
+Jméno budovy
+Nazwa budowli
+Nome della costruzione
+Название здания
+
+Az épület elnevezése
+Име зграде
+[swarm building]
+Ruche
+Swarm
+Stock
+Úl
+Rój
+Magazzino
+Рой
+Enjambre
+Raj
+Рој
+[food building]
+Auberge
+Inn
+Gasthof
+Hospoda
+Gospoda
+Mensa
+Кабак
+Taberna
+Étkezde
+Гостионица
+[health building]
+Hôpital
+Hospital
+Spital
+Nemocnice
+Szpital
+Ospedale
+Больница
+Hospital
+Kórház
+Болница
+[walkspeed building]
+Piste de course
+Racetrack
+Rennbahn
+Závodní dráha
+Tor wyścigowy
+Circuito
+Стадион
+Circuito
+Versenypálya
+Стадион
+[swimspeed building]
+Piscine
+Swimming pool
+Schwimmbecken
+Koupaliště
+Pływalnia
+Piscina
+Бассейн
+Piscina
+Úszómedence
+Пливалиште
+[attack building]
+Camp d'entraînement
+Barracks
+Trainingslager
+Cvičiště
+Baraki
+Caserma
+Тренировочный лагерь
+Cuartel
+Laktanya
+Касарна
+[science building]
+Ecole
+School
+Schule
+Škola
+Szkoła
+Scuola
+Школа
+Escuela
+Iskola
+Школа
+[defense building]
+Tourelle
+Defence Tower
+Panzerturm
+Obranná věž
+Wieża obronna
+Torre di difesa
+Оборонительная башня
+Torre
+Páncéltorony
+Стражара
+[exploration flag]
+Drapeau d'exploration
+Exploration flag
+Entdeckerflagge
+Průzkumný prapor
+Flaga eksploracji
+Bandiera di esplorazione
+Флаг разведки
+Bandera de exploracion
+Felderítő zászló
+Истраживачка застава
+[war flag]
+Drapeau de guerre
+War flag
+Kriegsflagge
+Válečný prapor
+Flaga wojenna
+Bandiera di guerra
+Флаг войны
+Bandera de guerra
+Hadizászló
+Ратна застава
+[clearing flag]
+Drapeau de défrichage
+Clearing flag
+Rodungsflagge
+Čisticí prapor
+Flaga oczyszczania
+Bandiera pulitrice
+Флаг очистки
+Bandera de limpieza
+Tisztítás zászló
+Застава чишћења
+[stone wall]
+Mur de pierre
+Stone wall
+Steinmauer
+Kamenná hradba
+Mur kamienny
+Muro di pietra
+Каменная стена
+Muro de piedra
+Kőfal
+Камени зид
+[market]
+Marché
+Market
+Markt
+Tržiště
+Bazar
+Mercato
+Рынок
+Mercado
+Piac
+Пијаца
+[exchange]
+Echange
+Exchange
+Handel
+Směnit
+Wymiana
+Cambio
+Обмен
+Cambio
+Csereüzlet
+Трговина
+[Building short explaination]
+Courte explication du batiment  (24 caractères max)
+Building short explaination (24 chars max)
+
+Krátké vysvětlení (24 znaků max)
+
+
+
+
+Az épület rövid leírása  (max. 24 karater)
+Кратко име грађевине
+[swarm building explaination]
+Crée de nouvelles unités
+Creates new units
+
+Vytvoř nové jednotky
+
+
+
+
+Új egységek létrehozása
+Зграда за ројење.
+[food building explaination]
+Nourit vos unités
+Foods your units
+
+Potrava tvých jednotek
+
+
+
+
+Egységek élelmezése
+Зграда у којој се скупља храна.
+[health building explaination]
+Soigne vos unités
+Heals your units
+
+Zdravý tvých jednotek
+
+
+
+
+Egységek gyógyítása
+Болница служи за лечење
+[walkspeed building explaination]
+Améliore la vitesse de
+Improves the walking
+
+Zlepši chůzi
+
+
+
+
+Haladási sebesség
+Стадион служи за...
+[swimspeed building explaination]
+Améliore le niveau de
+Improves the swimming
+
+Zlepši plavání
+
+
+
+
+Úszási sebesség
+Пливалиште служи за...
+[attack building explaination]
+Améliore le niveau
+Improves fighting level
+
+Zlepši bojeschopnost
+
+
+
+
+Támadóképesség
+Касарна служи за ...
+[science building explaination]
+Améliore le niveau de
+Improve the building level
+
+Zlepši uroveň stavitelství
+
+
+
+
+A dolgozók építési
+Школа служи за учење нових вештина.
+[defense building explaination]
+Attaque les unité ennmies
+Attacks nearby enemy
+
+Zaútoč na blízkého nepřítele
+
+
+
+
+Megtámadja a közeli
+Стражара служи за осматрање.
+[exploration flag explaination]
+Attire des exploratrices
+Attracts explorers
+
+Přilákáno průzkumníků
+
+
+
+
+Összevonja a
+Истраживачка застава служи за истраживање.
+[war flag explaination]
+Attire des guerrières
+Attracts warriors
+
+Přilákáno válečníků
+
+
+
+
+Összevonja a
+Ратна застава служи за ратовање.
+[clearing flag explaination]
+Enlève les ressources
+Clear ressources
+
+Čistící prostředky
+
+
+
+
+Erőforrások feltárása
+Застава за чишћење служи за чишћење
+[stone wall explaination]
+Elément passif de défense
+Passive defense element
+
+Pasivní ochraná část
+
+
+
+
+Passzív védelmi elem
+Камени зид служи за...
+[market explaination]
+Permet d'échanger des
+Allows to exchange fruits
+
+Povolení vyměnit ovoce
+
+
+
+
+Lehetővé teszi az
+Пијаца служи за
+[Building short explaination 2]
+Courte explication 2 du batiment  (24 caractères max)
+Building short explaination 2 (24 chars max)
+
+Krátké vysvětlení 2 (24 znaků max)
+
+
+
+
+Épületek rövid megnevezése 2 (max. 24 karakter)
+
+[swarm building explaination 2]
+ 
+ 
+
+
+
+
+
+
+
+
+[food building explaination 2]
+ 
+ 
+
+
+
+
+
+
+
+
+[health building explaination 2]
+ 
+ 
+
+
+
+
+
+
+
+
+[walkspeed building explaination 2]
+marche de vos unités
+speed level of your units
+
+
+
+
+
+
+fejlesztése
+
+[swimspeed building explaination 2]
+nage de vos unités
+speed level of your units
+
+
+
+
+
+
+fejlesztése
+
+[attack building explaination 2]
+d'attaque de vos guerrières
+of your warriors
+
+
+
+
+
+
+fejlesztése
+
+[science building explaination 2]
+construction des ouvières
+of your workers
+
+
+
+
+
+
+sebességének fejlesztése
+
+[defense building explaination 2]
+avoisinantes
+units or buildings
+
+
+
+
+
+
+ellenséges egységeket
+
+[exploration flag explaination 2]
+ 
+ 
+
+
+
+
+
+
+felderítőket
+
+[war flag explaination 2]
+ 
+ 
+
+
+
+
+
+
+harcosokat
+
+[clearing flag explaination 2]
+ 
+ 
+
+
+
+
+
+
+
+
+[stone wall explaination 2]
+ 
+ 
+
+
+
+
+
+
+
+
+[market explaination 2]
+fruits avec les autres
+with the others
+
+
+
+
+
+
+gyümölcs árucserét
+
+[waiting for %s]
+Attente de %s
+Waiting for %s
+Warten auf %s
+Čeká se na %s
+Czeka na %s
+Aspettando %s
+Ожидание %s
+Esperando a %s
+%s -ra várva
+Чека се на %s
+[%s has left the game]
+%s a quitté la partie.
+%s has quit the game.
+%s hat das Spiel verlassen.
+%s opustil hru.
+%s opuścił grę.
+%s ha lasciato il gioco.
+%s покинул игру.
+%s se ha ido del juego
+%s kilépett a játékból.
+%s напусти игру.
+[%s has been deconnected of the game]
+%s s'est fait déconnecté de la partie.
+%s has been disconnected.
+Die Verbindung zu %s wurde getrennt.
+%s byl odpojen.
+%s się rozłączył.
+%s si è disconnesso dal gioco.
+%s был отключён от игры.
+%s se ha desconectado del juego
+%s kapcsolata megszakadt.
+%s би искључен из игре.
+[load game]
+Charger jeu
+Load game
+Spiel laden
+Nahrát hru
+Załaduj grę
+Carica partita
+Загрузить игру
+Cargar partida
+Játék betöltése
+Учитај игру
+[save game]
+Sauvegarder jeu
+Save game
+Spiel speichern
+Uložit hru
+Zapisz grę
+Salva partita
+Сохранить игру
+Salvar partida
+Játék elmentése
+Сними игру
+[options]
+Options
+Options
+Einstellungen
+Nastavení
+Opcje
+Opzioni
+Настройки
+Opciones
+Opciók
+Избори
+[alliances]
+Alliances
+Alliances
+Allianzen
+Spojenectví
+Sojusze
+Alleanze
+Союзы
+Alianzas
+Szövetségek
+Савези
+[return to game]
+Retour au jeu
+Return to game
+Zurück zum Spiel
+Zpět do hry
+Powrót do gry
+Ritorna al gioco
+Вернуться в игру
+Volver al juego
+Visszalépés a játékba
+Повратак на игру
+[quit the game]
+Quitter le jeu
+Quit the game
+Spiel beenden
+Opustit hru
+Zakończ grę
+Esci dal gioco
+Выйти из игры
+Salir del juego
+Kilépés a játékból
+Напусти игру
+[ok]
+Accepter
+Ok
+Ok
+Budiž
+Ok
+Ok
+Ok
+OK
+Rendben
+У реду
+[Cancel]
+Annuler
+Cancel
+Wiederrufen
+Zrušit
+Anuluj
+Annulla
+Отмена
+Cancelar
+Mégsem
+Поништи
+[you have lost]
+Vous avez perdu!
+You have lost!
+Sie haben verloren!
+Jsi ztracen...
+Przegrałeś...
+Hai perso
+Вы проиграли!
+Has perdido
+Elvesztetted a játékot!
+Изгубили сте игру.
+[you have won]
+Vous avez gagné!
+You have won!
+Sie haben gewonnen!
+Vyhrál jsi!
+Wygrałeś !!!
+Hai vinto!!!!
+Вы победили!
+Has ganado
+Megnyerted a játékot!
+Добили сте игру.
+[campagn]
+Campagne
+Campaign
+Feldzug
+Nová hra
+Kampania
+Campagna
+Кампания
+Campaña
+Hadjárat
+Кампања
+[tutorial]
+Didacticiel
+Tutorial
+Lernprogramm
+Tutoriál
+Samouczek
+Esercitazione
+Самоучитель
+Tutorial
+Gyakorlás
+Уџбеник
+[custom game]
+Jeu libre
+Custom game
+Freies Spiel
+Volitelná hra
+Własna gra
+Gioco personalizzato
+Одиночная игра
+Juego personalizado
+Szabadjáték
+Произвољна игра
+[yog]
+Jeu en ligne Ysagoon
+Ysagoon Online Gaming
+Ysagoon-Onlinespiel
+Ysagoon Online Gaming
+Ysagoon-Gra w Internecie
+Gioca on-line a Ysagoon
+Ysagoon-игра в Интернете
+Juego en linea con Ysagoon
+Ysagoon Online Játék
+Игра преко мреже (Ysagoon)
+[Enter your nickname :]
+Entrez votre pseudo :
+Enter your nickname :
+
+Zadej přezdívku :
+
+Inserisci il tuo soprannome :
+Введите Ваше прозвище :
+Introduce tu apodo :
+Add meg a nevedet :
+Унесите надимак :
+[Enter your password :]
+Entrez votre mot de passe :
+Enter your password :
+
+Zadej heslo:
+
+Inserisci la tua password :
+Введите Ваш пароль :
+Introduce la contraseña :
+Add meg a jelszavadat :
+Унесите лозинку :
+[lan]
+Jeu en réseau local
+LAN Game
+Spiel im lokalen Netz
+Síťová hra
+Gra sieciowa
+Gioca in rete (LAN)
+Сетевая игра
+Juego en red LAN
+Játék a helyi hálózaton
+Игра у локалној мрежи
+[settings]
+Paramètres
+Settings
+Einstellungen
+Nastavení
+Ustawienia
+Impostazioni
+Настройки
+Opciones
+Beállítások
+Подешавања
+[Warning, you need to reboot the game for changes to take effect]
+Attention, il faut rédemarrer le jeu pour que les changements soient pris en compte
+Warning, you need to reboot the game for changes to take effect
+
+
+
+
+
+
+
+Упозорење: морате да поново покренете игру да би измене биле уважене.
+[editor]
+Editeur
+Editor
+Editor
+Editor
+Edytor
+Editor
+Редактор
+Editor
+Editor
+Уредник
+[credits]
+Crédits
+Credits
+Eine ihrer Einheiten wurde von einem anderen Team übernommen
+Poděkování
+O twórcach
+Credits
+Благодарности
+Creditos
+Szerzők
+Заслуге
+[quit]
+Quitter
+Quit
+Beenden
+Konec
+Zakończ
+Esci
+Выход
+Salir
+Kilépés
+Излаз
+[create game]
+Créer partie
+Create game
+Spiel anlegen
+Vytvoř hru
+Nowa gra
+Crea il gioco
+Новая игра
+Crear juego
+Új játék
+Направи игру
+[update list]
+Mettre à jour
+Update list
+Aktualisieren
+Obnovit seznam
+Uaktualnij listę
+Aggiorna la lista
+Обновить список
+Actualizar lista
+Naprakésszé tétel
+Обнови списак
+[connecting to]
+Connection à
+Connecting to
+Verbinden mit
+Připojuji se k
+Połącz z
+Mi sto connettendo a
+Подключение к
+Conectando a
+Kapcsolódás
+Повезивање са: 
+[connect]
+Connecter
+Connect
+Verbinden
+Připojit
+Łączę
+Connesso
+Подключиться
+Conectado
+Kapcsolódás
+Прикључи се
+[Disconnect]
+Déconnecter
+Disconnect
+Trennen
+Odpojit
+Zrywam połączenie
+Disconnettiti
+Отключиться
+Desconectado
+Kapcsolat megszakítása
+Искључи се
+[please wait]
+Attendre SVP
+Please wait
+Bitte warten
+Čekej prosím
+Proszę czekaj
+Aspetta un momento
+Пожалуйста, подождите
+Espere por favor
+Kérem várjon
+Молим сачекајте
+[loading glob2]
+Chargement de Globulation 2
+Loading Globulation 2
+Globulation 2 wird geladen
+Nahrávám Globulation 2
+Wczytuję Globulation 2
+Sto caricando Globulation 2
+Загружается Globulation 2
+Cargando Globulation 2
+A Globulation 2 betöltése
+Учитавам Глобулацију 2
+[host]
+Héberger une partie
+Host a game
+Spiel veranstalten
+Hostuj hru
+Host w grze
+Ospita una partita
+Стать хостом игры
+Serivir una partida
+Játék hostolása
+Рачунар
+[join a game]
+Joindre une partie
+Join a game
+Bei einem Spiel mitspielen
+Připojit se do hry
+Przyłącz się do gry
+Unisciti ad una partita
+Присоединиться к игре
+Unirse a un juego
+Csatlakozás egy játékhoz
+Придружи се игри
+[join]
+Joindre
+Join
+Mitspielen
+Připojit se
+Przyłącz się
+Unisci
+Присоединиться
+Unirse
+Csatlakozás
+Придружи се
+[goto main menu]
+Retourner au menu principal
+Go back to main menu
+Zurück zum Hauptmenu
+Zpět do hlavního menu
+Wróć do menu głównego
+Torna al menu principale
+Вернуться в главное меню
+Volver al menu principal
+Vissza a főmenübe
+Назад на главни избор
+[player name]
+Nom du joueur
+Player name
+Spielerame
+Jméno
+Nazwa Gracza
+Nome del giocatore
+Имя игрока
+Nombre del jugador
+A játékos neve
+Име играча
+[svr hostname]
+Nom du serveur hôte
+Server hostname
+Server-Rechnername
+Server hostname
+Nazwa hosta
+Nome del server
+Имя хоста
+Nombre del servidor
+A játékszerver neve
+Име сервера
+[hp]
+Point de vie
+Hitpoint
+Lebenspunkt
+Životy
+Punkty życia
+Punti vita
+Здоровье
+Здоровье
+Életpont
+Здравље
+[carry]
+Transporte :
+Carrying :
+Transportiert :
+Nesu :
+Transport :
+Trasporto :
+Несёт :
+Transporte :
+Szállít :
+Пренос :
+[don't carry anything]
+Ne transporte rien
+Not carrying anything
+Transportiert nichts
+Nic nenesu
+Nic nie transportuje
+Non Ttrasportare niente
+Ничего не несёт
+No transporta nada
+Nem szállít semmit
+Не носи ништа
+[level]
+Niveau
+Level
+Stufe
+Úroveň
+Poziom
+Lvivello
+Уровень
+Nivel
+Szint
+Ниво
+[levels]
+Niveaux
+Levels
+Stufen
+Úrovně
+Poziomy
+Livelli
+Уровни
+Niveles
+Szintek
+Нивои
+[building site]
+chantier
+construction site
+baustelle
+staveniště
+plac budowy
+Sito in costruzione
+стройка
+Construyendo
+építési terület
+Градилиште
+[create map]
+Créer carte
+Create map
+Karte erzeugen
+Vytvořit mapu
+Stwórz mapę
+Crea una mappa
+Создать карту
+Crear mapa
+Térkép készítése
+Направи мапу
+[map size x]
+Largeur de la carte
+Map width
+Breite der Karte
+Šířka mapy
+Szerokość mapy
+Grandezza x della mappa
+Ширина карты
+Anchura del mapa
+Térkép szélessége
+Ширина мапе
+[map size y]
+Hauteur de la carte
+Map height
+Höhe der Karte
+Výška mapy
+Wysokość mapy
+Grandezza y della mappa
+Высота карты
+Altura del mapa
+Térkép hosszúsága
+Висина мапе
+[default terrain]
+Terrain par défaut
+Default terrain
+Vorgabeterrain
+Předvolená krajina
+Domyślny teren
+Terreno predefinito
+Ландшафт по умолчанию
+Terreno predefinido
+Alapértelmezett terep
+Подразумевано земљиште
+[water]
+Eau
+Water
+Wasser
+Voda
+Woda
+Acqua
+Вода
+Agua
+Víz
+Вода
+[sand]
+Sable
+Sand
+Sand
+Písek
+Piasek
+Sabbia
+Песок
+Arena
+Homok
+Песак
+[grass]
+Herbe
+Grass
+Gras
+Tráva
+Trawa
+Erba
+Трава
+Hierba
+Fű
+Трава
+[teams]
+ équipes
+ teams
+ Mannschaften
+ hráčů
+ zespoły
+ Squadre
+ команды
+ Equipos
+ csapatok
+ екипа
+[choose map]
+Choisir une carte
+Choose a map
+Karte auswählen
+Výběr mapy
+Wybierz mapę
+Seleziona una mappa
+Выбрать карту
+Elegir un mapa
+Válassz egy térképet
+Избор мапе
+[choose game]
+Choisir une partie
+Choose a game
+Spiel auswählen
+Výběr hry
+Wybierz grę
+Seleziona un gioco
+Выбрать игру
+Elegir un juego
+Válassz egy játékot
+Избор игре
+[awaiting players]
+En attente des joueurs
+Awaiting players
+Warten auf Spieler
+Čeká se na hráče
+Oczekuj graczy
+In attesa di altri giocatori
+Ожидание игроков
+Esperando a los jugadores
+Játékosokra várva
+Чекам играче
+[stat]
+Statistiques
+Statistics
+Statistiken
+Statistické údaje
+Statystyki
+Statistiche
+Статистика
+Estadisticas
+Statisztika
+Статистика
+[food left]
+Nourriture
+Food left
+Nahrung
+Potrava
+Pozostało jedzenia
+Cibo rimasto
+Осталось еды
+Comida restante
+Maradék élelmiszer
+Преостало хране
+[the building is finished]
+Le bâtiment est terminé
+The building is finished
+Das Gebäude ist fertig
+Budova je postavena ...
+Postawiono budowlę
+L'edificio �completato
+Здание построено
+Construccion finalizada
+Az épület elkészült
+Зграда је завршена
+[the swarm is finished]
+La ruche est terminée
+The swarm is finished
+Der Stock ist fertig
+Úl postaven ...
+Rój został zbudowany
+Il magazzino è completato
+Рой построен
+El enjambre ha sido construido
+A raj elkészült
+Ројење је завршено
+[the food building is finished]
+L'auberge est terminée
+The Inn is finished
+Der Gasthof ist fertig
+Hospoda postavena ...
+Zbudowano gospodę
+La mensa è stata completata
+Кабак построен.
+La taberna ha sido construida
+Az étkezde elkészült
+Кантина је завршена
+[the health building is finished]
+L'hôpital est terminé
+The hospital is finished
+Das Hospital ist fertig
+Nemocnice postavena ...
+Zbudowano szpital
+L'ospedale è stato completato
+Больница построена
+El hospital ha sido construido
+A kórház elkészült
+Болница је завршена
+[the walkspeed building is finished]
+La piste de course est terminée
+The racetrack is finished
+Die Rennbahn ist fertig
+Zavodní dráha postavena ...
+Zbudowano tor wyścigowy
+Il circuito è stato completato
+Стадион построен
+El circuito ha sido construido
+A versenypálya elkészült
+Стадион је завршен
+[the swimspeed building is finished]
+La piscine est terminée
+The swimming pool is finished
+Das Schwimmbecken ist fertig
+Koupaliště postaveno ...
+Zbudowano pływalnię
+La piscina è stata completata
+Бассейн построен
+La piscina ha sido contruida
+At úszómedence elkészült
+Пливалиште је завршено
+[the attack building is finished]
+Le camp d'entraînement est terminé
+The training camp is finished
+Das Trainingslager ist fertig
+Cvičiště postaveno ...
+Zbudowano baraki
+La caserma è stata completata
+Тренировочный лагерь построен
+El cuartel ha sido construido
+A laktanya elkészült
+Касарна је завршена
+[the science building is finished]
+L'école est terminée
+The school is finished
+Die Schule ist fertig
+Škola postavena ...
+Zbudowano szkołę
+La scuola è stata completata
+Школа построена
+La escuela ha sido construida
+Az iskola elkészült
+Школа је завршена
+[the tower building is finished]
+La tour de défense est terminée
+The defense tower is finished
+Der Panzerturm ist fertig
+Obranná věž postavena ...
+Zbudowano wieżę obronną
+La torre da difesa è stata completata
+Оборонительная башня построена
+La torre ha sido construida
+A páncéltorony elkészült
+Стражара је завршена
+[the exploration flag is finished]
+?? Drapeau d'exploration terminé ??
+?? Exploration flag finished ??
+?? Entdeckerflagge fertig ??
+?? Průzkumný prapor připraven ??
+?? Postawiono flagę eksploracji ??
+?? Bandiera d'esplorazione finita ??
+?? Флаг разведки установлен ??
+?? Bandera de exploracion finalizada ??
+?? A felderítőzászló elkészült ??
+?? Истраживачка застава је завршена ??
+[the war flag is finished]
+?? Drapeau de guerre terminé ??
+?? War flag finished ??
+?? Kriegsflagge fertig ??
+?? Válečná prapor připraven ??
+?? Postawiono flagę wojenną ??
+?? La bandiera da guerra finita ??
+?? Флаг войны установлен ??
+?? Bandera de guerra finalizada ??
+?? A hadizászló elkészült ??
+?? Ратна застава је завршена ??
+[the clearing flag is finished]
+?? Drapeau de défrichage terminé ??
+?? Clearing flag finished ??
+?? Rodungsflagge fertig ??
+?? Čistící prapor připraven ??
+?? Postawiono flagę ... ??
+?? La bandiera pulitrice finita ??
+?? Флаг очистки установлен ??
+?? Bandera de limpieza finalizada ??
+?? A tisztító zászló elkészült ??
+?? Застава за чишћење је завршена ??
+[the stone wall is finished]
+Un élément de mur est terminé
+A wall section is finished
+Ein Mauerteil ist fertig
+Kus hradby hotov ...
+Zbudowano część muru
+Il muro di pietra è stato completato
+Каменная стена построена
+El muro de piedra ha sido construido
+A kőfal elkészült
+Камени зид је завршен
+[the market is finished]
+Le marché est terminé
+The market is finished
+Der Markt ist fertig
+Tržiště postaveno ...
+Zbudowano bazar 
+Il mercato è finito
+Рынок построен
+El mercado ha sido construido
+A piac elkészült
+Пијаца је завршена
+[the building is under attack]
+Le bâtiment est attaqué
+The building is under attack
+Das Gebäude wird angegriffen
+Budova pod útokem
+Budowla została zaatakowana
+L'edificio è sotto attacco
+Здание атаковано
+Edificio esta siendo atacado
+Megtámadták az épületet
+Зграда је нападнута
+[the swarm is under attack]
+La ruche est attaquée
+The swarm is under attack
+Der Stock wird angegriffen
+Úl je napaden
+Rój został zaatakowany
+Il magazzino è sotto attacco
+Рой атакован
+El enjambre esta siendo atacado
+Megtámadták a rajt
+Рој је нападнут
+[the food building is under attack]
+L'auberge est attaquée
+The Inn is under attack
+Der Gasthof wird angegriffen
+Hospoda je pod útokem
+Gospoda została zaatakowana
+La mensa è sotto attacco
+Кабак атакован
+La taberna esta siendo atacado
+Megtámadták az étkezdét
+Кантина је нападнута
+[the health building is under attack]
+L'hôpital est attaqué
+The hospital is under attack
+Das Hospital wird angegriffen
+Nemocnice je pod útokem
+Szpital został zaatakowany
+L'ospedale è sotto attacco
+Больница атакована
+El hospital esta siendo atacado
+Megtámadták a kórházat
+Болница је нападнута
+[the walkspeed building is under attack]
+La piste de course est attaquée
+The racetrack is under attack
+Die Rennbahn wird angegriffen
+Závodní dráha pod útokem
+Tor wyścigowy został zaatakowany
+Il circuito è sotto attacco
+Стадион атакован
+El circuito esta siendo atacado
+Megtámadták a versenypályát
+Стадион је нападнут
+[the swimspeed building is under attack]
+La piscine est attaquée
+The swimming pool is under attack
+Das Schwimmbecken wird angegriffen
+Koupaliště je pod útokem
+Pływalnia została zaatakowana
+La piscina è sotto attacco
+Бассейн атакован
+La piscina esta siendo atacada
+Megtámadták az úszómedencét
+Пливалиште је нападнуто
+[the attack building is under attack]
+Le camp d'entraînement est attaqué
+The training camp is under attack
+Das Trainingslager wird angegriffen
+Cvičiště je pod útokem
+Baraki zostały zaatakowane
+La caserma è sotto attacco
+Тренировочный лагерь атакован
+El cuartel esta siendo atacado
+Megtámadták a laktanyát
+Касарна је нападнута
+[the science building is under attack]
+L'école est attaquée
+The school is under attack
+Die Schule wird angegriffen
+Škola je pod útokem
+Szkoła została zaatakowana
+La scuola è sotto attacco
+Школа атакована
+La escuela esta siendo atacada
+Megtámadták az iskolát
+Школа је нападнута
+[the defense building is under attack]
+Vos défenses sont attaquées
+Your defenses are under attack
+Ihre Befestigungen werden angegriffen
+Obranná věž je pod útokem
+Wieża obronna została zaatakowana
+La torre da difesa è sotto attacco
+Оборонительная башня атакована
+La torre esta siendo atacada
+Megtámadták az erődítményeket
+Стражара је нападнута
+[the exploration flag is under attack]
+?? Drapeau d'exploration attaqué ??
+?? Exploration flag under attack ??
+?? Entdeckerflagge wird angegriffen ??
+?? Průzkumný prapor v obležení nepřátel ??
+?? Flaga eksploracji została zaatakowana ??
+?? La bandiera esploratrice è sotto attacco ??
+?? Флаг разведки атакован ??
+?? La bandera de exploracion esta siendo atacada ??
+?? Megtámadták a felderítózászlót ??
+?? Истраживачка застава је нападнута ??
+[the war flag is under attack]
+?? Drapeau de guerre attaqué ??
+?? War flag under attack ??
+?? Kriegsflagge wird angegriffen ??
+?? Válečná prapor v obležení nepřátel ??
+?? Flaga wojenna została zaatakowana ??
+?? La bandiera da guerra è sotto attacco ??
+?? Флаг войны атакован ??
+?? La bandera de guerra esta siendo atacada ??
+?? Megtámadták a hadizászlót ??
+?? Ратна застава је нападнута ??
+[the clearing flag is under attack]
+?? Drapeau de défrichage attaqué ??
+?? Clearing flag under attack ??
+?? Rodungsflagge wird angegriffen ??
+?? Čistící prapor v obležení nepřátel ??
+?? Flaga ... została zaatakowana ??
+?? La bandiera pulitrice è sotto attacco ??
+?? Флаг очистки атакован ??
+?? La bandera de limpieza esta siendo atacada ??
+?? Megtámadták a tisztító zászlót ??
+?? Застава за чишћење је нападута ??
+[the stone wall is under attack]
+L'ennemi est à vos murs
+The enemy is at your walls
+Der Feind steht vor Ihren Mauern
+Nepřítel utočí na hradby
+Mur został zaatakowany
+Il muro di roccia è sotto attacco
+Каменная стена атакована
+El enemigo esta en tu muralla
+Az ellenség a falak előtt áll
+Камени зид је нападнут
+[the market is under attack]
+Le marché est attaqué
+The market is under attack
+Der Markt wird angegriffen
+Tržiště je pod útokem
+Bazar został zaatakowany
+Il ercato è sotto attacco
+Рынок атакован
+El mercado esta siendo atacado
+Megtámadták a piacot
+Пијаца је нападнута
+[Your %s are under attack]
+Vos %s sont attaquées
+Your %s are under attack
+Eure %s werden angegriffen
+Tvoji %s jsou pod útokem
+Twój %s jesteś atakowany
+Il tuo %s sotto attacco
+%s
+Tu %s esta siendo atacado
+Megtámadták a %s -t
+Нападнута јединица: %s
+[Your unit got converted to another team]
+Votre unité est passée à l'équipe adverse
+Your unit got converted to another team
+Sie haben eine Einheit von einem anderen Team übernommen
+Tva jednotka změnila víru v jiného hráče
+Twoja jednostka została przeciągnięta na stronę wroga
+La tua unità è stata convertita in un'altra squadra
+Ваш юнит переметнулся к врагу
+Tu unidad se ha convertido al bando enemigo
+Az egységedet az ellenség elfogta
+Ваша јединица је пребегла
+[Another team's unit got converted to your team]
+Une unité ennemie s'est convertie à votre équipe
+Another team's unit got converted to your team
+
+Cizí tým změnil víru v Tebe
+Jednostka wroga została przeciągnięta na Twoją stronę
+Un'altra sqadra ha convertito la tua unità
+Вражеский юнит переметнулся к Вам.
+La unidad enemiga se ha pasado a nuestro bando
+Elfogtad az ellenség egységét
+Противничка јединица је пребегла код нас
+[Uncontrolled]
+Incontrôlé
+Uncontrolled
+Unkontrolliert
+Neovládaný
+Niekontrolowany
+Incontrollato
+Неконтролируемый
+Incontrolado
+Független
+Неконтролисан
+[ai]
+IA
+AI
+KI
+Počítač
+SI
+IA
+AI
+IA
+MI
+ВИ
+[closed]
+Fermé
+Closed
+Geschlossen
+Uzavřeno
+Zamknięte
+Chiuso
+Закрыто
+Cerrado
+Zárva
+Затворен
+[close]
+Fermer
+Close
+Schließen
+Uzavři
+Zamknij
+Chiuso
+Закрыть
+Cerrado
+Bezár
+Затвори
+[player]
+Joueur
+Player
+Spieler
+Hráč
+Gracz
+Giocatore
+Игрок
+Jugador
+Játékos
+Играч
+[STARTING GAME ...]
+Début du jeu... 
+Starting game... 
+Spielbeginn... 
+Startuji hru...
+Początek gry...
+Inizio gioco...
+Начало игры...
+Iniciando la partida
+Indul a játék...
+Игра почиње...
+[Statistics]
+Statistiques
+Statistics
+Statistiken
+Statistiky
+Statystyka
+Statistiche
+Статистика
+Estadisticas
+Statisztika
+Статистика
+[Buildings]
+Bâtiments
+Buildings
+Gebäude
+Budovy
+Budowle
+Costruzioni
+Здания
+Edificios
+Épületek
+Зграде
+[Prestige]
+Prestige
+Prestige
+Prestige
+Prestiž
+Prestiż
+Prestigio
+Престиж
+Prestigio
+Presztízs
+Престиж
+[Units]
+Unités
+Units
+Einheiten
+Jednotky
+Jednostki
+Unità
+Юниты
+Unidades
+Egységek
+Јединице
+[Attack]
+Attaque
+Attack
+Angriff
+Útok
+
+
+
+Ataque
+Támadás
+Напад
+[Defense]
+Défense
+Defense
+Verteidigung
+Obrana
+
+
+
+Defensa
+Védelem
+Одбрана
+[free]
+libres
+free
+frei
+se nudí
+wolne
+liberi
+свободные
+libre
+szabad
+Слободно
+[of which]
+dont
+of which
+davon
+z toho
+z czego
+dei quali
+из которых
+de los cuales
+amelyik
+од чега
+[are ok]
+sont ok
+are ok
+ok
+v pohodě :-)
+jest ok
+sono ok
+ok
+esta bien
+rendben van
+у реду
+[are hungry]
+ont faim
+are hungry
+hungrig
+o hladu
+odczuwa głód
+hanno fame
+голодны
+esta hambriento
+éhes
+су гладне
+[are dying hungry]
+meurent de faim
+are starving to death
+verhungern
+umírají hlady
+umiera z głodu
+stanno morendo di fame
+умирают от голода
+esta famelico
+éhen hal
+умиру од глади
+[are wonded]
+blessées
+are wounded
+sind verletzt
+je zraněných
+rannych
+sono feriti
+ранены
+esta herido
+megsebesült
+су рањене
+[and]
+et
+and
+und
+a
+i
+e
+и
+y
+és
+и
+[seeking a job]
+cherchent du travail
+are looking for a job
+suchen Arbeit
+hledá práci
+szuka pracy
+cercano lavoro
+ищет работу
+buscando trabajo
+munkát keres
+траже посао
+[Walk]
+Marche
+Walk
+Geh
+Chůze
+Chodzi
+Cammina
+Идёт
+Andando
+megy
+Ходај
+[Swim]
+Nage
+Swim
+Schwimm
+Plavání
+Pływa
+Nuota
+Плавает
+Nadando
+Úszik
+Пливај
+[Build]
+Construit
+Build
+Bau
+Stavba
+Buduje
+Costruisci
+Строит
+Construir
+Épít
+Гради
+[Harvest]
+Récolte
+Harvest
+Ernte
+Těžba
+Zbiera
+Raccola
+Собирает
+Recolectar
+Betakarít
+Жањи
+[At. speed]
+Vitesse at.
+Att. speed
+Geschwindigkeit
+Rychlost útoku
+Prędkość ataku
+At. velocità
+Скорость атаки
+At. velocidad
+Támadási sebesség
+Брзина напада
+[At. strength]
+Force at.
+Att. strength
+Stärke
+Síla útoku
+Siła ataku
+At. resistenza
+Сила атаки
+At. fuerza
+Támadási erő
+Снага напада
+[Total]
+Total
+Total
+Gesamt
+Celkem
+Łącznie
+Totale
+Всего
+Total
+Összesen
+Укупно
+[free]
+libres
+free
+frei
+Volný
+wolnych
+Libero
+свободные
+libre
+szabad
+слободно
+[seeking]
+recherche
+seeking
+suchen
+Hledá
+szukających
+Ricerca
+ищущих
+Buscando
+keresés
+у потрази
+[Free]
+Libre
+Free
+Frei
+OK
+Wolnych
+Libero
+Свободных
+Libre
+Szabad
+слободних
+[hungry]
+faim
+hungry
+hungrig
+Hladový
+Głodnych
+Fame
+Голодных
+hambriento
+éhes
+гладних
+[starving]
+trop faim
+starving
+verhungern
+Umírá hlady
+umierających z głodu
+troppa fame
+Умирающих от голода
+famelico
+éhezik
+умирућих од глади
+[wounded]
+blessées
+wounded
+verletzt
+Zraněných
+rannych
+ferito
+раненых
+herido
+sebesült
+рањених
+[In way]
+En chemin
+On the way
+Unterwegs
+Na cestě
+W drodze
+sulla strada
+В пути
+en camino
+Úton van
+У путу
+[On the spot]
+Sur place
+Here
+Vor Ort
+Na místě
+Na miejscu
+Sul posto
+На месте
+Aqui
+Helyszínen van
+На лицу места
+[Version]
+Version
+Version
+Version
+Verze
+Wersja
+versione
+Версия
+Version
+Verzió
+Верзија
+[open]
+ouvert
+open
+offen
+Otevřít
+Otwarty
+Apri
+Открыть
+Abrir
+nyitva
+отвори
+[Add AI]
+Ajouter IA
+Add AI
+KI hinzufügen
+Přidej počítač
+Dodaj SI
+Aggiungi un IA
+Добавить AI
+Añadir IA
+MI-t hozzáad
+Додај ВИ
+[AI]
+IA
+AI
+KI
+Počítač
+SI
+IA
+AI
+IA
+MI
+ВИ
+[AINone]
+AINone
+AINone
+AINone
+AINone
+AINone
+NienteIA
+AINone
+IANone
+MINone
+НикогоВИћ
+[AINumbi]
+AINumbi
+AINumbi
+AINumbi
+AINumbi
+AINumbi
+IANumbi
+AINumbi
+IANumbi
+MINumbi
+ГлупаВИ
+[AICastor]
+AICastor
+AICastor
+AICastor
+AICastor
+AICastor
+IACastor
+AICastor
+IACastor
+MICastor
+ВИКастор
+[the games]
+Parties
+Games
+Spiele
+Hry
+Gry
+Giochi
+Игры
+Juegos
+Játékok
+Игре
+[the maps]
+Cartes
+Maps
+Karten
+Mapy
+Mapy
+Mappe
+Карты
+Mapas
+Térképek
+Мапе
+[was]
+auparavant
+was
+vorher
+byl
+był
+era
+был
+era
+volt
+је био
+[was AI]
+auparavant IA
+was AI
+vorher KI
+byl počítač
+był SI
+era un IA
+был AI
+era un IA
+korábbi MI
+је био ВИ
+[state]
+état
+state
+Zustand
+stav
+stan
+stato
+состояние
+estado
+állapot
+стање
+[Start]
+Départ
+Start
+Start
+Start
+Start
+Start
+Старт
+Comenzar
+Kezdés
+Почетак
+[not ready]
+pas prêt
+not ready
+nicht bereit
+nepřipraven
+nie gotowy
+non pronto
+не готов
+sin preparar
+nincs készen
+није спреман
+[has joined]
+a rejoint
+has joined
+ist angeschlossen
+připojen
+dołączył(a)
+è entrato
+присоединился
+ha entrado
+csatlakozott
+се придружио
+[has quit]
+a quitté
+has quit
+hat verlassen
+odpojil
+wylogował się
+se ne è andato
+вышел
+se ha ido
+kilépett
+је отишао
+[yog-chat]
+#yog-fr
+#yog-en
+#yog-de
+#yog-cz
+#yog-pl
+#yog-it
+#yog-ru
+#yog-es
+#yog-hu
+#yog-sr
+[speed]
+Vitesse
+Speed
+Geschwindigkeit
+Rychlost
+Prędkość
+Velocità
+Скорость
+Velocidad
+Sebesség
+Брзина
+[current speed]
+Vitesse actuelle
+Current speed
+Aktuelle Geschwindigkeit
+Současná rychlost
+Aktualna prędkość
+Velocità corrente
+Текущая скорость
+Velocidad actual
+Aktuális sebesség
+Тренутна брзина
+[attack speed]
+Vit. attaque
+Attack speed
+Angriffsgeschw.
+Útočící rychlost
+Prędkość ataku
+Velocità d'attacco
+Скорость атаки
+Velocidad de ataqu
+Támadási sebesség
+Брзина напада
+[new]
+Nouveau
+New
+Neu
+Nová
+Nowa
+Nuovo
+Новая
+Nuevo
+Új
+Нова
+[load]
+Charger
+Load
+Laden
+Nahrát
+Ładuj
+Carica
+Загрузить
+Cargar
+Betölt
+Учитај
+[handmade map]
+Carte faite à la main
+Handmade map
+Handgemachte Karte
+Ručně vyrobená mapa
+Własna mapa
+Gestisci mappa
+Самодельная карта
+Mapa hecho a mano
+Saját készítésű térkép
+Ручно направљена мапа
+[mapGenerationDescriptor Methodes]
+Méthodes de génération de cartes aléatoires
+Methodes of random generated maps
+Methoden der Zufallserzeugung von Karten
+Metody náhodně vytvořených map
+Metody generowania losowych map
+Metodi di generazione casuale della mappa
+Способы случайной генерации карт
+Metodo de generacion del mapa
+Véletlenszerű térkép előállítási eljárások
+Начин случајног генерисања мапе
+[uniform terrain]
+Terrain uniforme
+Uniform terrain
+Einheitliche Landschaft
+Jednotná krajina
+Rodzaj terenu
+Terreno uniforme
+Одинаковый ландшафт
+Terreno uniforme
+Egységes térkép
+Једнообразно земљиште
+[random terrain]
+Terrain aléatoire
+Random terrain
+Zufallslandschaft
+Náhodná krajina
+Losowy teren
+Terreno a caso
+Случайный ландшафт
+Terreno aleatorio
+Véletlenszerű térkép
+Случајно земљиште
+[islands terrain]
+Iles
+Islands
+Inseln
+Ostrovy
+Wyspy
+Terreno a isole
+Острова
+Islas
+Szigetek
+Острвско земљиште
+[ratios]
+Proportions
+Proportions
+Verhältnis
+Poměry
+Proporcje
+Razioni
+Пропорции
+Proporcion
+Arányok
+Односи
+[smoothing]
+Lissage
+Smoothing
+Glättung
+Vyhlazení
+Wygładzanie
+Spianatura
+Сглаживание
+Liso
+Simítás
+Умекшавање
+[number of teams]
+nombre d'équipes
+number of teams
+Anzahl Mannschaften
+Počet hráčů
+Ilość drużyn
+Numero di squadre
+число команд
+Numero de equipos
+Csapatok száma
+Број тимова
+[islands size]
+taille des îles
+island size
+Größe der Inseln
+Velikost ostrovů
+Wielkość wysp
+Grandezza delle isole
+Размер островов
+Tamaño de las islas
+a szigetek mérete
+Величина острва
+[beach size]
+taille de la plage
+beach size
+Größe des Strandes
+Velikost pláží
+Wielkość plaż
+Grandezza della spiaggia
+Размер пляжей
+Tamaño de la playa
+a partok méretei
+Величина плажа
+[workers]
+Ouvrières
+Workers
+Arbeiterinnen
+Dělníci
+Pracownicy
+Operai
+Рабочие
+Trabajadores
+dolgozók
+Радници
+[bad error in connection system]
+Mauvaise erreur dans le système de connection
+Bad error in connection system
+Fataler Fehler im Verbindungssystem
+Kritická chyba v systému připojení
+Bład w systemie połączeń
+Brutto errore nel sistema di connessione
+Критическая ошибка в системе соединения
+Error en el sistema de conexion
+Végzetes hiba a kapcsolódási rendszerben
+Грешка у систему за повезивање
+[not connected]
+Non connecté
+Not connected
+Nicht angeschlossen
+Nepřipojen
+Nie połączony
+non connesso
+Не соединён
+No conectado
+Nincs kapcsolat
+Није прикључен
+[presence request sent]
+Requête pour présence envoyée ...
+Presence request sent ...
+Präsenzanfrage gesendet ...
+Požadavek připojení odeslán ...
+Wysłano rządanie stanu ...
+Richiesta di presenza inviata ...
+Послан запрос присутствия ...
+Invitacion enviada ...
+Kapcsolódási kérelem elküldve ...
+Присуство је пријављено ...
+[session request sent]
+Requête pour la session envoyée ...
+Session request sent ...
+Sitzungsanfrage gesendet ... 
+Požadavek na navázání relace odeslán ...
+Wysłano rządanie sesji ...
+Richiesta di sessione inviata ...
+Послан запрос сессии ...
+Peticion de sesion enviada ...
+Csatlakozási kérelem elküldve ...
+Послат је захтев за сесију ...
+[checksum sent]
+Somme de contrôle envoyée ...
+Checksum sent ...
+Prüfsumme gesendet ...
+Kontrolní součet odeslán ...
+Wysłano sumę kontrolną ...
+Richiesta di checksum inviata ...
+Послана контрольная сумма ...
+Checksum enviada ...
+Ellenőrzőösszeg elküldve ...
+Послата је контролна сума ...
+[connected to server]
+Connecté au serveur
+Connected to server
+Mit dem Server verbunden
+Server připojen
+Połączono z serwerem
+Connesso al server
+Установлено соединение с сервером
+Conectado al servidor
+Szerverhez történő csatlakozás sikeres
+Прикључен на сервер
+[connecting to all players]
+En train de se connecter avec les joueurs
+Connecting to all players
+Verbinden mit allen Spielern
+Připojuji se ke všem hráčům
+Łączenie z resztą graczy
+Mi sto connettendo agli altri giocatori
+Соединение со всеми игроками
+Conectando a todos los jugadores
+Csatlakozás a játékosokhoz
+Прикључење са свим играчима
+[connected to all players]
+Connecté avec tous les joueurs
+Connected to all players
+Verbunden mit allen Spielern
+Připojen ke všem hráčům
+Połączono z resztą graczy
+Connesso a tutti i giocatori
+Соедининение с игроками установлено
+Conectados todos los jugadores
+Csatlakozott a játékosokhoz
+Прикључен на све играче
+[aviable lan games]
+Parties locales disponibles
+Available local games
+Lokal verfügbare Spiele
+Dostupné místní hry
+Dostępne gry sieciowe
+iochi LAN diponibili
+Доступные сетевые игры
+juegos LAN disponibles
+Elérhető hálózati játékok
+Доступне локалне мрежне игре
+[login]
+Login
+Login
+Login
+Přihlásit
+Login
+Login
+Login
+Login
+Bejelentkezés
+Пријава
+[from:]
+de:
+from:
+von:
+od:
+od:
+da:
+от:
+de:
+honnan:
+од:
+[to:]
+à:
+to:
+auf:
+pro:
+do:
+a:
+к:
+a:
+hová:
+ка:
+[away:]
+absent:
+away:
+weg:
+pryč:
+zajęty:
+assente:
+отсутствует:
+ausente:
+távol van:
+одсутан:
+[compile]
+Compiler le script
+Compile script
+Skript kompilieren
+Sestavit skript
+Kompiluj skrypt
+Compila lo script
+Компилировать скрипт
+Compilar el script
+Szkript fordítása
+Преведи скрипт
+[downloaded at]
+Téléchargé à 
+Downloaded at 
+Heruntergeladen zu
+Stahuji
+Ściągniete z
+Scaricato a
+Скачано с
+Bajado al
+Letöltés
+Преузето са
+[percent]
+  pourcent
+  percent
+  Prozent
+  procent
+  procent
+  percento
+  процентов
+  porcentaje
+  százalék
+  процен(а)(та)
+[download finished]
+Téléchargement terminé
+Download finished
+Herunterladen abgeschlossen
+Stáhnuto
+Pobieranie zakończone
+Download completato
+Скачивание закончено
+Descarga terminada
+A letöltés befejeződött
+Преузимање је готово
+[Map name: %s]
+Carte: %s.
+Map name: %s.
+Karte: %s.
+Jméno mapy: %s.
+Nazwa mapy: %s.
+Nome della mappa: %s.
+Название карты: %s.
+Nombre del mapa: %s.
+A térkép neve: %s.
+Име мапе: %s.
+[one player]
+Un joueur présent.
+A player has joined.
+Ein Spieler spielt mit.
+Jeden hráč se připojil.
+Gracz dołaczył do gry.
+Giocatore singolo.
+Подключился игрок.
+un jugador
+Egy játékos van jelen.
+Један играч.
+[number of players: %d]
+%d joueurs présents.
+%d players are present.
+%d Spieler spielen mit.
+%d hráčů se připojilo.
+%d graczy dołączyło do gry.
+%d numero di giocatori.
+%d игроков в игре
+%d numero de jugadores
+%d játékos van jelen.
+Број присутних играча: %d.
+[number of teams: %d]
+%d équipes.
+%d teams.
+%d Mannschaften.
+%d týmů.
+%d drużyny
+%d numero di sqadre.
+%d команд
+%d numero de equipos
+%d csapat
+Број екипа: %d.
+[game full]
+Jeu complet
+Game full
+Spiel komplett
+Plně obsazená hra
+Komplet graczy
+Gioco completo
+Игра заполнена
+Partida completa
+A játék megtelt
+Потпуна игра
+[small]
+faible
+small
+klein
+malá
+mała
+piccolo
+маленькая
+Pequeño
+kicsi
+Мала
+[medium]
+moyen
+medium
+mittel
+střední
+średnia
+medio
+средняя
+mediano
+közepes
+Средња
+[large]
+grand
+large
+groß
+velká
+duża
+largo
+большая
+grande
+nagy
+Велика
+[network latency]
+Latence du réseau
+Network latency
+Netzlatenz
+Network latency
+Opóźnienie sieci
+Latenza della rete
+Латентность сети
+latencia
+Hálózati várakozási idő
+Мрежно кашњење
+[game speed]
+Vitesse du jeu
+Game speed
+Spielgeschwindigkeit
+Rychlost hry
+Prędkość gry
+Velocità di gioco
+Скорость игры
+velocidad del juego
+A játék sebessége
+Брзина игре
+[Paused]
+Pause
+Paused
+Pause
+Pauza
+Pauza
+Pausa
+Пауза
+Pausa
+Szünet
+Пауза
+[Register a new YOG user with password]
+Enregistrer le nouvel utilisateur YOG avec mot de passe. (non sécurisé)
+Register a new YOG user with a password. (insecure)
+Neuen YOG Benutzer mit Passwort registrieren. (unsicher)
+Registrace nového YOG uživatele s heslem. (nejisté)
+
+Registra un nuovo utente YOG con una passord. (non sicuro)
+Зарегистрировать нового пользователя YOG с паролем. (небезопасно)
+Registrar un nuevo jugador YOG con contraseña (inseguro)
+Regisztráld az új YOG felhasználót jelszóval. (nem biztonságos)
+Пријави новог корисника на YOG са лозинком. (није шифровано)
+[Remember YOG password localy]
+Mémoriser le mot de passe localement. (non sécurisé)
+Remember the password locally. (insecure)
+Passwort lokal speichern. (unsicher)
+Zapamatovat si heslo lokálně? (nejisté)
+
+Ricordati la password localmente. (non sicuro)
+Запомнить пароль локально. (небезопасно)
+Recordar la contraseña (inseguro)
+A jleszót helyileg tárolja. (nem biztonságos)
+Запамти лозинку у локалу (није шифровано)
+[YESTS_BAD]
+Erreur de cohérence interne lors de la connection.
+Internal consistency error while connecting.
+Interner Konsistenzfehler beim Verbinden.
+Vnitřní chyba spojitosti během připojovaní.
+Błąd spójności podczas łączenia.
+Errore interno di connessione.
+Внутренняя ошибка согласования при соединении.
+Inconsistencia interna mientras conectaba
+Belső összefüggési hiba a kapcsolódás alatt.
+Грешка при прикључењу.
+[YESTS_UNABLE_TO_CONNECT]
+Impossible de se connecter. Apparemment le metaserveur YOG n'est pas disponible.
+Unable to connect. Apparently the YOG metaserver is down.
+Verbinden unmöglich. Anscheinend ist der YOG-Metaserver nicht verfügbar.
+Nelze se připojit. Zřejmě je YOG metaserver vypnut.
+Nie można się połączyć. Prawdopodobnie metaserwer YOG jest nieaktywny.
+Non mi riesco a connettere, apparentemente il master server YOG �offline.
+Невозможно соединиться. Очевидно, метасервер YOG не работает.
+Imposible conectar. Metaservidor YOG esta caido
+A kapcsolat nem hozható létre. Úgy tűnik, hogy a YOG metaszerver nem elérhető.
+Грешка при прикључењу. Изгледа да YOG сервер није покренут.
+[YESTS_CREATED]
+Le système de connection est prêt à contacter le metaserveur YOG pour se connecter.
+The connection system is ready to contact the YOG metaserver for connection.
+Das Verbindungsystem ist bereit, mit YOG in Kontakt zu treten.
+Systém připojení je připraven na kontakt s YOG metaserverem.
+System jest gotowy do połączenia z metaserwerem YOG.
+Il sistema di connessione è in attesa del metaserver YOG per la connessione.
+Система соединения готова обратиться к метасерверу YOG за подключением.
+El sistema de conexion esta listo para contactar con el metaservidor YOG
+A kapcsolódó rendszer készen áll a kapcsolat felvételére a YOG metaszerverrel.
+Подсистем за повезивање је спреман за контакт са YOG метасервером.
+[YESTS_CONNECTING]
+Etablissement de la connection au metaserveur YOG...
+Establishing the connection to the YOG metaserver...
+Verbindungsaufbau zum YOG-Metaserver...
+Navazuji spojení s YOG metaserverem...
+Nawiązuje połączenie z metaserwerem YOG...
+Mi sto connettendo al metaserver YOG...
+Подключение к метасерверу YOG...
+Conectando al metaservidor YOG...
+A kapcsolat felvétele a YOG metaszerverrel.
+Повезивање са YOG мета-сервером...
+[YESTS_DECONNECTING]
+Déconnection du metaserveur YOG...
+Disconnecting from the YOG metaserver...
+Beende Verbindung zum YOG Metaserver...
+Odpojuji z YOG metaserveru...
+Rozłączam z metaserwerem YOG...
+Disconnessione dal metaserver YOG in corso...
+Отсоединение от метасервера YOG...
+Desconectando del metaservidor YOG...
+Lecsatlakozás a YOG metaszerverről...
+Искључивање са YOG мета-сервера
+[YESTS_YOG_KILLED]
+Un administrateur vient d'arrêter le metaserveur YOG.
+An administrator has just stopped the YOG metaserver.
+Ein Administrator hat gerade den YOG-Metaserver abgestellt.
+Správce zastavil YOG metaserver.
+Administrator wyłączył metaserwer YOG.
+Un amministratore ha appena fermato il metaserver YOG.
+Администратор только что остановил метасервер YOG.
+Un administrador a interrumpido el metaservidor YOG.
+Egy adminisztrátor leállította a YOG metaszervert.
+Администратор је управо искључио YOG мета-сервер.
+[YESTS_CONNECTION_LOST]
+La connection à YOG à été perdue.
+The connection to YOG has been lost.
+Die Verbindung ui YOG wurde verloren.
+Spojení s YOG metaserverem bylo ztraceno.
+Połączenie z YOG zostało utracone.
+La connessione a YOG �stat persa.
+Соединение с YOG только что прервалось.
+Conexion al metaservidor YOG perdida
+A kapcsolat a YOG metaszerverrel megszakadt.
+Веза са YOG је прекинута.
+[YESTS_CONNECTION_REFUSED_PROTOCOL_TOO_OLD]
+Le metaserveur YOG a refusé la connection car votre version de globulation2 est trop ancienne pour communiquer avec.
+The YOG metaserver has refused connection because your globulation2 client is obsolete.
+Der YOG-Metaserver hat die Verbindung verweigert, da Ihre Version von Globulation zu alt ist. 
+YOG metaserver odmítnul spojení, protože máš příliš starou verzi Globulation2.
+Metaserwere YOG odmówił połączenia, ponieważ Twoja wersja globulation2 jest zbyt stara, by mógł się z nią komunikować.
+Il metaserver YOG ha rifiutato la connessione perchè la versione di Globulation2 che hai installato è troppo vecchia
+Метасервер YOG отказал в соединении, потому что Ваша версия globulation2 слишком старая, чтобы с ней соединяться.
+No se puede conectar al metaservidor YOG, tu cliente globulation2 esta obsoleto
+A YOG metaszerver visszautasította a kapcsolatot, mivel a globulation 2 verziód túl régi a kapcsolat felvételéhez.
+YOG мета-сервер је прекинуо везу јер је ваше издање Глобулације2 престаро.
+[YESTS_CONNECTION_REFUSED_USERNAME_ALLREADY_USED]
+Le metaserveur YOG a refusé la connection car votre nom d'utilisateur est deja utilisé par une autre personne.
+The YOG metaserver has refused the connection because your username is already used by someone else.
+Der YOG-Metaserver hat die Verbindung verweigert, da Ihr Pseudo schon vergeben ist.
+YOG metaserver odmítnul spojení, protože Tvé jméno je již používáno jiným hráčem.
+Metaserwer YOG odmówił połączenia ponieważ twój login jest już zajęty przez kogoś innego.
+Il metaserver YOG ha rifiutato la tua connessione perch�il tuo username �gi�in uso da qualcun altro.
+Метасервер YOG отказал в соединении, потому что ваше имя уже используется кем-то ещё.
+No se puede conectar al metaservidor YOG. Nombre de usuario en uso
+A YOG metaszerver visszautasította a kapcsolatot, mivel a felhasználói nevedet már egy másik játékos használja.
+YOG мета-сервер је одбио везу јер корисничко име које сте изабрали неко већ користи.
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD]
+Le metaserveur YOG a refusé la connection car le mot de passe est faux.
+The YOG metaserver has refused connection because the supplied password was incorrect.
+Der YOG Metaserver hat die Verbindung abgewiesen da ihr Passwort falsch ist.
+YOG metaserver odmítnul spojení, protože heslo nebylo zadáno správně.
+
+
+Метасервер YOG отказал в соединении, потому что вы указали неверный пароль.
+No se puede conectar al metaservidor YOG. Contraseña incorrecta
+A YOG metaszerver visszautasította a kapcsolatot, mivel helytelen jelszót adtál meg.
+YOG мета-сервер је одбио везу јер лозинка коју сте уписали није исправна.
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD_NON_ZERO]
+Le metaserveur YOG a refusé la connection car cet utilisateur n'a pas encore de mot de passe. Vous voulez probablement enregister votre utilisateur avec ce mot de passe. Pour cela, activez l'option "Enregistrer le nouvel utilisateur YOG avec mot de passe" ci-dessous avant de vous connecter. Vous n'avez besoin d'activer cette option qu'une seule fois.
+The YOG metaserver has refused connection because this username has no password yet. You probably want to register your username with this password. Therefore, activate the option "Register a new YOG user with password" before connecting. You'll need to activate this option only once.
+Der YOG Metaserver hat die Verbindung abgewiesen da ihr Benutzername noch kein Passwort hat. Wenn sie diesen Benutzernamen mit diesem Passwort registrieren wollen aktivieren sie die Option "Neuen YOG Benutzer mit Passwort registrieren". Diese Option muss nur einmal aktiviert werden. 
+YOG metaserver odmítnul spojení, protože tato přezdívka ještě nemá přidělené heslo. Pro registraci přezdívky s tímto heslem zaškrtni políčko "Registrace nového YOG uživatele s heslem" před připojením. Budeš potřebovat zaškrtnout toto políčko pouze jednou.
+
+Il metaserver YOG ha rifiutato la connessione perchè hai digitato una password errata
+
+El metaservidor YOG ha rechazado la conexión porque el usuario no tiene contraseña aun, activa la opción: Registrar un nuevo usuario YOG con contraseña
+A YOG metaszerver visszautasította a kapcsolatot, mivel ehhez a felhasználónévhez még nem létezik jelszó. Valószínűleg regisztrálni akartad a felhasználónevedet ezzel a jelszóval. Ehhez kapcsold be az "Új YOG felhasználó regisztrálása jelszóval" opciót a kapcsolat felvétele előtt. Ezt az opciót csak egy alkalommal kell bekapcsolni.
+YOG мета-сервер је одбио везу јер ваше корисничко име нема одређену лозинку. Морате регистровати ваше име и изабрати лозинку.
+[YESTS_CONNECTION_REFUSED_ALREADY_PASSWORD]
+Le metaserveur YOG a refusé la connection car ce nom d'utilisateur a déja été enregistré avec un mot de passe. Si c'est vous qui l'avez enregistré, désactivez l'option "Enregistrer le nouvel utilisateur YOG avec mot de passe" ci-dessous.
+The YOG metaserver has refused connection because this username has already been registered.  If this username is yours, deactivate the option "Register a new YOG user with a password".
+Der YOG Metaserver hat die Verbindung abgewiesen da dieser Benutzername schon registriert wurde. Wenn es ihr Benutzername ist deaktivieren sie die Option "Neuen YOG Benutzer mit Passwort registrieren".
+YOG metaserver odmítnul spojení, protože tato přezdívka je už zaregistovaná. Jestliže přezdívka je tvá, nezaškrtávej políčko "Registrace nového YOG uživatele s heslem".
+
+Il metaserver YOG ha respinto la connessione questo username è già stato registrato con una password. Se tu hai registrato questo utente, disattiva l'opzione "Registra un nuovo utente YOG con una password" qui sotto.
+Метасервер YOG отказал в соединении, потому что это имя уже было зарегистрировано с паролем. Если Вы регистрировали этого пользователя, деактивируйте опцию "Регистрировать нового пользователя YOG с паролем" внизу.
+Nombre de usuario ya registrado, intente otro
+A YOG metaszerver visszautasította a kapcsolatot, mivel ez a felhasználónév már be lett regisztrálva. Ha ez a felhasználónév a tiéd, akkor kapcsold ki az "Új YOG felhasználó regisztrálása jelszóval" opciót.
+YOG мета-сервер је одбио везу јер је ово корисничко име већ пријављено, али са лозинком. Ако корисничко име припада Вама, искључите опцију "Региструј новог корисника са лозинком"
+[YESTS_CONNECTION_REFUSED_ALREADY_AUTHENTICATED]
+Le metaserveur YOG a refusé pour une erreur de protocole: vous êtes déja authetifié. Réessayez dans 45 secondes.
+The YOG metaserver has refused connection because because a protocol error occured:  you are already authenticated.  Try again in 45 seconds.
+Der YOG Metaserver hat die Verbindung abgewiesen da ein Protokolfehler aufgetreten ist: Sind schon angemeldet. Versuchen sie es in 45 Sekunden erneut.
+YOG metaserver odmítnul spojení, protože nastala chyba v protokolu: už jsi byl autentizovaný. Zkus to znovu za 45 sekund.
+
+Il metaserver YOG ha rifiutato la connessione perchè è avvenuto un errore nel protocollo: sei già autenticato. Riprova tra 45 secondi.
+Метасервер YOG отказал в соединении, из-за ошибки протокола: Вы уже аутентифицированы. Попробуйте снова через 45 секунд.
+El servidor YOG ha rechazado la conexión por un error de autentificacion, intentalo en 45 segundos
+A YOG metaszerver visszautasította a kapcsolatot egy protokollhiba miatt: már be vagy jelentkezve. Próbálkozz újra 45 másodperc múlva.
+YOG мета-сервер је одбио везу јер се десила грешка при повезивању. Покушајте поново да се повежете за 45 секунди.
+[YESTS_CONNECTION_REFUSED_NOT_CONNECTED_YET]
+Le metaserveur YOG a refusé pour une erreur interne de protocole: vous n'êtes pas connecté lors de la phase d'authentification. Veuillez reporter cette erreur.
+The YOG metaserver has refused the connection because because an internal protocol error occured: you are not connected yet while authenticating. Please report this bug.
+Der YOG Metaserver hat die Verbindung abgewiesen da ein interner Protokolfehler aufgetreten ist: Sie sind während der Anmeldung nicht verbunden. Bitten melden sie diesen Fehler.
+YOG metaserver odmítnul spojení, protože nastala chyba v protokolu: nejsi ještě připojen během ověřování. Prosím reportuj tuto chybu.
+
+Il metaserver YOG ha respinto la connessione perchè è avvenuto un errore nel protocollo interno: non sei connesso durante l'autenticazione. Per favore, segnala questo bug.
+Метасервер YOG отказал в соединении из-за внутренней ошибки протокола: Вы не подключены при аутентификации. Пожалуйста, сообщите об этой ошибке.
+El servidor YOG ha rechazado la conexion por un error interno, por favor reporta este fallo.
+A YOG metaszerver visszautasította a kapcsolatot egy belső protokollhiba miatt: azonosítás alatt még nem történt meg a kapcsolódás. A felmerült hibáról küldj értesítést a fejlesztőknek.
+YOG мета-сервер је одбио везу јер се десила грешка при повезивању: нисте били повезани током целог процеса пријаве. Молимо Вас да пријавите ову грешку.
+[YESTS_CONNECTION_REFUSED_UNEXPLAINED]
+Le metaserveur YOG a refusé la connection pour une raison inconnue!
+The YOG metaserver has refused the connection without explanation!
+Der YOG-Metaserver hat die Verbindung ohne weitere Erklärung verweigert.
+YOG metaserver odmítnul spojení bez udání důvodu.
+Metaserver YOG odmówił połączenia bez dalszego wyjaśnienia.
+Il metaserver YOG ha respinto la connessione senza spiegazione!
+Метасервер YOG отказал в соединении без объяснения причин!
+El metaservidor YOG ha rechazado la conexión inexplicablemente.
+A YOG metaszerver ismeretlen okból kifolyólag visszautasította a kapcsolatot.
+YOG мета-сервер је одбио везу али није назначио разлог.
+[The player %s has left YOG]
+Le joueur %s a quitté YOG.
+%s has left YOG.
+Spieler %s hat YOG verlassen.
+Hráč %s se odpojil od YOG.
+Gracz %s opuścił YOG.
+Il giocatore %s se n'�andato da YOG.
+Игрок %s покинул YOG.
+El jugador %s ha abandonado YOG
+A %s játékos kilépett a YOG-ból.
+Играч %s је напустио YOG.
+[The player %s has joined YOG]
+Le joueur %s a rejoint YOG.
+%s has joined YOG.
+Spieler %s ist zu YOG zurückgekehrt.
+Hráč %s se připojil k YOG.
+Gracz %s przyłączył się do YOG.
+Il giocatore %s è entrato in YOG.
+Игрок %s подсоединился к YOG.
+El jugador %s se ha unido a YOG
+A %s játékos csatlakozott a YOG-hoz.
+Играч %s се пријавио на YOG
+[You are now marked as away]
+Vous êtes désormais considéré comme étant absent.
+You are marked as away.
+Sie sind als abwesend markiert.
+Jsi označen, že jsi pryč.
+Jesteś oznaczony jako nieaktywny.
+Adesso sei segnato come assente.
+Вы не помечены как неактивный.
+Estas marcado como ausente.
+Távollevőként vagy megjelölve.
+Од сада сте на одсуству.
+[You are no more marked as away]
+Vous êtes à nouveau considéré comme étant présent.
+You are no longer marked as away.
+Sie sind wieder da.
+Nejsi označen, že jsi pryč.
+Już nie jesteś oznaczony jako nieaktywny.
+Non sei pi segnato come assente.
+Вы больше не помечены как неактивный.
+Ya no estas marcado como ausente.
+Már nem vagy távollevőként megjelölve.
+Више нисте на одсуству.
+[YOG_HELP]
+Le système de messages YOG dispose de deux commandes, "msg" et "away". Tappez "/help <commande>" pour en savoir plus.
+The YOG messaging system has two commands, "msg" and "away". Type "/help <command>" to learn more about one of them.
+Das YOG-Nachrichtensystem kennt zwei Befehle, "msg" und "away". Um mehr zu wissen, "/help <Befehl>" eingeben. 
+YOG komunikační systém má dva příkazy, "msg" a "away". Napiš "/help <příkaz>" pro více informací o příkazu.
+System komunikacji YOG ma dwie komendy, "msg" oraz "away". Napisz "/help <komenda>" aby się o nich więcej dowiedzieć.
+Il sistema di messaggistica YOG ha due comandi: "msg" e "away". Scrivi "/help <comando>" per saperne di più.
+Система сообщений YOG имеет две команды: "msg" и "away". Введите "/help <команда>", чтобы подробнее узнать об одной из них.
+El sistema de mensajes YOG tiene dos comandos, "msg" y "awat". Escribe "/help <comando>" para aprender sobre uno de ellos.
+A YOG üzenettovábbító rendszer két parancsot ismer: "msg" és "away". A "/help <parancs>" beütésével lehet használatukkal kapcsolatban további információkat kapni.
+Систем за помоћ има две наредбе: "msg" и "away". Куцајте: "/help <команда>" да бисте добили више информација о некој од њих.
+[YOG_HELP_AWAY]
+La commande "/away (<message>)" vous permet d'indiquer aux autres utilisateurs de YOG que vous-êtes momentanément absent. Vous avez en plus la possiblité de mettre un petit message d'explication. Par exemple "/away Je mange un fromage et je revient pour 13h14". Alias "/a".
+The "/away (<message>)" command allows you to let the other YOG users know that you are temporarily away.  You may add a short explanation message.  For instance "/away I'm eating a hamburger and I'll be back at 1 o'clock". Alias "/a"
+Der Befehl "/away (<Nachricht>)" zeigt anderen YOG-Spielern, dass Sie gerade weg sind. Sie können eine kleine Nachricht hinterlassen, .B. "Bin ein Bier trinken, bin um eins zurück!". Alias "/a"
+Příkazem "/away (<zpráva>)" dáš na vědomí ostatním YOG uživatelům svoji dočasnou nepřítomnost. Můžeš přidat i výmluvnou krátkou zprávu (důvod). Například "/away Du na cigaretu, za 5 minut sem zpátky ...", lze použít zkráceně "/a".
+Komenda "/away (<wiadomość>)" pozwala Ci poinformować innych użytkowników YOG o Twojej tymczasowej nieobecności. Możesz dodać krótką notę informacyjną. Np. "/away Jem obiad będę o 14". Możesz użyć też skrótu "/a".
+Il comando "/away [<messaggio>]" permette agli altri utenti YOG di sapere che temporaneamente ti sei assentato. Puoi aggiungere un breve messaggio di spiegazione. Per esempio "/away Sto mangiando un hamburger e torno alle 13.". Alias "/a"
+Команда "/away (<сообщение>)" позволяет другим пользователям YOG знать, что Вы временно отсутствуете. Вы можете добавить краткое объяснение. Например, "/away Ушёл к соседке. Вернусь к утру". Сокращение "/a".
+El comando "/away [<mensaje>]" te permite ausentarte dejando un mensaje a los demas
+A "/away (<üzenet>)" parancs segítségével lehet a többi YOG felhasználóval közölni, hogy jelenleg nem tartózkodsz a gép közelében. Ezen kívül lehetőség van egy kis magyarázó üzenet hozzáadására is. Például a "/away Elugrottam meginni egy sört". Alias "/a"
+Команда "/away (<порука>)" омогућава да обавестите друге YOG кориснике да привремено нисте ту. На пример: "/away Једем пљескавицу и вратићу се за 1 сат". Команда може да се скрати на "/a".
+[YOG_HELP_MSG]
+La commande "/msg <nom> <message>" vous permet d'envoyer un message à une seule personne. Exemple "/msg Jean-Paul Salut JP, comment se passent tes croisades ?". Alias "/m".
+The "/msg <name> <message>" command sends a private message.  For instance, "/msg John Hi John, how are you?".  Alias "/m".
+"/msg <name> <Nachricht>" erlaubt Ihnen eine Nachricht an eine bestimmte Person zu senden. z.b. "/msg Karl Hallo, wie schlägst du dich ?". Alias "/m".
+Příkaz "/msg <jméno> <zpráva>" pošle zprávu jen dotyčnému, nikdo jiný si jí nepřečte (šeptání). Například "/msg klip Nazdar :-), tak co ?", lze použít zkráceně "/m".
+Komenda "/msg <nazwa> <wiadomość>" pozwala Ci przesłać wiadomość do jednej osoby. Np. "/msg Daemon42 Twoje tłumaczenie ssie...". W skrócie "/m"
+Il comando "/msg <nome> <messaggio>" permette di spedire un messaggio solo ad una persona specifica. Per esempio: "/msg john hi john, how are you?". Alias "/m"
+Команда "/msg <имя> <сообщение>" позволяет послать сообщение кому-нибудь одному. Например "/msg Поздравляю тебя, Шарик, ты балбес!". Сокращение "/m".
+El comando "/msn <nick> <mensaje>" envia <mensaje> al usuario <nick>
+A "/msg <név> <üzenet>" paranccsal üzenetet küldhetsz. Például "/msg Jani Hello Jani hogy vagy?". Alias "/m"
+Команда "/msg <име> <порука>" шаље приватну поруку. На пример: "/msg Пера Де си Перо, шта има?". Може се скратити на "/m".
+[save before quit?]
+Voulez-vous sauver avant de quitter ?
+Do you want to save before quitting?
+Möchten Sie vor dem Beenden abspeichern?
+Chceš uložit před odchodem ?
+Chcesz zapisać stan gry, przed jej zakończeniem ?
+Voui salvare prima di uscire?
+Сохранить перед выходом?
+Deseas guardar antes de salir?
+El kívánod a játékot menteni kilépés előtt?
+Сними пре изласка?
+[Yes]
+Oui
+Yes
+Ja
+Ano
+Tak
+Sì
+Да
+Si
+Igen
+Да
+[No]
+Non
+No
+Nein
+Ne
+Nie
+No
+Нет
+No
+Nem
+Не
+[Save]
+Sauvegarder
+Save
+Speichern
+Uložit
+Zapisz
+Salva
+Сохранение
+Guardar
+Mentés
+Сними
+[auto save]
+Sauvegarde automatique
+Auto save
+autosave
+Auto save
+Autozapis
+Salvataggio automatico
+Автосохранение
+Autoguardado
+Automatikus mentés
+Сними аутоматски
+[Total prestige reached]
+Le prestige total a été atteint
+Total prestige reached
+Höchstmögliches Prestige erreicht
+Dosažená celková prestiž
+Osiągnięty prestiż
+Totale prestigio raggiunto
+Общий достигнутый престиж
+Prestigio total alcanzado
+Elérted a legmagasabb presztízs szintet
+Укупан постигнут престиж
+[Continue playing]
+Continuer à jouer
+Continue playing
+Weiterspielen
+Pokračovat ve hře
+Kontynuuj grę
+Continua a giocare
+Продолжить игру
+Continuar jugando
+Játék folytatása
+Настави игру
+[Lost : your colony is dead]
+Perdu : votre colonie est morte
+Lost: your colony is dead
+Verloren: Ihre Kolonie ist tot
+Tvoje kolonie je zničená ...
+Przegrałeś: Twoja kolonia została wybita.
+Hai perso: la tua colonia �morta.
+Поражение: Ваша колония мертва.
+Perdedor: Tu colonia ha sido aniquilada
+A kolóniád megsemmisült.
+Пораз : Ваша колонија је мртва
+[Won : you defeated your opponents]
+Gagné : vous avez vaincu vos adversaires
+Won : you defeated your opponents
+Gewonnen: Sie haben Ihre Feinde besiegt
+Tvoji nepřátelé byli poraženi ...
+Wygrałeś: pokonałeś swoich przeciwników
+Hai vinto: hai battuto i tuoi avversari
+Победа: Вы победили всех соперников.
+Vencedor: Has destruido a tus enemigos
+Nyertél: legyőzted az ellenfeleidet.
+Победа : Савладали сте противике.
+[Won : your ally %s has the most prestige]
+Gagné : votre allié %s a le plus de prestige
+Won: your ally %s has the biggest prestige
+Gewonnen: Ihr Verbündeter %s hat das höchste Prestige
+Tvůj spojenec %s má největší prestiž ...
+Wygrałeś: %s ma największy prestiż
+Hai vinto: il tuo alleato %s ha il maggior prestigio.
+%s
+Vencedor: tu aliado %s ha alcanzado el mayor prestigio-
+Nyertél: a szövetségesed %s elérte a legnagyobb presztízs szintet.
+Победа : Ваш савезник %s је достигао највећи могући престиж.
+[Lost : %s has more prestige than you]
+Perdu : %s a plus de prestige que vous
+Lost : %s has more prestige than you
+Verloren: %s hat mehr Prestige als Sie
+%s má větší prestiž než Ty ...
+Przegrałeś: %s ma większy prestiż od Twojego
+Hai perso: %s ha pi prestigio di te
+Поражение: У %s больший престиж, чем у Вас.
+Perdedor: %s tiene mas prestigio que tu
+Veszítettél: %s -nak nagyobb a presztízse mint neked.
+Пораз : %s је остварио већи престиж од Вас.
+[Won : you have the most prestige]
+Gagné : vous avez le plus de prestige
+Won : you have the biggest prestige
+Gewonnen: Sie haben das höchste Prestige
+Ty máš největší prestiž ...
+Wygrałeś: Masz największy prestiż
+Hai vinto: hai il magior prestigio
+Benutzername
+Ganador: Tu eres el que mas prestigio tiene
+Nyertél: neked van a legnagyobb presztízsed.
+Победа: Остварили сте највећи могући престиж.
+[The game has not been finished]
+La partie n'a pas été terminée
+The game has not been finished
+Das Spiel wurde nicht abgeschlossen
+Hra neskončila
+Gra nie została skończona
+La partita non è finita
+Игра не была закончена
+La partida no ha acabado
+A játék nem fejeződött be.
+Игра није завршена
+[display]
+Affichage
+Display
+Anzeige
+Rozlišení
+Wyświetlanie
+Visualizza
+Экран
+Visualizador
+Kijelző
+Екран
+[username]
+Nom d'utilisateur
+Username
+Username
+Jméno uživatele
+Nazwa użytkownika
+Username
+Имя пользователя
+Nombre de usuario
+Felhasználónév
+Корисничко име
+[fullscreen]
+Plein écran
+Fullscreen
+Vollbild
+Fullscreen
+Pełen ekran
+Schermo intero
+Полный экран
+Pantalla completa
+Teljes képernyő
+Цео екран
+[hwaccel]
+Accélération matérielle
+Hardware acceleration
+Hardware Beschleunigung
+Hardware akcelerace
+Dopalanie sprzętowe
+Accelerazione HardWare
+Аппаратное ускорение
+Aceleración Hardaware
+Hardveres gyorsítás
+Хардверско убрзање
+[dblbuff]
+Doube-tampon
+Double buffering
+Double-buffering
+Double-buffering
+Double-buffering
+Double-buffering
+Двойная буферизация
+Buffer Doble
+Dupla pufferelés
+Двоструко баферисање
+[lowquality]
+Basse qualité
+Low quality
+Niedrige Qualität
+Nízká kvalita
+Niska jakość
+Bassa qualità
+Низкое качество
+Calidad Baja
+Alacsony képminőség
+Низак квалитет
+[audio]
+Audio
+Audio
+Audio
+Audio
+Audio
+Audio
+Звук
+Audio
+Audió
+Звук
+[Music volume]
+Volume (musique)
+Volume (music)
+Volumen (Musik)
+Hlasitost (hudba)
+Głośność (muzyka)
+Volume (musica)
+Громкость (музыки)
+Volumen (musica)
+Hangerősség (zene)
+Јачина (музика)
+[Happyness]
+Satisfaction
+Happiness
+Zufriedenheit
+Zadostiučinění
+Satysfakcja
+Soddisfazione
+Счастье
+Felicidad
+Boldogság
+Задовољство
+

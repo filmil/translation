@@ -1,0 +1,37 @@
+<!ENTITY ColumnsDialog.title "Колоне">
+<!ENTITY cmdBlink.label "Треперући елеменат">
+<!ENTITY cmdCopyXML.label "Умножи XML">
+<!ENTITY cmdDeleteNode.label "Удаљи">
+<!ENTITY cmdFindNext.accesskey "с">
+<!ENTITY cmdFindNext.label "Пронађи следеће">
+<!ENTITY cmdFlashSelected.label "Трепери изабрани елеменат">
+<!ENTITY cmdInsertNode.label "Уметни...">
+<!ENTITY cmdInspectBrowser.label "Истражи отворени докуменат">
+<!ENTITY cmdInspectInNewWindow.label "Истражи у новом прозору">
+<!ENTITY cmdSelectByClick.accesskey "и">
+<!ENTITY cmdSelectByClick.label "Изабери елеменат кликнући на њега">
+<!ENTITY cmdShowColumnsDialog.accesskey "к">
+<!ENTITY cmdShowColumnsDialog.label "Колоне...">
+<!ENTITY cmdShowFindDialog.accelkey "f">
+<!ENTITY cmdShowFindDialog.accesskey "ч">
+<!ENTITY cmdShowFindDialog.label "Пронађи чвор...">
+<!ENTITY cmdShowPseudoClasses.accesskey "п">
+<!ENTITY cmdShowPseudoClasses.label "Прикажи псеудо-класе">
+<!ENTITY cmdToggleAnonContent.accesskey "н">
+<!ENTITY cmdToggleAnonContent.label "Прикажи непознат садржај">
+<!ENTITY cmdToggleAttributes.accesskey "а">
+<!ENTITY cmdToggleAttributes.label "Прикажи атрибуте">
+<!ENTITY cmdToggleWhitespaceNodes.accesskey "п">
+<!ENTITY cmdToggleWhitespaceNodes.label "Прикажи празне чворове">
+<!ENTITY findNodes.title "Пронађи чвор">
+<!ENTITY findNodesByAttr.label "атрибуту">
+<!ENTITY findNodesByAttrValue.label "значењу">
+<!ENTITY findNodesById.label "идентификатору">
+<!ENTITY findNodesByTag.label "тагу">
+<!ENTITY findNodesCancel.label "Одустани">
+<!ENTITY findNodesDirection.label "Правац">
+<!ENTITY findNodesDirectionDown.label "Доле">
+<!ENTITY findNodesDirectionUp.label "Горе">
+<!ENTITY findNodesFind.label "Пронаћи">
+<!ENTITY findNodesSearchBy.label "Тражи по">
+<!ENTITY pseudoClasses.title "Псеудо-класе">

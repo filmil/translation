@@ -1,0 +1,39 @@
+<!ENTITY FTPport.accesskey "r">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY WPADTypeRadio.accesskey "с">
+<!ENTITY WPADTypeRadio.label "Самостално препознај подешавање проксија за ову мрежу">
+<!ENTITY autoTypeRadio.accesskey "а">
+<!ENTITY autoTypeRadio.label "Адреса за аутоматски избор проксија:">
+<!ENTITY configAutoconfigText.accesskey "к">
+<!ENTITY configAutoconfigText.label "Адреса конфигурације (URL):">
+<!ENTITY directTypeRadio.accesskey "д">
+<!ENTITY directTypeRadio.label "Директна веза са Интернетом">
+<!ENTITY ftp.accesskey "к">
+<!ENTITY ftp.label "FTP-прокси:">
+<!ENTITY gopher.accesskey "п">
+<!ENTITY gopher.label "Gopher-прокси">
+<!ENTITY gopherPort.accesskey "a">
+<!ENTITY http.accesskey "и">
+<!ENTITY http.label "HTTP-прокси:">
+<!ENTITY lHeader "Параметри повезивања">
+<!ENTITY manualTypeRadio.accesskey "р">
+<!ENTITY manualTypeRadio.label "Ручни избор проксија">
+<!ENTITY noproxy.accesskey "н">
+<!ENTITY noproxy.label "Не користи прокси за:">
+<!ENTITY noproxyExplain.label "Пример: .localhost, .yu">
+<!ENTITY port.label "Порт:">
+<!ENTITY proxyTitle.label "Избор прокси сервера за приступ Интернету">
+<!ENTITY reload.accesskey "о">
+<!ENTITY reload.label "Обнови">
+<!ENTITY shareproxy.accesskey "и">
+<!ENTITY shareproxy.label "Користи исти прокси за све протоколе">
+<!ENTITY socks.accesskey "д">
+<!ENTITY socks.label "Домен SOCKS:">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks4.label "SOCKS 4">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY socks5.label "SOCKS 5">
+<!ENTITY ssl.accesskey "п">
+<!ENTITY ssl.label "SSL-прокси:">

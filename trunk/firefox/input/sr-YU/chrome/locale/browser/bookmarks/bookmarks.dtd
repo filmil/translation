@@ -1,0 +1,69 @@
+<!ENTITY bookmarksRoot.label "Омиљено">
+<!ENTITY bookmarksWindowTitle.label "Менеџер омиљених веза">
+<!ENTITY closeCmd.accesskey "з">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY closeCmd.label "Затвори">
+<!ENTITY command.addBookmark.label "Додај...">
+<!ENTITY command.delete.accesskey "о">
+<!ENTITY command.delete.label "Обриши">
+<!ENTITY command.findBookmarks.label "Претрага...">
+<!ENTITY command.manageBookmarks.label "Управљање">
+<!ENTITY command.moveBookmark.accesskey "е">
+<!ENTITY command.moveBookmark.label "Премести везу(е)...">
+<!ENTITY command.moveBookmarkShort.label "Премести...">
+<!ENTITY command.properties.accesskey "с">
+<!ENTITY command.properties.label "Својства...">
+<!ENTITY command.refreshLivemark.label "Освежи вести уживо">
+<!ENTITY command.rename.accesskey "п">
+<!ENTITY command.rename.label "Преименуј...">
+<!ENTITY edit.find.keybinding "f">
+<!ENTITY edit.properties.keybinding "w">
+<!ENTITY emptyItem.label "(Празно)">
+<!ENTITY fileMenu.accesskey "ф">
+<!ENTITY fileMenu.label "Фајл">
+<!ENTITY menuitem.export.accesskey "и">
+<!ENTITY menuitem.export.label "Извоз...">
+<!ENTITY menuitem.find.accesskey "в">
+<!ENTITY menuitem.find.label "Претрага веза...">
+<!ENTITY menuitem.import.accesskey "у">
+<!ENTITY menuitem.import.label "Увоз...">
+<!ENTITY menuitem.newBookmark.accesskey "в">
+<!ENTITY menuitem.newBookmark.label "Нова веза...">
+<!ENTITY menuitem.newFolder.accesskey "к">
+<!ENTITY menuitem.newFolder.label "Нови каталог...">
+<!ENTITY menuitem.newLivemark.accesskey "ж">
+<!ENTITY menuitem.newLivemark.label "Нова веза ка вести уживо">
+<!ENTITY menuitem.newSeparator.accesskey "о">
+<!ENTITY menuitem.newSeparator.label "Нови одељак">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey "к">
+<!ENTITY menuitem.personaltoolbarfolder.label "Постави каталог у лични панел">
+<!ENTITY menuitem.view.ascending.accesskey "н">
+<!ENTITY menuitem.view.ascending.label "Поређај по називу">
+<!ENTITY menuitem.view.command.toolbar.accesskey "а">
+<!ENTITY menuitem.view.command.toolbar.label "Панел алата">
+<!ENTITY menuitem.view.descending.accesskey "о">
+<!ENTITY menuitem.view.descending.label "У обратном редоследу">
+<!ENTITY menuitem.view.show_columns.accesskey "к">
+<!ENTITY menuitem.view.show_columns.label "Прикажи колоне">
+<!ENTITY menuitem.view.unsorted.accesskey "н">
+<!ENTITY menuitem.view.unsorted.label "Не сортирај">
+<!ENTITY search.accesskey "п">
+<!ENTITY search.label "Претрага:">
+<!ENTITY selectBookmark.label "Изаберите везу коју желите посетити. Ако изаберете каталог, везе које су у њему отвориће се у новим језичцима.">
+<!ENTITY selectBookmark.title "Поставка почетне стране">
+<!ENTITY treecol.addedon.accesskey "д">
+<!ENTITY treecol.addedon.label "датуму додавања">
+<!ENTITY treecol.description.accesskey "о">
+<!ENTITY treecol.description.label "Опис">
+<!ENTITY treecol.lastmod.accesskey "и">
+<!ENTITY treecol.lastmod.label "Последња измена">
+<!ENTITY treecol.lastvisit.accesskey "п">
+<!ENTITY treecol.lastvisit.label "датуму последњег посећења">
+<!ENTITY treecol.name.accesskey "и">
+<!ENTITY treecol.name.label "Име">
+<!ENTITY treecol.shortcut.accesskey "к">
+<!ENTITY treecol.shortcut.label "кључној речи">
+<!ENTITY treecol.url.accesskey "а">
+<!ENTITY treecol.url.label "Адреса">
+<!ENTITY viewMenu.accesskey "п">
+<!ENTITY viewMenu.label "Преглед">

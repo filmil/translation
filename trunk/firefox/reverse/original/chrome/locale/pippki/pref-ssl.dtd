@@ -1,0 +1,66 @@
+<!ENTITY SSLClientAuthMethod "Избор сертификата клијента">
+<!ENTITY SSLProtocolVersions "Верзије SSL протокола">
+<!ENTITY SSLWarnings "SSL Упозорење">
+<!ENTITY certselect.ask "Питај сваки пут">
+<!ENTITY certselect.auto "Самостално бирај">
+<!ENTITY certselect.description "Одредите како &brandShortName; ће бирати сертификат, ако га сајт затљажи:">
+<!ENTITY cipher.authAlg "Алгоритам провере:">
+<!ENTITY cipher.details "Детаљи...">
+<!ENTITY cipher.encryption "Алгоритам шифровања:">
+<!ENTITY cipher.exportable "На извоз">
+<!ENTITY cipher.fips "FIPS">
+<!ENTITY cipher.keyAlg "Алгоритам кључа:">
+<!ENTITY cipher.keySize "Стварна величина кључа:">
+<!ENTITY cipher.macAlg "MAC алгоритам:">
+<!ENTITY cipher.name "Шифровање">
+<!ENTITY cipher.other "Друга својства:">
+<!ENTITY cipher.ssl2.des_64 "56-bit DES encryption with RSA and an MD5 MAC">
+<!ENTITY cipher.ssl2.des_ede3_192 "168-bit Triple DES encryption with RSA and MD5 MAC ">
+<!ENTITY cipher.ssl2.label "SSL2 Cipher Suites">
+<!ENTITY cipher.ssl2.rc2_128 "128-bit RC2 encryption with RSA and an MD5 MAC">
+<!ENTITY cipher.ssl2.rc2_40 "RC2-шифровање са 40-битним кључем користећи RSA и MD5 MAC (извоз)">
+<!ENTITY cipher.ssl2.rc4_128 "RC4-шифровање са 128-битним кључем користећи RSA и MD5 MAC">
+<!ENTITY cipher.ssl2.rc4_40 "RC4-шифровање са 40-битним кључем користећи RSA и MD5 MAC (извоз)">
+<!ENTITY cipher.ssl3.dhe_dss_aes_128_sha "128-bit AES шифровање са DSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_dss_aes_256_sha "256-bit AES шифровање са DSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_dss_des_ede3_sha "168-bit троструки DES са DSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_dss_des_sha "56-bit DES шифровање са DSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_rsa_aes_128_sha "128-bit AES шифровање са RSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_rsa_aes_256_sha "256-bit AES шифровање са RSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_rsa_des_ede3_sha "168-bit троструки DES са RSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.dhe_rsa_des_sha "56-bit DES шифровање са RSA, DHE и SHA1 MAC">
+<!ENTITY cipher.ssl3.label "SSL3/TLS Cipher Suites">
+<!ENTITY cipher.ssl3.rsa_1024_des_cbc_sha "56-bit DES шифровање са RSA и SHA1 MAC (извоз)">
+<!ENTITY cipher.ssl3.rsa_1024_rc4_56_sha "56-bit RC4 шифровање са RSA и SHA1 MAC (извоз)">
+<!ENTITY cipher.ssl3.rsa_aes_128_sha "128-bit AES шифровање са RSA и SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_aes_256_sha "256-bit AES шифровање са RSA и SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_des_ede3_sha "168-bit троструки DES са RSA и SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_des_sha "56-bit DES шифровање са RSA и SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_fips_des_ede3_sha "168-bit троструки DES са RSA и SHA1 MAC (FIPS)">
+<!ENTITY cipher.ssl3.rsa_fips_des_sha "56-bit DES шифровање са RSA и SHA1 MAC (FIPS)">
+<!ENTITY cipher.ssl3.rsa_null_md5 "No encryption with RSA authentication and an MD5 MAC">
+<!ENTITY cipher.ssl3.rsa_null_sha "No encryption with RSA authentication and a SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_rc2_40_md5 "RC2-шифровање са 40-битним кључем користећи RSA и MD5 MAC (извоз)">
+<!ENTITY cipher.ssl3.rsa_rc4_128_md5 "RC4-шифровање са 128-битним кључем користећи RSA и MD5 MAC">
+<!ENTITY cipher.ssl3.rsa_rc4_128_sha "128-bit RC4 encryption with RSA and a SHA1 MAC">
+<!ENTITY cipher.ssl3.rsa_rc4_40_md5 "RC4-шифровање са 40-битним кључем користећи RSA и MD5 MAC (извоз)">
+<!ENTITY cipher.ssl3_extra.label "Extra SSL3/TLS Cipher Suites">
+<!ENTITY cipher.tab.ssl2 "SSL2">
+<!ENTITY cipher.tab.ssl3tls "SSL3/TLS">
+<!ENTITY cipher.tab.ssl3tls_extra "Екстра SSL3/TLS">
+<!ENTITY cipher.title "SSL: мењање шифровања">
+<!ENTITY cipherinfo.title "Детаљи о лозинци">
+<!ENTITY edit.sslciphers "Edit Ciphers...">
+<!ENTITY edit.sslciphers.accesskey "И">
+<!ENTITY enable.ssl2 "Омогући SSL верзија 2">
+<!ENTITY enable.ssl3 "Омогући SSL верзија 3">
+<!ENTITY enable.tls "Омогући TLS">
+<!ENTITY prefheader.title "Secure Sockets Layer (SSL)">
+<!ENTITY warn.description "&brandShortName; вас може обавестити о нивоу безбедности страна које сте прегледали. &brandShortName; ће издавати упозорења и затраживати прекид пред:">
+<!ENTITY warn.enteringsecure "учитавањем стране која подржава шифровање">
+<!ENTITY warn.enteringweak "учитавањем стране која користи слабо шифровање">
+<!ENTITY warn.insecurepost "прослеђивања података формулара са нешифроване на нешифровану страну">
+<!ENTITY warn.leavingsecure "приступом страници која подржава шифровање">
+<!ENTITY warn.secureredirect "преусмеравањем са једне зашифроване стране на другу">
+<!ENTITY warn.secureredirecttoinsecure "преусмеравањем са једне зашифроване стране на незашифровану">
+<!ENTITY warn.viewmixed "преглед стране са измешаним садржајем">

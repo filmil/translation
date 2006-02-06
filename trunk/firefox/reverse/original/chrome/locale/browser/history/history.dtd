@@ -1,0 +1,27 @@
+<!ENTITY bookmarkLink.accesskey "о">
+<!ENTITY bookmarkLink.label "Додај адресу у омиљено">
+<!ENTITY byDate.accesskey "д">
+<!ENTITY byDate.label "По датуму">
+<!ENTITY byDayAndSite.accesskey "д">
+<!ENTITY byDayAndSite.label "По датуму и сајту">
+<!ENTITY byLastVisited.accesskey "п">
+<!ENTITY byLastVisited.label "По последњој посети">
+<!ENTITY byMostVisited.accesskey "с">
+<!ENTITY byMostVisited.label "По посећености">
+<!ENTITY bySite.accesskey "с">
+<!ENTITY bySite.label "По сајту">
+<!ENTITY collapse.accesskey "у">
+<!ENTITY collapse.label "Умањи">
+<!ENTITY copyLink.accesskey "а">
+<!ENTITY copyLink.label "Умножи адресу">
+<!ENTITY expand.accesskey "п">
+<!ENTITY expand.label "Прошири">
+<!ENTITY find.accesskey "р">
+<!ENTITY find.label "Претрага:">
+<!ENTITY openInNewTab.accesskey "ј">
+<!ENTITY openInNewTab.label "Отвори у новом језичку">
+<!ENTITY openInNewWindow.accesskey "п">
+<!ENTITY openInNewWindow.label "Отвори у новом прозору">
+<!ENTITY openLinkInWindow.accesskey "о">
+<!ENTITY openLinkInWindow.label "Отвори">
+<!ENTITY view.label "Преглед">

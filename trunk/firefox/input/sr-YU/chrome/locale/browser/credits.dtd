@@ -1,0 +1,22 @@
+<!ENTITY brandMotto "The Browser, Reloaded">
+<!ENTITY credit.brand "Марка">
+<!ENTITY credit.build "Издање">
+<!ENTITY credit.core "Развој језгра">
+<!ENTITY credit.creators "Направио">
+<!ENTITY credit.gecko "Gecko окружење">
+<!ENTITY credit.infra "Подршка инфраструктуре">
+<!ENTITY credit.leads "Вође пројекта">
+<!ENTITY credit.manage "Менаџери пројекта">
+<!ENTITY credit.market "Маркетинг">
+<!ENTITY credit.marketleads "Шеф маркетинга">
+<!ENTITY credit.memory "Оснивач">
+<!ENTITY credit.powered "Подршка">
+<!ENTITY credit.qa "Провера квалитета">
+<!ENTITY credit.qalead "Шеф провере квалитета">
+<!ENTITY credit.support "Подршка">
+<!ENTITY credit.thanks "Посебна захвалност">
+<!ENTITY credit.theme "Дизајн теме">
+<!ENTITY credit.translation "Превод">
+<!ENTITY credit.update "Mozilla унапређење">
+<!ENTITY credit.visuals "Координатор дизајна окружења">
+<!ENTITY credit.web "Веб дизајн">

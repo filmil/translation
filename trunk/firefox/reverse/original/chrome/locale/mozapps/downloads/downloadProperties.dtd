@@ -1,0 +1,7 @@
+<!ENTITY acceptButton.label "Затвори">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY dateEnded.label "Завршетак:">
+<!ENTITY dateStarted.label "Почетак:">
+<!ENTITY downloadedFrom.label "Извор:">
+<!ENTITY path.label "Локална путања:">
+<!ENTITY window.title "Својства">

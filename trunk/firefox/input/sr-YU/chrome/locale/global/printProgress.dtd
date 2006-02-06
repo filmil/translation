@@ -1,0 +1,8 @@
+<!ENTITY dialogCancel.label "Одустани">
+<!ENTITY dialogClose.label "Затвори">
+<!ENTITY percentPrint "#1&#037;">
+<!ENTITY preparing "Припремам...">
+<!ENTITY printComplete "Штампа је завршена">
+<!ENTITY printWindow.title "Штампа">
+<!ENTITY progress "Напредак:">
+<!ENTITY title "Заглавље:">

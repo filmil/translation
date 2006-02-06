@@ -1,0 +1,11 @@
+<!ENTITY addpermission.label "Нови сајт">
+<!ENTITY address.label "Адреса сајта:">
+<!ENTITY allow.label "Дозволи">
+<!ENTITY block.label "Забрани">
+<!ENTITY div.bannedservers.label "Можете одредити које веб стране могу, а које не могу користити колачиће.  Унесите тачну адресу веб стране коју желите да ограничите и штиклирајте Забрани или Дозволи.">
+<!ENTITY removeallpermissions.label "Удаљи све сајтове">
+<!ENTITY removepermission.label "Удаљи сајт">
+<!ENTITY session.label "Дозволи при овој сесији">
+<!ENTITY treehead.sitename.label "Стране">
+<!ENTITY treehead.status.label "Статус">
+<!ENTITY window.title "Искључења">

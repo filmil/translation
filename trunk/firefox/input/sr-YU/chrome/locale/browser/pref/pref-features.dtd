@@ -1,0 +1,23 @@
+<!ENTITY addpermission.label "Додај сајт...">
+<!ENTITY advancedJavaScript.accesskey "д">
+<!ENTITY advancedJavaScript.label "Додатно...">
+<!ENTITY allowedSites.label "Дозвољене стране">
+<!ENTITY div.blessedservers.label "Увек дозволи доњим странама да отварају искачуће прозоре:">
+<!ENTITY enableImages.accesskey "с">
+<!ENTITY enableImages.label "Омогући слике">
+<!ENTITY enableJavaScript.accesskey "о">
+<!ENTITY enableJavaScript.label "Омогући JavaScript">
+<!ENTITY enableSoftwareUpdate.accesskey "п">
+<!ENTITY enableSoftwareUpdate.label "Дозволи страни да поставља проширења">
+<!ENTITY enbJavaCheck.accesskey "м">
+<!ENTITY enbJavaCheck.label "Омогући Java-у">
+<!ENTITY exceptions.label "Изузетци">
+<!ENTITY forOriginatingSiteOnly.accesskey "о">
+<!ENTITY forOriginatingSiteOnly.label "само са основног сајта">
+<!ENTITY lHeader "Додатне функције">
+<!ENTITY manageImages.accesskey "о">
+<!ENTITY manageImages.label "Дозволе...">
+<!ENTITY popupReject.accesskey "и">
+<!ENTITY popupReject.label "Блокирање искачућих прозора">
+<!ENTITY removeallpermissions.label "Удаљи све сајтове">
+<!ENTITY removepermission.label "Удаљи сајт">

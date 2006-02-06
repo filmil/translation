@@ -1,0 +1,13 @@
+<!ENTITY author.tooltip "Затвори опције и пређи на веб-страну аутора">
+<!ENTITY general.label "Опште">
+<!ENTITY getNewThemes.label "Нове теме">
+<!ENTITY getnew.tooltip "Затвори прозор додатака и пређи на главну страницу додатака за Mozilla Firebird">
+<!ENTITY getnew.url "http://texturizer.net/firebird/themes/">
+<!ENTITY installedThemes.label "Поставите тему:">
+<!ENTITY lHeader "Теме">
+<!ENTITY preview.label "Преглед стране">
+<!ENTITY selectSkin.accesskey "т">
+<!ENTITY selectSkin.label "Примени тему">
+<!ENTITY skinIntro.label "Избор нове теме ће променит спољни изглед дугмића, прозора дијалога, менија, панела алата и других елемената.">
+<!ENTITY uninstallSkin.accesskey "у">
+<!ENTITY uninstallSkin.label "Удаљи тему">

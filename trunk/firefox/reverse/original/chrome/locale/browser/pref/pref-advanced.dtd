@@ -1,0 +1,97 @@
+<!ENTITY SSLClientAuthMethod "Избор сертификата клијента">
+<!ENTITY accessibility.label "Додатне могућности">
+<!ENTITY browsing.label "Преглед сајтова">
+<!ENTITY cancel.button "Одустани">
+<!ENTITY certOCSP.label "Користи OCSP за проверу само тих сертификата чији је домен означен у служби OCSP">
+<!ENTITY certs.label "Сертификати">
+<!ENTITY certselect.ask "Питај сваки пут">
+<!ENTITY certselect.auto "Самостално бирај">
+<!ENTITY certselect.description "Одредите како &brandShortName; ће бирати сертификат, ако га сајт затљажи:">
+<!ENTITY checkNow.accesskey "с">
+<!ENTITY checkNow.label "Провери сад">
+<!ENTITY crl.autoupdate.fail.cnt.label "Грешке приликом претходног унапређењеа:">
+<!ENTITY crl.autoupdate.fail.reason.label "Детаљи о последњој грешци:">
+<!ENTITY crl.import.nextupdate.label "Следеће унапређење:">
+<!ENTITY crl.import.status.title "Статус увоза ЛПС">
+<!ENTITY crl.import.success.message "Листа проверених сертификата (ЛПС) је успешно увежена.">
+<!ENTITY crl.issuer.label "ЛПС је издат од:">
+<!ENTITY crl.issuer.org.label "Организација:">
+<!ENTITY crl.issuer.orgunit.label "Јединица:">
+<!ENTITY disableOCSP.label "Не користи OCSP за проверу истинитости сертификата">
+<!ENTITY edit.button "Параметри">
+<!ENTITY enableAutoImageResizing.label "Умањи велике слике на величину прозора">
+<!ENTITY enableAutoInstall.accesskey "с">
+<!ENTITY enableAutoInstall.label "Самостално покрећи и постављај унапређења проширења.">
+<!ENTITY enableExtensionUpdate.accesskey "м">
+<!ENTITY enableExtensionUpdate.label "моја проширења">
+<!ENTITY enableSmartUpdate.accesskey "F">
+<!ENTITY enableSmartUpdate.label "&brandShortName;">
+<!ENTITY enableSoftwareUpdate.accesskey "п">
+<!ENTITY enableSoftwareUpdate.label "Дозволи веб странама да постављају програме">
+<!ENTITY forceNewWindowLinks.label "Присили везе које отварају нови прозор да га отворе у:">
+<!ENTITY help.button "Помоћ">
+<!ENTITY hideTabBar.label "Сакри линију са језичцима када је отворен само један сајт">
+<!ENTITY lHeader "Напредно">
+<!ENTITY linksOnlyTypeAheadFind.label "да би претражили само везе">
+<!ENTITY loadBookmarksInBackground.label "Изабери нови језичак отворен из листе омиљено или историјата">
+<!ENTITY loadInBackground.label "Пређи на новоформирани језичак">
+<!ENTITY managecerts.accesskey "с">
+<!ENTITY managecerts.button "Уреди сертификате...">
+<!ENTITY managecerts.label "Уређење сертификата">
+<!ENTITY managecerts.text "Користи менаџер сертификата за уређење личних, као и сертификата других људи њихових веродостојности.">
+<!ENTITY managedevices.accesskey "з">
+<!ENTITY managedevices.button "Уреди безбедносне уређаје...">
+<!ENTITY managedevices.label "Уређивање механизма заштите">
+<!ENTITY managedevices.text "Користи ово дугме за уређење безбедносних уређеја, као што су смарт картице.">
+<!ENTITY moveSystemCaret.label "Премести терет систему са променом фокуса или избора">
+<!ENTITY multimedia.label "Мултимедија">
+<!ENTITY newTab.label "нови језичак">
+<!ENTITY newTabInRecentWindow.label "нови језичак у последњем прозору">
+<!ENTITY newWindow.label "нови прозор">
+<!ENTITY ok.button "У реду">
+<!ENTITY openExternalLinksIn.label "Отвори везе из других програма у:">
+<!ENTITY proxyOCSP.label "Користи OCSP за проверу свих сертификата помоћу те адресе:">
+<!ENTITY recentWindowOrTab.label "најновији језичак/прозор">
+<!ENTITY sameTabOrWindow.label "исти језичак/прозор као веза">
+<!ENTITY security.label "Безбедност">
+<!ENTITY securityUIDisclaimer.label "Овај размак се тренутно налази овде али ће временом бити прештен или уклоњен у будућим верзијама. Овде се налази само зато како би омогућила функционалност која није могућа кроз других делова интерфејса.">
+<!ENTITY serviceURL.accesskey "с">
+<!ENTITY serviceURL.label "URL служба:">
+<!ENTITY signingCA.accesskey "с">
+<!ENTITY signingCA.label "Потписана страна:">
+<!ENTITY softwareupdate.label "Обнова">
+<!ENTITY softwareupdateinfo.label "Периодично проверавај унапређења за:">
+<!ENTITY tabbedBrowsing.label "Користи језичке">
+<!ENTITY useAutoScrolling.label "Користи самостално листање">
+<!ENTITY useSSL2.label "Користи SSL 2.0">
+<!ENTITY useSSL3.label "Користи SSL 3.0">
+<!ENTITY useSmoothScrolling.label "Користи глатко листање">
+<!ENTITY useTLS1.label "Користи TLS 1.0">
+<!ENTITY useTypeAheadFind.label "Користи претрагу по тексту испред">
+<!ENTITY validation.advanced.label "Параметри">
+<!ENTITY validation.crl.autoupdate.enable.label "Омогући самоунапређење ове ЛПС">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Обнављај сваких">
+<!ENTITY validation.crl.autoupdate.freq.label2 "Дана">
+<!ENTITY validation.crl.autoupdate.time.label1 "Обнови">
+<!ENTITY validation.crl.autoupdate.time.label2 "Дан(а) до следећег унапређења">
+<!ENTITY validation.crl.autoupdate.title "Подешавање самоунапређења ЛПС-а">
+<!ENTITY validation.crl.autoupdate.url.label "ЛПС биће увежен са:">
+<!ENTITY validation.crl.description "Користите Менаџер сертификата за поређење Листе потврђених сертификата (ЛПС) који се чувају у Вашој бази сертификата.">
+<!ENTITY validation.crl.label "ЛПС">
+<!ENTITY validation.crlautoupdateenabled.label "Самоунапређење">
+<!ENTITY validation.crlautoupdatestatus.label "Статус самоунапређења">
+<!ENTITY validation.crllastupdate.label "Последње унапређење">
+<!ENTITY validation.crlmanager.label "Уређење ЛПС">
+<!ENTITY validation.crlname.label "Име">
+<!ENTITY validation.crlnextupdate.label "Следеће унапређење">
+<!ENTITY validation.deletecrl.label "Обриши">
+<!ENTITY validation.label "Потврда">
+<!ENTITY validation.managecrls.accesskey "У">
+<!ENTITY validation.managecrls.button "Уреди ЛПС....">
+<!ENTITY validation.ocsp.description "&brandShortName; може користити протокол прегледа статуса сертификата (OCSP) за проверу. Користи OSCP као:">
+<!ENTITY validation.ocsp.label "OCSP">
+<!ENTITY validation.title "Потврда истинитости">
+<!ENTITY validation.updatecrl.label "Обнови">
+<!ENTITY warnOnClose.label "Упозори при затварању више језичака">
+<!ENTITY xpinstall.allowedSites.accesskey "с">
+<!ENTITY xpinstall.allowedSites.label "Дозвољене стране">
