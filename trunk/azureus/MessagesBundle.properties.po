@@ -17,7 +17,7 @@ msgstr "Торент датотека..."
 
 #: MainWindow.menu.file.open.torrent.keybinding
 msgid "Meta+O"
-msgstr ""
+msgstr "Meta+O"
 
 #: Main.download.state.waiting
 msgid "_: Main.download.state.waiting\n"
@@ -102,11 +102,11 @@ msgstr "&Извези XML торент..."
 
 #: MainWindow.menu.file.export.keybinding
 msgid "Meta+E"
-msgstr ""
+msgstr "Meta+E"
 
 #: MainWindow.menu.file.export.keybinding.mac
 msgid "Meta+Shift+E"
-msgstr ""
+msgstr "Meta+Shift+E"
 
 #: MainWindow.menu.file.import
 msgid "&Import XML Torrent..."
@@ -114,11 +114,11 @@ msgstr "&Увези XML торент..."
 
 #: MainWindow.menu.file.import.keybinding
 msgid "Meta+I"
-msgstr ""
+msgstr "Meta+I"
 
 #: MainWindow.menu.file.import.keybinding.mac
 msgid "Meta+Shift+I"
-msgstr ""
+msgstr "Meta+Shift+I"
 
 #: MainWindow.menu.file.closetab
 msgid "Close &Tab"
@@ -126,7 +126,7 @@ msgstr "Затвори &језичак"
 
 #: MainWindow.menu.file.closetab.keybinding
 msgid "Meta+W"
-msgstr ""
+msgstr "Meta+W"
 
 #: MainWindow.menu.file.closewindow
 msgid "Close &Window"
@@ -134,7 +134,7 @@ msgstr "Затвори &прозор"
 
 #: MainWindow.menu.file.closewindow.keybinding
 msgid "Meta+Shift+W"
-msgstr ""
+msgstr "Meta+Shift+W"
 
 #: MainWindow.menu.file.exit
 msgid "_: MainWindow.menu.file.exit\n"
@@ -143,7 +143,7 @@ msgstr "&Крај"
 
 #: MainWindow.menu.file.exit.keybinding
 msgid "Alt+F4"
-msgstr ""
+msgstr "Alt+F4"
 
 #: MainWindow.dialog.choose.file
 msgid "Choose the torrent file"
@@ -155,7 +155,7 @@ msgstr "&Директоријум..."
 
 #: MainWindow.menu.file.folder.keybinding
 msgid "Meta+Shift+O"
-msgstr ""
+msgstr "Meta+Shift+O"
 
 #: MainWindow.dialog.choose.folder
 msgid "Choose the directory containing the torrent files"
@@ -175,7 +175,7 @@ msgstr "&Моји торенти"
 
 #: MainWindow.menu.view.mytorrents.keybinding
 msgid "Meta+1"
-msgstr ""
+msgstr "Meta+1"
 
 #: MainWindow.menu.view.configuration
 msgid "&Options..."
@@ -183,7 +183,7 @@ msgstr "&Опције..."
 
 #: MainWindow.menu.view.configuration.keybinding
 msgid "Meta+,"
-msgstr ""
+msgstr "Meta+,"
 
 #: MainWindow.menu.view.console
 msgid "C&onsole"
@@ -191,7 +191,7 @@ msgstr "К&онзола"
 
 #: MainWindow.menu.view.console.keybinding
 msgid "Meta+4"
-msgstr ""
+msgstr "Meta+4"
 
 #: MainWindow.menu.view.irc
 msgid "&Irc"
@@ -223,7 +223,7 @@ msgstr "&Умањи"
 
 #: MainWindow.menu.window.minimize.keybinding
 msgid "Meta+M"
-msgstr ""
+msgstr "Meta+M"
 
 #: MainWindow.menu.window.zoom
 msgid "&Zoom"
@@ -231,754 +231,764 @@ msgstr "У&већаj"
 
 #: MainWindow.menu.window.alltofront
 msgid "Bring All to &Front"
-msgstr ""
+msgstr "Пребаци све у &први план"
 
 #: MainWindow.menu.help
 msgid "&Help"
-msgstr ""
+msgstr "&Помоћ"
 
 #: MainWindow.menu.help.about
 msgid "About Azureus"
-msgstr ""
+msgstr "О Азуреусу"
 
 #: MainWindow.about.title
 msgid "About"
-msgstr ""
+msgstr "О програму"
 
 #: MainWindow.about.section.developers
 msgid "Developers"
-msgstr ""
+msgstr "Развијачи"
 
 #: MainWindow.about.section.translators
 msgid "Translators"
-msgstr ""
+msgstr "Преводиоци"
 
 #: MainWindow.about.section.internet
 msgid "Internet"
-msgstr ""
+msgstr "Интернет"
 
 #: MainWindow.about.internet.homepage
 msgid "Azureus Homepage"
-msgstr ""
+msgstr "Азуреусова страна"
 
 #: MainWindow.about.internet.sourceforge
 msgid "Sourceforge Project Page"
-msgstr ""
+msgstr "Страна Сорсфорџовог пројекта"
 
 #: MainWindow.about.internet.sourceforgedownloads
 msgid "Sourceforge Downloads"
-msgstr ""
+msgstr "Преузимање са Сорсфорџа"
 
 #: MainWindow.about.internet.bugreports
 msgid "Bug Reports"
-msgstr ""
+msgstr "Пријава грешака"
 
 #: MainWindow.about.internet.forumdiscussion
 msgid "Forums"
-msgstr ""
+msgstr "Форуми"
 
 #: MainWindow.about.internet.wiki
 msgid "Azureus Wiki FAQ"
-msgstr ""
+msgstr "Питања о Азуреусу на Викију"
 
 #: MainWindow.dialog.choose.savepath
 msgid "Choose the save path"
-msgstr ""
+msgstr "Изаберите стазу за чување"
 
 #: MainWindow.dialog.choose.savepath_forallfiles
 msgid "Choose the save path for ALL files"
-msgstr ""
+msgstr "Избор стазе за чување за СВЕ датотеке"
 
 #: MainWindow.status.latestversion
 msgid "Latest"
-msgstr ""
+msgstr "Најсвежији"
 
 #: MainWindow.status.latestversion.clickupdate
 msgid "Click to update"
-msgstr ""
+msgstr "Притисните за доградњу"
 
 #: MainWindow.status.unknown
 msgid "unknown"
-msgstr ""
+msgstr "непознат"
 
 #: MainWindow.status.checking
 msgid "checking"
-msgstr ""
+msgstr "провера"
 
 #: MyTorrentsView.mytorrents
 msgid "My Torrents"
-msgstr ""
+msgstr "Моји торенти"
 
 #: MyTorrentsView.name
 msgid "_: MyTorrentsView.name\n"
 "Name"
-msgstr ""
+msgstr "Име"
 
 #: MyTorrentsView.size
 msgid "_: MyTorrentsView.size\n"
 "Size"
-msgstr ""
+msgstr "Величина"
 
 #: MyTorrentsView.done
 msgid "_: MyTorrentsView.done\n"
 "Done"
-msgstr ""
+msgstr "Готово"
 
 #: MyTorrentsView.done.info
 msgid "Percentage done of current task"
-msgstr ""
+msgstr "Проценат испуњења тренутног задатка"
 
 #: MyTorrentsView.status
 msgid "_: MyTorrentsView.status\n"
 "Status"
-msgstr ""
+msgstr "Статус"
 
 #: MyTorrentsView.status.info
 msgid "What the torrent is doing"
-msgstr ""
+msgstr "Шта торент тренутно ради"
 
 #: MyTorrentsView.seeds
 msgid "_: MyTorrentsView.seeds\n"
 "Seeds"
-msgstr ""
+msgstr "Клице"
 
 #: MyTorrentsView.seeds.info
 msgid "# seeds connected to (# seeds total)"
-msgstr ""
+msgstr "бр. повезаних клица (ук. број клица)"
 
 #: MyTorrentsView.peers
 msgid "_: MyTorrentsView.peers\n"
 "Peers"
-msgstr ""
+msgstr "Рачунари"
 
 #: MyTorrentsView.peers.info
 msgid "# peers connected to (# peers total)"
-msgstr ""
+msgstr "бр. рачунара на вези (ук. број рачунара)"
 
 #: MyTorrentsView.downspeed
 msgid "_: MyTorrentsView.downspeed\n"
 "Down Speed"
-msgstr ""
+msgstr "Брзина преузимања"
 
 #: MyTorrentsView.upspeed
 msgid "_: MyTorrentsView.upspeed\n"
 "Up Speed"
-msgstr ""
+msgstr "Брзина слања"
 
 #: MyTorrentsView.eta
 msgid "ETA"
-msgstr ""
+msgstr "ПВД"
 
 #: MyTorrentsView.tracker
 msgid "Tracker Status"
-msgstr ""
+msgstr "Статус пратиоца"
 
 #: MyTorrentsView.tracker.info
 msgid "Status of tracker"
-msgstr ""
+msgstr "Статус пратиоца"
 
 #: MyTorrentsView.trackernextaccess
 msgid "Next Tracker Access"
-msgstr ""
+msgstr "Следећи приступ пратиоцу"
 
 #: MyTorrentsView.trackernextaccess.info
 msgid "When the next tracker access will occur"
-msgstr ""
+msgstr "Време када се поново приступа пратиоцу"
 
 #: MyTorrentsView.priority
 msgid "_: MyTorrentsView.priority\n"
 "Priority"
-msgstr ""
+msgstr "Приоритет"
 
 #: MyTorrentsView.priority.info
 msgid "Determines how much upload bandwidth the torrent is given"
-msgstr ""
+msgstr "Одређује колико пропусне моћи за слање се даје овом торенту"
 
 #: MyTorrentsView.menu.showdetails
 msgid "Show &Details"
-msgstr ""
+msgstr "Покажи &детаље"
 
 #: MyTorrentsView.menu.showdownloadbar
 msgid "Show Download &Bar"
-msgstr ""
+msgstr "Покажи траку за &преузимање"
 
 #: MyTorrentsView.menu.open
 msgid "&Open File"
-msgstr ""
+msgstr "&Отвори датотеку"
 
 #: MyTorrentsView.menu.setpriority
 msgid "Set &Priority"
-msgstr ""
+msgstr "Постави &приоритет"
 
 #: MyTorrentsView.menu.setpriority.high
 msgid "_: MyTorrentsView.menu.setpriority.high\n"
 "&High"
-msgstr ""
+msgstr "&Висок"
 
 #: MyTorrentsView.menu.setpriority.low
 msgid "&Low"
-msgstr ""
+msgstr "&Низак"
 
 #: MyTorrentsView.menu.start
 msgid "&Start"
-msgstr ""
+msgstr "&Крени"
 
 #: MyTorrentsView.menu.stop
 msgid "Sto&p"
-msgstr ""
+msgstr "&Стани"
 
 #: MyTorrentsView.menu.remove
 msgid "&Remove"
-msgstr ""
+msgstr "&Уклони"
 
 #: MyTorrentsView.menu.changeTracker
 msgid "&Add Tracker URL"
-msgstr ""
+msgstr "&Додај УРЛ за пратиоца"
 
 #: TrayWindow.menu.exit
 msgid "_: TrayWindow.menu.exit\n"
 "E&xit"
-msgstr ""
+msgstr "&Крај"
 
 #: TrayWindow.menu.show
 msgid "_: TrayWindow.menu.show\n"
 "&Show Azureus"
-msgstr ""
+msgstr "&Покажи Азуреуса"
 
 #: SystemTray.menu.exit
 msgid "_: SystemTray.menu.exit\n"
 "E&xit"
-msgstr ""
+msgstr "&Крај"
 
 #: SystemTray.menu.closealldownloadbars
 msgid "Close &All Download Bars"
-msgstr ""
+msgstr "Затвори &све траке за преузимање"
 
 #: SystemTray.menu.show
 msgid "_: SystemTray.menu.show\n"
 "&Show Azureus"
-msgstr ""
+msgstr "&Покажи Азуреуса"
 
 #: PeersView.ip
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: PeersView.ip.info
 msgid "IP of the peer"
-msgstr ""
+msgstr "IP адреса рачунара"
 
 #: PeersView.port
 msgid "_: PeersView.port\n"
 "Port"
-msgstr ""
+msgstr "Порт"
 
 #: PeersView.port.info
 msgid "Port being used"
-msgstr ""
+msgstr "Порт се користи"
 
 #: PeersView.T
 msgid "T"
-msgstr ""
+msgstr "Т"
 
 #: PeersView.T.info
 msgid "l (local): you established the connection, r (remote): the peer established the connection."
-msgstr ""
+msgstr "л (локал): ви сте успоставили везу, у (удаљен): удаљени рачунар је успоставио везу."
 
 #: PeersView.I1
 msgid "I (Interested by the peer)"
-msgstr ""
+msgstr "З (удаљени рачунар је заинтересован)"
 
 #: PeersView.I1.info
 msgid "Are you interested in what the other peer has?"
-msgstr ""
+msgstr "Да ли вас занима шта удаљени рачунар поседује?"
 
 #: PeersView.C1
 msgid "C (Choked by the peer)"
-msgstr ""
+msgstr "П (Пригушен од другог рачунара)"
 
 #: PeersView.C1.info
 msgid "Whether the peer is stopping you from downloading"
-msgstr ""
+msgstr "Да ли вас удаљени рачунар спречава да преузимате"
 
 #: PeersView.pieces
 msgid "_: PeersView.pieces\n"
 "Pieces"
-msgstr ""
+msgstr "Делови"
 
 #: PeersView.%
 msgid "_: PeersView.%\n"
 "%"
-msgstr ""
+msgstr "%"
 
 #: PeersView.downloadspeed
 msgid "_: PeersView.downloadspeed\n"
 "Down Speed"
-msgstr ""
+msgstr "Брзина"
 
 #: PeersView.download
 msgid "Down"
-msgstr ""
+msgstr "Преуз."
 
 #: PeersView.I2
 msgid "I (Interesting for the peer)"
-msgstr ""
+msgstr "З (удаљени рачунар је заинтересован)"
 
 #: PeersView.I2.info
 msgid "Is the peer interested in what you have?"
-msgstr ""
+msgstr "Да ли је рачунар заинтересован за садржај ког нудите?"
 
 #: PeersView.C2
 msgid "C (Choking the peer)"
-msgstr ""
+msgstr "П (Пригушивање удаљеног рачунара)"
 
 #: PeersView.C2.info
 msgid "Whether you are blocking the peer from downloading"
-msgstr ""
+msgstr "Да ли спречавате удаљени рачунар да преузима"
 
 #: PeersView.uploadspeed
 msgid "_: PeersView.uploadspeed\n"
 "Up Speed"
-msgstr ""
+msgstr "Брзина слања"
 
 #: PeersView.uploadspeed.info
 msgid "Your uploading speed to the peer"
-msgstr ""
+msgstr "Брзина којом шаљете податке удаљеном рачунару"
 
 #: PeersView.upload
 msgid "Up"
-msgstr ""
+msgstr "Слање"
 
 #: PeersView.upload.info
 msgid "Your overall upload to the peer."
-msgstr ""
+msgstr "Укупна брзина слања ка рачунару."
 
 #: PeersView.statup
 msgid "Stat Up"
-msgstr ""
+msgstr "Стат. брзина"
 
 #: PeersView.statup.info
 msgid "An estimated value of the upload speed of the peer"
-msgstr ""
+msgstr "Процена брзине слања удаљеног рачунара"
 
 #: PeersView.S
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: PeersView.S.info
 msgid "Snubbed: A peer can be \"snubbed\" manually, or automatically (for not delivering data at a high enough rate)"
-msgstr ""
+msgstr "Опомена: рачунар може бити „опоменут“ ручно или аутоматски (нпр. ако не шаље податке довољно брзо)"
 
 #: PeersView.downloadspeedoverall
 msgid "Overall Down Speed"
-msgstr ""
+msgstr "Укупна брзина преузимања"
 
 #: PeersView.optunchoke
 msgid "Opt. Unchoke"
-msgstr ""
+msgstr "Опц. одгушивање"
 
 #: PeersView.client
 msgid "_: PeersView.client\n"
 "Client"
-msgstr ""
+msgstr "Клијент"
 
 #: PeersView.client.info
 msgid "Type of BT client the peer is using"
-msgstr ""
+msgstr "Врста БТ клијента ког користи рачунар"
 
 #: PeersView.menu.snubbed
 msgid "&Snubbed"
-msgstr ""
+msgstr "&Опоменут"
 
 #: PeersView.title.short
 msgid "_: PeersView.title.short\n"
 "Peers"
-msgstr ""
+msgstr "Рачунари"
 
 #: PeersView.title.full
 msgid "_: PeersView.title.full\n"
 "Peers"
-msgstr ""
+msgstr "Рачунари"
 
 #: ConfigView.section.files
 msgid "_: ConfigView.section.files\n"
 "Files"
-msgstr ""
+msgstr "Датотеке"
 
 #: ConfigView.label.usefastresume
 msgid "Use Fast Resume mode"
-msgstr ""
+msgstr "Користи брзи опоравак"
 
 #: ConfigView.label.incrementalfile
 msgid "Enable incremental file creation [Required for FAT32 under Linux]"
-msgstr ""
+msgstr "Дозволи постепено стварање датотеке [неопходно за FAT32 под Линуксом]"
 
 #: ConfigView.label.defaultsavepath
 msgid "Save to default data directory"
-msgstr ""
+msgstr "Сачувај у подразумевани директоријум с подацима"
 
 #: ConfigView.button.browse
 msgid "_: ConfigView.button.browse\n"
 "Browse..."
-msgstr ""
+msgstr "Преглед..."
 
 #: ConfigView.dialog.choosedefaultsavepath
 msgid "Please choose the default save directory"
-msgstr ""
+msgstr "Молим изаберите подразумевани директоријум за чување"
 
 #: ConfigView.section.server
 msgid "Connection"
-msgstr ""
+msgstr "Веза"
 
 #: ConfigView.section.global
 msgid "_: ConfigView.section.global\n"
 "General"
-msgstr ""
+msgstr "Опште"
 
 #: ConfigView.label.disconnetseed
 msgid "Disconnect seeds when seeding"
-msgstr ""
+msgstr "Раскидање веза са осталим клицама када је овај рачунар клица"
 
 #: ConfigView.label.switchpriority
 msgid "Auto-switch to low-priority when seeding"
-msgstr ""
+msgstr "Аутоматски пребацивање на низак приоритет када је клица"
 
 #: ConfigView.label.maxdownloads
 msgid "Max simultaneous downloads [0: unlimited]\n"
 " - Cannot be higher than the number of max active torrents"
 msgstr ""
+"Највећи број истовремених преузимања [0: неограничено]\n"
+" - Не може да буде више од највећег броја активних торента"
 
 #: ConfigView.label.maxdownloads.tooltip
 msgid "You will always be able to actively download the number you provide here, with one exception.\n"
 "A completed torrent matching First Priority may take over an active download slot if absolutely required."
 msgstr ""
+"Увек је могуће активно преузимати број ког овде упишете, са једним изузетком.\n"
+"Завршен торент који има Први приоритет може да преузме активно преузимање уколико је заиста неопходно."
 
 #: ConfigView.label.maxactivetorrents
 msgid "Max active torrents [0: unlimited]\n"
 " - New torrents won't start if you are downloading/seeding more"
 msgstr ""
+"Највише активних торента [0: неограничено]\n"
+" - Нови торенти се неће покретати ако преузимате или делите више"
 
 #: ConfigView.label.priorityExtensions
 msgid "Auto-prioritize files with extension\n"
 " - eg: .txt;.nfo;.jpg"
 msgstr ""
+"Аутоматски приоритет датотекама са екстензијама\n"
+" - нпр: .txt;.nfo;.jpg"
 
 #: ConfigView.section.transfer
 msgid "_: ConfigView.section.transfer\n"
 "Transfer"
-msgstr ""
+msgstr "Пренос"
 
 #: ConfigView.label.maxuploads
 msgid "Default max upload slots per torrent"
-msgstr ""
+msgstr "Подразумевани највећи број слотова по торенту"
 
 #: ConfigView.label.maxuploadspeed
 msgid "KB/s global max upload speed [0: unlimited]"
-msgstr ""
+msgstr "глобална највећа брзина слања у KB/s [0: неограничено]"
 
 #: ConfigView.label.saveresumeinterval
 msgid "Update resume data every"
-msgstr ""
+msgstr "Освежавање података о обнови сваких"
 
 #: ConfigView.unlimited
 msgid "_: ConfigView.unlimited\n"
 "Unlimited"
-msgstr ""
+msgstr "Неограничено"
 
 #: ConfigView.section.display
 msgid "Display"
-msgstr ""
+msgstr "Приказ"
 
 #: ConfigView.label.opendetails
 msgid "Auto open details tab"
-msgstr ""
+msgstr "Аутоматски отвори језичак са детаљима"
 
 #: ConfigView.label.openbar
 msgid "Auto open download bar"
-msgstr ""
+msgstr "Аутоматски отвори траку за пренос"
 
 #: ConfigView.label.closetotray
 msgid "Close minimizes to System Tray"
-msgstr ""
+msgstr "Затварање умањује у обавештајну зону"
 
 #: ConfigView.label.minimizetotray
 msgid "Minimize minimizes to System Tray"
-msgstr ""
+msgstr "Умањивање умањује у обавештајну зону"
 
 #: ConfigView.section.general
 msgid "_: ConfigView.section.general\n"
 "General"
-msgstr ""
+msgstr "Опште"
 
 #: ConfigView.section.start
 msgid "_: ConfigView.section.start\n"
 "Start"
-msgstr ""
+msgstr "Покретање"
 
 #: ConfigView.label.showsplash
 msgid "Show splash screen"
-msgstr ""
+msgstr "Покажи насловни екран"
 
 #: ConfigView.label.autoupdate
 msgid "Open Upgrade dialog when newer version is available"
-msgstr ""
+msgstr "Отвори прозор за доградњу када ново издање постане доступно"
 
 #: ConfigView.label.openconsole
 msgid "Open Console on startup"
-msgstr ""
+msgstr "Отвори конзолу при покретању"
 
 #: ConfigView.label.openconfig
 msgid "Open Options on startup"
-msgstr ""
+msgstr "Отвори опције при покретању"
 
 #: ConfigView.label.startminimized
 msgid "Start minimized"
-msgstr ""
+msgstr "Умањи при покретању"
 
 #: ConfigView.section.irc
 msgid "_: ConfigView.section.irc\n"
 "Irc"
-msgstr ""
+msgstr "IRC"
 
 #: ConfigView.label.ircserver
 msgid "_: ConfigView.label.ircserver\n"
 "Server"
-msgstr ""
+msgstr "Сервер"
 
 #: ConfigView.label.ircchannel
 msgid "_: ConfigView.label.ircchannel\n"
 "Channel"
-msgstr ""
+msgstr "Канал"
 
 #: ConfigView.label.irclogin
 msgid "Nickname"
-msgstr ""
+msgstr "Надимак"
 
 #: ConfigView.section.security
 msgid "_: ConfigView.section.security\n"
 "Security"
-msgstr ""
+msgstr "Безбедност"
 
 #: ConfigView.label.password
 msgid "Protect Azureus using a password\n"
 " - Will be asked when de-iconifying and when started."
 msgstr ""
+"Заштита Азуреуса лозинком\n"
+"- Тражи се приликом увеличавања и покретања."
 
 #: ConfigView.label.passwordconfirm
 msgid "Password (confirm)"
-msgstr ""
+msgstr "Лозинка (потврда)"
 
 #: ConfigView.label.passwordmatch
 msgid "Password activated :"
-msgstr ""
+msgstr "Лозинка је активна :"
 
 #: ConfigView.label.passwordmatchnone
 msgid "_: ConfigView.label.passwordmatchnone\n"
 "No"
-msgstr ""
+msgstr "Не"
 
 #: ConfigView.label.passwordmatchno
 msgid "No / Passwords don't match"
-msgstr ""
+msgstr "Не / Лозинке се не поклапају"
 
 #: ConfigView.label.passwordmatchyes
 msgid "_: ConfigView.label.passwordmatchyes\n"
 "Yes"
-msgstr ""
+msgstr "Да"
 
 #: ConfigView.button.save
 msgid "_: ConfigView.button.save\n"
 "Save"
-msgstr ""
+msgstr "Сачувај"
 
 #: ConfigView.title.short
 msgid "_: ConfigView.title.short\n"
 "Options"
-msgstr ""
+msgstr "Опције"
 
 #: ConfigView.title.full
 msgid "_: ConfigView.title.full\n"
 "Options"
-msgstr ""
+msgstr "Опције"
 
 #: ConsoleView.title.short
 msgid "_: ConsoleView.title.short\n"
 "Console"
-msgstr ""
+msgstr "Конзола"
 
 #: ConsoleView.title.full
 msgid "_: ConsoleView.title.full\n"
 "Console"
-msgstr ""
+msgstr "Конзола"
 
 #: FileItem.write
 msgid "write"
-msgstr ""
+msgstr "писање"
 
 #: FileItem.read
 msgid "read"
-msgstr ""
+msgstr "читање"
 
 #: FileItem.normal
 msgid "normal"
-msgstr ""
+msgstr "нормално"
 
 #: FileItem.high
 msgid "_: FileItem.high\n"
 "high"
-msgstr ""
+msgstr "Високо"
 
 #: FileItem.donotdownload
 msgid "Do not download"
-msgstr ""
+msgstr "Не преузимај"
 
 #: FilesView.name
 msgid "_: FilesView.name\n"
 "Name"
-msgstr ""
+msgstr "Име"
 
 #: FilesView.size
 msgid "_: FilesView.size\n"
 "Size"
-msgstr ""
+msgstr "Величина"
 
 #: FilesView.done
 msgid "_: FilesView.done\n"
 "Done"
-msgstr ""
+msgstr "Готово"
 
 #: FilesView.%
 msgid "_: FilesView.%\n"
 "%"
-msgstr ""
+msgstr "%"
 
 #: FilesView.firstpiece
 msgid "First piece \\#"
-msgstr ""
+msgstr "Први део \\#"
 
 #: FilesView.numberofpieces
 msgid "\\# of pieces"
-msgstr ""
+msgstr "\\# делова"
 
 #: FilesView.pieces
 msgid "_: FilesView.pieces\n"
 "Pieces"
-msgstr ""
+msgstr "Делови"
 
 #: FilesView.mode
 msgid "Mode"
-msgstr ""
+msgstr "Начин"
 
 #: FilesView.priority
 msgid "_: FilesView.priority\n"
 "Priority"
-msgstr ""
+msgstr "Приоритет"
 
 #: FilesView.menu.open
 msgid "_: FilesView.menu.open\n"
 "&Open"
-msgstr ""
+msgstr "&Отвори"
 
 #: FilesView.menu.setpriority
 msgid "&Set Priority"
-msgstr ""
+msgstr "&Постави приоритет"
 
 #: FilesView.menu.setpriority.high
 msgid "_: FilesView.menu.setpriority.high\n"
 "&High"
-msgstr ""
+msgstr "&Висок"
 
 #: FilesView.menu.setpriority.normal
 msgid "&Normal"
-msgstr ""
+msgstr "&Обичан"
 
 #: FilesView.menu.setpriority.skipped
 msgid "&Do not download"
-msgstr ""
+msgstr "&Не преузимај"
 
 #: FilesView.title.short
 msgid "_: FilesView.title.short\n"
 "Files"
-msgstr ""
+msgstr "Датотеке"
 
 #: FilesView.title.full
 msgid "_: FilesView.title.full\n"
 "Files"
-msgstr ""
+msgstr "Датотеке"
 
 #: GeneralView.section.downloaded
 msgid "_: GeneralView.section.downloaded\n"
 "Downloaded"
-msgstr ""
+msgstr "Преузето"
 
 #: GeneralView.label.status.file
 msgid "File Status"
-msgstr ""
+msgstr "Статус датотеке"
 
 #: GeneralView.label.status.pieces
 msgid "_: GeneralView.label.status.pieces\n"
 "Pieces Status"
-msgstr ""
+msgstr "Статус дела"
 
 #: GeneralView.section.availability
 msgid "_: GeneralView.section.availability\n"
 "Availability"
-msgstr ""
+msgstr "Доступност"
 
 #: GeneralView.label.status.pieces_available
 msgid "_: GeneralView.label.status.pieces_available\n"
 "Pieces Status"
-msgstr ""
+msgstr "Статус делова"
 
 #: GeneralView.section.transfer
 msgid "_: GeneralView.section.transfer\n"
 "Transfer"
-msgstr ""
+msgstr "Пренос"
 
 #: GeneralView.section.info
 msgid "Info"
-msgstr ""
+msgstr "Подаци"
 
 #: GeneralView.title.short
 msgid "_: GeneralView.title.short\n"
 "General"
-msgstr ""
+msgstr "Опште"
 
 #: GeneralView.title.full
 msgid "_: GeneralView.title.full\n"
 "General"
-msgstr ""
+msgstr "Опште"
 
 #: GeneralView.label.timeelapsed
 msgid "Time Elapsed :"
-msgstr ""
+msgstr "Протекло време :"
 
 #: GeneralView.label.remaining
 msgid "Remaining :"
-msgstr ""
+msgstr "Преостало :"
 
 #: GeneralView.label.downloaded
 msgid "Downloaded :"
-msgstr ""
+msgstr "Преузето :"
 
 #: GeneralView.label.downloadspeed
 msgid "Download Speed :"
-msgstr ""
+msgstr "Брзина преузимања :"
 
 #: GeneralView.label.maxuploads
 msgid "Upload Slots :"
-msgstr ""
+msgstr "Слотови за слање :"
 
 #: GeneralView.label.maxuploads.tooltip
 msgid "Maximum number of peers that will be unchoked at any given time."
-msgstr ""
+msgstr "Највећи број рачунара који нису пригушени у датом тренутку."
 
 #: GeneralView.label.uploaded
 msgid "Uploaded :"
-msgstr ""
+msgstr "Предато :"
 
 #: GeneralView.label.uploadspeed
 msgid "Upload Speed :"
-msgstr ""
+msgstr "Брзина предавања :"
 
 #: GeneralView.label.seeds
 msgid "Seeds :"
