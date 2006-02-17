@@ -9,8 +9,8 @@ POTOMOZ=po2moz
 
 source_object := MessagesBundle.properties.po
 interim_object := MessagesBundle.properties.native
-target_object_1 := MessagesBundle.properties.sr.utf8
-target_object_2 := MessagesBundle.properties.sr@Latn.utf8
+target_object_1 := MessagesBundle_sr_CS.properties.utf8
+target_object_2 := MessagesBundle_sh_YU.properties.utf8
 template_object := MessagesBundle.properties
 
 .PHONY: clean publish

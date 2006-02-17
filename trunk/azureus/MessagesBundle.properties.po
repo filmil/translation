@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2005-07-11 09:50\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2006-02-17 17:31+01:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -5224,329 +5224,331 @@ msgstr "Очисти"
 msgid "{Last update of filter list} Total IPFilters in list - Number of blocked/banned/bad IPs this session.\n"
 "Double-click for details."
 msgstr ""
+"{Последње освежење списка филтера} Укупно ИП филтера у списку - Број блокираних/забрањених/лоших ИПова за ову сесију.\n"
+"Дупли клик за детаље."
 
 #: ConfigView.section.ipfilter.list.banned
 msgid "has been banned"
-msgstr ""
+msgstr "је забрањен"
 
 #: ConfigView.section.ipfilter.list.baddata
 msgid "has sent bad data: occurrences ="
-msgstr ""
+msgstr "је послао лоше податке: понављања ="
 
 #: Button.reset
 msgid "_: Button.reset\n"
 "Reset"
-msgstr ""
+msgstr "Ресет"
 
 #: ConfigView.section.ipfilter.bannedinfo
 msgid "IPs that have sent bad data - banned if limits exceeded"
-msgstr ""
+msgstr "ИПови који су слали лоше податке - забрањени ако се преврши мера"
 
 #: ConfigView.section.ipfilter.blockedinfo
 msgid "IPs that have been blocked due to IP filters"
-msgstr ""
+msgstr "ИПови који су блокирани због ИП филтера"
 
 #: download.removerules.name
 msgid "Removal Rules"
-msgstr ""
+msgstr "Правила за уклањање"
 
 #: download.removerules.unauthorised.info
 msgid "Unauthorized torrents are those where the announce response contains either \"not authoris(z)ed\" or \"unauthoris(z)ed\" in the \"failure response\""
-msgstr ""
+msgstr "Неовлашћени торенти су они чија најава садржи текст „неовлашћено“ у одговору на грешку"
 
 #: download.removerules.unauthorised
 msgid "Automatically remove unauthorized torrents"
-msgstr ""
+msgstr "Аутоматски уклони неовлашћене торенте"
 
 #: download.removerules.unauthorised.seedingonly
 msgid "Only if seeding"
-msgstr ""
+msgstr "Само при заметању"
 
 #: download.removerules.removed.ok
 msgid "Automatic removal of torrent '%1' succeeded. This was caused by the torrent removal rules."
-msgstr ""
+msgstr "Аутоматско добављање торента „%1“ је успело. Узрок овоме су правила за уклањање торента."
 
 #: download.removerules.updatetorrents
 msgid "Remove Azureus update torrents as the swarm requires"
-msgstr ""
+msgstr "Уклони Азуреусове торенте са доградњама како рој захтева"
 
 #: ConfigView.label.defaultstarttorrentsstopped
 msgid "By default add new torrents in a stopped state"
-msgstr ""
+msgstr "Додај нове торенте у заустављено стање"
 
 #: ConfigView.section.server.enableudp
 msgid "Enable UDP tracker client protocol. This uses the same port number as the TCP server"
-msgstr ""
+msgstr "Укључи клијентски протокол са УДП протоколом. Користи се исти порт као за ТЦП сервер"
 
 #: upnp.mapping.dataportudp
 msgid "UDP tracker client port"
-msgstr ""
+msgstr "Клијентски порт УДП пратиоца"
 
 #: ConfigView.section.file.decoder.showlax
 msgid "Show less likely encodings"
-msgstr ""
+msgstr "Прикажи и мање вероватна кодирања"
 
 #: ConfigView.section.file.decoder.showall
 msgid "Consider all possible encodings"
-msgstr ""
+msgstr "Размотри сва могућа кодирања"
 
 #: MainWindow.status.updowndetails.tooltip
 msgid "Upload/download speed details - right-click to change"
-msgstr ""
+msgstr "Прими или пошаљи детаље о брзини - десним дугметом се мења"
 
 #: TrackerClient.announce.warningmessage
 msgid "Tracker for '%1' returned warning '%2'"
-msgstr ""
+msgstr "Пратилац за „%1“ вратио је упозорење „%2“"
 
 #: ConfigView.section.tracker.natcheckenable
 msgid "Check 'incoming data port' connectability and report failures to peers"
-msgstr ""
+msgstr "Провети сву повезивост за „улазни порт за податке“ и пријави грешке удаљеним рачунарима"
 
 #: ConfigView.section.tracker.publishenabledetails
 msgid "Publish all torrent details"
-msgstr ""
+msgstr "Објави све детаље торента"
 
 #: ConfigView.section.tracker.publishenablepeerdetails
 msgid "Publish peer details"
-msgstr ""
+msgstr "Објави детаље о рачунарима"
 
 #: MyTrackerView.badnat
 msgid "Bad NAT"
-msgstr ""
+msgstr "Лош НАТ"
 
 #: MyTrackerView.badnat.info
 msgid "Seeds/Peers that have failed a NAT check, if enabled"
-msgstr ""
+msgstr "Замеци и рачунари који не пролазе НАТ провере, ако је укључено"
 
 #: ConfigView.section.tracker.natchecktimeout
 msgid "Check timeout (secs)"
-msgstr ""
+msgstr "Провери рокове (секунде)"
 
 #: ConfigView.section.file.perf.cache.enable
 msgid "Enable disk cache"
-msgstr ""
+msgstr "Укључи диск кеш"
 
 #: ConfigView.section.file.perf.cache.size
 msgid "Size of cache in %1"
-msgstr ""
+msgstr "Величина кеша у %1"
 
 #Removed
 #MyTorrentsView.menu.setSpeed=Set Upload Speed
 #: MainWindow.menu.transfers
 msgid "T&ransfers"
-msgstr ""
+msgstr "&Преноси"
 
 #: MainWindow.menu.transfers.startalltransfers
 msgid "St&art All"
-msgstr ""
+msgstr "По&крени све"
 
 #: MainWindow.menu.transfers.stopalltransfers
 msgid "St&op All"
-msgstr ""
+msgstr "&Заустави све"
 
 #: MainWindow.menu.transfers.pausetransfers
 msgid "&Pause"
-msgstr ""
+msgstr "Па&узирај"
 
 #: MainWindow.menu.transfers.pausetransfers.keybinding.mac
 msgid "Meta+."
-msgstr ""
+msgstr "Meta+."
 
 #: MainWindow.menu.transfers.resumetransfers
 msgid "&Resume"
-msgstr ""
+msgstr "&Настави"
 
 #: ConfigView.label.experimental.osx.kernel.panic.fix
 msgid "Experimental fix for kernel panics on dual-cpu OSX systems [requires restart]"
-msgstr ""
+msgstr "Експериментална закрпа за грешке у језгру на двопроцесорском ОС Икс системима [тражи рестарт]"
 
 #: SystemTray.menu.pausetransfers
 msgid "Pause Transfers"
-msgstr ""
+msgstr "Паузирај преносе"
 
 #: SystemTray.menu.resumetransfers
 msgid "Resume Transfers"
-msgstr ""
+msgstr "Настави преносе"
 
 #: ConfigView.section.file.truncate.too.large
 msgid "Truncate existing files that are too large"
-msgstr ""
+msgstr "Одсеци постојеће датотеке које су превелике"
 
 #: ConfigView.section.file.perf.cache.trace
 msgid "Trace cache operations for diagnostic purposes"
-msgstr ""
+msgstr "Прати дејства на кешу за потребе тражења грешака"
 
 #: ConfigView.section.interface.enabletray
 msgid "Enable System Tray [restart required]"
-msgstr ""
+msgstr "Укључи статусну траку [тражи рестарт]"
 
 #: PeerManager.status.error
 msgid "_: PeerManager.status.error\n"
 "Error"
-msgstr ""
+msgstr "Грешка"
 
 #: ConfigView.section.style.sortDefaultAscending
 msgid "Table column sort order default is ascending"
-msgstr ""
+msgstr "Подразумевани редослед за ређање колона је узлазни"
 
 #: Stats.title.full
 msgid "_: Stats.title.full\n"
 "Statistics"
-msgstr ""
+msgstr "Статистике"
 
 #: TransferStatsView.title.full
 msgid "Transfers"
-msgstr ""
+msgstr "Преноси"
 
 #: CacheView.title.full
 msgid "Cache"
-msgstr ""
+msgstr "Кеш"
 
 #: CacheView.general.size
 msgid "Total Size"
-msgstr ""
+msgstr "Укупна величина"
 
 #: CacheView.general.inUse
 msgid "In Use"
-msgstr ""
+msgstr "Користи се"
 
 #: CacheView.general.title
 msgid "Cache Info"
-msgstr ""
+msgstr "Подаци о кешу"
 
 #: CacheView.reads.title
 msgid "I/O Reads"
-msgstr ""
+msgstr "У/И читања"
 
 #: CacheView.reads.fromFile
 msgid "From File"
-msgstr ""
+msgstr "Из датотеке"
 
 #: CacheView.reads.fromCache
 msgid "From Cache"
-msgstr ""
+msgstr "Из кеша"
 
 #: CacheView.reads.hits
 msgid "Hits"
-msgstr ""
+msgstr "Погоци"
 
 #: CacheView.writes.title
 msgid "I/O Writes"
-msgstr ""
+msgstr "У/И уписи"
 
 #: CacheView.writes.toCache
 msgid "To Cache"
-msgstr ""
+msgstr "У кеш"
 
 #: CacheView.writes.toFile
 msgid "To File"
-msgstr ""
+msgstr "У датотеку"
 
 #: CacheView.writes.hits
 msgid "Saved"
-msgstr ""
+msgstr "Сачувано"
 
 #: CacheView.speeds.title
 msgid "Data Rates"
-msgstr ""
+msgstr "Брзина"
 
 #: CacheView.speeds.reads
 msgid "Reads"
-msgstr ""
+msgstr "Читања"
 
 #: CacheView.speeds.writes
 msgid "Writes"
-msgstr ""
+msgstr "Уписи"
 
 #: CacheView.speeds.fromCache
 msgid "From/To Cache"
-msgstr ""
+msgstr "Из/у кеш"
 
 #: CacheView.speeds.fromFile
 msgid "From/To File"
-msgstr ""
+msgstr "Из/у датотеку"
 
 #: CacheView.reads.#
 msgid "_: CacheView.reads.#\n"
 "#"
-msgstr ""
+msgstr "#"
 
 #: CacheView.reads.amount
 msgid "Amount"
-msgstr ""
+msgstr "Износ"
 
 #: CacheView.reads.avgsize
 msgid "Avg Size"
-msgstr ""
+msgstr "Ср. величина"
 
 #: openUrl.referrer
 msgid "Referring page URL :"
-msgstr ""
+msgstr "УРЛ стране за обраћање :"
 
 #: openUrl.referrer.info
 msgid "Only required for web sites that mandate it"
-msgstr ""
+msgstr "Потребно је само за ел. места која то захтевају"
 
 #: diagnostics.log_found
 msgid "Azureus did not shutdown tidily. Please check %1 for diagnostic log files and consider reporting them to the Azureus team if this is the result of an application error."
-msgstr ""
+msgstr "Азуреус није исправно искључен прошли пут. Молимо да проверите %1 и у њему поруке о грешкама и размислите о томе да их пријавите Азуреусивим тиму уколико су настале услед грешке у програму."
 
 #: ConfigView.label.maxuploadspeedseeding
 msgid "KB/s global max upload speed when only seeding [0: unlimited]"
-msgstr ""
+msgstr "KB/s највеће глобалне брзине слања при заметању [0: неограничено]"
 
 #: ConfigView.label.transfer.ignorepeerports
 msgid "Ignore peers with these data ports (';' separated, e.g. 0;25)"
-msgstr ""
+msgstr "Занемари рачунаре са овим портовима (раздвојено са „;“ нпр 0;25)"
 
 #: ConfigView.section.proxy.enable_socks.peer
 msgid "Enable proxying of peer communications (outgoing connections only) [restart required]"
-msgstr ""
+msgstr "Дозволи заступање комуникације са рачунарима (само одлазне везе) [неопходан рестарт]"
 
 #: ConfigView.section.proxy.peer.informtracker
 msgid "Inform tracker of limitation"
-msgstr ""
+msgstr "Обавести пратиоца о ограничењу"
 
 #: ConfigView.section.proxy.socks.version
 msgid "SOCKS version"
-msgstr ""
+msgstr "Издање SOCKSа"
 
 #: PiecesView.legend.written
 msgid "Written"
-msgstr ""
+msgstr "Записано"
 
 #: PiecesView.legend.requested
 msgid "Requested"
-msgstr ""
+msgstr "Потражено"
 
 #: PiecesView.legend.downloaded
 msgid "Downloaded, write pending"
-msgstr ""
+msgstr "Преузето, чека се на запис"
 
 #: PiecesView.legend.incache
 msgid "Data is in Cache"
-msgstr ""
+msgstr "Подаци су у кешу"
 
 #: PiecesView.typeItem.0
 msgid "Slow"
-msgstr ""
+msgstr "Брз"
 
 #: PiecesView.typeItem.1
 msgid "Fast"
-msgstr ""
+msgstr "Спор"
 
 #: PiecesView.type
 msgid "_: PiecesView.type\n"
 "Type"
-msgstr ""
+msgstr "Врста"
 
 #: Security.jar.tools_not_found
 msgid "JAR signing fails - 'tools.jar' not found in %1. See Tools->Options->Security for details."
-msgstr ""
+msgstr "Потписивање JAR датотеке није успело - „tools.jar“ није нађена %1. Погледајте „Алати->Опције->Безбедност“ за детаље."
 
 #: Security.jar.signfail
 msgid "JAR signing fails - %1"
-msgstr ""
+msgstr "Потпис JAR архиве није успео - %1"
 
 #: ConfigView.section.security.toolsinfo
 msgid "Signed JAR files are used to support some plugins, for example the Swing Web Interface (when configured to do so).\n"
@@ -5554,274 +5556,283 @@ msgid "Signed JAR files are used to support some plugins, for example the Swing 
 "If you have only installed the JRE then please install the JDK.\n"
 "Azureus can normally find the file for you. However, if this fails you can explicitly set the containing directory here."
 msgstr ""
+"Потписане JAR датотеке се користе да подрже неке додатке, на пример Свингово мрежно сучеље (када је подешен да тако уради).\n"
+"Да би JAR датотеке биле потписане потребно је да имате приступ „tools.jar“ који долази са Сановим ЈДКом (не ЈРЕ).\n"
+"Ако имате само ЈРЕ, онда молимо да додате и ЈДК.\n"
+"Азуреус обично може да пронађе ову датотеку за вас. Међутим, ако ово не успе, можете експлицитно да поставите директоријум за претрагу."
 
 #: ConfigView.section.security.toolsdir
 msgid "Directory containing 'tools.jar'"
-msgstr ""
+msgstr "Директор који садржи „tools.jar“"
 
 #: ConfigView.section.security.choosetoolssavedir
 msgid "Select folder containing 'tools.jar'"
-msgstr ""
+msgstr "Изаберите директоријум који садржи „tools.jar“"
 
 #: authenticator.torrent
 msgid "Torrent"
-msgstr ""
+msgstr "Торент"
 
 #: ConfigView.section.proxy.peer.same
 msgid "Use same proxy settings for tracker and peer communications proxy"
-msgstr ""
+msgstr "Користите иста подешавања заступника за пратиоца и за комуникацију са рачунарима"
 
 #: ConfigView.section.connection.network.max.simultaneous.connect.attempts
 msgid "Max simultaneous outbound connection attempts [0: outbound disabled]"
-msgstr ""
+msgstr "Највише истовремених одлазећих веза [0: одлазеће везе су забрањене]"
 
 #: ConfigView.section.connection.network.max.simultaneous.connect.attempts.tooltip
 msgid "Max number of new outbound connection establishments Azureus should attempt any given time.\n"
 "NOTE: WindowsXP Service Pack 2 (SP2) imposes a system-wide limit of 10 simultaneous connect attempts.\n"
 "Default value is 8. Value of 0 disables outbound connects entirely."
 msgstr ""
+"Највећи број покушаја одлазних веза које Азуреус покушава у дато време.\n"
+"ПРИМЕДБА: Виндовс Икс-пе, сервисни пакет 2 (SP2) поставља системско ограничење од 10 истовремених покушаја веза.\n"
+"Подразумевана вредност је 8. Вредност 0 потпуно искључује излазне везе."
 
 #: ConfigView.section.file.perf.cache.size.explain
 msgid "The cache is used to reduce reads from/writes to disk. Unless you are using the java option '-XX:MaxDirectMemorySize' to explicitly set the memory available for cache and network IO use, you should keep this value at least %1 below your maximum VM size. The current maximum VM size is %2. For instructions on how to change this, see MemoryUsage in the wiki on %3. Failure to use sensible settings will result on 'out of memory' errors. More than 32MB of cache is probably overkill."
-msgstr ""
+msgstr "Кеш се користи да умањи број читања и уписа на диск. Осим ако користите јавину опцију „-XX:MaxDirectMemorySize“ да експлицитно поставите количину доступне меморије за величину кеша и меморије за у/и потребе, треба да држите ово подешавање бар %1 испод тренутне максималне величине ВМ. Тренутна максимална величина ВМ је %2. За упутство како да то урадите, видите страну MemoryUsage на викију на адреси %3. Немогућност да се направе смислена подешавања даће грешке о недостатку меморије. Више од 32MB кеша је вероватно сувише."
 
 #: MyTorrentsView.menu.setSpeed.unlimit
 msgid "No limit"
-msgstr ""
+msgstr "Неограничено"
 
 #: MyTorrentsView.menu.setSpeed.unlimited
 msgid "_: MyTorrentsView.menu.setSpeed.unlimited\n"
 "Unlimited"
-msgstr ""
+msgstr "Неограничено"
 
 #: MyTorrentsView.menu.setSpeed.disable
 msgid "Disable Upload"
-msgstr ""
+msgstr "Забрани слање"
 
 #: MyTorrentsView.menu.setSpeed.disabled
 msgid "_: MyTorrentsView.menu.setSpeed.disabled\n"
 "Disabled"
-msgstr ""
+msgstr "Искључено"
 
 #: MyTorrentsView.menu.setSpeed.in
 msgid "in"
-msgstr ""
+msgstr "у"
 
 #: MyTorrentsView.menu.setSpeed.slots
 msgid "slots of"
-msgstr ""
+msgstr "прореза од"
 
 #: GeneralView.label.maxuploadspeed
 msgid "Max Up"
-msgstr ""
+msgstr "Нај. брз. слања"
 
 #: GeneralView.label.maxuploadspeed.tooltip
 msgid "Max Upload Speed [0 : unlimited]"
-msgstr ""
+msgstr "Највећа брзина слања [0: неограничено]"
 
 #: MyTorrents.items.UpSpeedLimit.disabled
 msgid "No upload"
-msgstr ""
+msgstr "Нема слања"
 
 #: MyTorrents.items.UpSpeedLimit.unlimited
 msgid "_: MyTorrents.items.UpSpeedLimit.unlimited\n"
 "Unlimited"
-msgstr ""
+msgstr "Неограничено"
 
 #: MyTorrentsView.maxupspeed
 msgid "Max Up Speed"
-msgstr ""
+msgstr "Најв. брз. слања"
 
 #: MyTorrentsView.maxupspeed.info
 msgid "Max Upload Speed per torrent"
-msgstr ""
+msgstr "Највећа брзина слања по торенту"
 
 #: ConfigView.section.file.perf.cache.enable.write
 msgid "Cache download data to reduce disk writes and also decrease disk reads required for piece checking"
-msgstr ""
+msgstr "Кеширај податке о приступу како би се умањио број уписан на диск и такође умањио број уписа потребних за проверу делова"
 
 #: ConfigView.section.file.perf.cache.enable.read
 msgid "Perform read-aheads to reduce disk reads when uploading"
-msgstr ""
+msgstr "Читај унапред како би се при слању умањио број читања диска"
 
 #: ConfigView.section.tracker.separatepeerids
 msgid "Use different peer identities for tracker and data communication"
-msgstr ""
+msgstr "Користи различите идентитете рачунара за пратиоца и промет података"
 
 #: ConfigView.section.tracker.separatepeerids.info
 msgid "Increases anonymity if downloading/seeding anonymously\n"
 "while using a non-anonymous tracker connection"
 msgstr ""
+"Повећава анонимност при слању и анонимном заметању\n"
+"при употреби не-анонимних пратилаца"
 
 #: ConfigView.section.interface.wavlocation
 msgid "Location of .wav file"
-msgstr ""
+msgstr "Место .wav датотеке"
 
 #: ConfigView.section.interface.wavlocation.info
 msgid "Select .wav file or leave blank for default sound"
-msgstr ""
+msgstr "Изаберите .wav датотеку или остави празно за подразумевани звук"
 
 #: ConfigView.section.tracker.server
 msgid "_: ConfigView.section.tracker.server\n"
 "Server"
-msgstr ""
+msgstr "Сервер"
 
 #: ConfigView.section.tracker.client
 msgid "_: ConfigView.section.tracker.client\n"
 "Client"
-msgstr ""
+msgstr "Клијент"
 
 #: ConfigView.section.tracker.client.connecttimeout
 msgid "Connect timeout (secs)"
-msgstr ""
+msgstr "Време за повезивање (секунди)"
 
 #: ConfigView.section.tracker.client.readtimeout
 msgid "Read timeout (secs)"
-msgstr ""
+msgstr "Време читања (секунди)"
 
 #: MainWindow.menu.tools
 msgid "&Tools"
-msgstr ""
+msgstr "&Алати"
 
 #: FilesView.path
 msgid "_: FilesView.path\n"
 "Path"
-msgstr ""
+msgstr "Стаза"
 
 #: FilesView.fullpath
 msgid "Show Full Path"
-msgstr ""
+msgstr "Прикажи пуну стазу"
 
 #: FilesView.remaining
 msgid "Remaining pieces"
-msgstr ""
+msgstr "Преостали делови"
 
 #: MyTorrentsView.trackername
 msgid "Tracker Name"
-msgstr ""
+msgstr "Име пратиоца"
 
 #: MyTorrentsView.trackername.info
 msgid "Name of the tracker based on announce URL"
-msgstr ""
+msgstr "Име пратиоца засновано на УРЛу за најаву"
 
 #: ConfigView.label.announceport
 msgid "Override tracker announce port"
-msgstr ""
+msgstr "Преиначи порт за најаву"
 
 #: ConfigView.label.announceport.tooltip
 msgid "Inform the tracker of a different port than the one you're listening on. Leave blank not to use the option."
-msgstr ""
+msgstr "Обавести пратиоца да је порт различит од оног на коме слушате. Ако оставите празно, ова се могућност не користи."
 
 #: ConfigView.group.override
 msgid "Override Options"
-msgstr ""
+msgstr "Опције за преиначење"
 
 #: ConfigView.connection.group.proxy
 msgid "Proxy Options"
-msgstr ""
+msgstr "Опције заступника"
 
 #: ConfigView.section.file.perf.cache.notsmallerthan
 msgid "Do not cache files smaller than this (in %1)"
-msgstr ""
+msgstr "Не кеширај датотеке мање од овог (у %1)"
 
 #: PeersView.menu.blockupload
 msgid "Block Upload"
-msgstr ""
+msgstr "Блоковско слање"
 
 #: PeersView.menu.kickandban
 msgid "Kick and Ban"
-msgstr ""
+msgstr "Избаци и ућуткај"
 
 #: PeersView.menu.kickandban.reason
 msgid "Peer manually banned"
-msgstr ""
+msgstr "Ручно ућуткани рачунари"
 
 #: PeersView.state
 msgid "State"
-msgstr ""
+msgstr "Стање"
 
 #: PeersView.state.info
 msgid "State of the peer connection"
-msgstr ""
+msgstr "Стање везе са рачунарима"
 
 #: PeersView.state.pending
 msgid "Pending"
-msgstr ""
+msgstr "На чекању"
 
 #: PeersView.state.connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Повезивање"
 
 #: PeersView.state.handshake
 msgid "Waiting for handshake"
-msgstr ""
+msgstr "Чекање на сусрет"
 
 #: PeersView.state.established
 msgid "Fully established"
-msgstr ""
+msgstr "Потпуно успостављено"
 
 #: ConfigView.section.tracker.processinglimits
 msgid "Processing limits"
-msgstr ""
+msgstr "Границе обраде"
 
 #: ConfigView.section.tracker.maxgettime
 msgid "Max time for GET processing (secs) [0: unlimited]"
-msgstr ""
+msgstr "Највеће време за обраду GET (секунди) [0: неограничено]"
 
 #: ConfigView.section.tracker.maxgettime.info
 msgid "Used for announces and scrapes"
-msgstr ""
+msgstr "Користи се за најаве и чишћење"
 
 #: ConfigView.section.tracker.maxposttimemultiplier
 msgid "GET time multiplier for POST processing [0: unlimited]"
-msgstr ""
+msgstr "Множилац за GET који се користи за обраду POST [0: неограничено]"
 
 #: ConfigView.section.tracker.maxposttimemultiplier.info
 msgid "Used for form submissions and uploads"
-msgstr ""
+msgstr "Користи се за подношење формулара и слање"
 
 #: ConfigView.section.tracker.maxthreads
 msgid "Max concurrent requests"
-msgstr ""
+msgstr "Највише истовремених захтева"
 
 #: DownloadManager.error.operationcancancelled
 msgid "_: DownloadManager.error.operationcancancelled\n"
 "Operation cancelled"
-msgstr ""
+msgstr "Дејство је отказано"
 
 #: Torrent.create.progress.cancelled
 msgid "_: Torrent.create.progress.cancelled\n"
 "Operation cancelled"
-msgstr ""
+msgstr "Дејство је отказано"
 
 #: sharing.progress.cancel
 msgid "_: sharing.progress.cancel\n"
 "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 #: wizard.maketorrents.autoopen
 msgid "Open the torrent for seeding when done"
-msgstr ""
+msgstr "Отвори торент за заметање на крају"
 
 #: ConfigView.section.sharing.rescanenable
 msgid "Enable periodic rescanning of shares for changes"
-msgstr ""
+msgstr "Дозволи периодичну проверу дељења како би се виделе промене"
 
 #: ConfigView.section.sharing.rescanperiod
 msgid "Rescan period (secs)"
-msgstr ""
+msgstr "Период провере (секунде)"
 
 #: ConfigView.connection.group.advanced
 msgid "Advanced Network Settings"
-msgstr ""
+msgstr "Напредна подешавања мреже"
 
 #: ConfigView.connection.group.advanced.tooltip
 msgid "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
-msgstr ""
+msgstr "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
 
 #: ConfigView.section.connection.advanced.mtu
 msgid "Line Maximum Transmission Unit (MTU)"
-msgstr ""
+msgstr "Највећа јединица слања за линију (MTU)"
 
 #: ConfigView.section.connection.advanced.mtu.tooltip
 msgid "Maximum size of a packet that can be transferred in one frame over a network.\n"
@@ -5831,30 +5842,42 @@ msgid "Maximum size of a packet that can be transferred in one frame over a netw
 "1492 - PPPoE broadband connections\n"
 "1500 - Ethernet, DSL and Cable broadband connections"
 msgstr ""
+"Највећа величина пакета која се преноси у једном раму преко мреже.\n"
+"Азурезус користи MTU-40 (MSS) за оптимизацију величине података у пакету\n"
+"Препоручене вредности:\n"
+"  576 - Модемска веза\n"
+"1492 - PPPoE веза високе пропусне моћи\n"
+"1500 - Етернет, ДСЛ и кабловска веза"
 
 #: ConfigView.section.connection.advanced.SO_RCVBUF
 msgid "Socket SO_RCVBUF size [0: use OS default]"
-msgstr ""
+msgstr "Величина SO_RCVBUF утичнице [0: користи подразумевану вредност]"
 
 #: ConfigView.section.connection.advanced.SO_RCVBUF.tooltip
 msgid "Sets the standard socket SO_RCVBUF value (in bytes), i.e. TCP receive window size and scale.\n"
 "Azureus leaves this unset by default, meaning the defaults for the underlying OS are used.\n"
 "NOTE: Linux doubles the given value."
 msgstr ""
+"Поставља стандардну величину SO_RCVBUF (у бајтовима), тј. величину пријемног прозора и скалирање ТЦПа.\n"
+"Азуреус подразумевано не мења ову вредност, што значи да се користе вредности задате у оперативном систему.\n"
+"Примедба: Линукс удвостручује ову вредност."
 
 #: ConfigView.section.connection.advanced.SO_SNDBUF
 msgid "Socket SO_SNDBUF size [0: use OS default]"
-msgstr ""
+msgstr "Величина SO_SNDBUF за утичницу [0: користи подразумевано за оперативни систем]"
 
 #: ConfigView.section.connection.advanced.SO_SNDBUF.tooltip
 msgid "Sets the standard socket SO_SNDBUF value (in bytes), i.e. the TCP send window size.\n"
 "Azureus leaves this unset by default, meaning the defaults for the underlying OS are used.\n"
 "NOTE: Linux doubles the given value."
 msgstr ""
+"Поставља стандарну величину SO_SNDBUF (у бајтовима), тј. величину ТЦПовог прозора за слање.\n"
+"Аузреус оставља ово неподешено, што значи да се користе вредности задате у оперативном систему.\n"
+"Примедба:Линукс удвостручује ову вредност."
 
 #: ConfigView.section.connection.advanced.IPTOS
 msgid "Outgoing packet type-of-service (TOS) [see http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings]"
-msgstr ""
+msgstr "Врста излазног саобраћаја (TOS) [видети http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings]"
 
 #: ConfigView.section.connection.advanced.IPTOS.tooltip
 msgid "Sets traffic class / type-of-service (TOS) field in the IP header for outgoing packets.\n"
@@ -5866,146 +5889,154 @@ msgid "Sets traffic class / type-of-service (TOS) field in the IP header for out
 "0x10 for IPTOS_LOWDELAY\n"
 "NOTE: Underlying network implementations may ignore this value, so this option is highly dependent on OS and JRE versions."
 msgstr ""
+"Поставља врсту саобраћаја (TOS) у заглављу одлазећих ИП пакета.\n"
+"Азуреус оставља ову вредност неподешену што значи да се користе подразумеване вредности у опративном систему.\n"
+"Примери вредности су:\n"
+"0x02 за IPTOS_LOWCOST\n"
+"0x04 за IPTOS_RELIABILITY\n"
+"0x08 за IPTOS_THROUGHPUT\n"
+"0x10 за IPTOS_LOWDELAY\n"
+"ПРИМЕДБА: имплементације мреже могу да занемаре ову вредност, тако да она јако зависи од издања оперативног система и ЈРЕ.\n"
 
 #: ConfigView.section.interface.confirm_torrent_removal
 msgid "Show confirmation dialog on torrent removal"
-msgstr ""
+msgstr "Прикажи прозор за потврду за уклањање торента"
 
 #: ConfigView.section.interface.confirm_torrent_removal.tooltip
 msgid "Confirm when Removing a torrent from the MyTorrents view."
-msgstr ""
+msgstr "Потврди уклањале торента из прегледа Мојих торента."
 
 #: MyTorrentsView.confirm_torrent_removal
 msgid "Are you sure you want to remove?"
-msgstr ""
+msgstr "Да ли сте сигурни да желите да уклоните?"
 
 #: MyTorrentsView.seed_to_peer_ratio
 msgid "Seed2PeerRatio"
-msgstr ""
+msgstr "Однос броја заметака и рачунара"
 
 #: MyTorrentsView.seed_to_peer_ratio.info
 msgid "Total swarm seeds to peers ratio"
-msgstr ""
+msgstr "Однос броја заметака у роју и броја рачунара"
 
 #: PeersView.connected_time
 msgid "Connected Time"
-msgstr ""
+msgstr "Време везе"
 
 #: PeersView.connected_time.info
 msgid "Total time connected with peer"
-msgstr ""
+msgstr "Укупно време везе са рачунарима"
 
 #: ConfigView.section.interface.display.add_torrents_silently
 msgid "Add torrents silently"
-msgstr ""
+msgstr "Тихо додавање торента"
 
 #: ConfigView.section.interface.display.add_torrents_silently.tooltip
 msgid "Add torrent downloads without activating main Azureus window."
-msgstr ""
+msgstr "Додај торенте не показујући главни Азуреусов прозор"
 
 #: MyTorrentsView.maxdownspeed
 msgid "Max Down Speed"
-msgstr ""
+msgstr "Највећа брзина пријема"
 
 #: MyTorrentsView.maxdownspeed.info
 msgid "Max Download Speed per torrent"
-msgstr ""
+msgstr "Највећа брзина преузимања по торенту"
 
 #: PeersGraphicView.title
 msgid "Swarm"
-msgstr ""
+msgstr "Рој"
 
 #: ConfigView.section.tracker.passwordwebhttpsonly
 msgid "Only allow access via HTTPS"
-msgstr ""
+msgstr "Дозволи приступ само кроз HTTPS"
 
 #: MyTorrentsView.torrentpath
 msgid "Torrent Location"
-msgstr ""
+msgstr "Место торента"
 
 #: MyTorrentsView.torrentpath.info
 msgid "Location of the Torrent on disk"
-msgstr ""
+msgstr "Место где се Торенти чувају на диску"
 
 #: ConfigView.section.sharing.torrentcomment
 msgid "Comment for generated torrents"
-msgstr ""
+msgstr "Коментари за начињене торенте"
 
 #: ConfigView.label.copyanddeleteratherthanmove
 msgid "Copy and then delete the original data rather than move it in one operation - can help avoid data loss on some file systems"
-msgstr ""
+msgstr "Умножи и уклони оригиналне податке радије него да их помераш у једном потезу - ово може да спречи губљење података на неким системима датотека"
 
 #: ConfigView.label.openstatsonstart
 msgid "Open Statistics on startup"
-msgstr ""
+msgstr "Отвори статистике при покретању"
 
 #: swt.install.window.title
 msgid "Azureus Plugin Installer"
-msgstr ""
+msgstr "Азуреусов постављач додатака"
 
 #: swt.install.window.ok
 msgid "_: swt.install.window.ok\n"
 "Install"
-msgstr ""
+msgstr "Постављање"
 
 #: swt.install.window.header
 msgid "The following components have been selected for installation :"
-msgstr ""
+msgstr "Наредне компоненте су изабране за постављање :"
 
 #: swt.uninstall.window.title
 msgid "Azureus Plugin Remover"
-msgstr ""
+msgstr "Азуреусов уклањач додатака"
 
 #: swt.uninstall.window.ok
 msgid "_: swt.uninstall.window.ok\n"
 "Remove"
-msgstr ""
+msgstr "Уклони"
 
 #: swt.uninstall.window.header
 msgid "The following components have been selected for removal :"
-msgstr ""
+msgstr "Наредне компоненте су изабране за уклањање :"
 
 #: installPluginsWizard.title
 msgid "Install Plugins"
-msgstr ""
+msgstr "Постави додатке"
 
 #: installPluginsWizard.mode.title
 msgid "Please choose an installation method"
-msgstr ""
+msgstr "Молимо да изаберете начин постављања"
 
 #: installPluginsWizard.mode.list
 msgid "By list from sourceforge.net"
-msgstr ""
+msgstr "Према списку са sourceforge.net"
 
 #: installPluginsWizard.list.title
 msgid "Installable Plugin List"
-msgstr ""
+msgstr "Списак додатака који се могу поставити"
 
 #: installPluginsWizard.list.loading
 msgid "Please wait while the Plugin list is loaded."
-msgstr ""
+msgstr "Молимо Вас да сачекате док се списак додатака учита."
 
 #: installPluginsWizard.list.loaded
 msgid "Please choose the plugins you want to install."
-msgstr ""
+msgstr "Молимо да изаберете додатке које желите да поставите."
 
 #: installPluginsWizard.list.name
 msgid "_: installPluginsWizard.list.name\n"
 "Name"
-msgstr ""
+msgstr "Име"
 
 #: installPluginsWizard.list.version
 msgid "_: installPluginsWizard.list.version\n"
 "Version"
-msgstr ""
+msgstr "Издање"
 
 #: installPluginsWizard.list.description
 msgid "Plugin's description"
-msgstr ""
+msgstr "Опис додатка"
 
 #: installPluginsWizard.finish.title
 msgid "Installation in Progress"
-msgstr ""
+msgstr "Постављање је у току"
 
 #: installPluginsWizard.finish.explanation
 msgid "The selected Plugins will be installed using the Update Assistant.\n"
@@ -6014,274 +6045,279 @@ msgid "The selected Plugins will be installed using the Update Assistant.\n"
 "\n"
 "For a progress report, double click on the left of the status bar."
 msgstr ""
+"Изабрани додаци че бити постављени употребом сарадника за доградњу.\n"
+"\n"
+"Молимо Вас за мало стрпљења, биће потребно мало времена да се прикажу.\n"
+"\n"
+"За извештај о напретку, двапут притисните статусну траку."
 
 #: installPluginsWizard.details.loading
 msgid "Details loading, please wait..."
-msgstr ""
+msgstr "Детаљи се учитавају, молимо да сачекате..."
 
 #: installPluginsWizard.mode.file
 msgid "By file"
-msgstr ""
+msgstr "По датотеци"
 
 #: installPluginsWizard.installMode.title
 msgid "Please choose the installation type"
-msgstr ""
+msgstr "Молимо да одаберете врсту постављања"
 
 #: installPluginsWizard.installMode.user
 msgid "Install the plugin(s) for you only"
-msgstr ""
+msgstr "Постави додатке само за Вас"
 
 #: installPluginsWizard.installMode.shared
 msgid "Install the plugin(s) for all users"
-msgstr ""
+msgstr "Постави додатке за све кориснике"
 
 #: installPluginsWizard.file.title
 msgid "Please browse for the plugin you want to install"
-msgstr ""
+msgstr "Молимо да изаберете додатке које желите да поставите"
 
 #: installPluginsWizard.file.file
 msgid "_: installPluginsWizard.file.file\n"
 "File :"
-msgstr ""
+msgstr "Датотека :"
 
 #: installPluginsWizard.file.invalidfile
 msgid "The file isn't a valid Azureus plugin."
-msgstr ""
+msgstr "Ова датотека није исправан додатак за Азуреус."
 
 #: installPluginsWizard.file.browse
 msgid "_: installPluginsWizard.file.browse\n"
 "Browse..."
-msgstr ""
+msgstr "Преглед..."
 
 #: uninstallPluginsWizard.title
 msgid "Uninstall Plugins"
-msgstr ""
+msgstr "Уклони додатак"
 
 #: uninstallPluginsWizard.list.title
 msgid "Installed Plugin List"
-msgstr ""
+msgstr "Списак постављених додатака"
 
 #: uninstallPluginsWizard.list.loaded
 msgid "Please choose the plugins you want to uninstall."
-msgstr ""
+msgstr "Молимо да изаберете додатке које желите да уклоните."
 
 #: installPluginsWizard.list.nullversion
 msgid "No Version"
-msgstr ""
+msgstr "Нема ознаке издања"
 
 #: uninstallPluginsWizard.finish.title
 msgid "Uninstallation in Progress"
-msgstr ""
+msgstr "Уклањање је у току"
 
 #: uninstallPluginsWizard.finish.explanation
 msgid "The selected Plugins will be uninstalled using the Update Assistant."
-msgstr ""
+msgstr "Изабрани додаци биће уклоњени помоћу сарадника за додатке."
 
 #: MainWindow.menu.plugins.installPlugins
 msgid "Installation Wizard..."
-msgstr ""
+msgstr "Чаробњак за додатке..."
 
 #: MainWindow.menu.plugins.uninstallPlugins
 msgid "Uninstallation Wizard..."
-msgstr ""
+msgstr "Чаробњак за уклањање додатака..."
 
 #: ConfigView.section.ipfilter.totalIPs
 msgid "%1 IPs blocked in total, which is %2 of the internet."
-msgstr ""
+msgstr "Блокираних адреса %1 , што чини %2 целог интернета."
 
 #: update.instance.install
 msgid "Checking Install"
-msgstr ""
+msgstr "Провера постављања"
 
 #: update.instance.uninstall
 msgid "Checking Uninstall"
-msgstr ""
+msgstr "Провера уклањања"
 
 #: update.instance.update
 msgid "_: update.instance.update\n"
 "Checking for Updates"
-msgstr ""
+msgstr "Провера доградњи"
 
 #: MainWindow.status.update.tooltip
 msgid "Double click for progress information"
-msgstr ""
+msgstr "Двапут притисните за податке о напретку"
 
 #: updater.progress.window.title
 msgid "Current Installation Tasks"
-msgstr ""
+msgstr "Тренутно активне доградње"
 
 #: updater.progress.window.info
 msgid "Press 'Abort' to terminate all outstanding tasks"
-msgstr ""
+msgstr "Притисните „Откажи“ како бисте зауставили све активне доградње"
 
 #: Button.abort
 msgid "Abort"
-msgstr ""
+msgstr "Откажи"
 
 #: ConfigView.section.ipfilter.enablebanning
 msgid "Block peers that consistently send bad data"
-msgstr ""
+msgstr "Ућуткај рачунаре који стално шаљу лоше податке"
 
 #: Network.alert.acceptfail
 msgid "Too many successive failures occurred on port %1, %2 - processing abandoned. Please check firewall settings for this port to ensure that it is enabled for receiving connections."
-msgstr ""
+msgstr "Сувише узастопних грешака на порту %1, %2 - обрада је напуштена. Молимо да проверите подешавања ватробрана за овај порт како бисте били сигурни да је укључен за примљене везе."
 
 #: MyShares.column.category
 msgid "_: MyShares.column.category\n"
 "Category"
-msgstr ""
+msgstr "Категорија"
 
 #: swt.update.window.restartLater
 msgid "Restart Later"
-msgstr ""
+msgstr "Касније"
 
 #: MainWindow.menu.file.restart
 msgid "Restart Azureus"
-msgstr ""
+msgstr "Рестартуј"
 
 #: MainWindow.dialog.restartconfirmation.title
 msgid "Restart Azureus?"
-msgstr ""
+msgstr "Да ли да рестартујем Азуреуса?"
 
 #: MainWindow.dialog.restartconfirmation.text
 msgid "Do you really want to restart Azureus?"
-msgstr ""
+msgstr "Да ли заиста желите да рестартујете Азуреуса?"
 
 #: deletetorrent.message1
 msgid "You are about to delete the TORRENT for :"
-msgstr ""
+msgstr "Само што нисте уклонили ТОРЕНТ за :"
 
 #: deletetorrent.message2
 msgid "_: deletetorrent.message2\n"
 "Are you sure you want to proceed?"
-msgstr ""
+msgstr "Да ли сигурно желите да наставите?"
 
 #: ConfigView.label.prioritizemostcompletedfiles
 msgid "Prioritize most completed files"
-msgstr ""
+msgstr "Дај већи приоритет довршенијим датотекама"
 
 #: splash.plugin.init
 msgid "Initializing Plugin:"
-msgstr ""
+msgstr "Покретање додатка:"
 
 #: ConfigView.section.style.osx_small_fonts
 msgid "Use small fonts [restart required]"
-msgstr ""
+msgstr "Користи ситна слова [тражи рестарт]"
 
 #: ConfigView.section.tracker.tcpnonblocking
 msgid "Use non-blocking I/O for TCP tracker processing. Selecting this option requires the tracker web to be run on an alternative port. Experimental!"
-msgstr ""
+msgstr "Користи не-блокирајући УИ за обраду ТЦП пратилаца. Бирање ове могућност тражи да се за мрежу пратилаца користи други порт. Експериментално!"
 
 #: ConfigView.section.tracker.nonblocking
 msgid "Non-blocking options"
-msgstr ""
+msgstr "Неблокирајуће опције"
 
 #: ConfigView.section.tracker.nonblockingconcmax
 msgid "Max concurrent connections [0: unlimited]"
-msgstr ""
+msgstr "Највећи број истовремених веза [0: неограничено]"
 
 #: MyTorrentsView.menu.exportmenu
 msgid "Export"
-msgstr ""
+msgstr "Извоз"
 
 #: MyTorrentsView.menu.exporttorrent
 msgid "Torrent..."
-msgstr ""
+msgstr "Торент..."
 
 #: ConfigView.group.scrape
 msgid "Scrape"
-msgstr ""
+msgstr "Чишћење"
 
 #: ConfigView.section.tracker.client.scrapeinfo
 msgid "Disabling scraping will prevent many of the torrent queueing rules from working as they rely on swarm information retrieved by scraping trackers."
-msgstr ""
+msgstr "Искључивање чишћења ће спречити многа правила за уређивање торента да раде пошто се ослањају на податке које добављају од чишћених пратилаца."
 
 #: ConfigView.section.tracker.client.scrapeenable
 msgid "Enable scraping"
-msgstr ""
+msgstr "Дозволи чишћење"
 
 #: ConfigView.section.tracker.client.scrapestoppedenable
 msgid "Scrape torrents that aren't running"
-msgstr ""
+msgstr "Очисти торенте који нису покренути"
 
 #: Scrape.status.disabled
 msgid "Scrape Disabled"
-msgstr ""
+msgstr "Чишћење је искључено"
 
 #: MyTorrentsView.menu.explore
 msgid "Show File"
-msgstr ""
+msgstr "Покажи датотеку"
 
 #: MyTorrentsView.menu.explore._mac
 msgid "Show In Finder"
-msgstr ""
+msgstr "Покажи у претрази"
 
 #: MyTorrentsView.menu.explore._windows
 msgid "Show In Explorer"
-msgstr ""
+msgstr "Покажи у истраживачу"
 
 #: wizard.maketorrents.autohost
 msgid "Host the torrent on the built-in tracker"
-msgstr ""
+msgstr "Угости торент на уграђеном пратиоцу"
 
 #: ConfigView.label.overrideip
 msgid "Override tracker announce IP(s) - semicolon separate if more than one for different networks"
-msgstr ""
+msgstr "Занемари објављене ИПове пратилаца - списак раздвојен тачка-запетама уколико их има више за различите мреже"
 
 #: ConfigView.label.overrideip.tooltip
 msgid "Inform the tracker of different IP address(es) than the one outgoing packets come from. Leave blank not to use the option."
-msgstr ""
+msgstr "Обавести пратиоца о различитим ИП адресама са којих долази неки пакет. Оставите празно да не користите ову могућност."
 
 #: ConfigView.section.connection.group.networks
 msgid "_: ConfigView.section.connection.group.networks\n"
 "Networks"
-msgstr ""
+msgstr "Мреже"
 
 #: ConfigView.section.connection.group.networks.info
 msgid "Select the default permitted networks for peer-peer data transmission"
-msgstr ""
+msgstr "Изаберите подразумеване дозвољене мреже за пренос"
 
 #: ConfigView.section.connection.networks.prompt
 msgid "Prompt for selection when a download with an anonymous tracker is added"
-msgstr ""
+msgstr "Упитај за избор при преузимању анонимног пратиоца"
 
 #: ConfigView.section.connection.networks.Public
 msgid "Public IP network (not anonymous)"
-msgstr ""
+msgstr "Јавна ИП мрежа (није анонимна)"
 
 #: ConfigView.section.connection.networks.I2P
 msgid "I2P network"
-msgstr ""
+msgstr "И2П мрежа"
 
 #: ConfigView.section.connection.networks.Tor
 msgid "The Onion Router (Tor) network"
-msgstr ""
+msgstr "Мрежа луковице (Тор)"
 
 #: MyTorrentsView.networks
 msgid "_: MyTorrentsView.networks\n"
 "Networks"
-msgstr ""
+msgstr "Мреже"
 
 #: MyTorrentsView.networks.info
 msgid "Networks permitted for peer-peer data communication"
-msgstr ""
+msgstr "Мреже са којих је дозвољена комуникација"
 
 #: Scrape.status.networkdisabled
 msgid "Network not enabled"
-msgstr ""
+msgstr "Мрежа није укључена"
 
 #: ConfigView.section.tracker.server.group.networks
 msgid "_: ConfigView.section.tracker.server.group.networks\n"
 "Networks"
-msgstr ""
+msgstr "Мреже"
 
 #: ConfigView.section.tracker.server.group.networks.info
 msgid "Select the networks for which the tracker will accept peers"
-msgstr ""
+msgstr "Изаберите мреже са којих ће пратилац дозвољавати приступ рачунарима"
 
 #: window.networkselection.title
 msgid "Network Selection"
-msgstr ""
+msgstr "Избор мреже"
 
 #: window.networkselection.info
 msgid "The torrent listed below has tracker(s) that support the following networks.\n"
@@ -6289,525 +6325,533 @@ msgid "The torrent listed below has tracker(s) that support the following networ
 "If it is an anonymous tracker that supports public clients enable both the anonymous and public networks.\n"
 "Enabling the public network has the obvious consequence of removing anonymity!"
 msgstr ""
+"Наведни торенти подржавају наредне мреже.\n"
+"Изаберите оне који дозвољавају пратиоце и комуникацију.\n"
+"Ако је ово анонимни пратилац који подржава јавне клијенте, онда укључите и јавне и приватне мреже.\n"
+"Дозвољавање јавних мрежа очигледно уклања анонимност!\n"
 
 #: window.networkselection.description
 msgid "Torrent :"
-msgstr ""
+msgstr "Торент :"
 
 #: plugins.basicview.clear
 msgid "_: plugins.basicview.clear\n"
 "Clear"
-msgstr ""
+msgstr "Очисти"
 
 #: ConfigView.section.connection.group.peersources
 msgid "_: ConfigView.section.connection.group.peersources\n"
 "Peer Sources"
-msgstr ""
+msgstr "Извори рачунара"
 
 #: ConfigView.section.connection.group.peersources.info
 msgid "Select the default permitted sources for peer connections"
-msgstr ""
+msgstr "Изаберите подразумеване изворе за везе са рачунарима"
 
 #: ConfigView.section.connection.peersource.Tracker
 msgid "From a tracker"
-msgstr ""
+msgstr "Са пратиоца"
 
 #: ConfigView.section.connection.peersource.DHT
 msgid "Decentralized tracking"
-msgstr ""
+msgstr "Децентрализовано праћење"
 
 #: ConfigView.section.connection.peersource.PeerExchange
 msgid "Supplied by another peer"
-msgstr ""
+msgstr "Од других рачунара"
 
 #: ConfigView.section.connection.peersource.Plugin
 msgid "Added by a plugin"
-msgstr ""
+msgstr "Са неког додатка"
 
 #: ConfigView.section.connection.peersource.Incoming
 msgid "Incoming connection"
-msgstr ""
+msgstr "Долазећа веза"
 
 #: PeersView.source
 msgid "Source"
-msgstr ""
+msgstr "Извор"
 
 #: PeersView.source.info
 msgid "The source of this peer"
-msgstr ""
+msgstr "Извор овог рачунара"
 
 #: MyTorrentsView.peersources
 msgid "_: MyTorrentsView.peersources\n"
 "Peer Sources"
-msgstr ""
+msgstr "Извори рачунара"
 
 #: MyTorrentsView.peersources.info
 msgid "Peer sources permitted for the establishment of peer connections"
-msgstr ""
+msgstr "Извори рачунара који су дозвољени за везе са рачунарима"
 
 #: wizard.tracker.dht
 msgid "Decentralized (Azureus clients only)"
-msgstr ""
+msgstr "Децентрализовано (само Азуреусови клијенти)"
 
 #: MyTorrentsView.menu.advancedmenu
 msgid "Advanced"
-msgstr ""
+msgstr "Напредно"
 
 #: MyTorrentsView.menu.networks
 msgid "_: MyTorrentsView.menu.networks\n"
 "Networks"
-msgstr ""
+msgstr "Мреже"
 
 #: MyTorrentsView.menu.peersource
 msgid "Peers Sources"
-msgstr ""
+msgstr "Извори рачунара"
 
 #: ConfigView.section.sharing.permitdht
 msgid "Allow decentralized tracking when tracker is unavailable"
-msgstr ""
+msgstr "Дозволи децентрализовано праћење када је пратилац недоступан"
 
 #: ConfigView.section.sharing.protocol
 msgid "Protocol for shared resources (tracker configuration required)"
-msgstr ""
+msgstr "Протокол за дељене ресурсе (потребно је подешавање пратиоца)"
 
 #: PeersView.Messaging
 msgid "Messaging"
-msgstr ""
+msgstr "Поруке"
 
 #: PeersView.Messaging.info
 msgid "Supports advanced messaging API."
-msgstr ""
+msgstr "Подржава напредни АПИ за поруке."
 
 #: ConfigView.label.queue.newseedsmovetop
 msgid "Move newly completed torrents to the front of the seeding list"
-msgstr ""
+msgstr "Помери нове завршене торенте на врх списка за заметање"
 
 #: ConfigView.label.seeding.firstPriority.ignore.info
 msgid "Be aware that using these rules may result in stopping a torrent\n"
 "as soon as the download finishes."
 msgstr ""
+"Имајте на уму да употреба ових правила може зауставити торенте\n"
+"чим се преузимање заврши."
 
 #: ConfigView.label.seeding.firstPriority.ignore
 msgid "Ignore First Priority rules above for:"
-msgstr ""
+msgstr "Занемари Прве приоритете изнад за:"
 
 #: ConfigView.label.seeding.firstPriority.ignoreSPRatio
 msgid "Torrents with a Seeds to Peers ratio over"
-msgstr ""
+msgstr "Торенте са односом заметака према рачунарима преко"
 
 #: ConfigView.label.seeding.firstPriority.ignore0Peer
 msgid "Torrents with 0 Peers"
-msgstr ""
+msgstr "Торенте са 0 рачунара"
 
 #: ConfigView.section.tracker.sendjavaversionandos
 msgid "Send Java version and OS name"
-msgstr ""
+msgstr "Пошаљи издање Јаве и име оперативног система"
 
 #: MagnetPlugin.contextmenu.exporturi
 msgid "Copy Magnet URI to Clipboard"
-msgstr ""
+msgstr "Умножи Магнет УРИ на клипборд"
 
 #: ConfigView.section.plugins.dht
 msgid "Distributed DB"
-msgstr ""
+msgstr "Дистрибуирана база података"
 
 #: dht.info
 msgid "This plugin supports decentralized tracking, amongst other things, - disabling it will reduce your ability to download"
-msgstr ""
+msgstr "Овај додатак подржава децентрализовано праћење између осталог - искључивање ће погоршати пријем"
 
 #: dht.enabled
 msgid "Enable the distributed database"
-msgstr ""
+msgstr "Укључи дистрибуирану базу података"
 
 #: dht.portdefault
 msgid "Use the default port"
-msgstr ""
+msgstr "Користи подразумевани порт"
 
 #: dht.port
 msgid "UDP port for the database"
-msgstr ""
+msgstr "УДП порт за базу података"
 
 #: dht.execute.command
 msgid "Diagnostic command"
-msgstr ""
+msgstr "Дијагностичка команда"
 
 #: dht.execute.info
 msgid "Press to execute the command"
-msgstr ""
+msgstr "Притисните да извршите команду"
 
 #: dht.execute
 msgid "Run"
-msgstr ""
+msgstr "Покрени"
 
 #: dht.logging
 msgid "Enable tracing of activity"
-msgstr ""
+msgstr "Укључи праћење дејстава"
 
 #: ConfigView.section.plugins.dhttracker
 msgid "Distributed Tracker"
-msgstr ""
+msgstr "Дистрибуирани пратилац"
 
 #: dhttracker.tracknormalwhenoffline
 msgid "Only track normal torrents when their tracker is unavailable"
-msgstr ""
+msgstr "Само прати нормалне торенте када пратилац није доступан"
 
 #: ConfigView.section.file.nativedelete._mac
 msgid "Use Trash when deleting files"
-msgstr ""
+msgstr "Користи Канту при уклањању датотека"
 
 #: ConfigView.section.file.nativedelete._windows
 msgid "Move deleted files to the Recycle Bin"
-msgstr ""
+msgstr "Помери обрисане датотеке у Канту"
 
 #: ConfigView.section.logging.generatediagnostics
 msgid "Generate"
-msgstr ""
+msgstr "Направи"
 
 #: ConfigView.section.logging.generatediagnostics.info
 msgid "Generate diagnostic information and copy to the clipboard and log file, if configured"
-msgstr ""
+msgstr "Направи дијагностичке податке и умножи их на клипборд и у записник, ако је то дозвољено"
 
 #: ConfigView.section.sharing.privatetorrent
 msgid "Private torrent - only accept peers from the tracker"
-msgstr ""
+msgstr "Приватни торент - прихвата само рачунаре са пратиоца"
 
 #: MainWindow.menu.tools.nattest
 msgid "&NAT / Firewall Test"
-msgstr ""
+msgstr "&Провера НАТа / ватробрана"
 
 #: Button.apply
 msgid "_: Button.apply\n"
 "Apply"
-msgstr ""
+msgstr "Примени"
 
 #: Button.close
 msgid "_: Button.close\n"
 "Close"
-msgstr ""
+msgstr "Затвори"
 
 #: window.welcome.version
 msgid "2304"
-msgstr ""
+msgstr "2304"
 
 #: window.welcome.title.2304
 msgid "Welcome to Azureus 2.3.0.4"
-msgstr ""
+msgstr "Добродошли у Азуреус 2.3.0.4"
 
 #: window.welcome.file
 msgid "whatsnew.english.stf"
-msgstr ""
+msgstr "whatsnew.english.stf"
 
 #: MainWindow.menu.help.releasenotes
 msgid "Release Notes"
-msgstr ""
+msgstr "Белешке о издању"
 
 #: dht.reseed.label
 msgid "Normally reseeding of the Distributed Database is not necessary. However, if the number of contacts is low this can be used for re-integration.\n"
 "Leave blank to bootstrap off connected peers or enter IP and port to explicitly bootstrap from a known peer."
 msgstr ""
+"Обично, поновно заметање дистрибуиране базе није потребно. Међутим, ако је број контаката низак, ово се може користити за поновно укључење у мрежу.\n"
+"Оставите празно како би се за покретање користили прикључени рачунари или експлицитно унесите ИП број и порт за покретање помоћу познатог рачунара."
 
 #: dht.reseed.group
 msgid "_: dht.reseed.group\n"
 "Reseed"
-msgstr ""
+msgstr "Понови заметање"
 
 #: dht.reseed.ip
 msgid "IP address"
-msgstr ""
+msgstr "ИП адресе"
 
 #: dht.reseed.port
 msgid "_: dht.reseed.port\n"
 "Port"
-msgstr ""
+msgstr "Порт"
 
 #: dht.reseed
 msgid "_: dht.reseed\n"
 "Reseed"
-msgstr ""
+msgstr "Понви заметање"
 
 #: dht.reseed.info
 msgid "Reseed the database"
-msgstr ""
+msgstr "Поново заметни базу података"
 
 #: dht.diagnostics.group
 msgid "Diagnostics"
-msgstr ""
+msgstr "Дијагноза"
 
 #: DHTView.title.full
 msgid "Distributed Database"
-msgstr ""
+msgstr "Дистрибуирана база података"
 
 #: DHTView.title.fullcvs
 msgid "Distributed Database CVS"
-msgstr ""
+msgstr "СУВ за дистрибуирану базу података"
 
 #: DHTView.general.title
 msgid "_: DHTView.general.title\n"
 "General"
-msgstr ""
+msgstr "Опште"
 
 #: DHTView.general.uptime
 msgid "Uptime:"
-msgstr ""
+msgstr "Време од почетка:"
 
 #: DHTView.general.users
 msgid "Users:"
-msgstr ""
+msgstr "Корисника:"
 
 #: DHTView.general.nodes
 msgid "Nodes:"
-msgstr ""
+msgstr "Рачунара:"
 
 #: DHTView.general.leaves
 msgid "Leaves:"
-msgstr ""
+msgstr "Листова:"
 
 #: DHTView.general.contacts
 msgid "Contacts:"
-msgstr ""
+msgstr "Контаката:"
 
 #: DHTView.general.replacements
 msgid "Replacements:"
-msgstr ""
+msgstr "Замена:"
 
 #: DHTView.general.live
 msgid "Live:"
-msgstr ""
+msgstr "Живих:"
 
 #: DHTView.general.unknown
 msgid "Unknown:"
-msgstr ""
+msgstr "Непознатих:"
 
 #: DHTView.general.dying
 msgid "Dying:"
-msgstr ""
+msgstr "Мртвих:"
 
 #: DHTView.transport.title
 msgid "Transport Details"
-msgstr ""
+msgstr "Детаљи о транспорту"
 
 #: DHTView.transport.packets
 msgid "Packets"
-msgstr ""
+msgstr "Пакета"
 
 #: DHTView.transport.bytes
 msgid "Bytes"
-msgstr ""
+msgstr "Бајтова"
 
 #: DHTView.transport.received
 msgid "_: DHTView.transport.received\n"
 "Received"
-msgstr ""
+msgstr "Примљено"
 
 #: DHTView.transport.sent
 msgid "_: DHTView.transport.sent\n"
 "Sent"
-msgstr ""
+msgstr "Послато"
 
 #: DHTView.transport.in
 msgid "In :"
-msgstr ""
+msgstr "Доспело:"
 
 #: DHTView.transport.out
 msgid "Out :"
-msgstr ""
+msgstr "Послато:"
 
 #: DHTView.operations.title
 msgid "Operation Details"
-msgstr ""
+msgstr "Детаљи о операцији"
 
 #: DHTView.operations.sent
 msgid "_: DHTView.operations.sent\n"
 "Sent"
-msgstr ""
+msgstr "Послато"
 
 #: DHTView.operations.ok
 msgid "Ok"
-msgstr ""
+msgstr "У реду"
 
 #: DHTView.operations.failed
 msgid "_: DHTView.operations.failed\n"
 "Failed"
-msgstr ""
+msgstr "Неуспело"
 
 #: DHTView.operations.received
 msgid "_: DHTView.operations.received\n"
 "Received"
-msgstr ""
+msgstr "Примљених"
 
 #: DHTView.operations.ping
 msgid "Ping"
-msgstr ""
+msgstr "Пинг"
 
 #: DHTView.operations.findNode
 msgid "Find Node"
-msgstr ""
+msgstr "Нађи рачунар"
 
 #: DHTView.operations.findValue
 msgid "Find Value"
-msgstr ""
+msgstr "Нађи вредност"
 
 #: DHTView.operations.store
 msgid "Store"
-msgstr ""
+msgstr "Запамти"
 
 #: DHTView.activity.title
 msgid "_: DHTView.activity.title\n"
 "Activity"
-msgstr ""
+msgstr "Дејство"
 
 #: DHTView.activity.status
 msgid "_: DHTView.activity.status\n"
 "Status"
-msgstr ""
+msgstr "Статус"
 
 #: DHTView.activity.status.true
 msgid "_: DHTView.activity.status.true\n"
 "Queued"
-msgstr ""
+msgstr "У реду"
 
 #: DHTView.activity.status.false
 msgid "_: DHTView.activity.status.false\n"
 "Running"
-msgstr ""
+msgstr "Покренут"
 
 #: DHTView.activity.type
 msgid "_: DHTView.activity.type\n"
 "Type"
-msgstr ""
+msgstr "Врста"
 
 #: DHTView.activity.type.1
 msgid "Internal Get"
-msgstr ""
+msgstr "Интерна добавка"
 
 #: DHTView.activity.type.2
 msgid "External Get"
-msgstr ""
+msgstr "Екстерна добавка"
 
 #: DHTView.activity.type.3
 msgid "Internal Put"
-msgstr ""
+msgstr "Интерна набавка"
 
 #: DHTView.activity.type.4
 msgid "External Put"
-msgstr ""
+msgstr "Екстерна набавка"
 
 #: DHTView.activity.target
 msgid "Target"
-msgstr ""
+msgstr "Одредиште"
 
 #: DHTView.activity.details
 msgid "_: DHTView.activity.details\n"
 "Details"
-msgstr ""
+msgstr "Детаљи"
 
 #: DHTView.db.title
 msgid "Database"
-msgstr ""
+msgstr "База података"
 
 #: DHTView.db.keys
 msgid "Keys"
-msgstr ""
+msgstr "Кључеви"
 
 #: DHTView.db.values
 msgid "Values"
-msgstr ""
+msgstr "Вредности"
 
 #: DHTView.db.local
 msgid "Local"
-msgstr ""
+msgstr "Локално"
 
 #: DHTView.db.direct
 msgid "Direct"
-msgstr ""
+msgstr "Директно"
 
 #: DHTView.db.indirect
 msgid "Indirect"
-msgstr ""
+msgstr "Индиректно"
 
 #: DHTView.db.divfreq
 msgid "Freq. Div."
-msgstr ""
+msgstr "Фрекв. подела"
 
 #: DHTView.db.divsize
 msgid "Size Div."
-msgstr ""
+msgstr "Величина поделе"
 
 #: MainWindow.dht.status.tooltip
 msgid "When the Distributed Database is running this shows the estimated number of users currently online"
-msgstr ""
+msgstr "Када дистрибуирана база података ради, показује процењени број активних корисника"
 
 #: MainWindow.dht.status.disabled
 msgid "_: MainWindow.dht.status.disabled\n"
 "Disabled"
-msgstr ""
+msgstr "Искључено"
 
 #: MainWindow.dht.status.failed
 msgid "_: MainWindow.dht.status.failed\n"
 "Failed"
-msgstr ""
+msgstr "Неуспело"
 
 #: MainWindow.dht.status.initializing
 msgid "_: MainWindow.dht.status.initializing\n"
 "Initializing"
-msgstr ""
+msgstr "Покретање"
 
 #: MainWindow.dht.status.running
 msgid "_: MainWindow.dht.status.running\n"
 "Running"
-msgstr ""
+msgstr "Покренуто"
 
 #: MainWindow.dht.status.users
 msgid "Users"
-msgstr ""
+msgstr "Бр. корисника"
 
 #: MyTorrentsView.menu.setUpSpeed
 msgid "Set Up Speed"
-msgstr ""
+msgstr "Постави брзину слања"
 
 #: MyTorrentsView.menu.setDownSpeed
 msgid "Set Down Speed"
-msgstr ""
+msgstr "Постави брзину пријема"
 
 #: ConfigView.section.tracker.client.showwarnings
 msgid "Show warning messages reported by trackers"
-msgstr ""
+msgstr "Прикажи упозорења које показују пратиоци"
 
 #: dht.advanced
 msgid "Enable advanced settings"
-msgstr ""
+msgstr "Укључи напредна подешавања"
 
 #: dht.advanced.group
 msgid "Advanced settings"
-msgstr ""
+msgstr "Напредна подешавања"
 
 #: dht.advanced.label
 msgid "Only amend these values if you really know what you're doing"
-msgstr ""
+msgstr "Мењајте ове вредности само ако добро знате шта радите"
 
 #: dht.override.ip
 msgid "Override external IP address"
-msgstr ""
+msgstr "Преиначи спољашњу ИП адресу"
 
 #: ConfigView.section.logging.loggerenable
 msgid "Enable logging"
-msgstr ""
+msgstr "Укључи бележење"
 
 #: ConfigView.section.ipfilter.blockbanning
 msgid "Ban a block of 256 addresses when at least this many in the block have been banned"
-msgstr ""
+msgstr "Забрани блок од 256 адреса када је бар оволико у блоку забрањено"
 
 #: MyTrackerView.passive
 msgid "Passive"
-msgstr ""
+msgstr "Пасивно"
 
 #: MyTorrentsView.swarm_average_speed
 msgid "Swarm Ave Speed"
-msgstr ""
+msgstr "Ср. брзина роја"
 
 #: MyTorrentsView.swarm_average_speed.info
 msgid "The average speed of peers in the swarm"
-msgstr ""
+msgstr "Средња брзина рачунара у роју"
 
 #: MyTrackerView.category
 msgid "_: MyTrackerView.category\n"
