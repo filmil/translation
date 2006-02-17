@@ -12,10 +12,14 @@ interim_object := MessagesBundle.properties.native
 target_object_1 := MessagesBundle_sr_CS.properties.utf8
 target_object_2 := MessagesBundle_sh_YU.properties.utf8
 template_object := MessagesBundle.properties
+pot_object := MessagesBundle.properties.pot
 
 .PHONY: clean publish
 
 all: $(target_object_1) $(target_object_2)
+
+$(pot_object): $(template_object)
+	$(MOZ2PO) -i $< -o $@
 
 $(target_object_2): $(target_object_1)
 	$(C2L) < $< > $@
