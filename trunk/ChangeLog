@@ -1,7 +1,16 @@
+2006-03-01  Filip Miletic  <f.miletic@tudelft.nl>
+
+	* azureus/MessagesBundle.properties.po: Updated for latest Azureus.
+
+	* azureus/Makefile ($(merge_object)): Added new targets.
+	pot: makes a new POT object from the properties.
+	merge: makes a new merged object from the POT and the PO
+	adopt_merge: copies the merged object into the new PO file.
 2006-02-17  Filip Miletic  <f.miletic@tudelft.nl>
 
 	* azureus/MessagesBundle.properties.po: 1189t+376u
 	Completed.
+	Completed 2.4.0.0
 
 2006-02-16  Filip Miletic  <f.miletic@tudelft.nl>
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2006-02-17 18:32\n"
+"POT-Creation-Date: 2006-03-01 16:02\n"
 "PO-Revision-Date: 2006-02-17 17:31+01:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,54 +18,6 @@ msgstr "Торент датотека..."
 #: MainWindow.menu.file.open.torrent.keybinding
 msgid "Meta+O"
 msgstr "Meta+O"
-
-#: Main.download.state.waiting
-msgid ""
-"_: Main.download.state.waiting\n"
-"Waiting"
-msgstr "Чекање"
-
-#: Main.download.state.allocating
-msgid ""
-"_: Main.download.state.allocating\n"
-"Allocating"
-msgstr "Заузимање"
-
-#: Main.download.state.checking
-msgid ""
-"_: Main.download.state.checking\n"
-"Checking"
-msgstr "Провера"
-
-#: Main.download.state.ready
-msgid ""
-"_: Main.download.state.ready\n"
-"Ready"
-msgstr "Спремно"
-
-#: Main.download.state.downloading
-msgid ""
-"_: Main.download.state.downloading\n"
-"Downloading"
-msgstr "Преузимање"
-
-#: Main.download.state.seeding
-msgid ""
-"_: Main.download.state.seeding\n"
-"Seeding"
-msgstr "Заметање"
-
-#: Main.download.state.stopped
-msgid ""
-"_: Main.download.state.stopped\n"
-"Stopped"
-msgstr "Заустављено"
-
-#: Main.download.state.error
-msgid ""
-"_: Main.download.state.error\n"
-"Error"
-msgstr "Грешка"
 
 #: Main.parameter.usage
 msgid ""
@@ -91,7 +43,7 @@ msgstr "&Датотека"
 msgid ""
 "_: MainWindow.menu.file.open\n"
 "&Open"
-msgstr "&Отвори"
+msgstr "&Отварање"
 
 #: MainWindow.menu.file.create
 msgid "&New Torrent..."
@@ -99,7 +51,7 @@ msgstr "&Нови торент..."
 
 #: MainWindow.menu.file.create.keybinding
 msgid "Meta+N"
-msgstr "Meta+Н"
+msgstr "Meta+N"
 
 #: MainWindow.menu.file.create.fromfile
 msgid "From a &File"
@@ -267,6 +219,10 @@ msgstr "Развијачи"
 msgid "Translators"
 msgstr "Преводиоци"
 
+#: MainWindow.about.section.system
+msgid "System"
+msgstr "Систем"
+
 #: MainWindow.about.section.internet
 msgid "Internet"
 msgstr "Интернет"
@@ -379,14 +335,15 @@ msgstr "бр. рачунара на вези (ук. број рачунара)"
 msgid ""
 "_: MyTorrentsView.downspeed\n"
 "Down Speed"
-msgstr "Брзина преузимања"
+msgstr "Брз. пријема"
 
 #: MyTorrentsView.upspeed
 msgid ""
 "_: MyTorrentsView.upspeed\n"
 "Up Speed"
-msgstr "Брзина слања"
+msgstr "Брз. слања"
 
+# Процењено време доспећа
 #: MyTorrentsView.eta
 msgid "ETA"
 msgstr "ПВД"
@@ -515,11 +472,19 @@ msgstr "Т"
 
 #: PeersView.T.info
 msgid ""
-"l (local): you established the connection, r (remote): the peer established "
+"L (local): you established the connection, R (remote): the peer established "
 "the connection."
 msgstr ""
 "л (локал): ви сте успоставили везу, у (удаљен): удаљени рачунар је "
 "успоставио везу."
+
+#: PeersView.T.L.tooltip
+msgid "You established the connection"
+msgstr "Ви сте успоставили везу"
+
+#: PeersView.T.R.tooltip
+msgid "The peer established the connection"
+msgstr "Удаљен рачунар је успоставио везу"
 
 #: PeersView.I1
 msgid "I (Interested by the peer)"
@@ -734,8 +699,8 @@ msgid ""
 msgstr "Пренос"
 
 #: ConfigView.label.maxuploads
-msgid "Default max upload slots per torrent"
-msgstr "Подразумевани највећи број слотова по торенту"
+msgid "Max upload slots per torrent default"
+msgstr "Подразумевани највећи број прореза по торенту"
 
 #: ConfigView.label.maxuploadspeed
 msgid "KB/s global max upload speed [0: unlimited]"
@@ -811,7 +776,8 @@ msgstr "ИРЦ"
 
 #: ConfigView.label.ircwiki
 msgid "Please read http://azureus.aelitis.com/wiki/index.php/Rules_for_IRC"
-msgstr "Молимо да прочитате http://azureus.aelitis.com/wiki/index.php/Rules_for_IRC"
+msgstr ""
+"Молимо да прочитате http://azureus.aelitis.com/wiki/index.php/Rules_for_IRC"
 
 #: ConfigView.label.ircserver
 msgid ""
@@ -844,6 +810,12 @@ msgstr ""
 #: ConfigView.boolean.irclog
 msgid "Enable logging of channel activity (in IRC_log.htm)"
 msgstr "Дозволи бележење активности на каналу (у IRC_log.htm)"
+
+#: ConfigView.section.security
+msgid ""
+"_: ConfigView.section.security\n"
+"Security"
+msgstr "Безбедност"
 
 #: ConfigView.label.password
 msgid ""
@@ -1170,10 +1142,8 @@ msgid ""
 msgstr "Чекање"
 
 #: ManagerItem.allocating
-msgid ""
-"_: ManagerItem.allocating\n"
-"Allocating"
-msgstr "Резервација"
+msgid "Allocating"
+msgstr "Смештање"
 
 #: ManagerItem.checking
 msgid ""
@@ -1182,10 +1152,8 @@ msgid ""
 msgstr "Провера"
 
 #: ManagerItem.ready
-msgid ""
-"_: ManagerItem.ready\n"
-"Ready"
-msgstr "Спреман"
+msgid "Waiting for other torrent(s) to Queue"
+msgstr "Чекање да се други торенти убаце у ред"
 
 #: ManagerItem.downloading
 msgid ""
@@ -1279,11 +1247,11 @@ msgstr "Делови"
 
 #: SystemTray.tooltip.seeding
 msgid "\\ seeding,"
-msgstr "\\ заметање,"
+msgstr " заметања,"
 
 #: SystemTray.tooltip.downloading
 msgid "\\ downloading,"
-msgstr "\\ примање,"
+msgstr " пријема,"
 
 #: DownloadManager.error.filenotfound
 msgid "File Not Found"
@@ -1538,8 +1506,7 @@ msgid ""
 " . /msg nick message : sends a private message to <nick>\n"
 " . /r message : reply to last private message\n"
 " . /join #channelB (do not click here, it's an example) : changes current "
-"channel to channelB\n"
-" . /whois nick : get info on <nick>"
+"channel to channelB"
 msgstr ""
 "Важеће команде су :\n"
 " . /help : приказује ову поруку\n"
@@ -1547,7 +1514,7 @@ msgstr ""
 " . /me action : шаље дејство\n"
 " . /msg име порука : слање приватне поруке за <име>\n"
 " . /r порука : одговор на последњу приватну поруку\n"
-" . /join #канал : мења тренутни канал\n"
+" . /join #каналБ (немојте притискати овде јер то је само пример): мења тренутни канал на „каналБ“\n"
 " . /whois име : добави податке о <имену>"
 
 #: PasswordWindow.title
@@ -2022,20 +1989,8 @@ msgstr "NAT / порт сервера"
 #: configureWizard.nat.message
 msgid ""
 "In order to get the best out of Azureus, it's highly recommended to be fully "
-"accessible from the internet. This tool lets you test and / or change the "
-"port used to accept incoming peer connections.\n"
-"\n"
-"NOTE: This tool only tests for TCP connections. The Distributed DB requires "
-"incoming UDP connections as well, but will automatically notify you if it "
-"discovers a blocking firewall.\n"
-"\n"
-"NOTE: TCP port 6880 is reserved internally, so it cannot be used."
-msgstr ""
-"Како бисте извукли максимум из Бит Торента, препоручује се да рачунар буде потпуно доступан са интернета. Овај алат вам допушта да проверите и промените број порта који се користи за прихват долазних веза.\n"
-"\n"
-"ПРИМЕДБА: Овај алат само проверава ТЦП везе. Расподељена база података тражи и УДП везе, али ће Вас аутоматски обавестит ако открије блокирајући ватробран.\n"
-"\n"
-"ПРИМЕДБА: ТЦП порт 6880 је резервисанн и не може се користити."
+"accessible from the internet."
+msgstr "Како бисте извукли највећу корист од Аузреуса, препоручује се да будете стално доступни са Интернета."
 
 #: configureWizard.nat.test
 msgid "Test"
@@ -2058,7 +2013,8 @@ msgid ""
 "Unable to test: Invalid port given, or test service failed.\n"
 "Another application may already be using this port."
 msgstr ""
-"Није могуће проверити: Задат је неважећи порт, или сервис за проверу не ради.\n"
+"Није могуће проверити: Задат је неважећи порт, или сервис за проверу не "
+"ради.\n"
 "Друга апликација можда већ користи овај порт"
 
 #: configureWizard.file.title
@@ -2748,13 +2704,9 @@ msgstr "Учитавање додатака :"
 msgid "Too many ports to test (9 max)"
 msgstr "Сувише портова је означено за проверу (највише 9)"
 
-#: ConfigView.section.style.colorScheme
-msgid ""
-"Color scheme\n"
-" - Console must be closed"
-msgstr ""
-"Избор боја\n"
-" - конзола мора да буде затворена"
+#: ConfigView.section.color
+msgid "Color Scheme"
+msgstr "Образац боја"
 
 #: PeerSocket.unknown
 msgid "Unknown"
@@ -2872,7 +2824,9 @@ msgid "Never"
 msgstr "Никада"
 
 #: ConfigView.section.logging
-msgid "Logging"
+msgid ""
+"_: ConfigView.section.logging\n"
+"Logging"
 msgstr "Бележење"
 
 #: ConfigView.section.logging.enable
@@ -2944,7 +2898,9 @@ msgid ""
 msgstr "Опис"
 
 #: MyTorrentsView.shareRatio
-msgid "Share Ratio"
+msgid ""
+"_: MyTorrentsView.shareRatio\n"
+"Share Ratio"
 msgstr "Однос дељења"
 
 #: MyTorrentsView.menu.editTableColumns
@@ -3266,7 +3222,7 @@ msgstr "није ни у једном опсегу"
 
 #: ConfigView.section.ipfilter.list.title
 msgid "Blocked IPs"
-msgstr "Забрањеи ИПови"
+msgstr "Забрањени ИПови"
 
 #: ConfigView.label.allowsameip
 msgid "Allow multiple connections from the same IP"
@@ -3524,7 +3480,7 @@ msgstr "Колико торента по страни ? [0: неограниче
 
 #: MainWindow.menu.file.share
 msgid "&Share"
-msgstr "&Дели"
+msgstr "&Дељење"
 
 #: MainWindow.menu.file.share.file
 msgid "&File..."
@@ -4124,46 +4080,6 @@ msgstr ""
 msgid "No plugins have been found."
 msgstr "Ниједан додатак није пронађен."
 
-#: ConfigView.section.logging.log0component
-msgid "Log General"
-msgstr "Записник"
-
-#: ConfigView.section.logging.log0type
-msgid ""
-"_: ConfigView.section.logging.log0type\n"
-"Information"
-msgstr "Подаци"
-
-#: ConfigView.section.logging.log1component
-msgid "Log Peer Transport Protocol"
-msgstr "Записуј транспортни протокол између рачунара"
-
-#: ConfigView.section.logging.log1type
-msgid ""
-"_: ConfigView.section.logging.log1type\n"
-"Received"
-msgstr "Примљено"
-
-#: ConfigView.section.logging.log2component
-msgid "Log Tracker Client"
-msgstr "Записуј пратиоце клијента"
-
-#: ConfigView.section.logging.log2type
-msgid ""
-"_: ConfigView.section.logging.log2type\n"
-"Sent"
-msgstr "Послато"
-
-#: ConfigView.section.logging.log3type
-msgid ""
-"_: ConfigView.section.logging.log3type\n"
-"Error"
-msgstr "Грешка"
-
-#: ConfigView.section.logging.log4component
-msgid "Log Peer Server"
-msgstr "Записуј удаљени сервер"
-
 #: ConfigView.section.pluginslist
 msgid "List"
 msgstr "Списак"
@@ -4593,7 +4509,7 @@ msgstr ""
 "приложити користећи везу на самом дну."
 
 #: DonationWindow.options.donate
-msgid "I want to help this project, bring me to the donation page."
+msgid "I want to help this project, take me to the donation page."
 msgstr "Желим да подржим пројекат, покажи ми страну за прилоге."
 
 #: DonationWindow.options.nodonate
@@ -4796,42 +4712,6 @@ msgstr ""
 "Ако имате проблема са недостатком меморије, размислите о ограничењу броја "
 "веза по торенту (погледајте подешавања преноса)"
 
-#: ConfigView.section.file.write_block_limit
-msgid ""
-"Maximum outstanding disk block writes\n"
-"[0: unlimited]. Block size %1"
-msgstr ""
-"Највише блоковских уписа на диск на чекању\n"
-"[0: неограничено]. Величина блока %1"
-
-#: ConfigView.section.file.write_block_limit.explain
-msgid ""
-"If you have slow disk write performance such that disk writing is slower "
-"than download speed (numerous red blocks in pieces view), limiting write "
-"queue length may decrease memory usage"
-msgstr ""
-"Ако имате диск који споро уписује податке тако да је брзина уписа на диск "
-"нижа од брзине пријема (пуно црвених блокова у прозору са деловима), што "
-"ограничава величину реда за упис и може да смањи меморијске захтеве"
-
-#: ConfigView.section.file.check_piece_limit
-msgid ""
-"Maximum outstanding check pieces\n"
-"[0: unlimited]. Piece size depends on torrent"
-msgstr ""
-"Највише делова за проверу на чекању\n"
-"[0: неограничено]. Величина дела зависи од величине торента"
-
-#: ConfigView.section.file.check_piece_limit.explain
-msgid ""
-"If you have a slow CPU such that hash calculations lag behind disk writing "
-"(numerous complete pieces in pieces view), limiting check queue length may "
-"decrease memory usage"
-msgstr ""
-"Ако имате спор процесор тако да рачунање хеша касни за записима на диск "
-"(пуно завршених делова у прозору са деловима), ограничавање величине реда за "
-"проверу може да смањи меморијске захтеве"
-
 #: ConfigView.section.file.max_open_files.explain
 msgid ""
 "Opening too many files can cause operating system problems due to limited "
@@ -4895,12 +4775,12 @@ msgid "per torrent"
 msgstr "по торенту"
 
 #: ConfigView.label.max_peers_per_torrent
-msgid "Maximum number of connections per torrent [0: unlimited]"
-msgstr "Највећи број веза по торенту [0: неограничено]"
+msgid "Max connections per torrent default [0: unlimited]"
+msgstr "Највећи подразумевани број веза по торенту [0: неограничено]"
 
 #: ConfigView.label.max_peers_total
-msgid "Maximum number of connections globally [0: unlimited]"
-msgstr "Највећии број глобалних веза [0: неограничено]"
+msgid "Max connections globally [0: unlimited]"
+msgstr "Највећи укупан број веза [0: неограничено]"
 
 #: ConfigView.section.style.colorOverrides.reset
 msgid "Reset Color"
@@ -5587,12 +5467,6 @@ msgstr ""
 msgid "Max Down"
 msgstr "Најв. пријем"
 
-#: ConfigView.section.security
-msgid ""
-"_: ConfigView.section.security\n"
-"Security"
-msgstr "Безбедност"
-
 #: Security.keystore.corrupt
 msgid ""
 "Keystore '%1' failed to load, please delete it and recreate/re-import the "
@@ -5616,7 +5490,7 @@ msgid ""
 msgstr "Промене параметара са ознаком (*) траже рестарт како би почели да важе"
 
 #: GeneralView.label.maxdownloadspeed.tooltip
-msgid "Max download speed [0: unlimited]"
+msgid "max download speed [0: unlimited]"
 msgstr "Највећа брзина пријема [0: неограничена]"
 
 #: ConfigView.section.UPnP
@@ -5662,10 +5536,10 @@ msgstr "UPnP: Пресликавање „%1“ је омогућено"
 
 #: upnp.alert.mappingfailed
 msgid "UPnP: Mapping '%1' failed"
-msgstr "UPnP: Преслиаквање „%1“ није успело"
+msgstr "UPnP: Пресликавање „%1“ није успело"
 
 #: upnp.alertsuccess
-msgid "Report successfull mappings"
+msgid "Report successful mappings"
 msgstr "Објави успешна пресликавања"
 
 #: upnp.alert.lostdevice
@@ -5867,8 +5741,12 @@ msgid "Consider all possible encodings"
 msgstr "Размотри сва могућа кодирања"
 
 #: MainWindow.status.updowndetails.tooltip
-msgid "Upload/download speed details - right-click to change"
-msgstr "Прими или пошаљи детаље о брзини - десним дугметом се мења"
+msgid ""
+"Download/Upload speed details\n"
+"Right-click to change, Double-Click to open statistics"
+msgstr ""
+"Прими или пошаљи детаље о брзини\n"
+"Десним дугметом се мења, дуплим притиском се приказују статистике"
 
 #: TrackerClient.announce.warningmessage
 msgid "Tracker for '%1' returned warning '%2'"
@@ -5890,11 +5768,11 @@ msgstr "Објави детаље о рачунарима"
 
 #: MyTrackerView.badnat
 msgid "Bad NAT"
-msgstr "Лош НАТ"
+msgstr "Лош NAT"
 
 #: MyTrackerView.badnat.info
 msgid "Seeds/Peers that have failed a NAT check, if enabled"
-msgstr "Замеци и рачунари који не пролазе НАТ провере, ако је укључено"
+msgstr "Замеци и рачунари који не пролазе NAT провере, ако је укључено"
 
 #: ConfigView.section.tracker.natchecktimeout
 msgid "Check timeout (secs)"
@@ -5966,10 +5844,6 @@ msgid ""
 "_: PeerManager.status.error\n"
 "Error"
 msgstr "Грешка"
-
-#: ConfigView.section.style.sortDefaultAscending
-msgid "Table column sort order default is ascending"
-msgstr "Подразумевани редослед за ређање колона је узлазни"
 
 #: Stats.title.full
 msgid ""
@@ -6100,8 +5974,10 @@ msgid "Written"
 msgstr "Записано"
 
 #: PiecesView.legend.requested
-msgid "Requested"
-msgstr "Потражено"
+msgid ""
+"_: PiecesView.legend.requested\n"
+"Requested"
+msgstr "Захтевано"
 
 #: PiecesView.legend.downloaded
 msgid "Downloaded, write pending"
@@ -6186,7 +6062,8 @@ msgid ""
 "Default value is 8."
 msgstr ""
 "Највећи број покушаја одлазних веза које Азуреус покушава у дато време.\n"
-"ПРИМЕДБА: Виндовс Икс-пе, сервисни пакет 2 (SP2) поставља системско ограничење од 10 истовремених покушаја веза.\n"
+"ПРИМЕДБА: Виндовс Икс-пе, сервисни пакет 2 (SP2) поставља системско "
+"ограничење од 10 истовремених покушаја веза.\n"
 "Подразумевана вредност је 8."
 
 #: ConfigView.section.file.perf.cache.size.explain
@@ -6196,7 +6073,7 @@ msgid ""
 "available for cache and network IO use, you should keep this value at least %"
 "1 below your maximum VM size. The current maximum VM size is %2. For "
 "instructions on how to change this, see MemoryUsage in the wiki on %3. "
-"Failure to use sensible settings will result on 'out of memory' errors. More "
+"Failure to use sensible settings will result in 'out of memory' errors. More "
 "than 32MB of cache is probably overkill."
 msgstr ""
 "Кеш се користи да умањи број читања и уписа на диск. Осим ако користите "
@@ -6239,7 +6116,7 @@ msgid "Max Up"
 msgstr "Нај. брз. слања"
 
 #: GeneralView.label.maxuploadspeed.tooltip
-msgid "Max Upload Speed [0 : unlimited]"
+msgid "max upload speed [0 : unlimited]"
 msgstr "Највећа брзина слања [0: неограничено]"
 
 #: MyTorrents.items.UpSpeedLimit.disabled
@@ -6354,7 +6231,7 @@ msgstr ""
 msgid "Override Options"
 msgstr "Опције за преиначење"
 
-#: ConfigView.connection.group.proxy
+#: ConfigView.section.proxy
 msgid "Proxy Options"
 msgstr "Опције заступника"
 
@@ -6452,11 +6329,11 @@ msgstr "Дозволи периодичну проверу дељења како
 msgid "Rescan period (secs)"
 msgstr "Период провере (секунде)"
 
-#: ConfigView.connection.group.advanced
+#: ConfigView.section.connection.advanced
 msgid "Advanced Network Settings"
 msgstr "Напредна подешавања мреже"
 
-#: ConfigView.connection.group.advanced.tooltip
+#: ConfigView.section.connection.advanced.url
 msgid "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
 msgstr "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
 
@@ -6520,12 +6397,8 @@ msgstr ""
 "Примедба:Линукс удвостручује ову вредност."
 
 #: ConfigView.section.connection.advanced.IPTOS
-msgid ""
-"Outgoing packet type-of-service (TOS) [see http://azureus.aelitis.com/wiki/"
-"index.php/AdvancedNetworkSettings]"
-msgstr ""
-"Врста излазног саобраћаја (TOS) [видети http://azureus.aelitis.com/wiki/"
-"index.php/AdvancedNetworkSettings]"
+msgid "Outgoing packet type-of-service (TOS)"
+msgstr "Врста услуге у одлазним пакетима (TOS)"
 
 #: ConfigView.section.connection.advanced.IPTOS.tooltip
 msgid ""
@@ -6867,8 +6740,10 @@ msgid ""
 msgstr "Да ли сигурно желите да наставите?"
 
 #: ConfigView.label.prioritizemostcompletedfiles
-msgid "Prioritize most completed files"
-msgstr "Дај већи приоритет довршенијим датотекама"
+msgid ""
+"Further prioritize High priority files according to % complete and size of "
+"file"
+msgstr "Уреди датотеке са високом приоритетом према проценту завршетка и величини датотеке"
 
 #: splash.plugin.init
 msgid "Initializing Plugin:"
@@ -7232,7 +7107,7 @@ msgstr "Приватни торент - прихвата само рачунар
 
 #: MainWindow.menu.tools.nattest
 msgid "&NAT / Firewall Test"
-msgstr "&Провера НАТа / ватробрана"
+msgstr "&Провера NATа / ватробрана"
 
 #: Button.apply
 msgid ""
@@ -7532,13 +7407,22 @@ msgstr "ДХТ није исправна"
 msgid "DHT Initializing"
 msgstr "Покретање ДХТ"
 
-#: MainWindow.dht.status.running
-msgid "DHT Running"
-msgstr "DHT ради"
-
 #: MainWindow.dht.status.users
 msgid "Users"
 msgstr "Бр. корисника"
+
+#: MainWindow.dht.status.unreachable
+msgid "DHT Firewalled"
+msgstr "ДХТ је под ватробраном"
+
+#: MainWindow.dht.status.unreachabletooltip
+msgid ""
+"There appears to be a problem with the Distributed Database's UDP port "
+"mapping (NAT/firewall)"
+msgstr ""
+"\n"
+"Изгледа постоји проблем са пресликавањем УДП порта дистрибуиране базе "
+"података"
 
 #: MyTorrentsView.menu.setUpSpeed
 msgid "Set Up Speed"
@@ -7557,7 +7441,9 @@ msgid "Enable advanced settings"
 msgstr "Укључи напредна подешавања"
 
 #: dht.advanced.group
-msgid "Advanced settings"
+msgid ""
+"_: dht.advanced.group\n"
+"Advanced settings"
 msgstr "Напредна подешавања"
 
 #: dht.advanced.label
@@ -7634,22 +7520,21 @@ msgstr "При сваком дејству направи резервни ум�
 msgid ""
 "Disable per-tracker scrape aggregation (can help with trackers that report "
 "'URL too long' (414) errors)"
-msgstr "\nЗабрани удруживање чистача по пратиоцу (може да помогне око пратилаца који јављају да је УРЛ предугачак (грешка 414))"
+msgstr ""
+"\n"
+"Забрани удруживање чистача по пратиоцу (може да помогне око пратилаца који "
+"јављају да је УРЛ предугачак (грешка 414))"
 
 #: dht.ipfilter.log
 msgid "Log IP Filter violations"
 msgstr "Бележи прекршаје ИП филтрирања"
 
-#: MainWindow.dht.status.unreachabletooltip
-msgid ""
-"There appears to be a problem with the Distributed Database's UDP port "
-"mapping (NAT)"
-msgstr "\nИзгледа постоји проблем са пресликавањем УДП порта дистрибуиране базе података"
-
 #: ConfigView.label.seeding.addForSeedingDLCopyCount
 msgid ""
 "Consider 'add for seeding' downloads to have downloaded this number of copies"
-msgstr "\nРазмислите о употреби „додај за заметање“ за преузимање оволико умножака"
+msgstr ""
+"\n"
+"Размислите о употреби „додај за заметање“ за преузимање оволико умножака"
 
 #: ActivityView.legend.limit
 msgid "Rate limit"
@@ -7876,7 +7761,8 @@ msgid ""
 msgstr ""
 "\n"
 "Приступ функцијама пратиоца.\n"
-"Користите овај начин рада ако желите да направите сопственог пратиоца и хостујете или објављујете своје датотеке."
+"Користите овај начин рада ако желите да направите сопственог пратиоца и "
+"хостујете или објављујете своје датотеке."
 
 #: ConfigView.section.mode.advanced.text
 msgid ""
@@ -7885,7 +7771,8 @@ msgid ""
 msgstr ""
 "\n"
 "Приступ мрежним подешавањима\n"
-"Користите овај начин рада ако знате које су вредности за МТУ или мрежно блокирање."
+"Користите овај начин рада ако знате које су вредности за МТУ или мрежно "
+"блокирање."
 
 #: Files.column.storagetype
 msgid "Storage Type"
@@ -7917,7 +7804,10 @@ msgstr "Очисти"
 msgid ""
 "This User Proficiency setting will determine the level of the options "
 "displayed in Tools > Options. It is in your best interest to set it properly."
-msgstr "\nПодешавање вештине корисника одређује ниво детаља који се приказује у „Алати->Опције“. У Вашем је интересу да ово исправно поставите."
+msgstr ""
+"\n"
+"Подешавање вештине корисника одређује ниво детаља који се приказује у „Алати-"
+">Опције“. У Вашем је интересу да ово исправно поставите."
 
 #: FilesView.skip.confirm.delete.text
 msgid "Truncate file '%1' to save space?"
@@ -7937,11 +7827,89 @@ msgid ""
 "consider reporting them to the Azureus team if this is the result of an "
 "application error. Also check the Wiki (see the Help menu) for 'Azureus "
 "Disappears'"
-msgstr "Азуреус није исправно искључен прошли пут. Молимо да проверите %1 и у њему поруке о грешкама и размислите о томе да их пријавите Азуреусивим тиму уколико су настале услед грешке у програму. Такође проверите вики (видите мени за помоћ) и ставку „Азуреус нестаје“"
+msgstr ""
+"Азуреус није исправно искључен прошли пут. Молимо да проверите %1 и у њему "
+"поруке о грешкама и размислите о томе да их пријавите Азуреусивим тиму "
+"уколико су настале услед грешке у програму. Такође проверите вики (видите "
+"мени за помоћ) и ставку „Азуреус нестаје“"
 
 #: ManagerItem.paused
 msgid "Paused"
 msgstr "Па&узирано"
+
+#: xmlhttp.config.group.advanced
+msgid ""
+"_: xmlhttp.config.group.advanced\n"
+"Advanced settings"
+msgstr "Напредна подешавања"
+
+#: xmlhttp.config.group.advanced.description
+msgid ""
+"These options allow new features improving the functionality of this plugin "
+"to be enabled.\n"
+"However, this code is still in alpha mode, so it is disabled by default."
+msgstr ""
+"Ове опције укључују нове могућности које побољшавају функционалност овог додатка.\n"
+"Међутим, овај код је још увек алфа квалитета, тако да је искључено на почетку."
+
+#: xmlhttp.config.option.generic_classes
+msgid ""
+"Use generic classes? (*)\n"
+"(Makes more of the API available)"
+msgstr ""
+"Употреба генеричких класа? (*)\n"
+"(Повећава видљивост АПИ позива)"
+
+#: xmlhttp.config.option.use_request_processor_2
+msgid ""
+"Use extended request processor?\n"
+"(This is automatically used when generic classes are used.)"
+msgstr ""
+"Употреба проширеног обрађивача захтева?\n"
+"(Користи се аутоматски са генеричким класама.)"
+
+#: xmlhttp.config.group.debug
+msgid "Debug settings"
+msgstr "Подешавања исправке грешака"
+
+#: xmlhttp.config.group.debug.description
+msgid ""
+"This section is used to output more useful debug information to the console."
+msgstr "Овај одељак се користи за испис кориснијих података за исправку грешака на конзолу."
+
+#: xmlhttp.config.option.debug.deserialisation
+msgid "Input XML handling"
+msgstr "Обрада улазног XMLа"
+
+#: xmlhttp.config.option.debug.method_lookup
+msgid "Method resolution"
+msgstr "Тражење метода"
+
+#: xmlhttp.config.option.debug.method_invocation
+msgid "Method invocation"
+msgstr "Позивање метода"
+
+#: xmlhttp.config.option.debug.serialisation
+msgid "Output XML handling"
+msgstr "Обрада излазног XMLа"
+
+#: xmlhttp.config.group.logging
+msgid ""
+"_: xmlhttp.config.group.logging\n"
+"Logging"
+msgstr "Бележење"
+
+#: xmlhttp.config.group.logging.description
+msgid "Select where you want logging output to go to:"
+msgstr "Изаберите где желите да се белешке уписују"
+
+#: xmlhttp.config.option.log_to_plugin
+msgid "Plugin window (*)"
+msgstr "Прозор додатка (*)"
+
+#: xmlhttp.config.option.log_to_console
+msgid "Console (*)"
+msgstr "Конзола (*)"
 
 #: Utils.link.visit
 msgid "Please visit"
@@ -8030,17 +7998,37 @@ msgid ""
 "The average completion percentage of peers in the swarm"
 msgstr "Средњи проценат завршетка код рачунара у роју"
 
+#: MainWindow.nat.status.unknown
+msgid "NAT"
+msgstr "NAT"
+
+#: MainWindow.nat.status.tooltip.unknown
+msgid "Firewall/NAT reachability status unknown (TCP)"
+msgstr "Статус NATа и ватробрана је непознат (TCP)"
+
+#: MainWindow.nat.status.ok
+msgid "NAT OK"
+msgstr "NAT је у реду"
+
 #: MainWindow.nat.status.tooltip.ok
-msgid "NAT OK (TCP)"
-msgstr "NAT у реду (TCP)"
+msgid "Reachability OK (TCP)"
+msgstr "Доступност је у реду (TCP)"
+
+#: MainWindow.nat.status.probok
+msgid "NAT OK?"
+msgstr "NAT у реду?"
 
 #: MainWindow.nat.status.tooltip.probok
-msgid "NAT was OK, however no recent incoming TCP connections"
-msgstr "NAT је био у реду, али нема скорашњих TCP веза"
+msgid "Reachability was OK, however no recent incoming TCP connections"
+msgstr "Доступност је добра, али нема скорашњих долазних ТЦП веза"
+
+#: MainWindow.nat.status.bad
+msgid "Firewalled"
+msgstr "Под ватробраном"
 
 #: MainWindow.nat.status.tooltip.bad
-msgid "Possible NAT (TCP) problem, refer to the Wiki if this persists"
-msgstr "Могући проблем са NATом (TCP), уколико се настави погледајте вики"
+msgid "Firewall/NAT (TCP) reachability problem. Refer to the Wiki for help"
+msgstr "Могући проблем са NATом или ватробраном. (TCP). Потражите помоћ на викију"
 
 #: plugin.installer.recommended.plugin
 msgid "Recommended plugin - please review and install if required"
@@ -8054,6 +8042,34 @@ msgstr "Паузирај бележење"
 msgid "&Clear"
 msgstr "&Очисти"
 
+#: LoggerView.filter
+msgid "Filter"
+msgstr "Филтер"
+
+#: LoggerView.filter.uncheckAll
+msgid "Uncheck All Categories"
+msgstr "Уклони ознаку са свих категорија"
+
+#: LoggerView.filter.checkAll
+msgid "Check All Categories"
+msgstr "Провери све категорије"
+
+#: LoggerView.loggingDisabled
+msgid "Logging is not enabled."
+msgstr "Бележење није укључено."
+
+#: ConfigView.section.logging.log0type
+msgid ""
+"_: ConfigView.section.logging.log0type\n"
+"Information"
+msgstr "Подаци"
+
+#: ConfigView.section.logging.log1type
+msgid ""
+"_: ConfigView.section.logging.log1type\n"
+"Warning"
+msgstr "Упозорење"
+
 #: ConfigView.section.logging.log2type
 msgid ""
 "_: ConfigView.section.logging.log2type\n"
@@ -8064,23 +8080,13 @@ msgstr "Грешка"
 msgid "Filter when logging to file"
 msgstr "Филтрирање при бележењу у датотеку"
 
-#: ConfigView.section.hooks
-msgid "Hooks"
-msgstr "Куке"
+#: ConfigView.section.logging.level
+msgid "Log Level"
+msgstr "Детаљност бележења"
 
-#: ConfigView.section.hooks.group.downloadAdded
-msgid "DownloadAdded"
-msgstr "DownloadAdded"
-
-#: ConfigView.section.hooks.group.sectionEnabled
-msgid "Enabled"
-msgstr "Укључено"
-
-#: ConfigView.section.hooks.group.sectionName
-msgid ""
-"_: ConfigView.section.hooks.group.sectionName\n"
-"Name"
-msgstr "Име"
+#: ConfigView.section.logging.showLogsFor
+msgid "Show %1 logs for the following categories:"
+msgstr "Прикажи оволико дневника (%1) за наредне категорије:"
 
 #: ConfigView.pluginlist.column.loadAtStartup
 msgid "Load@Startup"
@@ -8143,7 +8149,7 @@ msgid "Neither has"
 msgstr "Нико нема"
 
 #: PeersView.BlockView.Transfer
-msgid "Tranferring"
+msgid "Transferring"
 msgstr "Пренос"
 
 #: PeersView.BlockView.NextRequest
@@ -8153,6 +8159,10 @@ msgstr "Наредни захтев"
 #: PeersView.BlockView.title
 msgid "Piece Map"
 msgstr "Карта делова"
+
+#: PeersView.BlockView.AvailCount
+msgid "Availability Count"
+msgstr "Доступност"
 
 #: MyTorrentsView.dialog.NumberError.title
 msgid "Invalid or Unrecognized Number"
@@ -8199,6 +8209,10 @@ msgstr "Додај &УРЛ"
 msgid "Add &Folder"
 msgstr "Додај &директоријум"
 
+#: OpenTorrentWindow.addFiles.Clipboard
+msgid "Add From Clip&board"
+msgstr "Додај са &клипборда"
+
 #: OpenTorrentWindow.changeDestination
 msgid ""
 "_: OpenTorrentWindow.changeDestination\n"
@@ -8215,9 +8229,9 @@ msgid ""
 "Name"
 msgstr "Име"
 
-#: OpenTorrentWindow.torrentTable.location
-msgid "Location"
-msgstr "Место"
+#: OpenTorrentWindow.torrentTable.saveLocation
+msgid "Save Location"
+msgstr "Сачувај место"
 
 #: OpenTorrentWindow.fileTable.fileName
 msgid "File Name"
@@ -8273,6 +8287,18 @@ msgstr ""
 "„%1“ није могао бити отворен:\\r\n"
 "%2"
 
+#: OpenTorrentWindow.torrent.remove
+msgid "Remove torrent from list"
+msgstr "Уклони торенте са списка"
+
+#: OpenTorrentWindow.torrent.options
+msgid "The following settings will apply to the torrents selected above:"
+msgstr "Следећа подешавања ће бити примењена само на торенте изабране изнад:"
+
+#: OpenTorrentWindow.xOfTotal
+msgid "(%1 of %2)"
+msgstr "(%1 од %2)"
+
 #: iconBar.open.tooltip
 msgid ""
 "_: iconBar.open.tooltip\n"
@@ -8283,21 +8309,607 @@ msgstr "Отвори торенте"
 msgid "Unknown Text"
 msgstr "Непознат текст"
 
-#: Tracker.tooltip.NoMultiSupport
+#: Tracker.tooltip.MultiSupport
 msgid "This tracker supports multiple hash scrapes per request."
 msgstr "Овај пратилац подржава вишеструка чишћења хешева по захтеву."
 
-#: Tracker.tooltip.MultiSupport
+#: Tracker.tooltip.NoMultiSupport
 msgid "This tracker does not support multiple hash scrapes per request."
 msgstr "Овај пратилац не подржава вишеструка чишћења хешева по захтеву."
 
-#: MainWindow.nat.status.tooltip.unknown
-msgid "NAT Status Unknown (TCP)"
-msgstr "Статус NATа је непознат (TCP)"
+#: ConfigView.label.lazybitfield
+msgid ""
+"Use lazy bitfield (helps seeding on networks employing bitfield-based "
+"blocking)"
+msgstr "Користи лењо поље битова (помаже заметање на мрежама које користе поље битова за блокирање)"
 
-#: MainWindow.nat.status.ledtext
-msgid "NAT"
-msgstr "НАТ"
+#: LoggerView.realtime
+msgid "Update in real time"
+msgstr "Освежење у реалном времену"
+
+#: ConfigView.section.file.perf.cache.flushpieces
+msgid ""
+"Write complete pieces to disk immediately. This smoothes disk access but can "
+"result in more write operations."
+msgstr "Записуј завршене делове одмах на диск. Ово решава проблем приступа диску али може да има за последицу повећање броја уписа."
+
+#: ConfigView.section.file.writemblimit
+msgid "Maximum write requests queued (in %1)"
+msgstr "Највећи број записа који чекају (у %1)"
+
+#: ConfigView.section.file.writemblimit.explain
+msgid ""
+"When disk write speed is lower than download speed this parameter limits how "
+"much data will be queued before download speeds are reduced."
+msgstr "Када је брзина записа на диск нижа од брзине преузимања, овај параметар ограничава колико ће података бити стављено на чекање пре него што се брзине преузимања смање."
+
+#: ConfigView.section.file.readmblimit
+msgid "Maximum read requests queued (in %1)"
+msgstr "Највећи број захтева за читање на чекању (у %1)"
+
+#: ConfigView.section.file.readmblimit.explain
+msgid ""
+"This parameter limits how much memory will be used to store reads that are "
+"pending processing."
+msgstr "Овај параметар ограничава количину меморије која се користи за чување читања која чекају на обраду."
+
+#: Button.moveUp
+msgid "Move &Up"
+msgstr "Помери на &горе"
+
+#: Button.moveDown
+msgid "Move &Down"
+msgstr "Помери на &доле"
+
+#: ConfigView.notAvailableForMode
+msgid ""
+"This section is intended for %1 mode or higher.  It is not available in %2 "
+"mode."
+msgstr "Овај одељак је намењен за начин рада %1 или виши. Није доступан у начину рада %2."
+
+#: health.explain.error
+msgid ""
+"There is an error with this torrent.  See the Status column, or the tooltip "
+"on the icon for the error."
+msgstr "Овај торент садржи грешку. Погледајте колону „Статус“ или балончић на сличици која приказује грешку."
+
+#: GeneralView.label.trackerscrapeupdate
+msgid "Scrape Tracker"
+msgstr "Очисти пратиоца"
+
+#: PeersView.piece
+msgid "Piece"
+msgstr "Део"
+
+#: PeersView.piece.info
+msgid "Last piece # requested from this peer"
+msgstr "Последњи број дела ког је тражио овај рачунар"
+
+#: PiecesView.priority
+msgid ""
+"_: PiecesView.priority\n"
+"Priority"
+msgstr "Приоритет"
+
+#: PiecesView.priority.info
+msgid ""
+"this piece's completion priority, but don't pay too much attention to it"
+msgstr "Приоритет за завршетак овог дела; не обраћајте претерано пажњу на њега"
+
+#: PiecesView.speed
+msgid "Speed"
+msgstr "Брзина"
+
+#: PiecesView.speed.info
+msgid ""
+"Slower peers are prevented from interfering with faster pieces very much"
+msgstr "Спорији рачунари немају прилику да много оперишу са бржим деловима"
+
+#: MyTorrentsView.AvgAvail.info
+msgid ""
+"Sum of pieces availability divided by # pieces, divided by # connections"
+msgstr "Збир доступности делова подељен бројем делова, подељен бројем веза"
+
+#: MyTorrentsView.AvgAvail
+msgid "Avg Avail/piece"
+msgstr "Ср. доступност/делу"
+
+#: ConfigView.label.strictfilelocking
+msgid "Enforce exclusive file write access locking across torrents"
+msgstr "Приморај на ексклузивно закључавање датотека при упису за све торенте"
+
+#: MyTorrentsView.menu.rescanfile
+msgid "Periodically Recheck Incomplete Pieces"
+msgstr "Периодично провери незавршене делове"
+
+#: Plugin.extseed.name
+msgid "External Seeds"
+msgstr "Спољашњи замеци"
+
+#: Plugin.localtracker.name
+msgid "LAN Peer Finder"
+msgstr "Претрага локалних рачунара"
+
+#: Plugin.localtracker.info
+msgid ""
+"The LAN peer finder permits multiple copies of Azureus behind a firewall and "
+"on a common network\n"
+"to efficiently download torrents by enabling direct connections between them"
+msgstr ""
+"Проналазач рачунара у локалној мрежи покушава да нађе више копија Азуреуса који раде иза истог ватробрана на заједничкој мрежи\n"
+"како би повећао ефикасност преноса успостављањем сарадње између њих"
+
+#: Plugin.localtracker.enable
+msgid "Enable the LAN peer finder"
+msgstr "Укључи проналазач рачунара у локалној мрежи"
+
+#: azinstancehandler.alert.portclash
+msgid ""
+"Port clash detected on LAN: %1 already in use by another Azureus user, "
+"select new random port(s) for incoming TCP / UDP listen [between %2 and %3]."
+msgstr "Сукоб портова је откривен у локалној мрежи: %1 већ користи неки други корисник Азуреуса. Изаберите нове (случајне) портове за слушање ТЦП и УДП веза [између %2 и %3]."
+
+#: ConfigView.section.transfer.lan
+msgid "LAN"
+msgstr "ЛАН"
+
+#: ConfigView.section.transfer.lan.tooltip
+msgid "LAN-specific Settings"
+msgstr "Подешавања посебно за ЛАН"
+
+#: ConfigView.section.transfer.lan.uploadrate
+msgid "KB/s LAN max upload speed [0: unlimited]"
+msgstr "Највећа брзина слања у KB/s за ЛАН [0: неограничено]"
+
+#: ConfigView.section.transfer.lan.uploadrate.tooltip
+msgid ""
+"Peers connections within the same internal LAN have a separete upload rate "
+"limit."
+msgstr "Везе са рачунарима у ЛАНу имају одвојене границе за слање."
+
+#: ConfigView.section.transfer.lan.downloadrate
+msgid "KB/s LAN max download speed [0: unlimited]"
+msgstr "Највећа брзина преузимања у KB/s за ЛАН [0: неограничено]"
+
+#: ConfigView.section.transfer.lan.downloadrate.tooltip
+msgid ""
+"Peers connections within the same internal LAN have a separete download rate "
+"limit."
+msgstr "Везе са рачунарима у истом ЛАНу имају одвојене границе за брзину преузимања."
+
+#: TorrentOptionsView.title.short
+msgid ""
+"_: TorrentOptionsView.title.short\n"
+"Options"
+msgstr "Опције"
+
+#: TorrentOptionsView.title.full
+msgid ""
+"_: TorrentOptionsView.title.full\n"
+"Options"
+msgstr "Опције"
+
+#: TorrentOptionsView.param.max.peers
+msgid "Maximum number of connections [0: unlimited]"
+msgstr "Највећи укупан број веза [0: неограничено]"
+
+#: ConfigView.section.connection.encryption.require_encrypted_transport
+msgid "Require encrypted transport"
+msgstr "Захтевај шифрован пренос"
+
+#: ConfigView.section.connection.encryption.require_encrypted_transport.tooltip
+msgid "Force use of encrypted connections with other peers."
+msgstr "Захтева употребу шифрованих веза са другим рачунарима."
+
+#: ConfigView.section.connection.encryption.min_encryption_level
+msgid "Minimum encryption level"
+msgstr "Најмањи ниво шифровања"
+
+#: ConfigView.section.connection.encryption.min_encryption_level.tooltip
+msgid ""
+"Plain - handshake only\n"
+"RC4 - full stream\n"
+"Higher encryption requires more CPU."
+msgstr ""
+"Обичан - само поздрав\n"
+"RC4 - цео ток\n"
+"Што већи ниво шифровања, већи су и процесорски захтеви."
+
+#: Peers.column.Encryption
+msgid "Encryption"
+msgstr "Шифровање"
+
+#: Peers.column.Encryption.info
+msgid "Level of encryption in use"
+msgstr "Ниво шифровања који се користи"
+
+#: ConfigView.section.connection.encryption.encrypt.info
+msgid ""
+"If encryption is enabled you won't be able to connect to incompatible "
+"clients unless you configure fallback options"
+msgstr "Ако је шифровање укључено, нећете моћи да се повежете са некомпатибилним клијентима осим ако не направите резервна подешавања"
+
+#: ConfigView.section.connection.encryption.encrypt.info.link
+msgid ""
+"_: ConfigView.section.connection.encryption.encrypt.info.link\n"
+"Please visit here for details"
+msgstr "Молимо да погледате овде за више података"
+
+#: MainWindow.sr.status.tooltip.ok
+msgid "Share Ratio %1 OK"
+msgstr "Однос дељења %1 је у реду"
+
+#: MainWindow.sr.status.tooltip.poor
+msgid "Share Ratio %1 poor: < 0.9"
+msgstr "Однос дељења %1 је слаб: < 0.9"
+
+#: MainWindow.sr.status.tooltip.bad
+msgid "Share Ratio %1 bad: < 0.5"
+msgstr "Однос дељења %1 је лош: < 0.5"
+
+#: ConfigView.section.style.status
+msgid "Status Area:"
+msgstr "Статусна трака:"
+
+#: ConfigView.section.style.status.show_sr
+msgid ""
+"_: ConfigView.section.style.status.show_sr\n"
+"Share Ratio"
+msgstr "Однос дељења"
+
+#: ConfigView.section.style.status.show_nat
+msgid "NAT Status"
+msgstr "Стање НАТа"
+
+#: ConfigView.section.style.status.show_ddb
+msgid "DDB Status"
+msgstr "Стање ДДБа"
+
+#: ConfigView.section.connection.encryption.encrypt.group
+msgid "Transport Encryption/Obfuscation"
+msgstr "Шифровање и скривање преноса"
+
+#: ConfigView.section.connection.encryption.encrypt.fallback_info
+msgid ""
+"Enabling either fallback option will allow connections to incompatible "
+"clients BUT will result in non-encrypted connections"
+msgstr "Укључивање било којег резервног подешавања ће дозволити везу са некомпатибилним клијентима али неће користити шифроване везе"
+
+#: ConfigView.section.connection.encryption.encrypt.fallback_outgoing
+msgid ""
+"Allow non-encrypted outgoing connections if encrypted connection attempt "
+"fails"
+msgstr "Дозволи нешифроване одлазне везе ако шифрован пренос не успе"
+
+#: ConfigView.section.connection.encryption.encrypt.fallback_incoming
+msgid "Allow non-encrypted incoming connections"
+msgstr "Дозволи долазне везе које нису шифроване"
+
+#: ConfigView.section.connection.encryption
+msgid "Transport Encryption"
+msgstr "Шифровање преноса"
+
+#: upnp.selectedinterfaces
+msgid "Selected interfaces (';' seperated, e.g. eth0;eth1) [blank: all]"
+msgstr "Изабрана мрежна сучеља (раздвојите са „;“, нпр. eth0;eth1) [празно: све]"
+
+#: ConfigView.section.style.defaultSortOrder
+msgid "Default Sort Order"
+msgstr "Подразумевани поредак"
+
+#: ConfigView.section.style.defaultSortOrder.desc
+msgid "Descending"
+msgstr "Опадајући"
+
+#: ConfigView.section.style.defaultSortOrder.asc
+msgid "Ascending"
+msgstr "Растући"
+
+#: ConfigView.section.style.defaultSortOrder.flip
+msgid "Opposite of previous order"
+msgstr "Супротно од претходног поретка"
+
+#: LoggerView.autoscroll
+msgid "Auto-scroll"
+msgstr "Аутоматско померање"
+
+#: Button.selectAll
+msgid "Select All"
+msgstr "Изабери све"
+
+#: Button.markSelected
+msgid "Mark Selected"
+msgstr "Означи изабране"
+
+#: Button.unmarkSelected
+msgid "Unmark Selected"
+msgstr "Уклони ознаку за изабране"
+
+#: plugins.basicview.config
+msgid "Config"
+msgstr "Подешавање"
+
+#: TorrentOptionsView.param.max.uploads
+msgid "Maximum number of upload slots [minimum: 2]"
+msgstr "Највећи број прореза за слање [најмање: 2]"
+
+#: MyTorrentsView.dialog.setPosition.title
+msgid "Set Position"
+msgstr "Постави место"
+
+#: MyTorrentsView.dialog.setPosition.text
+msgid "Enter position to set selected torrents to:"
+msgstr "Унесите место за изабране торенте:"
+
+#: MyTorrentsView.menu.reposition.manual
+msgid "Reposition.."
+msgstr "Премести..."
+
+#: TorrentOptionsView.param.max.uploads.when.seeding.enable
+msgid "Alternate upload slots when seeding"
+msgstr "Други прорези за заметање"
+
+#: ConfigView.section.connection.advanced.info.link
+msgid ""
+"_: ConfigView.section.connection.advanced.info.link\n"
+"Please visit here for details"
+msgstr "Молимо да погледате овде за више података"
+
+#: ConfigView.section.connection.advanced.socket.group
+msgid "Socket Options"
+msgstr "Опције прикључака"
+
+#: ConfigView.section.connection.advanced.bind_port
+msgid "Bind to local port [0: disabled]"
+msgstr "Привежи за локални порт [0: искључено]"
+
+#: ConfigView.section.connection.advanced.bind_port.tooltip
+msgid ""
+"Outgoing socket connections will be locally bound to the given port.\n"
+"Enabling this may help with NAT router instability."
+msgstr ""
+"Одлазне везе ће у локалу бити повезане са датим портом.\n"
+"Укључивање овога може да помогне са нестабилностима код НАТ рутера."
+
+#: ConfigView.section.proxy.group.tracker
+msgid "Tracker Communications"
+msgstr "Разговор са пратиоцима"
+
+# FIXME Ала ми је превод
+#: ConfigView.section.proxy.group.peer
+msgid "Peer Communications"
+msgstr "Разговор са рачунарима"
+
+#: Pieces.column.Requested
+msgid ""
+"_: Pieces.column.Requested\n"
+"Requested"
+msgstr "Тражено"
+
+#: Pieces.column.Requested.info
+msgid "Shows if more requests can be made on the piece or not (*)"
+msgstr "Приказује да ли више захтева могу да се односе на исти део или не (*)"
+
+#: ConfigView.label.maxuploadsseeding
+msgid "Alternate default when seeding"
+msgstr "Друго подешавање за заметање"
+
+#: MyTorrentsView.filter
+msgid "Filter:"
+msgstr "Филтер:"
+
+#: popup.error.hideall
+msgid "Hide All"
+msgstr "Сакриј све"
+
+#: ConfigView.section.style.dataStatsOnly
+msgid "Show data statistics only (hide protocol statistics)"
+msgstr "Прикажи статистике само за податке (сакриј статистике за протокол)"
+
+#: ConfigView.section.style.separateProtDataStats
+msgid "Show separate data and protocol statistics as 'data (protocol)'"
+msgstr "Прикажи раздвојене статистике за податке и протокол"
+
+#: MyTorrentsView.dialog.setFilter.title
+msgid "Modify Filter"
+msgstr "Измени филтер"
+
+#: MyTorrentsView.dialog.setFilter.text
+msgid ""
+"The %1 section will be filtered by the text you specify below.  Use the | "
+"(pipe) symbol to filter on multiple phrases."
+msgstr "Одељак %1 ће бити филтриран по тексту ког овде унесете. Користите знак „|“ (цев) да филтрирате по више фраза."
+
+#: MyTorrentsView.filter.tooltip
+msgid ""
+"Ctrl+X to switch between RegEx and normal search modes.\n"
+"Use the | (pipe) symbol to filter on multiple phrases."
+msgstr ""
+"Ctrl+X за пребацивање између обичне претраге и претраге по регуларним изразима.\n"
+"Користите знак „|“ (цев) да бисте филтрирали по више фраза."
+
+#: MyTorrentsView.clearFilter.tooltip
+msgid "Clear Filter"
+msgstr "Очисти филтер"
+
+#: MyTorrentsView.menu.filter
+msgid "Filter List..."
+msgstr "Списак филтера..."
+
+#: ConfigView.section.file.resume.recheck.all
+msgid ""
+"On crash-restart check entire file for completed pieces (Otherwise only "
+"pieces active at last save are checked)"
+msgstr "Код опоравка после рушења, провери целу датотеку и завршене делове (у супротном само оне делове који су били активни при последњем чувању)"
+
+#: ConfigureWizard.language.choose
+msgid "Choose a language from the list below:"
+msgstr "Изаберите језик са доле наведеног списка:"
+
+#~ msgid ""
+#~ "_: Main.download.state.waiting\n"
+#~ "Waiting"
+#~ msgstr "Чекање"
+
+#~ msgid ""
+#~ "_: Main.download.state.allocating\n"
+#~ "Allocating"
+#~ msgstr "Заузимање"
+
+#~ msgid ""
+#~ "_: Main.download.state.checking\n"
+#~ "Checking"
+#~ msgstr "Провера"
+
+#~ msgid ""
+#~ "_: Main.download.state.ready\n"
+#~ "Ready"
+#~ msgstr "Спремно"
+
+#~ msgid ""
+#~ "_: Main.download.state.downloading\n"
+#~ "Downloading"
+#~ msgstr "Преузимање"
+
+#~ msgid ""
+#~ "_: Main.download.state.seeding\n"
+#~ "Seeding"
+#~ msgstr "Заметање"
+
+#~ msgid ""
+#~ "_: Main.download.state.stopped\n"
+#~ "Stopped"
+#~ msgstr "Заустављено"
+
+#~ msgid ""
+#~ "_: Main.download.state.error\n"
+#~ "Error"
+#~ msgstr "Грешка"
+
+#~ msgid ""
+#~ "_: ManagerItem.allocating\n"
+#~ "Allocating"
+#~ msgstr "Резервација"
+
+#~ msgid ""
+#~ "_: ManagerItem.ready\n"
+#~ "Ready"
+#~ msgstr "Спреман"
+
+#~ msgid ""
+#~ "In order to get the best out of Azureus, it's highly recommended to be "
+#~ "fully accessible from the internet. This tool lets you test and / or "
+#~ "change the port used to accept incoming peer connections.\n"
+#~ "\n"
+#~ "NOTE: This tool only tests for TCP connections. The Distributed DB "
+#~ "requires incoming UDP connections as well, but will automatically notify "
+#~ "you if it discovers a blocking firewall.\n"
+#~ "\n"
+#~ "NOTE: TCP port 6880 is reserved internally, so it cannot be used."
+#~ msgstr ""
+#~ "Како бисте извукли максимум из Бит Торента, препоручује се да рачунар "
+#~ "буде потпуно доступан са интернета. Овај алат вам допушта да проверите и "
+#~ "промените број порта који се користи за прихват долазних веза.\n"
+#~ "\n"
+#~ "ПРИМЕДБА: Овај алат само проверава ТЦП везе. Расподељена база података "
+#~ "тражи и УДП везе, али ће Вас аутоматски обавестит ако открије блокирајући "
+#~ "ватробран.\n"
+#~ "\n"
+#~ "ПРИМЕДБА: ТЦП порт 6880 је резервисанн и не може се користити."
+
+#~ msgid ""
+#~ "Color scheme\n"
+#~ " - Console must be closed"
+#~ msgstr ""
+#~ "Избор боја\n"
+#~ " - конзола мора да буде затворена"
+
+#~ msgid "Logging"
+#~ msgstr "Бележење"
+
+#~ msgid "Share Ratio"
+#~ msgstr "Однос дељења"
+
+#~ msgid "Log Peer Transport Protocol"
+#~ msgstr "Записуј транспортни протокол између рачунара"
+
+#~ msgid ""
+#~ "_: ConfigView.section.logging.log1type\n"
+#~ "Received"
+#~ msgstr "Примљено"
+
+#~ msgid "Log Tracker Client"
+#~ msgstr "Записуј пратиоце клијента"
+
+#~ msgid ""
+#~ "_: ConfigView.section.logging.log3type\n"
+#~ "Error"
+#~ msgstr "Грешка"
+
+#~ msgid ""
+#~ "Maximum outstanding disk block writes\n"
+#~ "[0: unlimited]. Block size %1"
+#~ msgstr ""
+#~ "Највише блоковских уписа на диск на чекању\n"
+#~ "[0: неограничено]. Величина блока %1"
+
+#~ msgid ""
+#~ "If you have slow disk write performance such that disk writing is slower "
+#~ "than download speed (numerous red blocks in pieces view), limiting write "
+#~ "queue length may decrease memory usage"
+#~ msgstr ""
+#~ "Ако имате диск који споро уписује податке тако да је брзина уписа на диск "
+#~ "нижа од брзине пријема (пуно црвених блокова у прозору са деловима), што "
+#~ "ограничава величину реда за упис и може да смањи меморијске захтеве"
+
+#~ msgid ""
+#~ "Maximum outstanding check pieces\n"
+#~ "[0: unlimited]. Piece size depends on torrent"
+#~ msgstr ""
+#~ "Највише делова за проверу на чекању\n"
+#~ "[0: неограничено]. Величина дела зависи од величине торента"
+
+#~ msgid ""
+#~ "If you have a slow CPU such that hash calculations lag behind disk "
+#~ "writing (numerous complete pieces in pieces view), limiting check queue "
+#~ "length may decrease memory usage"
+#~ msgstr ""
+#~ "Ако имате спор процесор тако да рачунање хеша касни за записима на диск "
+#~ "(пуно завршених делова у прозору са деловима), ограничавање величине реда "
+#~ "за проверу може да смањи меморијске захтеве"
+
+#~ msgid "Table column sort order default is ascending"
+#~ msgstr "Подразумевани редослед за ређање колона је узлазни"
+
+#~ msgid "Requested"
+#~ msgstr "Потражено"
+
+#~ msgid ""
+#~ "Outgoing packet type-of-service (TOS) [see http://azureus.aelitis.com/"
+#~ "wiki/index.php/AdvancedNetworkSettings]"
+#~ msgstr ""
+#~ "Врста излазног саобраћаја (TOS) [видети http://azureus.aelitis.com/wiki/"
+#~ "index.php/AdvancedNetworkSettings]"
+
+#~ msgid "Prioritize most completed files"
+#~ msgstr "Дај већи приоритет довршенијим датотекама"
+
+#~ msgid "DHT Running"
+#~ msgstr "DHT ради"
+
+#~ msgid "Hooks"
+#~ msgstr "Куке"
+
+#~ msgid "DownloadAdded"
+#~ msgstr "DownloadAdded"
+
+#~ msgid "Enabled"
+#~ msgstr "Укључено"
+
+#~ msgid ""
+#~ "_: ConfigView.section.hooks.group.sectionName\n"
+#~ "Name"
+#~ msgstr "Име"
 
 #~ msgid "&Irc"
 #~ msgstr "&ИРЦ"
