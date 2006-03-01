@@ -1,0 +1,214 @@
+Index: sr.po
+===================================================================
+RCS file: /usr/local/src/cvsroot/translation/skype/sr.po,v
+retrieving revision 1.9
+diff -u -r1.9 sr.po
+--- sr.po	4 Apr 2005 21:52:29 -0000	1.9
++++ sr.po	6 Apr 2005 20:43:30 -0000
+@@ -147,7 +147,7 @@
+ msgid "Found: %d"
+ msgstr "Нађен: %d"
+ 
+-# Доследно у односу на коришћење речи Contacts на другим местима у преводу
++# 20050406 Доследно у односу на коришћење речи Contacts на другим местима у преводу
+ #: 1.2.0.27.lang.utf8:25
+ #: 1.2.0.27.lang.utf8:303
+ msgid "Contacts"
+@@ -573,6 +573,7 @@
+ msgid "Start Chat"
+ msgstr "Покрени поруке"
+ 
++# 20050406 zmeYpc: много краће
+ #: 1.2.0.27.lang.utf8:108
+ #: 1.2.0.27.lang.utf8:111
+ #: 1.2.0.27.lang.utf8:345
+@@ -580,7 +581,7 @@
+ #: 1.2.0.27.lang.utf8:843
+ #: 1.2.0.27.lang.utf8:1792
+ msgid "Add to Contacts"
+-msgstr "Додај познаника"
++msgstr "Нови познаник"
+ 
+ #: 1.2.0.27.lang.utf8:114
+ msgid "Close Results Tab"
+@@ -774,19 +775,21 @@
+ 
+ #: 1.2.0.27.lang.utf8:182
+ msgid "Home Phone:"
+-msgstr "Кућни телефон:"
++msgstr "Кућни тел.:"
+ 
++# 20050404: zmeYpc -- скраћено
+ #: 1.2.0.27.lang.utf8:183
+ msgid "Office Phone:"
+-msgstr "Телефон на послу:"
++msgstr "Тел. на послу:"
+ 
+ #: 1.2.0.27.lang.utf8:184
+ msgid "Mobile Phone:"
+-msgstr "Мобилни телефон"
++msgstr "Мобилни тел.:"
+ 
++# 20050406 Скраћење, уз наду да је Веб практично синоним за Интернет
+ #: 1.2.0.27.lang.utf8:185
+ msgid "Homepage:"
+-msgstr "Интернет адреса:"
++msgstr "Интернет:"
+ 
+ #: 1.2.0.27.lang.utf8:186
+ msgid "About Me:"
+@@ -1011,9 +1014,10 @@
+ msgid "Country"
+ msgstr "Земља"
+ 
++# 20050406: zmeYpc
+ #: 1.2.0.27.lang.utf8:246
+ msgid "State/Province"
+-msgstr "Држава/покрајина"
++msgstr "Држава/област"
+ 
+ #: 1.2.0.27.lang.utf8:247
+ #: 1.2.0.27.lang.utf8:396
+@@ -1023,21 +1027,22 @@
+ 
+ #: 1.2.0.27.lang.utf8:248
+ msgid "Office phone"
+-msgstr "Телефон на послу"
++msgstr "Тел. на послу"
+ 
+ #: 1.2.0.27.lang.utf8:249
+ msgid "Mobile phone"
+-msgstr "Мобилни телефон"
++msgstr "Мобилни тел."
+ 
+ #: 1.2.0.27.lang.utf8:250
+ #: 1.2.0.27.lang.utf8:1433
+ msgid "E-mail"
+ msgstr "Ел. адреса"
+ 
++# 20050406 Скраћење, уз наду да је практично Веб синоним за Интернет
+ #: 1.2.0.27.lang.utf8:251
+ #: 1.2.0.27.lang.utf8:397
+ msgid "Homepage"
+-msgstr "Интернет адреса"
++msgstr "Интернет"
+ 
+ #: 1.2.0.27.lang.utf8:253
+ msgid "Update"
+@@ -1317,7 +1322,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:346
+ msgid "Home phone"
+-msgstr "Кућни телефон"
++msgstr "Кућни тел."
+ 
+ #: 1.2.0.27.lang.utf8:348
+ msgid "Authorization Waiting"
+@@ -1427,17 +1432,17 @@
+ #: 1.2.0.27.lang.utf8:401
+ #: 1.2.0.27.lang.utf8:469
+ msgid "Home Phone"
+-msgstr "Кућни телефон"
++msgstr "Кућни тел."
+ 
+ #: 1.2.0.27.lang.utf8:402
+ #: 1.2.0.27.lang.utf8:470
+ msgid "Office Phone"
+-msgstr "Телефон на послу"
++msgstr "Тел. на послу"
+ 
+ #: 1.2.0.27.lang.utf8:403
+ #: 1.2.0.27.lang.utf8:471
+ msgid "Mobile Phone"
+-msgstr "Мобилни телефон"
++msgstr "Мобилни тел."
+ 
+ #: 1.2.0.27.lang.utf8:405
+ msgid "Look for"
+@@ -2598,9 +2603,10 @@
+ msgid "Assign Speed-Dial"
+ msgstr "Додели брзи тастер"
+ 
++# 20050406 zmeYpc: покушај да се истакне посебно значење
+ #: 1.2.0.27.lang.utf8:754
+ msgid "Add a Contact..."
+-msgstr "Додај познаника..."
++msgstr "Додавање познаника..."
+ 
+ #: 1.2.0.27.lang.utf8:755
+ #: 1.2.0.27.lang.utf8:756
+@@ -3366,12 +3372,13 @@
+ #: 1.2.0.27.lang.utf8:1030
+ #: 1.2.0.27.lang.utf8:1387
+ msgid "Voicemail"
+-msgstr "Гласовне поруке"
++msgstr "Гласовна пошта"
+ 
+ #: 1.2.0.27.lang.utf8:1032
+ msgid "new voicemail"
+-msgstr "Нова глас.порука"
++msgstr "Нова глас.пошта"
+ 
++# Пошта нема множину, тј. не постоје поште -- осим ако се говори о установама
+ #: 1.2.0.27.lang.utf8:1033
+ msgid "new voicemails"
+ msgstr "Нове глас.поруке"
+@@ -3382,7 +3389,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:1035
+ msgid "New voicemail from"
+-msgstr "Нова глас.порука од"
++msgstr "Нова глас.пошта од"
+ 
+ #: 1.2.0.27.lang.utf8:1036
+ msgid ", click here to listen"
+@@ -3555,11 +3562,12 @@
+ 
+ #: 1.2.0.27.lang.utf8:1083
+ msgid "Mobile (%s)"
+-msgstr "Мобилни(%s)"
++msgstr "Мобилни (%s)"
+ 
++# 20050406 Краће је
+ #: 1.2.0.27.lang.utf8:1084
+ msgid "Office (%s)"
+-msgstr "Канцеларија (%s)"
++msgstr "Посао (%s)"
+ 
+ #: 1.2.0.27.lang.utf8:1086
+ msgid "View Dialpad"
+@@ -3755,13 +3763,15 @@
+ msgid "The telephone number %s you entered is already in your Contacts"
+ msgstr "Телефонски број  %s ког сте унели се већ налази у списку познаника"
+ 
++# 20050406 Пробам како делује овај превод
++# 20050407 Још краће!
+ #: 1.2.0.27.lang.utf8:1151
+ #: 1.2.0.27.lang.utf8:1152
+ #: 1.2.0.27.lang.utf8:1153
+ #: 1.2.0.27.lang.utf8:1154
+ #: 1.2.0.27.lang.utf8:1155
+ msgid "Skype Me"
+-msgstr "Skype Me"
++msgstr "Зови ме"
+ 
+ #: 1.2.0.27.lang.utf8:1156
+ msgid "SkypeOut balance: %s %s"
+@@ -4166,7 +4176,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:1293
+ msgid "You are enabling 'Skype Me' mode which means that you are letting everyone know that you are available and interested to Skype with them. This includes people whom you do not know or have not authorized but who can find you by searching the global directory.||For this to work, we have enabled accepting calls from people whom you have not authorized (or who are not in your Contacts list) for the time you are in the 'Skype Me' mode. Your privacy settings will be restored when you leave 'Skype Me' mode."
+-msgstr "Укључујете „Позови ме‟ начин рада, што значи да дајете свима на знање да сте на располагању и заинтересовани да разговарате с њима користећи Skype. Ово укључује и људе које не познајете, као и оне који нисте овластили али Вас могу пронаћи претрагом глобалног именика.||Да би ово било могуће, дозволили смо прихватање позива од људи који немају овлашћење (или који нису у списку познаника) за време док сте у „Позови ме‟ начину рада. Ваша подешавања приватности биће враћена када напустите „Позови ме‟ начин рада."
++msgstr "Укључујете „Зови ме‟ начин рада, што значи да дајете свима на знање да сте на располагању и заинтересовани да разговарате с њима користећи Skype. Ово укључује и људе које не познајете, као и оне који нисте овластили али Вас могу пронаћи претрагом глобалног именика.||Да би ово било могуће, дозволили смо прихватање позива од људи који немају овлашћење (или који нису у списку познаника) за време док сте у „Зови ме‟ начину рада. Ваша подешавања приватности биће враћена када напустите „Зови ме‟ начин рада."
+ 
+ #: 1.2.0.27.lang.utf8:1294
+ #: 1.2.0.27.lang.utf8:1295
+@@ -4175,7 +4185,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:1296
+ msgid "Skype automatically enabled random calls because you are in the 'Skype Me' mode"
+-msgstr "Skype аутоматски дозвољава случајне позиве пошто сте у „Позови ме‟ начину рада"
++msgstr "Skype аутоматски дозвољава случајне позиве пошто сте у „Зови ме‟ начину рада"
+ 
+ #: 1.2.0.27.lang.utf8:1297
+ msgid "Sending file. Paused!"

@@ -1,0 +1,16 @@
+;; Object distrib/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "distrib/"
+  :tables (list 
+   (semanticdb-table "Makefile"
+    :major-mode 'makefile-mode
+    :tags '(("../Makefile.inc" include nil nil [1 25]) ("publish" function nil nil [26 96]))
+    :file "Makefile"
+    :pointmax 96
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0beta3"
+  :semanticdb-version "2.0beta3"
+  )

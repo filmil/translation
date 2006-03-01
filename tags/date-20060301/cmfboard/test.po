@@ -1,0 +1,2767 @@
+# Translation of cmfboard.pot to
+# Филип Милетић <filmil at gmail dot com>, 2005.
+# ----------------------------------------------------------------------
+#
+# The files cmfboard-sr.po and cmfboard-sr-Latn.po are respectivelly the cmfboard
+# translations for the Serbian language in Cyrillic and the Serbian
+# language in Latin script. As the Serbian language can be written down
+# equivocally using these two different scripts, both translation files
+# are provided.
+#
+# The cmfboard-sr-Latn.po is automatically generated from cmfboard-sr.po and
+# should NOT be edited by hand.
+#
+# The cmfboard-sr.po and cmfboard-sr-Latn.po for cmfboard domain MUST always be
+# distributed one with the other.
+#
+# If you have any questions regarding this translation, you can write to
+# the first translator, Филип Милетић (f dot miletic at ewi dot tudelft
+# dot nl).
+msgid ""
+msgstr "Project-Id-Version: CMFBoard 2.2\n"
+"POT-Creation-Date: 2005-08-14 14:55+0000\n"
+"PO-Revision-Date: 2005-08-18 09:00+01:00\n"
+"Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
+"Language-Team: Serbian <gnu@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Language-Code: sr\n"
+"Language-Name: Serbian\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: CMFBoard\n"
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Add comment">
+#.  Add comment
+#. </span>
+msgid "Add comment"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Announcement">
+#.  Announcement
+#. </span>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="Announcement">
+#.  Announcement
+#. </tal:block>
+msgid "Announcement"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Anonymous">
+#.  Anonymous
+#. </span>
+msgid "Anonymous"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <input class="context" i18n:attributes="value" tal:attributes="tabindex tabindex/next;" type="submit" value="Assign Permissions to Selected Group(s)"/>
+msgid "Assign Permissions to Selected Group(s)"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <input class="context" i18n:attributes="value" tal:attributes="tabindex tabindex/next;" type="submit" value="Assign Permissions to Selected User(s)"/>
+msgid "Assign Permissions to Selected User(s)"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <input class="context" i18n:attributes="value" name="form.button.Cancel" type="submit" value="Cancel"/>
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <input class="context" i18n:attributes="value" name="form.button.Cancel" tal:attributes="tabindex tabindex/next;" type="submit" value="Cancel"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Cancel">
+#.  Cancel
+#. </span>
+## 8 more: ../skins/cmfboard/forum_contact_member_form.cpt, ../skins/cmfboard/i18ndude_stub.pt, ../skins/cmfboard/prefs_cmfboard_form.cpt, ../skins/cmfboard/forum_reply_form.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_blog_widget.pt, ../skins/cmfboard/forum_quickreply_form.pt
+msgid "Cancel"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <a href="forum_subscribe" i18n:attributes="title" tal:attributes="href string:$here_url/pt_subscribe" title="Click to subscribe to this entire forum">
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "Click to subscribe to this entire forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <a i18n:attributes="title" tal:attributes="href string:$here_url/pt_unsubscribe" title="Click to turn off forum-wide subscription">
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "Click to turn off forum-wide subscription"
+msgstr ""
+
+#: ../skins/cmfboard/forum_icons.pt
+#. <input class="standalone" i18n:attributes="value" onclick="javascript:window.close()" type="button" value="Close"/>
+msgid "Close"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Custom forum">
+#.  Custom forum
+#. </span>
+msgid "Custom forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_delete_form.pt
+#. <input class="destructive" i18n:attributes="value" name="form.button.Delete" type="submit" value="Delete"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Delete">
+#.  Delete
+#. </span>
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <input class="context" i18n:attributes="value" name="form.button.Delete" type="submit" value="Delete"/>
+msgid "Delete"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <input class="context" i18n:attributes="value" tal:attributes="tabindex tabindex/next;" type="submit" value="Delete Selected Role(s)"/>
+msgid "Delete Selected Role(s)"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <input class="context" i18n:attributes="value" name="form.button.Export" type="submit" value="Export"/>
+msgid "Export"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Hot Topic">
+#.  Hot Topic
+#. </span>
+msgid "Hot Topic"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Hot poll with new replies">
+#.       Hot poll with new replies
+#. </span>
+msgid "Hot poll with new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Hot poll without new replies">
+#.       Hot poll without new replies
+#. </span>
+msgid "Hot poll without new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Hot topic with new replies">
+#.       Hot topic with new replies
+#. </span>
+msgid "Hot topic with new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Hot topic without new replies">
+#.       Hot topic without new replies
+#. </span>
+msgid "Hot topic without new replies"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <input class="context" i18n:attributes="value" name="form.button.Import" type="submit" value="Import"/>
+msgid "Import"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Jump to seleted forum">
+#.       Jump to seleted forum
+#. </span>
+msgid "Jump to seleted forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <img alt="Link" i18n:attributes="alt" tal:attributes="src string:/${rec/icon}" tal:condition="rec/icon"/>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <img alt="Link" i18n:attributes="alt" tal:attributes="src string:${rec/icon}" tal:condition="rec/icon"/>
+## 2 more: ../skins/cmfboard/forum_topic_menu_portlet.pt, ../skins/cmfboard/forum_widgets.pt
+msgid "Link"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Lock">
+#.  Lock
+#. </span>
+msgid "Lock"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Locked poll">
+#.  Locked poll
+#. </span>
+msgid "Locked poll"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Locked topic">
+#.  Locked topic
+#. </span>
+msgid "Locked topic"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Manager">
+#.  Manager
+#. </span>
+msgid "Manager"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Member">
+#.  Member
+#. </span>
+msgid "Member"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Members forum">
+#.  Members forum
+#. </span>
+msgid "Members forum"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Normal poll with new replies">
+#.       Normal poll with new replies
+#. </span>
+msgid "Normal poll with new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Normal poll without new replies">
+#.       Normal poll without new replies
+#. </span>
+msgid "Normal poll without new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Normal topic with new replies">
+#.       Normal topic with new replies
+#. </span>
+msgid "Normal topic with new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Normal topic without new replies">
+#.       Normal topic without new replies
+#. </span>
+msgid "Normal topic without new replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Open forum">
+#.  Open forum
+#. </span>
+msgid "Open forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <input class="context" i18n:attributes="value" tal:attributes="tabindex tabindex/next;" type="submit" value="Perform Search"/>
+msgid "Perform Search"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Plain Text">
+#.  Plain Text
+#. </span>
+msgid "Plain Text"
+msgstr ""
+
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="Poll">
+#.  Poll
+#. </tal:block>
+msgid "Poll"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <input class="context" i18n:attributes="value" name="form.button.Preview" type="submit" value="Preview"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Preview">
+#.  Preview
+#. </span>
+## 4 more: ../skins/cmfboard/forum_reply_form.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_blog_widget.pt, ../skins/cmfboard/forum_quickreply_form.pt
+msgid "Preview"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Private">
+#.  Private
+#. </span>
+msgid "Private"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Private message">
+#.  Private message
+#. </span>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a i18n:attributes="title" i18n:translate="label_send" tal:attributes="href          string:${here/absolute_url}/forum_send_message_form?member_id=$member_id" title="Private message">
+msgid "Private message"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Public1 forum">
+#.  Public1 forum
+#. </span>
+msgid "Public1 forum"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Public2 forum">
+#.  Public2 forum
+#. </span>
+msgid "Public2 forum"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Publish">
+#.  Publish
+#. </span>
+msgid "Publish"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="ReStructured Text">
+#.  ReStructured Text
+#. </span>
+msgid "ReStructured Text"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Reject">
+#.  Reject
+#. </span>
+msgid "Reject"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <span class="fieldRequired" i18n:attributes="title" i18n:translate="label_required" title="Required">
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Required">
+#.  Required
+#. </span>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <span class="fieldRequired" i18n:attributes="title" i18n:translate="label_required" tal:condition="python:data['allow_anon_names']=='required'" title="Required">
+## 10 more: ../skins/cmfboard/forum_contact_member_form.cpt, ../skins/cmfboard/i18ndude_stub.pt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_quickreply_form.pt, ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt
+msgid "Required"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Reviewer">
+#.  Reviewer
+#. </span>
+msgid "Reviewer"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <input class="context" i18n:attributes="value" name="form.button.Save" type="submit" value="Save"/>
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <input class="context" i18n:attributes="value" name="form.button.Save" tabindex="" tal:attributes="tabindex tabindex/next;" type="submit" value="Save"/>
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <input class="context" i18n:attributes="value" tabindex="" tal:attributes="tabindex tabindex/next" type="submit" value="Save"/>
+## 6 more: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt, ../skins/cmfboard/prefs_cmfboard_form.cpt, ../skins/cmfboard/forum_reply_form.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_blog_widget.pt, ../skins/cmfboard/forum_quickreply_form.pt
+msgid "Save"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <input class="context" i18n:attributes="value" name="form.button.Send" tal:attributes="tabindex tabindex/next;" type="submit" value="Send"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Send">
+#.  Send
+#. </span>
+## 2 more: ../skins/cmfboard/i18ndude_stub.pt, ../skins/cmfboard/forum_send_message_form.cpt
+msgid "Send"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Send email">
+#.  Send email
+#. </span>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a i18n:attributes="title" i18n:translate="label_EMail" tal:attributes="href string:     ${here/absolute_url}/forum_contact_member_form?member_id=$member_id" title="Send email">
+msgid "Send email"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Structured Text">
+#.  Structured Text
+#. </span>
+msgid "Structured Text"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a href="forum_subscribe" i18n:attributes="title" tal:attributes="href string:$here_url/pt_subscribe" title="Subscribe to this topic">
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Subscribe to this topic">
+#.       Subscribe to this topic
+#. </span>
+## 1 more: ../skins/cmfboard/i18ndude_stub.pt
+msgid "Subscribe to this topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <table cellpadding="5px" cellspacing="0" class="ftable" i18n:attributes="summary" summary="This table contains list of available forums, number      of topics in each forum, number of replies and link to last reply." width="100%">
+msgid "This table contains list of available forums, number      of topics in each forum, number of replies and link to last reply."
+msgstr ""
+
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <table cellpadding="5px" cellspacing="0" class="ftable" i18n:attributes="summary" summary="This table contains list of available forums, number  of topics in each forum, number of replies and link to last reply." tal:condition="forums" tal:define="forums data/forums" width="100%">
+msgid "This table contains list of available forums, number  of topics in each forum, number of replies and link to last reply."
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <img alt="This topic is sticky" border="0" height="18" i18n:attributes="alt" tal:attributes="src string:${here/sticky_topic.gif/absolute_url}" tal:condition="record/sticky_flag" width="16"/>
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <img alt="This topic is sticky" border="0" height="18" i18n:attributes="alt" tal:attributes="src string:${here/sticky_topic.gif/absolute_url}" width="16"/>
+msgid "This topic is sticky"
+msgstr ""
+
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="Topic">
+#.  Topic
+#. </tal:block>
+msgid "Topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:attributes="title" tal:attributes="href     string:${topic/aq_parent/absolute_url}/pt_unsubscribe" tal:condition="is_subs/title" title="Unsubscribe from this forum">
+## 1 more: ../skins/cmfboard/forum_topic_menu_portlet.pt
+msgid "Unsubscribe from this forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:attributes="title" tal:attributes="href string:$here_url/pt_unsubscribe" tal:condition="not:is_subs/title" title="Unsubscribe from this topic">
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Unsubscribe from this topic">
+#.       Unsubscribe from this topic
+#. </span>
+## 1 more: ../skins/cmfboard/i18ndude_stub.pt
+msgid "Unsubscribe from this topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <input class="context" i18n:attributes="value" name="unvote" type="submit" value="Unvote"/>
+msgid "Unvote"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:attributes="title" tal:attributes="href record/file_url" tal:condition="nocall:record/file|nothing" target="_blank" title="View attached file">
+msgid "View attached file"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_message_old.pt
+#. <a i18n:attributes="title" tal:attributes="href record/image_url" target="_blank" title="View attached image">
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:attributes="title" tal:attributes="href record/image_url" tal:condition="nocall:record/image|nothing" target="_blank" title="View attached image">
+## 3 more: ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forum_message_template.pt, ../skins/cmfboard/forum_message_flat.pt
+msgid "View attached image"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a class="nobr" i18n:attributes="title" tal:attributes="href record/last_reply_link" tal:content="structure string:${record/last_reply_created} " title="View last post">
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <a i18n:attributes="title" tal:attributes="href record/last_reply_link" tal:content="record/last_reply_title" title="View last post">
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <a class="nobr" i18n:attributes="title" tal:attributes="href forum/last_reply/absolute_url" title="View last post">
+msgid "View last post"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a i18n:attributes="title" tal:attributes="href string:$here_url/forum_user_profile?member_id=$creator" tal:condition="not:creator_isanon" tal:content="props/fullname" title="View member profile"/>
+msgid "View member profile"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_userinfo.pt
+#. <a i18n:attributes="title" tal:attributes="href string:$url/forum_user_profile?member_id=$creator" tal:content="props/fullname" title="View public profile"/>
+msgid "View public profile"
+msgstr ""
+
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <a i18n:attributes="title" tal:attributes="href forum/url" tal:content="forum/title" title="View this forum"/>
+msgid "View this forum"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a i18n:attributes="title" tal:attributes="href record/url" tal:content="record/Title" title="View this topic"/>
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <a i18n:attributes="title" tal:attributes="href record/url" title="View this topic">
+msgid "View this topic"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a i18n:attributes="title" tal:attributes="href record/url" tal:content="record/Title" title="View topic replies"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="View topic replies">
+#.  View topic replies
+#. </span>
+## 1 more: ../skins/cmfboard/i18ndude_stub.pt
+msgid "View topic replies"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Visible">
+#.  Visible
+#. </span>
+msgid "Visible"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_userinfo.pt
+#. <a i18n:attributes="title" i18n:translate="label_homepage" tal:attributes="href props/homepage" target="_blank" title="Visit user homepage">
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Visit user homepage">
+#.  Visit user homepage
+#. </span>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a i18n:attributes="title" tal:attributes="href props/homepage" tal:content="props/homepage" target="_blank" title="Visit user homepage"/>
+## 1 more: ../skins/cmfboard/forum_user_profile.pt
+msgid "Visit user homepage"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <input class="context" i18n:attributes="value" name="vote" type="submit" value="Vote"/>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="Vote">
+#.  Vote
+#. </span>
+msgid "Vote"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="admin">
+#.  admin
+#. </span>
+msgid "admin"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="announce">
+#.  announce
+#. </span>
+msgid "announce"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <span i18n:translate="anonymous_user" tal:condition="python:creator=='Anonymous User'">
+#.  Anonymous
+#. </span>
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <span class="nobr" i18n:translate="anonymous_user" tal:condition="python:creator_isanon and creator=='Anonymous User'">
+#.  Anonymous
+#. </span>
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <span class="nobr" i18n:translate="anonymous_user" tal:condition="python:creator_isanon and        creator=='Anonymous User'">
+#.  Anonymous
+#. </span>
+## 2 more: ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_folder_view.pt
+msgid "anonymous_user"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <h5 i18n:translate="box_forum_menu">
+#.  Forum menu
+#. </h5>
+msgid "box_forum_menu"
+msgstr ""
+
+#: ../skins/cmfboard/forumRejected_slot.pt
+#. <h5 i18n:translate="box_rejected">
+#.  Rejected messages
+#. </h5>
+msgid "box_rejected"
+msgstr ""
+
+#: ../skins/cmfboard/forumSubmitted_slot.pt
+#. <h5 i18n:translate="box_submitted">
+#.  Submitted messages
+#. </h5>
+msgid "box_submitted"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_menu_portlet.pt
+#. <h5 i18n:translate="box_topic_menu">
+#.  Topic menu
+#. </h5>
+msgid "box_topic_menu"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <p i18n:translate="contact_moderator_description">
+#. 	Use this form to contact the Forum Moderator
+#. 	with any questions or comments you may have.
+#. </p>
+msgid "contact_moderator_description"
+msgstr ""
+
+#: ../skins/cmfboard/forum_add_announcement_form.cpt
+#. <p i18n:translate="description_add_announcement">
+#. 	You can add an Announcement by filling out the form below. To see how the posting
+#. 	will look before submitting it, click 'Preview'.
+#. </p>
+msgid "description_add_announcement"
+msgstr ""
+
+#: ../skins/cmfboard/forum_reply_form.cpt
+#. <p i18n:translate="description_add_comment">
+#. 	You can add a comment by filling out the form below. To see how the posting
+#. 	will look before submitting it, click 'Preview Comment'.
+#. </p>
+msgid "description_add_comment"
+msgstr ""
+
+#: ../skins/cmfboard/forum_add_poll_form.cpt
+#. <p i18n:translate="description_add_poll">
+#. 	You can add a Poll by filling out the form below. To see how the posting
+#. 	will look before submitting it, click 'Preview'.
+#. </p>
+msgid "description_add_poll"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_add_topic_form.cpt
+#. <p i18n:translate="description_add_topic">
+#. 	You can add a Topic by filling out the form below. To see how the posting
+#. 	will look before submitting it, click 'Preview'.
+#. </p>
+## 1 more: ../skins/cmfboard/forum_add_topic_form.cpt
+msgid "description_add_topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_member_form.cpt
+#. <p i18n:translate="description_contact_member">
+#. 	Use this form to contact the other member of the site
+#. </p>
+msgid "description_contact_member"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <p i18n:translate="description_contact_preferences">
+#. 	My contact preferences.
+#. </p>
+msgid "description_contact_preferences"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <p i18n:translate="description_current_shares">
+#.       These users currently have sharing rights in this folder:
+#. </p>
+msgid "description_current_shares"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <p i18n:translate="description_disclaimer" style="font-style: italic">
+#.  The poll is not scientific and reflects only the opinions of those users who chose to participate. The results should not be considered representative of either users opinions in general, or the public as a whole.
+#. </p>
+msgid "description_disclaimer"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <p i18n:translate="description_group_shares">
+#. 	      Groups are a convenient way share a folder to a common set of
+#. 	      users. Select one or more Groups, and a role to assign.
+#. </p>
+msgid "description_group_shares"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <p i18n:translate="description_localrole_select_member">
+#. 	    Select one or more Members, and a role to assign.
+#. </p>
+msgid "description_localrole_select_member"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="description_registered_member">
+#. 	You need to be a registered member to post to this forum.
+#. </tal:block>
+## 5 more: ../skins/cmfboard/cmfboard-1X/forum_topic.cpt, ../skins/cmfboard/cmfboard-1X/forum_message.cpt, ../skins/cmfboard/forumnb_view.pt, ../skins/cmfboard/forum_topic.cpt, ../skins/cmfboard/forum_message.cpt
+msgid "description_registered_member"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_delete_form.pt
+#. <p i18n:translate="description_remove_messages">
+#. 	All this messages will be deleted.
+#. </p>
+msgid "description_remove_messages"
+msgstr ""
+
+#: ../skins/cmfboard/forum_send_message_form.cpt
+#. <p i18n:translate="description_send_pm">
+#. 	Use this form to send private message to other member.
+#. </p>
+msgid "description_send_pm"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <p i18n:translate="description_sharing_folder">
+#. 	      Sharing folders is an easy way to allow others access to edit and collaborate
+#. 	      on your content.
+#. 	      To share the contents of this folder, search for the person's
+#. 	      name or email address in the form below, and assign them an appropriate role.
+#. 	      The most common use is to give people Manager permissions, which means they
+#. 	      have full control in this folder.
+#. </p>
+msgid "description_sharing_folder"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="flat" tal:attributes="selected python:vm=='flat'" value="flat">
+#.  Flat
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="flat" tal:attributes="href       string:$here_url/forum_change_view_mode?mode=flat">
+#. 		    Flat
+#. </a>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <a i18n:translate="flat" tal:attributes="href string:$here_url/forum_change_view_mode?mode=flat">
+#. 		    Flat
+#. </a>
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "flat"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="full_thread" tal:attributes="selected python:vm=='full_thread'" value="full_thread">
+#.  Full thread
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="full_thread" tal:attributes="href        string:$here_url/forum_change_view_mode?mode=full_thread">
+#. 		    Full thread
+#. </a>
+msgid "full_thread"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a class="forumParent" href="" i18n:translate="go_to_parent_url" tal:attributes="href parent_url" tal:condition="parent_url" tal:define="parent_url python:here.navigationParent(here, template.getId())">
+#.         Up one level
+#. </a>
+## 3 more: ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forumnb_view.pt
+msgid "go_to_parent_url"
+msgstr ""
+
+#: ../skins/cmfboard/forum_add_announcement_form.cpt
+#. <tal:block i18n:translate="heading_add_announcement">
+#.  Add Announcement
+#. </tal:block>
+msgid "heading_add_announcement"
+msgstr ""
+
+#: ../skins/cmfboard/forum_reply_form.cpt
+#. <h2 i18n:translate="heading_add_comment">
+#.  Add Comment
+#. </h2>
+msgid "heading_add_comment"
+msgstr ""
+
+#: ../skins/cmfboard/forum_add_poll_form.cpt
+#. <tal:block i18n:translate="heading_add_poll">
+#.  Add new poll
+#. </tal:block>
+msgid "heading_add_poll"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <h1 i18n:translate="heading_add_sharing_folder">
+#. 	      Add shares for
+#.  ${folder}
+#. </h1>
+msgid "heading_add_sharing_folder"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_add_topic_form.cpt
+#. <tal:block i18n:translate="heading_add_topic">
+#.  Add new topic
+#. </tal:block>
+## 1 more: ../skins/cmfboard/forum_add_topic_form.cpt
+msgid "heading_add_topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <h1 i18n:translate="heading_cmfboard_import_export">
+#. 	      CMFBoard forums Import/Export
+#. </h1>
+msgid "heading_cmfboard_import_export"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <h1 i18n:translate="heading_cmfboard_setup">
+#.  CMFBoard configuration
+#. </h1>
+msgid "heading_cmfboard_setup"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <h1 i18n:translate="heading_contact_moderator">
+#.  Contact the Forum Moderator
+#. </h1>
+msgid "heading_contact_moderator"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <h1 i18n:translate="heading_currently_assigned_shares">
+#. 	Current shares for
+#.  ${folder}
+#. </h1>
+msgid "heading_currently_assigned_shares"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_delete_form.pt
+#. <h1 i18n:translate="heading_delete_messages">
+#. 	Delete message(s)
+#. </h1>
+msgid "heading_delete_messages"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <h1 i18n:translate="heading_discussiontool_tool_configuration">
+#. 	CMFBoard Discussion Tool configuration
+#. </h1>
+msgid "heading_discussiontool_tool_configuration"
+msgstr ""
+
+#: ../skins/cmfboard/forum_icons.pt
+#. <h1 i18n:translate="heading_emoticons">
+#.  Emotion icons
+#. </h1>
+msgid "heading_emoticons"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <h1 i18n:translate="heading_forum_preferences">
+#. 	Forum Preferences
+#. </h1>
+msgid "heading_forum_preferences"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <h1 i18n:translate="heading_group_shares">
+#.  Adding group shares
+#. </h1>
+msgid "heading_group_shares"
+msgstr ""
+
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <h1 i18n:translate="heading_manage_subscribers">
+#. 	Manage subscribers
+#. </h1>
+msgid "heading_manage_subscribers"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <h1 i18n:translate="heading_search_results">
+#.  Search results
+#. </h1>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "heading_search_results"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_member_form.cpt
+#. <tal:block i18n:translate="heading_send_mailto">
+#.  Send mail to
+#. </tal:block>
+msgid "heading_send_mailto"
+msgstr ""
+
+#: ../skins/cmfboard/forum_send_message_form.cpt
+#. <tal:block i18n:translate="heading_send_pm">
+#.  Send Private Message to
+#. </tal:block>
+msgid "heading_send_pm"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_allow_anon_names">
+#.       If this is set, anonymous users will be given a possibility to specify their name/handle instead of simply being called Anonymous.
+#. </span>
+msgid "help_allow_anon_names"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <div class="formHelp" i18n:translate="help_allow_outside_forumnb">
+#. 	    Check this if you want create standalone ForumNB instance.
+#. </div>
+msgid "help_allow_outside_forumnb"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <div class="formHelp" i18n:translate="help_allow_signatures">
+#. 	      Can users define their signatures.
+#. </div>
+msgid "help_allow_signatures"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_allow_subscription">
+#.       Members receive all new posts via email.
+#. </span>
+msgid "help_allow_subscription"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_allow_topic_subscription">
+#.       Members recieve all new replies to subscribed topic.
+#. </span>
+msgid "help_allow_topic_subscription"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_click_on_emoticon">
+#. 	    Click on an emoticon to add it to the page
+#. </div>
+msgid "help_click_on_emoticon"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_click_on_wizards">
+#. 	    Click on link to open Wizards
+#. </div>
+msgid "help_click_on_wizards"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_contact_admin">
+#.       Allow users send message to forum moderator.
+#. </span>
+msgid "help_contact_admin"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_editable_forum">
+#.       Only applies to unmoderated forums.
+#. </span>
+msgid "help_editable_forum"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_forum_folder_icon">
+#.       Select Froum folder icon.
+#. </span>
+msgid "help_forum_folder_icon"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_forum_icon">
+#.       Select Froum icon.
+#. </span>
+msgid "help_forum_icon"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_forum_page_size">
+#.       Number of topics on page.
+#. </span>
+msgid "help_forum_page_size"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_hot_topic_views">
+#.       Count of views to mark topic as hot.
+#. </span>
+msgid "help_hot_topic_views"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_icq_jabber">
+#. 	      Enter your new ICQ address here, if you want to change it.
+#. </div>
+msgid "help_icq_jabber"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_max_file_size">
+#.  Max file size
+#.  ${size}
+#. 	      Kb
+#. </div>
+msgid "help_max_file_size"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_max_image_size">
+#.  Max image size
+#.  ${size}
+#.   Kb
+#. </div>
+msgid "help_max_image_size"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_max_text_size">
+#.  Max text size
+#.  ${size}
+#.   Kb
+#. </div>
+msgid "help_max_text_size"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_moderated">
+#.       Forum managers must approve each post.
+#. </span>
+msgid "help_moderated"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_aim">
+#. 	      Enter your new AIM address here, if you want to change it.
+#. </div>
+msgid "help_new_aim"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_homepage">
+#. 	      Enter your new Homepage address here, if you want to change it.
+#. </div>
+msgid "help_new_homepage"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_ichat">
+#. 	      Enter your new iChat address here, if you want to change it.
+#. </div>
+msgid "help_new_ichat"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_jabber">
+#. 	      Enter your new Jabber address here, if you want to change it.
+#. </div>
+msgid "help_new_jabber"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_msn">
+#. 	      Enter your new MSN address here, if you want to change it.
+#. </div>
+msgid "help_new_msn"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <div class="formHelp" i18n:translate="help_new_yahoo">
+#. 	      Enter your new Yahoo address here, if you want to change it.
+#. </div>
+msgid "help_new_yahoo"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_quickreply_form">
+#.       Form used for quick reply in topic(message) view.
+#. </span>
+msgid "help_quickreply_form"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <div class="formHelp" i18n:translate="help_replace_def_discussion">
+#. 	      CMFBoard will replace default discussion tool with new one.
+#. </div>
+msgid "help_replace_def_discussion"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_show_message_icons">
+#.       Enable message icons in various edit forms.
+#. </span>
+msgid "help_show_message_icons"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_show_read_status">
+#.       Show topic read status. Disable for high load sites.
+#. </span>
+msgid "help_show_read_status"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_show_userinfo">
+#.       Enable userinfo in message view.
+#. </span>
+msgid "help_show_userinfo"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_show_wizards">
+#.       Enable wizards in various edit forms.
+#. </span>
+msgid "help_show_wizards"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="help_text_format">
+#. 	If you don't understand the other options leave this set to Plain Text.
+#. </div>
+msgid "help_text_format"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_topic_noreplies_mark">
+#.       How many days after which  mark topic as with no replies.
+#. </span>
+msgid "help_topic_noreplies_mark"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_topic_page_size">
+#.       Number of replies on page.
+#. </span>
+msgid "help_topic_page_size"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_view_mode">
+#.       View mode used in topic(message) view.
+#. </span>
+msgid "help_view_mode"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_views_counter">
+#.       Use Views counter. Disable for high load sites.
+#. </span>
+msgid "help_views_counter"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="help_wysiwyg_editor">
+#.       Forum managers can restrict text editor to text area editor.
+#. </span>
+msgid "help_wysiwyg_editor"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a i18n:attributes="title" i18n:translate="label_EMail" tal:attributes="href string:     ${here/absolute_url}/forum_contact_member_form?member_id=$member_id" title="Send email">
+#. 				E-Mail
+#. </a>
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <th i18n:translate="label_EMail">
+#.  E-Mail
+#. </th>
+msgid "label_EMail"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="off_sticky" i18n:translate="label_No">
+#.  No
+#. </label>
+msgid "label_No"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="off_parsing" i18n:translate="label_Off">
+#.  Off
+#. </label>
+msgid "label_Off"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="on_parsing" i18n:translate="label_On">
+#.  On
+#. </label>
+msgid "label_On"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="on_sticky" i18n:translate="label_Yes">
+#.  Yes
+#. </label>
+msgid "label_Yes"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_aim">
+#. 	      AIM
+#. </label>
+msgid "label_aim"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_aim_address">
+#.  AIM Address
+#. </td>
+msgid "label_aim_address"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_allow_anon_names">
+#.       Allow anonymous users to specify their name
+#. </span>
+msgid "label_allow_anon_names"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <label for="ofnb" i18n:translate="label_allow_outside_forumnb">
+#. 	      Allow creation of ForumNB outside of &quot;Forum Folder&quot;
+#. </label>
+msgid "label_allow_outside_forumnb"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_allow_signatures">
+#.       Allow member signatures
+#. </span>
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <label i18n:translate="label_allow_signatures">
+#.  Allow member signatures
+#. </label>
+msgid "label_allow_signatures"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_allow_subscription">
+#.       Allow subscription
+#. </span>
+msgid "label_allow_subscription"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_allow_topic_subscription">
+#.       Allow topic subscription
+#. </span>
+msgid "label_allow_topic_subscription"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <strong i18n:translate="label_announcement">
+#.  Announcement
+#. </strong>
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <tal:block i18n:translate="label_announcement" tal:condition="python:review_state == 'announce'">
+#.  Announcement
+#. </tal:block>
+msgid "label_announcement"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_edit.cpt
+#. <label for="answers" i18n:translate="label_answers">
+#.  Answers
+#. </label>
+msgid "label_answers"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label i18n:translate="label_authorname">
+#. 	  Author name or nickname
+#. </label>
+msgid "label_authorname"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_autosubscribe">
+#. 	      Auto subscribe to my topic
+#. </label>
+msgid "label_autosubscribe"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <a class="link-parent" href="" i18n:translate="label_back_to" tal:attributes="href  here/absolute_url">
+#. 	Back to &quot;
+#.  ${title}
+#.  &quot;
+#. </a>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a class="link-parent" href="" i18n:translate="label_back_to" tal:attributes="href      here/absolute_url">
+#. 	    Back to &quot;
+#.  ${title}
+#.  &quot;
+#. </a>
+msgid "label_back_to"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a href="#" i18n:translate="label_big" onclick="javascript:wizard('size','edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  Big
+#. </a>
+msgid "label_big"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <label i18n:translate="label_body_text">
+#.  Body text
+#. </label>
+#: ../skins/cmfboard/forum_contact_member_form.cpt
+#. <label for="text" i18n:translate="label_body_text">
+#.  Body text
+#. </label>
+## 2 more: ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_message_edit_widgets.pt
+msgid "label_body_text"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a class="bold" href="#" i18n:translate="label_bold" onclick="javascript:wizard('bold','edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  Bold
+#. </a>
+msgid "label_bold"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_by">
+#.  By
+#. </tal:block>
+## 1 more: ../skins/cmfboard/forum_folder_view.pt
+msgid "label_by"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a href="#" i18n:translate="label_code" onclick="javascript:wizard('code','edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  code
+#. </a>
+msgid "label_code"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt
+#. <tal:block i18n:translate="label_comments">
+#.  Comments
+#. </tal:block>
+#: ../skins/cmfboard/forum_quickreply_form.pt
+#. <label for="comments" i18n:translate="label_comments">
+#. 		  Comments
+#. </label>
+msgid "label_comments"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <tal:block i18n:translate="label_contact_moderator">
+#. 		Contact Moderator
+#. </tal:block>
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "label_contact_moderator"
+msgstr ""
+
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <th i18n:translate="label_content">
+#.  Content
+#. </th>
+msgid "label_content"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_default_forum_vm">
+#. 		Default forum view mode
+#. </label>
+msgid "label_default_forum_vm"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_default_topic_sm">
+#. 	      Default topic sort mode
+#. </label>
+msgid "label_default_topic_sm"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_default_topic_vm">
+#. 		Default topic view mode
+#. </label>
+msgid "label_default_topic_vm"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blogentry_links.pt
+#. <a i18n:translate="label_delete" tal:attributes="href actions/delete" tal:condition="actions/delete|nothing">
+#.  Delete
+#. </a>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <tal:block i18n:translate="label_delete">
+#.  Delete
+#. </tal:block>
+## 2 more: ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt
+msgid "label_delete"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <td i18n:translate="label_dtool_forum">
+#.  Default forum
+#. </td>
+msgid "label_dtool_forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <tal:block i18n:translate="label_edit">
+#.  Edit
+#. </tal:block>
+#: ../skins/cmfboard/cmfboardBlog/forum_blogentry_links.pt
+#. <a i18n:translate="label_edit" tal:attributes="href actions/edit" tal:condition="actions/edit|nothing">
+#.  Edit
+#. </a>
+## 2 more: ../skins/cmfboard/forum_message_widgets.pt, ../skins/cmfboard/forum_poll_edit.cpt
+msgid "label_edit"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_editable_forum">
+#.       Users can edit their posts?
+#. </span>
+msgid "label_editable_forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a href="#" i18n:translate="label_email" onclick="javascript:wizard('email', 'edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  EMail
+#. </a>
+msgid "label_email"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <th i18n:translate="label_email_address">
+#.  Email Address
+#. </th>
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_email_address" value="email">
+#. 		    Email Address
+#. </option>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_email_address">
+#.  E-mail address
+#. </td>
+msgid "label_email_address"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_emailstome">
+#. 	      Other members can send emails to me
+#. </label>
+msgid "label_emailstome"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label i18n:translate="label_emoticons">
+#.  Emotion icons
+#. </label>
+msgid "label_emoticons"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="file" i18n:translate="label_file">
+#.  File
+#. </label>
+msgid "label_file"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_file_size">
+#.       Max file size (bytes)
+#. </span>
+msgid "label_file_size"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <strong i18n:translate="label_for_manager">
+#.  For manager
+#. </strong>
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <tal:block i18n:translate="label_for_manager" tal:condition="python:review_state == 'admin'">
+#.  For manager
+#. </tal:block>
+msgid "label_for_manager"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="text_text_format" i18n:translate="label_format">
+#.  Text Format
+#. </label>
+msgid "label_format"
+msgstr ""
+
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <th i18n:translate="label_forum" id="forum" scope="col">
+#.  Forum
+#. </th>
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <th i18n:translate="label_forum">
+#.  Forum
+#. </th>
+## 2 more: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt, ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+msgid "label_forum"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_forum_folder_icon">
+#.       Forum folder icon
+#. </span>
+msgid "label_forum_folder_icon"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_forum_icon">
+#.       Forum icon
+#. </span>
+msgid "label_forum_icon"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <tal:block i18n:translate="label_forum_message">
+#.  Forum Message
+#. </tal:block>
+msgid "label_forum_message"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_forum_page_size">
+#.       Forum page size
+#. </span>
+msgid "label_forum_page_size"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <td i18n:translate="label_group" tal:condition="python:lrole[2]=='group'">
+#.               Group
+#. </td>
+msgid "label_group"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_userinfo.pt
+#. <a i18n:attributes="title" i18n:translate="label_homepage" tal:attributes="href props/homepage" target="_blank" title="Visit user homepage">
+#. 	  Homepage
+#. </a>
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_homepage">
+#. 	      My Homepage
+#. </label>
+## 1 more: ../skins/cmfboard/forum_message_template.pt
+msgid "label_homepage"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_hot_topic_views">
+#.       Hot topic 'Views'
+#. </span>
+msgid "label_hot_topic_views"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="label_html" tal:attributes="selected python:format=='html'" value="html">
+#.  HTML
+#. </option>
+msgid "label_html"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_ichat">
+#. 	      iChat
+#. </label>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_ichat">
+#.  iChat
+#. </td>
+msgid "label_ichat"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_icq">
+#. 	      ICQ
+#. </label>
+msgid "label_icq"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_icq_number">
+#.  ICQ Number
+#. </td>
+msgid "label_icq_number"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a href="#" i18n:translate="label_image" onclick="javascript:wizard('image', 'edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  Image
+#. </a>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="image" i18n:translate="label_image">
+#.  Image
+#. </label>
+msgid "label_image"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_image_size">
+#.       Max image size (bytes)
+#. </span>
+msgid "label_image_size"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <a i18n:translate="label_import_export" tal:attributes="href string:$portal_url/forum_import_export_form">
+#. 	Import/Export
+#. </a>
+msgid "label_import_export"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <h2 i18n:translate="label_information">
+#.  Information
+#. </h2>
+msgid "label_information"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_interests">
+#. 	      Interests
+#. </label>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_interests">
+#.  Interests
+#. </td>
+msgid "label_interests"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a class="italic" i18n:translate="label_italic" onclick="javascript:wizard('italic','edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  Italic
+#. </a>
+msgid "label_italic"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_jabber">
+#. 	      Jabber
+#. </label>
+msgid "label_jabber"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_jabber_address">
+#.  Jabber Address
+#. </td>
+msgid "label_jabber_address"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <strong i18n:translate="label_jump_to">
+#.  Jump to
+#. </strong>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <span i18n:translate="label_jump_to">
+#.  Jump to
+#. </span>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <label for="jumpto" i18n:translate="label_jump_to">
+#.  Jump to
+#. </label>
+## 2 more: ../skins/cmfboard/forum_widgets.pt, ../skins/cmfboard/forum_widgets.pt
+msgid "label_jump_to"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_last_login_time">
+#.  Last login time
+#. </td>
+msgid "label_last_login_time"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_last_post">
+#.  Last Post
+#. </td>
+msgid "label_last_post"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <th i18n:translate="label_last_update" id="lastpost" scope="col">
+#.  Last Updated
+#. </th>
+## 2 more: ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_folder_view.pt
+msgid "label_last_update"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_view.pt
+#. <span i18n:translate="label_lastreply">
+#.  Last reply:
+#. </span>
+msgid "label_lastreply"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a href="#" i18n:translate="label_link" onclick="javascript:wizard('link', 'edit_form');return false;" tal:attributes="href string:${request/URL0}#;">
+#.  Link
+#. </a>
+msgid "label_link"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <div class="label" i18n:translate="label_localrole_to_assign">
+#. 		Role to assign
+#. </div>
+msgid "label_localrole_to_assign"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_location">
+#. 	      Location
+#. </label>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_location">
+#.  Location
+#. </td>
+msgid "label_location"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_mail_format">
+#. 	      Mail Format
+#. </label>
+msgid "label_mail_format"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_manage" value="0">
+#.  User can manage forum and other users
+#. </option>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_manage"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <div class="formHelp" i18n:translate="label_message_icon">
+#. 	  Message icon
+#. </div>
+msgid "label_message_icon"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_moderated">
+#.  Moderated forum?
+#. </span>
+msgid "label_moderated"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <a i18n:translate="label_more_ei" tal:attributes="onclick string:window.open('$portal_url/forum_icons', '',      'width=300, height=350, scrollbars=yes');">
+#. 	    More...
+#. </a>
+msgid "label_more_ei"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_msn">
+#. 	      MSN
+#. </label>
+msgid "label_msn"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_msn_messenger">
+#.  MSN Messeger
+#. </td>
+msgid "label_msn_messenger"
+msgstr ""
+
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <td i18n:translate="label_n_a" tal:condition="not:forum/hits_counter">
+#.  n/a
+#. </td>
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <tal:block condition="not:forum/last_mtime" i18n:translate="label_n_a">
+#.  n/a
+#. </tal:block>
+msgid "label_n_a"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <th i18n:translate="label_name">
+#.  Name
+#. </th>
+msgid "label_name"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_topic.cpt
+#. <a i18n:translate="label_new_topic" tal:attributes="href data/new_topic_url">
+#. 	    New topic
+#. </a>
+## 1 more: ../skins/cmfboard/forum_topic.cpt
+msgid "label_new_topic"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="label_newer_first" tal:attributes="selected     python:vm=='newer_first'" value="newer_first">
+#.  Newer first
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="label_newer_first" tal:attributes="href        string:${topic/absolute_url}/forum_change_sort_mode?mode=newer_first">
+#. 		    Newer first
+#. </a>
+## 1 more: ../skins/cmfboard/forum_topic_menu_portlet.pt
+msgid "label_newer_first"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_topic.cpt
+#. <a i18n:translate="label_next_topic" tal:attributes="href data/next_topic_url|nothing; title data/next_topic_title|nothing" tal:omit-tag="not:data/next_topic_url|nothing">
+#. 	  Next topic
+#. </a>
+## 1 more: ../skins/cmfboard/forum_topic.cpt
+msgid "label_next_topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="no_icon" i18n:translate="label_no_icon">
+#. 	    No icon
+#. </label>
+msgid "label_no_icon"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_occupation">
+#. 	      Occupation
+#. </label>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_occupation">
+#.  Occupation
+#. </td>
+msgid "label_occupation"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="label_older_first" tal:attributes="selected     python:vm=='older_first'" value="older_first">
+#.  Older first
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="label_older_first" tal:attributes="href       string:${topic/absolute_url}/forum_change_sort_mode?mode=older_first">
+#. 		    Older first
+#. </a>
+## 1 more: ../skins/cmfboard/forum_topic_menu_portlet.pt
+msgid "label_older_first"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <label i18n:translate="label_only_published">
+#. 	      Only for published content
+#. </label>
+msgid "label_only_published"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="label_option_no" tal:attributes="selected python:tz==''" value="">
+#.  ---- No ---
+#. </option>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <option i18n:translate="label_option_no" tal:attributes="selected         python:(not sigs) and (signature!=0)" value="0">
+#.  ---- No ---
+#. </option>
+msgid "label_option_no"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_mtemplates.pt
+#. <span i18n:translate="label_original">
+#.  original
+#. </span>
+msgid "label_original"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <th i18n:translate="label_originator" id="originator" scope="col">
+#.  Originator
+#. </th>
+msgid "label_originator"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_pages">
+#.  pages
+#. </tal:block>
+## 1 more: ../skins/cmfboard/forum_topic_view.pt
+msgid "label_pages"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_parsing_flag">
+#.       Emoticons
+#. </span>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label i18n:translate="label_parsing_flag">
+#. 	  Emoticons
+#. </label>
+msgid "label_parsing_flag"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <div class="label" i18n:translate="label_permissions">
+#.  Permissions
+#. </div>
+msgid "label_permissions"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="label_plain" tal:attributes="selected python:format=='plain'" value="plain">
+#.  Plain
+#. </option>
+msgid "label_plain"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_pm">
+#.  Private Message
+#. </td>
+msgid "label_pm"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <span i18n:translate="label_poll_is_closed" tal:condition="not:here/isOpen">
+#.  This poll is closed
+#. </span>
+msgid "label_poll_is_closed"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <a href="forum_add_announcement_form" i18n:translate="label_post_announcement" onmouseup="if (activeButton != null) resetButton(activeButton);" tal:attributes="href string:$here_url/forum_add_announcement_form">
+#. 		Post announcement
+#. </a>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="label_post_announcement">
+#.  Post announcement
+#. </tal:block>
+msgid "label_post_announcement"
+msgstr ""
+
+#: ../skins/cmfboard/forum_widgets.pt
+#. <span i18n:translate="label_post_item">
+#.  Post new item
+#. </span>
+msgid "label_post_item"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <a href="forum_add_poll_form" i18n:translate="label_post_new_poll" onmouseup="if (activeButton != null) resetButton(activeButton);" tal:attributes="href string:$here_url/forum_add_poll_form">
+#. 		Post new poll
+#. </a>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="label_post_new_poll">
+#.  Post new poll
+#. </tal:block>
+msgid "label_post_new_poll"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a href="forum_add_topic_form" i18n:translate="label_post_new_topic" onmouseup="if (activeButton != null) resetButton(activeButton);" tal:attributes="href string:$here_url/forum_add_topic_form">
+#. 	  Post new topic
+#. </a>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <tal:block i18n:translate="label_post_new_topic">
+#.  Post new topic
+#. </tal:block>
+## 2 more: ../skins/cmfboard/forumnb_view.pt, ../skins/cmfboard/forum_widgets.pt
+msgid "label_post_new_topic"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_posts">
+#.  Posts
+#. </tal:block>
+## 2 more: ../skins/cmfboard/forum_message_userinfo.pt, ../skins/cmfboard/forum_message_template.pt
+msgid "label_posts"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_topic.cpt
+#. <a i18n:translate="label_prev_topic" tal:attributes="href data/prev_topic_url|nothing; title data/prev_topic_title|nothing" tal:omit-tag="not:data/prev_topic_url|nothing">
+#. 	  Prev topic
+#. </a>
+## 1 more: ../skins/cmfboard/forum_topic.cpt
+msgid "label_prev_topic"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_edit.cpt
+#. <label for="question" i18n:translate="label_question">
+#.  Question
+#. </label>
+msgid "label_question"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_quickreply_form">
+#.       Quick reply form
+#. </span>
+msgid "label_quickreply_form"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_widgets.pt
+#. <a href="#" i18n:translate="label_quote" tal:attributes="onclick actions/quote">
+#.  Quote
+#. </a>
+msgid "label_quote"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_reader" value="4">
+#.  User can read forum
+#. </option>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_reader"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <a i18n:translate="label_register_now" tal:attributes="href string:$portal_url/join_form" tal:condition="python: checkPermission('Add portal member', here)">
+#.  Register now.
+#. </a>
+## 5 more: ../skins/cmfboard/cmfboard-1X/forum_topic.cpt, ../skins/cmfboard/cmfboard-1X/forum_message.cpt, ../skins/cmfboard/forumnb_view.pt, ../skins/cmfboard/forum_topic.cpt, ../skins/cmfboard/forum_message.cpt
+msgid "label_register_now"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_replier" value="3">
+#.  User can reply to topic
+#. </option>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_replier"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_replies">
+#.  Replies
+#. </tal:block>
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <th i18n:translate="label_replies" id="replies" scope="col">
+#.  Replies
+#. </th>
+## 5 more: ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forumnb_view.pt
+msgid "label_replies"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blogentry_links.pt
+#. <a href="#" i18n:translate="label_reply" tal:attributes="href actions/reply" tal:condition="not:exists:external_reply">
+#.  Reply
+#. </a>
+## 1 more: ../skins/cmfboard/forum_message_widgets.pt
+msgid "label_reply"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <span class="fieldRequired" i18n:attributes="title" i18n:translate="label_required" title="Required">
+#.  (Required)
+#. </span>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <span class="fieldRequired" i18n:attributes="title" i18n:translate="label_required" tal:condition="python:data['allow_anon_names']=='required'" title="Required">
+#.  (Required)
+#. </span>
+## 10 more: ../skins/cmfboard/forum_contact_member_form.cpt, ../skins/cmfboard/forum_contact_member_form.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_send_message_form.cpt, ../skins/cmfboard/forum_quickreply_form.pt, ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt
+msgid "label_required"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_reviewer" value="1">
+#.  User can edit topics and replies
+#. </option>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_reviewer"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <span i18n:translate="label_role" tal:content="role" tal:omit-tag="">
+#.  Role
+#. </span>
+msgid "label_role"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <th i18n:translate="label_roles">
+#.  Role(s)
+#. </th>
+msgid "label_roles"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <div class="label" i18n:translate="label_search_by">
+#. 		Search by
+#. </div>
+msgid "label_search_by"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <div class="label" i18n:translate="label_search_term">
+#. 		Search Term
+#. </div>
+msgid "label_search_term"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <label for="import_file" i18n:translate="label_select_file_import">
+#. 		    Select file for import
+#. </label>
+msgid "label_select_file_import"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <label for="forum_folder" i18n:translate="label_select_folder">
+#. 		Select Forum Folder
+#. </label>
+msgid "label_select_folder"
+msgstr ""
+
+#: ../skins/cmfboard/forum_widgets.pt
+#. <option i18n:translate="label_select_forum" selected="selected" value="">
+#. 	  Select Forum
+#. </option>
+msgid "label_select_forum"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <a i18n:attributes="title" i18n:translate="label_send" tal:attributes="href          string:${here/absolute_url}/forum_send_message_form?member_id=$member_id" title="Private message">
+#.  Send
+#. </a>
+msgid "label_send"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_show_email">
+#. 	      Show my email contact
+#. </label>
+msgid "label_show_email"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_show_fullname">
+#. 	      Show my Fullname in forums
+#. </label>
+msgid "label_show_fullname"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_show_im">
+#. 	      Show my IM contact
+#. </label>
+msgid "label_show_im"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_show_message_icons">
+#.       Show message icons
+#. </span>
+msgid "label_show_message_icons"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_show_read_status">
+#.       Show topic read status
+#. </span>
+msgid "label_show_read_status"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_show_userinfo">
+#.       Show userinfo
+#. </span>
+msgid "label_show_userinfo"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_show_wizards">
+#.       Show wizards
+#. </span>
+msgid "label_show_wizards"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_signature">
+#. 	    Signature
+#. </label>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="signatures" i18n:translate="label_signature">
+#.  Signature
+#. </label>
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <tal:block i18n:translate="label_signature">
+#.  Signature
+#. </tal:block>
+## 2 more: ../skins/cmfboard/forum_message_edit_widgets.pt, ../skins/cmfboard/forum_message_edit_widgets.pt
+msgid "label_signature"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <span i18n:translate="label_sort_order">
+#.  Sort order
+#. </span>
+#: ../skins/cmfboard/forum_topic_menu_portlet.pt
+#. <strong i18n:translate="label_sort_order">
+#.  Sort order
+#. </strong>
+msgid "label_sort_order"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="sticky_flag" i18n:translate="label_sticky_flag">
+#.  Sticky?
+#. </label>
+msgid "label_sticky_flag"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_admin_form.cpt
+#. <label i18n:translate="label_subject">
+#.  Subject
+#. </label>
+#: ../skins/cmfboard/forum_contact_member_form.cpt
+#. <label for="title" i18n:translate="label_subject">
+#.  Subject
+#. </label>
+## 1 more: ../skins/cmfboard/forum_send_message_form.cpt
+msgid "label_subject"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <tal:block i18n:translate="label_subscribe">
+#.  Subscribe
+#. </tal:block>
+## 3 more: ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forum_topic_menu_portlet.pt, ../skins/cmfboard/forum_widgets.pt
+msgid "label_subscribe"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_text_size">
+#.       Max text size (bytes)
+#. </span>
+msgid "label_text_size"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_timezone">
+#. 	    Timezone
+#. </label>
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_timezone">
+#.  Timezone
+#. </td>
+msgid "label_timezone"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label for="title" i18n:translate="label_title">
+#. 	  Title
+#. </label>
+msgid "label_title"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_topic_noreplies_mark">
+#.       Topic with 'No replies'
+#. </span>
+msgid "label_topic_noreplies_mark"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_topic_page_size">
+#.       Topic page size
+#. </span>
+msgid "label_topic_page_size"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <th i18n:translate="label_topic_title" id="topic" scope="col">
+#.  Topic Title
+#. </th>
+msgid "label_topic_title"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_topics">
+#.  Topics
+#. </tal:block>
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <th i18n:translate="label_topics" id="topics" scope="col">
+#.  Topics
+#. </th>
+## 2 more: ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forumnb_view.pt
+msgid "label_topics"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_total_posts">
+#.  Total posts
+#. </td>
+msgid "label_total_posts"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <td colspan="3" i18n:translate="label_total_votes">
+#.  Total number of votes:
+#.  ${total}
+#. </td>
+msgid "label_total_votes"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <th i18n:translate="label_type">
+#.  Type
+#. </th>
+## 2 more: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt, ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_type"
+msgstr ""
+
+#: ../skins/cmfboard/forum_menu_portlet.pt
+#. <tal:block i18n:translate="label_unsubscribe">
+#.  Unsubscribe
+#. </tal:block>
+## 5 more: ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forum_topic_menu_portlet.pt, ../skins/cmfboard/forum_topic_menu_portlet.pt, ../skins/cmfboard/forum_widgets.pt
+msgid "label_unsubscribe"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <a class="link-parent" i18n:translate="label_up_to_cmfboard_conf" tal:attributes="href string: $portal_url/prefs_cmfboard_form">
+#. 	      Up to CMFBoard configuration
+#. </a>
+msgid "label_up_to_cmfboard_conf"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <label i18n:translate="label_use_cmfboard_tool">
+#. 	      Use CMFBoard Discussion tool
+#. </label>
+msgid "label_use_cmfboard_tool"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <option i18n:translate="label_use_default" value="">
+#. 			  Use default
+#. </option>
+msgid "label_use_default"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <td i18n:translate="label_user" tal:condition="python:lrole[2]=='user'">
+#.               User
+#. </td>
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <th i18n:translate="label_user">
+#.  User
+#. </th>
+msgid "label_user"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <th i18n:translate="label_user_group_name">
+#.  User/Group name
+#. </th>
+msgid "label_user_group_name"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <th i18n:translate="label_user_name">
+#.  User Name
+#. </th>
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_user_name" value="username">
+#. 		    User Name
+#. </option>
+msgid "label_user_name"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_message_old.pt
+#. <tal:block condition="not:info/filename" i18n:translate="label_view_attached_file">
+#. 		    view attached file
+#. </tal:block>
+## 4 more: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt, ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_message_template.pt, ../skins/cmfboard/forum_message_flat.pt
+msgid "label_view_attached_file"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_message_old.pt
+#. <tal:block i18n:translate="label_view_attached_image">
+#. 		    view attached image
+#. </tal:block>
+## 4 more: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt, ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_message_template.pt, ../skins/cmfboard/forum_message_flat.pt
+msgid "label_view_attached_image"
+msgstr ""
+
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <span i18n:translate="label_view_mode">
+#.  View mode
+#. </span>
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_view_mode">
+#.       Default view mode
+#. </span>
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "label_view_mode"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_view_mode_selectable">
+#.       Allow members to select forum view mode
+#. </span>
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <label i18n:translate="label_view_mode_selectable">
+#. 	      Allow member select view mode
+#. </label>
+msgid "label_view_mode_selectable"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="label_views">
+#.  Views
+#. </tal:block>
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <th i18n:translate="label_views" id="views" scope="col" tal:condition="hits_counter">
+#.  Views
+#. </th>
+#: ../skins/cmfboard/forum_folder_view.pt
+#. <th i18n:translate="label_views" id="views" scope="col">
+#.  Views
+#. </th>
+## 5 more: ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_folder_view.pt, ../skins/cmfboard/forum_topic_widgets.pt, ../skins/cmfboard/forumnb_view.pt
+msgid "label_views"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_views_counter">
+#.       Views counter
+#. </span>
+msgid "label_views_counter"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_website">
+#.  Website
+#. </td>
+msgid "label_website"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_who_can_attache_reply">
+#.       Who can make attachements to Reply
+#. </span>
+msgid "label_who_can_attache_reply"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_who_can_attache_topic">
+#.       Who can make attachements to Topic
+#. </span>
+msgid "label_who_can_attache_topic"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_who_can_create_polls">
+#.       Who can create polls
+#. </span>
+msgid "label_who_can_create_polls"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <label i18n:translate="label_wizards">
+#.  Wizards
+#. </label>
+msgid "label_wizards"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <option i18n:translate="label_writer" value="2">
+#.  User can add new topic
+#. </option>
+## 1 more: ../skins/cmfboard/forum_user_permissions.pt
+msgid "label_writer"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="label_wysiwyg_editor">
+#.       Default wysiwyg editor
+#. </span>
+msgid "label_wysiwyg_editor"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <label i18n:translate="label_yahoo">
+#. 	      Yahoo
+#. </label>
+msgid "label_yahoo"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <td class="header" i18n:translate="label_yahoo_messenger">
+#.  Yahoo Messenger
+#. </td>
+msgid "label_yahoo_messenger"
+msgstr ""
+
+#: ../skins/cmfboard/forum_subscribers_form.pt
+#. <legend i18n:translate="lagend_details">
+#.  Details
+#. </legend>
+msgid "lagend_details"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <legend i18n:translate="lagend_import">
+#. 		Import
+#. </legend>
+msgid "lagend_import"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit_widgets.pt
+#. <legend i18n:translate="lagend_message_preview">
+#.  Message Preview
+#. </legend>
+msgid "lagend_message_preview"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <span class="legend" i18n:translate="legend_assigned_roles">
+#.         Assigned Roles
+#.  ${folder}
+#. </span>
+msgid "legend_assigned_roles"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <span class="legend" i18n:translate="legend_available_groups">
+#. 	      Available Groups
+#. </span>
+msgid "legend_available_groups"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <span class="legend" i18n:translate="legend_available_members">
+#. 	      Available Members
+#. </span>
+msgid "legend_available_members"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_form.cpt
+#. <legend i18n:translate="legend_cmfboard_details">
+#.  CMFBorad Details
+#. </legend>
+msgid "legend_cmfboard_details"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <legend i18n:translate="legend_cmfboard_dtool">
+#. 	  CMFBoard Discussion Tool
+#. </legend>
+msgid "legend_cmfboard_dtool"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <legend i18n:translate="legend_contact_details">
+#. 	    Contact Details
+#. </legend>
+msgid "legend_contact_details"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_profile.pt
+#. <h2 i18n:translate="legend_contact_information">
+#.  Contact information
+#. </h2>
+msgid "legend_contact_information"
+msgstr ""
+
+#: ../skins/cmfboard/forum_message_edit.cpt
+#. <legend i18n:translate="legend_details">
+#.  Details
+#. </legend>
+## 4 more: ../skins/cmfboard/forum_contact_admin_form.cpt, ../skins/cmfboard/forum_contact_member_form.cpt, ../skins/cmfboard/forum_poll_edit.cpt, ../skins/cmfboard/forum_send_message_form.cpt
+msgid "legend_details"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_cmfboard_dtool_form.pt
+#. <legend i18n:translate="legend_dtool_details">
+#. 	    Discussion tool details
+#. </legend>
+msgid "legend_dtool_details"
+msgstr ""
+
+#: ../skins/cmfboard/forum_import_export_form.pt
+#. <legend i18n:translate="legend_export">
+#. 		Export
+#. </legend>
+msgid "legend_export"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <legend i18n:translate="legend_forum_details">
+#. 	    Forum details
+#. </legend>
+msgid "legend_forum_details"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <legend i18n:translate="legend_my_information">
+#. 	    My information
+#. </legend>
+msgid "legend_my_information"
+msgstr ""
+
+#: ../skins/cmfboard/forum_quickreply_form.pt
+#. <legend i18n:translate="legend_quickreply_form">
+#. 	  Quick reply
+#. </legend>
+msgid "legend_quickreply_form"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_topic_thread.pt
+#. <h4 i18n:translate="legend_replies_to_this_comment">
+#. 	      Replies to this comment
+#. </h4>
+#: ../skins/cmfboard/forum_message_delete_form.pt
+#. <div class="repliesText" i18n:translate="legend_replies_to_this_comment">
+#. 		Replies to this comment
+#. </div>
+## 3 more: ../skins/cmfboard/forum_topic_thread.pt, ../skins/cmfboard/forum_topic_view.pt, ../skins/cmfboard/forum_message_delete_form.pt
+msgid "legend_replies_to_this_comment"
+msgstr ""
+
+#: ../skins/cmfboard/forum_reply_form.cpt
+#. <legend i18n:translate="legend_reply_form">
+#. 	  Reply form
+#. </legend>
+## 1 more: ../skins/cmfboard/forum_blog_widget.pt
+msgid "legend_reply_form"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <span class="legend" i18n:translate="legend_search_terms">
+#. 	      Search Terms
+#. </span>
+msgid "legend_search_terms"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <legend i18n:translate="legend_signatures">
+#.  Signatures
+#. </legend>
+msgid "legend_signatures"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="locked">
+#.  locked
+#. </span>
+msgid "locked"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt
+#. <table class="messageTable" i18n:attributes="summary" summary="message body">
+msgid "message body"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="nested" tal:attributes="selected python:vm=='nested'" value="nested">
+#.  Nested
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="nested" tal:attributes="href        string:$here_url/forum_change_view_mode?mode=nested">
+#. 		    Nested
+#. </a>
+msgid "nested"
+msgstr ""
+
+#: ../skins/cmfboard/forum_user_permissions.pt
+#. <p i18n:translate="no_members_found">
+#. 	    No members were found using your
+#.  <strong>
+#.   Search Criteria
+#.  </strong>
+#. </p>
+msgid "no_members_found"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt
+#. <tal:block i18n:translate="posted_by">
+#.  Posted by
+#. </tal:block>
+msgid "posted_by"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboardBlog/forum_blog_entry.pt
+#. <tal:block i18n:translate="posted_on">
+#.  at
+#. </tal:block>
+msgid "posted_on"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="private">
+#.  private
+#. </span>
+msgid "private"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="published">
+#.  published
+#. </span>
+msgid "published"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="rejected">
+#.  rejected
+#. </span>
+msgid "rejected"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <strong class="small" i18n:translate="text_already_voted" tal:condition="python:vote_answer and can_vote">
+#.  You already voted :
+#.  ${answer}
+#. </strong>
+msgid "text_already_voted"
+msgstr ""
+
+#: ../skins/cmfboard/forum_reply_form.cpt
+#. <h3 i18n:translate="text_locked_flag_ovveride" style="text-align:center;" tal:condition="python:review_state=='locked'">
+#. 	Reviewer Locked Flag Override in Effect,
+#. 	You can respond to this thread even though
+#. 	locked flag is set
+#. </h3>
+msgid "text_locked_flag_ovveride"
+msgstr ""
+
+#: ../skins/cmfboard/forum_quickreply_widget.pt
+#. <h5 i18n:translate="text_locked_flag_ovveride_description" style="text-align:center;" tal:condition="python:wf_state=='locked'">
+#.  Reviewer Locked Flag Override in Effect, You can respond to this thread even though locked flag is set
+#. </h5>
+msgid "text_locked_flag_ovveride_description"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forumnb_view.pt
+#. <tal:block i18n:translate="text_no_entries_found">
+#. 	  No Entries Found
+#. </tal:block>
+## 1 more: ../skins/cmfboard/forumnb_view.pt
+msgid "text_no_entries_found"
+msgstr ""
+
+#: ../skins/cmfboard/cmfboard-1X/forum_topic_flat.pt
+#. <h5 i18n:translate="text_no_replies" style="text-align:center;">
+#. 	  This topic contains no replies
+#. </h5>
+## 3 more: ../skins/cmfboard/forum_topic_nested.pt, ../skins/cmfboard/forum_message_delete_form.pt, ../skins/cmfboard/forum_topic_flat.pt
+msgid "text_no_replies"
+msgstr ""
+
+#: ../skins/cmfboard/forum_poll_view.pt
+#. <span i18n:translate="text_poll_results" tal:condition="here/isOpen">
+#.  Current result of this poll
+#. </span>
+msgid "text_poll_results"
+msgstr ""
+
+#: ../skins/cmfboard/prefs_contact_info.pt
+#. <option i18n:translate="thread" tal:attributes="selected python:vm=='thread'" value="thread">
+#.  Thread
+#. </option>
+#: ../skins/cmfboard/forum_topic_widgets.pt
+#. <a i18n:translate="thread" tal:attributes="href        string:$here_url/forum_change_view_mode?mode=thread">
+#. 		    Thread
+#. </a>
+#: ../skins/cmfboard/forum_widgets.pt
+#. <a i18n:translate="thread" tal:attributes="href string:$here_url/forum_change_view_mode?mode=thread">
+#. 		    Thread
+#. </a>
+## 1 more: ../skins/cmfboard/forum_widgets.pt
+msgid "thread"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="visible">
+#.  visible
+#. </span>
+msgid "visible"
+msgstr ""
+
+#: ../skins/cmfboard/i18ndude_stub.pt
+#. <span i18n:translate="waitreview">
+#.  waitreview
+#. </span>
+msgid "waitreview"
+msgstr ""
+
+#: ../skins/cmfboard/forum_contact_member_form.cpt
+#. <div class="description" i18n:translate="warning_select_member" tal:condition="not:request/member_id|nothing">
+#.  You must select member
+#. </div>
+## 2 more: ../skins/cmfboard/forum_user_profile.pt, ../skins/cmfboard/forum_send_message_form.cpt
+msgid "warning_select_member"
+msgstr ""
+
+
