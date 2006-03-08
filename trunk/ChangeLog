@@ -1,3 +1,9 @@
+2006-03-09  Filip Miletic  <filip@cow.et.tudelft.nl>
+
+	* azureus/MessagesBundle.properties.po: Refined the translation.
+
+	* plone/archetypes-sr.po: Updated plone translation.
+
 2006-03-01  Filip Miletic  <f.miletic@tudelft.nl>
 
 	* azureus/MessagesBundle.properties.po: Updated for latest Azureus.

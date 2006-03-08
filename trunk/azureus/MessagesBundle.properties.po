@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2006-03-01 16:02\n"
-"PO-Revision-Date: 2006-02-17 17:31+01:00\n"
+"PO-Revision-Date: 2006-03-09 00:15+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -927,11 +927,11 @@ msgstr "%"
 
 #: FilesView.firstpiece
 msgid "First piece \\#"
-msgstr "Први део \\#"
+msgstr "Први део"
 
 #: FilesView.numberofpieces
 msgid "\\# of pieces"
-msgstr "\\# делова"
+msgstr "бр. делова"
 
 #: FilesView.pieces
 msgid ""
@@ -1109,7 +1109,7 @@ msgstr "Хеш :"
 
 #: GeneralView.label.numberofpieces
 msgid "\\# of Pieces :"
-msgstr "\\# делова"
+msgstr "Бр. делова"
 
 #: GeneralView.label.size
 msgid "Size :"
@@ -1197,7 +1197,7 @@ msgstr "Име:"
 msgid ""
 "_: PiecesView.#\n"
 "#"
-msgstr "#"
+msgstr "Бр."
 
 #: PiecesView.size
 msgid ""
@@ -1561,7 +1561,7 @@ msgstr "одбаченио"
 msgid ""
 "_: MyTorrentsView.#\n"
 "#"
-msgstr "#"
+msgstr "бр."
 
 #: MyTorrentsView.menu.move
 msgid "&Move"
@@ -3852,8 +3852,8 @@ msgid ""
 "This is usefully if you don't like seeing the Seeding Rank numbers, but "
 "still want to know the order that the completed torrents will start in."
 msgstr ""
-"Ако је укључен, редослед торента (колона „#“) ће бити промењена тако да "
-"одговара редоследу заметања"
+"Ако је укључен, редослед торента (колона „Бр.“) ће бити промењена тако да одговара редоследу заметања\n"
+"Ово је корисно ако не волите да видите редослед заметања, али и даље желите да знате редослед по коме ће торенти бити покретани."
 
 #: ConfigView.label.seeding.autoReposition
 msgid "Automatically reposition torrents based on Seeding Rank"
@@ -3986,7 +3986,7 @@ msgstr "Када торенти имају исти ред, бирај мање 
 
 #: ConfigView.label.seeding.rankType.none.tooltip
 msgid "Order based on # column"
-msgstr "Редослед је заснован на колони #"
+msgstr "Редослед је заснован на колони Бр."
 
 #: ConfigView.label.seeding.rankType.none
 msgid ""
@@ -5927,7 +5927,7 @@ msgstr "Из/у датотеку"
 msgid ""
 "_: CacheView.reads.#\n"
 "#"
-msgstr "#"
+msgstr "Бр."
 
 #: CacheView.reads.amount
 msgid "Amount"
