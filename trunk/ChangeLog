@@ -1,4 +1,11 @@
+2006-03-14  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: Updated to latest template
+	from the CVS
+
 2006-03-09  Filip Miletic  <filip@cow.et.tudelft.nl>
+
+	* azureus/Makefile: Updated to remove the final objects too.
 
 	* azureus/MessagesBundle.properties.po: Refined the translation.
 

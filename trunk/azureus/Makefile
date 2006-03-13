@@ -14,11 +14,11 @@ MSGMERGE=msgmerge
 source_object   := MessagesBundle.properties.po
 interim_object  := MessagesBundle.properties.native
 target_object_1 := MessagesBundle_sr_CS.properties.utf8
-target_object_2 := MessagesBundle_sh_YU.properties.utf8
+target_object_2 := MessagesBundle_sr_CS_Latin.properties.utf8
 template_object := MessagesBundle.properties
 pot_object      := MessagesBundle.properties.pot
 final_object_1  := MessagesBundle_sr_CS.properties
-final_object_2  := MessagesBundle_sh_YU.properties
+final_object_2  := MessagesBundle_sr_CS_Latin.properties
 merge_object    := MessagesBundle.properties.merge
 
 .PHONY: clean publish all pot
@@ -54,7 +54,7 @@ $(interim_object): $(source_object)
 	$(POTOMOZ) -t $(template_object) -i $< -o $@
 
 clean:
-	$(RM) $(target_object_1) $(target_object_2) $(interim_object) $(merge_object) semantic.cache *~
+	$(RM) $(target_object_1) $(target_object_2) $(interim_object) $(merge_object) $(final_object_1) $(final_object_2) semantic.cache *~
 
 publish: all
 	$(SCP) $(final_object_1) $(final_object_2) filip@cobalt.et.tudelft.nl:~/public_html/files/tran/azureus
