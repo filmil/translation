@@ -10,20 +10,31 @@ ATON=native2ascii -encoding UTF-8
 POTOMOZ=po2moz
 MOZ2PO=moz2po
 MSGMERGE=msgmerge
+TARGETDIR=/home/filip/work/prg/azureus2/org/gudy/azureus2/internat
+CVS=cvs
 
+# The template object
+template_object := MessagesBundle.properties
+
+# The source object from which everything is generated
 source_object   := MessagesBundle.properties.po
+
 interim_object  := MessagesBundle.properties.native
 target_object_1 := MessagesBundle_sr_CS.properties.utf8
 target_object_2 := MessagesBundle_sr_CS_Latin.properties.utf8
-template_object := MessagesBundle.properties
 pot_object      := MessagesBundle.properties.pot
-final_object_1  := MessagesBundle_sr_CS.properties
-final_object_2  := MessagesBundle_sr_CS_Latin.properties
 merge_object    := MessagesBundle.properties.merge
 
-.PHONY: clean publish all pot
+# The things that are obtained at the end
+final_object_1  := MessagesBundle_sr_CS.properties
+final_object_2  := MessagesBundle_sr_CS_Latin.properties
+
+.PHONY: clean publish all pot merge adopt_merge
 
 all: $(final_object_1) $(final_object_2)
+
+# Target that gets the template from the CVS and produces a new .PO file
+all_merge: get_template pot merge adopt_merge
 
 pot: $(pot_object)
 
@@ -31,6 +42,17 @@ merge: $(merge_object)
 
 adopt_merge: $(merge_object)
 	$(CP) $< $(source_object)
+
+clean:
+	$(RM) $(target_object_1) $(target_object_2) $(interim_object) $(merge_object) $(final_object_1) $(final_object_2) semantic.cache *~ $(pot_object)
+
+publish: $(final_object_1) $(final_object_2)
+	$(CP) $^ $(TARGETDIR)
+	(cd $(TARGETDIR) ; $(CVS) commit -m "Updated Serbian and Serbian Latin translations")
+
+get_template:
+	(cd $(TARGETDIR) ; $(CVS) update)
+	$(CP) $(TARGETDIR)/MessagesBundle.properties .
 
 $(merge_object): $(pot_object) $(source_object)
 	$(MSGMERGE) $(source_object) $(pot_object) -o $@
@@ -52,10 +74,4 @@ $(target_object_1): $(interim_object)
 
 $(interim_object): $(source_object)
 	$(POTOMOZ) -t $(template_object) -i $< -o $@
-
-clean:
-	$(RM) $(target_object_1) $(target_object_2) $(interim_object) $(merge_object) $(final_object_1) $(final_object_2) semantic.cache *~
-
-publish: all
-	$(SCP) $(final_object_1) $(final_object_2) filip@cobalt.et.tudelft.nl:~/public_html/files/tran/azureus
 

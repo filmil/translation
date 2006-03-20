@@ -1,3 +1,13 @@
+2006-03-18  Filip Miletic  <filmil@gmail.com>
+
+	* Опције->подешавања
+
+	* azureus/MessagesBundle.properties.po: Adjusted translation based
+	on 2.4.0.2
+
+	* azureus/Makefile: Added a target to fetch the updated file
+	automatically.
+
 2006-03-14  Filip Miletic  <filmil@gmail.com>
 
 	* azureus/MessagesBundle.properties.po: Updated to latest template

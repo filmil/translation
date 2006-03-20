@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-14 00:33+0100\n"
-"PO-Revision-Date: 2006-03-14 00:45+0100\n"
+"POT-Creation-Date: 2006-03-18 17:50+0100\n"
+"PO-Revision-Date: 2006-03-18 19:38+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 # There is a plugin to help with internationalizing these bundles at http://azureus.sourceforge.net/plugin_list.php
 #: MainWindow.menu.file.open.torrent
 msgid "Torrent File..."
-msgstr "Торент датотека..."
+msgstr "Торент датотеку..."
 
 #: MainWindow.menu.file.open.torrent.keybinding
 msgid "Meta+O"
@@ -142,7 +142,7 @@ msgstr "Meta+1"
 
 #: MainWindow.menu.view.configuration
 msgid "&Options..."
-msgstr "&Опције..."
+msgstr "&Подешавања..."
 
 #: MainWindow.menu.view.configuration.keybinding
 msgid "Meta+,"
@@ -324,11 +324,11 @@ msgstr "бр. рачунара на вези (ук. број рачунара)"
 
 #: MyTorrentsView.downspeed PeersView.downloadspeed
 msgid "Down Speed"
-msgstr "Брзина пријема"
+msgstr "Пријем"
 
 #: MyTorrentsView.upspeed PeersView.uploadspeed
 msgid "Up Speed"
-msgstr "Брзина слања"
+msgstr "Слање"
 
 # Процењено време доспећа
 #: MyTorrentsView.eta
@@ -640,7 +640,7 @@ msgstr "Освежавање података о обнови сваких"
 #: ConfigView.unlimited MyTorrentsView.menu.setSpeed.unlimited
 #: MyTorrents.items.UpSpeedLimit.unlimited
 msgid "Unlimited"
-msgstr "Неограничено"
+msgstr "Неограничена"
 
 #: ConfigView.section.display
 msgid "Display"
@@ -664,7 +664,7 @@ msgstr "Умањивање умањује у обавештајну зону"
 
 #: ConfigView.section.start iconBar.start.tooltip
 msgid "Start"
-msgstr "Крени"
+msgstr "Покретање"
 
 #: ConfigView.label.showsplash
 msgid "Show splash screen"
@@ -680,7 +680,7 @@ msgstr "Отвори конзолу при покретању"
 
 #: ConfigView.label.openconfig
 msgid "Open Options on startup"
-msgstr "Отвори опције при покретању"
+msgstr "Отвори подешавања при покретању"
 
 #: ConfigView.label.startminimized
 msgid "Start minimized"
@@ -763,7 +763,7 @@ msgstr "Сачувај"
 #: ConfigView.title.short ConfigView.title.full TorrentOptionsView.title.short
 #: TorrentOptionsView.title.full
 msgid "Options"
-msgstr "Опције"
+msgstr "Подешавања"
 
 #: ConsoleView.title.short ConsoleView.title.full
 msgid "Console"
@@ -771,7 +771,7 @@ msgstr "Конзола"
 
 #: FileItem.write
 msgid "write"
-msgstr "писање"
+msgstr "упис"
 
 #: FileItem.read
 msgid "read"
@@ -799,7 +799,7 @@ msgstr "бр. делова"
 
 #: FilesView.mode ConfigView.section.mode
 msgid "Mode"
-msgstr "Начин"
+msgstr "Начин рада"
 
 #: FilesView.menu.setpriority
 msgid "&Set Priority"
@@ -848,7 +848,7 @@ msgstr "Преузето :"
 
 #: GeneralView.label.downloadspeed
 msgid "Download Speed :"
-msgstr "Брзина преузимања :"
+msgstr "Брзина пријема :"
 
 #: GeneralView.label.maxuploads
 msgid "Upload Slots :"
@@ -864,7 +864,7 @@ msgstr "Предато :"
 
 #: GeneralView.label.uploadspeed
 msgid "Upload Speed :"
-msgstr "Брзина предавања :"
+msgstr "Брзина слања :"
 
 #: GeneralView.label.seeds
 msgid "Seeds :"
@@ -916,7 +916,7 @@ msgstr "Стање пратиоца :"
 
 #: GeneralView.label.updatein
 msgid "Update in :"
-msgstr "Освежење за:"
+msgstr "Освежавање за:"
 
 #: GeneralView.label.trackerurl
 msgid "Tracker URL :"
@@ -991,7 +991,7 @@ msgstr "Блокови"
 #: exportTorrentWizard.finish.title importTorrentWizard.finish.title
 #: MyTrackerView.completed
 msgid "Completed"
-msgstr "Готово"
+msgstr "Преузето"
 
 #: PiecesView.reservedby
 msgid "Reserved"
@@ -1204,7 +1204,7 @@ msgstr "Искључен са"
 
 #: IrcClient.noNick
 msgid "No Nickname Specified. Please go to 'Options' View"
-msgstr "Корисничко име није уписано. Молимо да га додате у поглед „Опције“"
+msgstr "Корисничко име није уписано. Молимо да га додате у погледу „Подешавања“"
 
 #: IrcView.actionnotsupported
 msgid "This action isn't supported"
@@ -1649,19 +1649,19 @@ msgstr "адсл/кабл xxx/1024 kbps"
 
 #: configureWizard.transfer.maxUpSpeed
 msgid "Max Up Speed (KB/s)"
-msgstr "Најв. брз. слања (KB/s)"
+msgstr "Највећа брзина слања (KB/s)"
 
 #: configureWizard.transfer.maxActiveTorrents
 msgid "Max Active"
-msgstr "Најв. активних"
+msgstr "Највише активних"
 
 #: configureWizard.transfer.maxDownloads
 msgid "Max Downloads"
-msgstr "Најв. преузимања"
+msgstr "Највише пријема"
 
 #: configureWizard.transfer.maxUploadsPerTorrent
 msgid "Max Uploads per Torrent"
-msgstr "Најв. слања по торенту"
+msgstr "Највише слања по торенту"
 
 #: configureWizard.nat.title
 msgid "NAT / Server Port"
@@ -2148,7 +2148,7 @@ msgstr "Користи спољашњи пратилац"
 
 #: wizard.tracker.howToLocal
 msgid "Go to 'Tools->Options->Tracker' to enable it"
-msgstr "Изаберите „Алати->Опције->Пратилац“ како бисте га укључили"
+msgstr "Изаберите „Алати->Подешавања->Пратилац“ како бисте га укључили"
 
 #: wizard.announceUrl
 msgid "Announce URL :"
@@ -2232,7 +2232,7 @@ msgstr "Сувише портова је означено за проверу (�
 
 #: ConfigView.section.color
 msgid "Color Scheme"
-msgstr "Образац боја"
+msgstr "Боје"
 
 #: PeerSocket.unknown
 msgid "Unknown"
@@ -2756,7 +2756,7 @@ msgstr "Број делова"
 msgid "Piece Size"
 msgstr "Величина делова"
 
-#: wizard.maketorrent.auto
+#: wizard.maketorrent.auto ConfigView.auto
 msgid "Auto"
 msgstr "Аутоматски"
 
@@ -2774,11 +2774,11 @@ msgstr "Активност"
 
 #: SpeedView.downloadSpeed.title
 msgid "Download Speed"
-msgstr "Брзина пријема"
+msgstr "Пријем"
 
 #: SpeedView.uploadSpeed.title
 msgid "Upload Speed"
-msgstr "Брзина слања"
+msgstr "Слање"
 
 #: ConfigView.section.style.useSIUnits
 msgid "Use SI Units (KB -> KiB etc.)"
@@ -2987,15 +2987,15 @@ msgstr "Врста"
 
 #: MySharesView.type.file
 msgid "File"
-msgstr "Датотека"
+msgstr "Датотеке"
 
 #: MySharesView.type.dircontents
 msgid "Directory contents"
-msgstr "Садржај директоријума"
+msgstr "Садржаја директоријума"
 
 #: MySharesView.type.dircontentsrecursive
 msgid "Directory contents (recursive)"
-msgstr "Садржај директоријума (рекурзиван)"
+msgstr "Садржаја директоријума (рекурзивно)"
 
 #: ConfigView.section.tracker.extensions
 msgid "Extensions"
@@ -3041,7 +3041,7 @@ msgstr "Највише враћених рачунара [0: неогранич�
 
 #: ConfigView.label.serverport
 msgid "Incoming TCP / UDP listen port"
-msgstr "Порт за слушање ТЦП / УДП везе"
+msgstr "Порт за прихватање ТЦП или УДП везе"
 
 #: ConfigView.label.serverport.tooltip
 msgid ""
@@ -3289,7 +3289,7 @@ msgstr ""
 #: ConfigView.label.seeding.firstPriority.FP
 #: ConfigView.section.queue.seeding.firstPriority
 msgid "First Priority"
-msgstr "1. приоритет"
+msgstr "Први приоритет"
 
 #: ConfigView.label.seeding.firstPriority
 msgid "First priority goes to torrents with"
@@ -3354,7 +3354,7 @@ msgstr "Редослед је заснован на колони Бр."
 
 #: ConfigView.label.seeding.rankType.peerSeed.options
 msgid "Seeds:Peers Ratio Options"
-msgstr "Опције односа замеци:рачунари"
+msgstr "Подешавање односа замеци:рачунари"
 
 #: ConfigView.label.seeding.rankType.peerSeed.tooltip
 msgid "Higher Ratio = Higher Rank"
@@ -3521,7 +3521,7 @@ msgstr "Непотпуни торенти"
 
 #: MyTorrentsView.maxuploads
 msgid "Max # Uploads"
-msgstr "Најв. бр. слања"
+msgstr "Највећи број слања"
 
 #: MyTorrentsView.menu.category.delete
 msgid "&Delete Category"
@@ -3757,9 +3757,7 @@ msgstr ""
 msgid ""
 "\\ \\ \\ \\ \\ \\ \\ \\ \\ If the donation page doesn't appear, you can "
 "donate using the link at the very bottom."
-msgstr ""
-"\\ \\ \\ \\ \\ \\ \\ \\ \\ Ако се страна са прилозима не отвори, можете "
-"приложити користећи везу на самом дну."
+msgstr "         Ако се страна са прилозима не отвори, можете приложити користећи везу на самом дну."
 
 #: DonationWindow.options.donate
 msgid "I want to help this project, take me to the donation page."
@@ -3926,7 +3924,7 @@ msgstr "Укључи прослеђивање кључа пратиоцу за �
 # FIXME Ала ми је превод
 #: ConfigView.section.file.perf
 msgid "Performance Options"
-msgstr "Опције перформанси"
+msgstr "Подешавања брзине рада"
 
 #: ConfigView.section.file.perf.explain
 msgid ""
@@ -4311,7 +4309,7 @@ msgstr "Неуспело"
 
 #: swt.update.window.status.restartNeeded
 msgid "Restart will be required!"
-msgstr "Потребан је рестарт!"
+msgstr "Потребно је поново покренути програм!"
 
 #: ConfigView.pluginlist.broken
 msgid "Broken"
@@ -4349,7 +4347,7 @@ msgstr ""
 
 #: swt.update.window.status.restartMaybeNeeded
 msgid "Restart may be required"
-msgstr "Можда је потребан рестарт"
+msgstr "Можда ћете морати да поново покренете програм"
 
 #: ConfigView.pluginlist.shared
 msgid "shared"
@@ -4546,7 +4544,7 @@ msgstr ""
 
 #: GeneralView.label.maxdownloadspeed
 msgid "Max Down"
-msgstr "Најв. пријем"
+msgstr "Највећа брзина пријема"
 
 #: Security.keystore.corrupt
 msgid ""
@@ -4560,10 +4558,7 @@ msgstr ""
 msgid ""
 "Keystore is empty. Please create a self-signed certificate (see Tools-"
 ">Options->Security) or import an existing certificate into '%1'"
-msgstr ""
-"Остава за кључеве је празна. Молимо да направите само-потписани сертификат "
-"(погледајте „Алатиж->Опције->Безбедност“) или увезите постојеће сертификате "
-"у „%1“"
+msgstr "Остава за кључеве је празна. Молимо да направите само-потписани сертификат (погледајте „Алати->Подешавања->Безбедност“) или увезите постојеће сертификате у „%1“"
 
 #: webui.restart.info
 msgid ""
@@ -4821,7 +4816,7 @@ msgid ""
 "Download/Upload speed details\n"
 "Right-click to change, Double-Click to open statistics"
 msgstr ""
-"Прими или пошаљи детаље о брзини\n"
+"Брзина пријема или слања\n"
 "Десним дугметом се мења, дуплим притиском се приказују статистике"
 
 #: TrackerClient.announce.warningmessage
@@ -5055,9 +5050,7 @@ msgstr "Спор"
 msgid ""
 "JAR signing fails - 'tools.jar' not found in %1. See Tools->Options-"
 ">Security for details."
-msgstr ""
-"Потписивање JAR датотеке није успело - „tools.jar“ није нађена %1. "
-"Погледајте „Алати->Опције->Безбедност“ за детаље."
+msgstr "Потписивање JAR датотеке није успело - „tools.jar“ није нађена %1. Погледајте „Алати->Подешавања->Безбедност“ за детаље."
 
 #: Security.jar.signfail
 msgid "JAR signing fails - %1"
@@ -5137,7 +5130,7 @@ msgstr ""
 
 #: MyTorrentsView.menu.setSpeed.unlimit
 msgid "No limit"
-msgstr "Неограничено"
+msgstr "Неограничена"
 
 #: MyTorrentsView.menu.setSpeed.disable
 msgid "Disable Upload"
@@ -5157,7 +5150,7 @@ msgstr "прореза од"
 
 #: GeneralView.label.maxuploadspeed
 msgid "Max Up"
-msgstr "Нај. брз. слања"
+msgstr "Највећа брзина слања"
 
 #: GeneralView.label.maxuploadspeed.tooltip
 msgid "max upload speed [0 : unlimited]"
@@ -5169,7 +5162,7 @@ msgstr "Нема слања"
 
 #: MyTorrentsView.maxupspeed
 msgid "Max Up Speed"
-msgstr "Најв. брз. слања"
+msgstr "Највећа брзина слања"
 
 #: MyTorrentsView.maxupspeed.info
 msgid "Max Upload Speed per torrent"
@@ -5249,11 +5242,11 @@ msgstr ""
 
 #: ConfigView.group.override
 msgid "Override Options"
-msgstr "Опције за преиначење"
+msgstr "Подешавања за преиначење"
 
 #: ConfigView.section.proxy
 msgid "Proxy Options"
-msgstr "Опције заступника"
+msgstr "Подешавања заступника"
 
 #: ConfigView.section.file.perf.cache.notsmallerthan
 msgid "Do not cache files smaller than this (in %1)"
@@ -5674,15 +5667,15 @@ msgstr ""
 
 #: swt.update.window.restartLater
 msgid "Restart Later"
-msgstr "Касније"
+msgstr "Покрени касније"
 
 #: MainWindow.menu.file.restart
 msgid "Restart Azureus"
-msgstr "Рестартуј"
+msgstr "Покрени поново"
 
 #: MainWindow.dialog.restartconfirmation.title
 msgid "Restart Azureus?"
-msgstr "Да ли да рестартујем Азуреуса?"
+msgstr "Да ли да поново покренем Азуреуса?"
 
 #: MainWindow.dialog.restartconfirmation.text
 msgid "Do you really want to restart Azureus?"
@@ -5706,7 +5699,7 @@ msgstr "Покретање додатка:"
 
 #: ConfigView.section.style.osx_small_fonts
 msgid "Use small fonts [restart required]"
-msgstr "Користи ситна слова [тражи рестарт]"
+msgstr "Користи ситна слова [тражи поновно покретање]"
 
 #: ConfigView.section.tracker.tcpnonblocking
 msgid ""
@@ -5718,7 +5711,7 @@ msgstr ""
 
 #: ConfigView.section.tracker.nonblocking
 msgid "Non-blocking options"
-msgstr "Неблокирајуће опције"
+msgstr "Неблокирајућа подешавања"
 
 #: ConfigView.section.tracker.nonblockingconcmax
 msgid "Max concurrent connections [0: unlimited]"
@@ -6237,7 +6230,7 @@ msgstr "Покретање ДХТ"
 
 #: MainWindow.dht.status.users
 msgid "Users"
-msgstr "Бр. корисника"
+msgstr "Број корисника"
 
 #: MainWindow.dht.status.unreachable
 msgid "DHT Firewalled"
@@ -6304,7 +6297,7 @@ msgstr "Средња брзина рачунара у роју"
 
 #: MainWindow.menu.file.open.torrentfortracking
 msgid "Torrent File... (Tracking Only)"
-msgstr "Торент датотека (само праћење)"
+msgstr "Торент датотеку (само за праћење)"
 
 #: VivaldiView.title.full
 msgid "Vivaldi"
@@ -6406,7 +6399,7 @@ msgstr "Највећа брзина заметања [0: неограничен�
 
 #: Views.plugins.IRC.title
 msgid "IRC - Online Technical Support"
-msgstr "ИРЦ - мрежна подршка"
+msgstr "ИРЦ - техничка подршка на мрежи"
 
 #: Formats.units.persec
 msgid "/s"
@@ -6594,10 +6587,7 @@ msgstr "Уклони запамћене одлуке у прозорчету"
 msgid ""
 "This User Proficiency setting will determine the level of the options "
 "displayed in Tools > Options. It is in your best interest to set it properly."
-msgstr ""
-"\n"
-"Подешавање вештине корисника одређује ниво детаља који се приказује у „Алати-"
-">Опције“. У Вашем је интересу да ово исправно поставите."
+msgstr "\nПодешавање вештине корисника одређује ниво детаља који се приказује у „Алати->Подешавања“. У Вашем је интересу да ово исправно поставите."
 
 #: FilesView.skip.confirm.delete.text
 msgid "Truncate file '%1' to save space?"
@@ -6633,10 +6623,8 @@ msgid ""
 "to be enabled.\n"
 "However, this code is still in alpha mode, so it is disabled by default."
 msgstr ""
-"Ове опције укључују нове могућности које побољшавају функционалност овог "
-"додатка.\n"
-"Међутим, овај код је још увек алфа квалитета, тако да је искључено на "
-"почетку."
+"Ова подешавања укључују нове могућности које побољшавају функционалност овог додатка.\n"
+"Међутим, овај код је још увек алфа квалитета, тако да је искључено на почетку."
 
 #: xmlhttp.config.option.generic_classes
 msgid ""
@@ -6741,7 +6729,7 @@ msgstr "Средња готовост код рачунара у роју"
 
 #: GeneralView.label.swarm_average_completion
 msgid "Average Completion:"
-msgstr "Усредњена завршеност"
+msgstr "Средња готовост:"
 
 #: MainWindow.nat.status.unknown
 msgid "NAT"
@@ -6757,15 +6745,15 @@ msgstr "NAT је у реду"
 
 #: MainWindow.nat.status.tooltip.ok
 msgid "Reachability OK (TCP)"
-msgstr "Доступност је у реду (TCP)"
+msgstr "Рачунар је доступан (TCP)"
 
 #: MainWindow.nat.status.probok
 msgid "NAT OK?"
-msgstr "NAT у реду?"
+msgstr "NAT је у реду?"
 
 #: MainWindow.nat.status.tooltip.probok
 msgid "Reachability was OK, however no recent incoming TCP connections"
-msgstr "Доступност је добра, али нема скорашњих долазних ТЦП веза"
+msgstr "Рачунар је доступан, али одавно нико није успоставио TCP везу"
 
 #: MainWindow.nat.status.bad
 msgid "Firewalled"
@@ -7000,7 +6988,7 @@ msgstr ""
 
 #: LoggerView.realtime
 msgid "Update in real time"
-msgstr "Освежење у реалном времену"
+msgstr "Освежавање у реалном времену"
 
 #: ConfigView.section.file.perf.cache.flushpieces
 msgid ""
@@ -7128,10 +7116,7 @@ msgstr "Укључи проналазач рачунара у локалној �
 msgid ""
 "Port clash detected on LAN: %1 already in use by another Azureus user, "
 "select new random port(s) for incoming TCP / UDP listen [between %2 and %3]."
-msgstr ""
-"Сукоб портова је откривен у локалној мрежи: %1 већ користи неки други "
-"корисник Азуреуса. Изаберите нове (случајне) портове за слушање ТЦП и УДП "
-"веза [између %2 и %3]."
+msgstr "Сукоб портова је откривен у локалној мрежи: %1 већ користи неки други корисник Азуреуса. Изаберите нове (случајне) портове за прихватање ТЦП и УДП веза [између %2 и %3]."
 
 #: ConfigView.section.transfer.lan
 msgid "LAN"
@@ -7322,7 +7307,7 @@ msgstr "Други прорези за заметање"
 
 #: ConfigView.section.connection.advanced.socket.group
 msgid "Socket Options"
-msgstr "Опције прикључака"
+msgstr "Подешавања прикључака"
 
 #: ConfigView.section.connection.advanced.bind_port
 msgid "Bind to local port [0: disabled]"
