@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-18 17:50+0100\n"
-"PO-Revision-Date: 2006-03-18 19:38+0100\n"
+"POT-Creation-Date: 2006-04-29 01:44+0200\n"
+"PO-Revision-Date: 2006-04-19 12:58+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1002,12 +1002,12 @@ msgid "Block Contributors"
 msgstr "Приложници за блок"
 
 #: SystemTray.tooltip.seeding
-msgid "\\ seeding,"
-msgstr " заметања,"
+msgid "\\%1 seeding,"
+msgstr "заметања: %1,"
 
 #: SystemTray.tooltip.downloading
-msgid "\\ downloading,"
-msgstr " пријема,"
+msgid "\\%1 downloading,"
+msgstr "пријема: %1,"
 
 #: DownloadManager.error.filenotfound
 msgid "File Not Found"
@@ -1204,7 +1204,8 @@ msgstr "Искључен са"
 
 #: IrcClient.noNick
 msgid "No Nickname Specified. Please go to 'Options' View"
-msgstr "Корисничко име није уписано. Молимо да га додате у погледу „Подешавања“"
+msgstr ""
+"Корисничко име није уписано. Молимо да га додате у погледу „Подешавања“"
 
 #: IrcView.actionnotsupported
 msgid "This action isn't supported"
@@ -3757,7 +3758,9 @@ msgstr ""
 msgid ""
 "\\ \\ \\ \\ \\ \\ \\ \\ \\ If the donation page doesn't appear, you can "
 "donate using the link at the very bottom."
-msgstr "         Ако се страна са прилозима не отвори, можете приложити користећи везу на самом дну."
+msgstr ""
+"         Ако се страна са прилозима не отвори, можете приложити користећи "
+"везу на самом дну."
 
 #: DonationWindow.options.donate
 msgid "I want to help this project, take me to the donation page."
@@ -4558,7 +4561,10 @@ msgstr ""
 msgid ""
 "Keystore is empty. Please create a self-signed certificate (see Tools-"
 ">Options->Security) or import an existing certificate into '%1'"
-msgstr "Остава за кључеве је празна. Молимо да направите само-потписани сертификат (погледајте „Алати->Подешавања->Безбедност“) или увезите постојеће сертификате у „%1“"
+msgstr ""
+"Остава за кључеве је празна. Молимо да направите само-потписани сертификат "
+"(погледајте „Алати->Подешавања->Безбедност“) или увезите постојеће "
+"сертификате у „%1“"
 
 #: webui.restart.info
 msgid ""
@@ -5050,7 +5056,9 @@ msgstr "Спор"
 msgid ""
 "JAR signing fails - 'tools.jar' not found in %1. See Tools->Options-"
 ">Security for details."
-msgstr "Потписивање JAR датотеке није успело - „tools.jar“ није нађена %1. Погледајте „Алати->Подешавања->Безбедност“ за детаље."
+msgstr ""
+"Потписивање JAR датотеке није успело - „tools.jar“ није нађена %1. "
+"Погледајте „Алати->Подешавања->Безбедност“ за детаље."
 
 #: Security.jar.signfail
 msgid "JAR signing fails - %1"
@@ -5900,7 +5908,8 @@ msgid "Allow decentralized tracking when tracker is unavailable"
 msgstr "Дозволи децентрализовано праћење када је пратилац недоступан"
 
 #: ConfigView.section.sharing.protocol
-msgid "Protocol for shared resources (tracker configuration required)"
+#, fuzzy
+msgid "Protocol for shared resources"
 msgstr "Протокол за дељене ресурсе (потребно је подешавање пратиоца)"
 
 #: PeersView.Messaging
@@ -6229,8 +6238,8 @@ msgid "DHT Initializing"
 msgstr "Покретање ДХТ"
 
 #: MainWindow.dht.status.users
-msgid "Users"
-msgstr "Број корисника"
+msgid "%1 Users"
+msgstr "корисника: %1"
 
 #: MainWindow.dht.status.unreachable
 msgid "DHT Firewalled"
@@ -6261,7 +6270,7 @@ msgstr "Прикажи упозорења које показују пратио
 msgid "Enable advanced settings"
 msgstr "Укључи напредна подешавања"
 
-#: dht.advanced.group xmlhttp.config.group.advanced
+#: dht.advanced.group
 msgid "Advanced settings"
 msgstr "Напредна подешавања"
 
@@ -6587,7 +6596,10 @@ msgstr "Уклони запамћене одлуке у прозорчету"
 msgid ""
 "This User Proficiency setting will determine the level of the options "
 "displayed in Tools > Options. It is in your best interest to set it properly."
-msgstr "\nПодешавање вештине корисника одређује ниво детаља који се приказује у „Алати->Подешавања“. У Вашем је интересу да ово исправно поставите."
+msgstr ""
+"\n"
+"Подешавање вештине корисника одређује ниво детаља који се приказује у „Алати-"
+">Подешавања“. У Вашем је интересу да ово исправно поставите."
 
 #: FilesView.skip.confirm.delete.text
 msgid "Truncate file '%1' to save space?"
@@ -6616,31 +6628,6 @@ msgstr ""
 #: ManagerItem.paused
 msgid "Paused"
 msgstr "Па&узирано"
-
-#: xmlhttp.config.group.advanced.description
-msgid ""
-"These options allow new features improving the functionality of this plugin "
-"to be enabled.\n"
-"However, this code is still in alpha mode, so it is disabled by default."
-msgstr ""
-"Ова подешавања укључују нове могућности које побољшавају функционалност овог додатка.\n"
-"Међутим, овај код је још увек алфа квалитета, тако да је искључено на почетку."
-
-#: xmlhttp.config.option.generic_classes
-msgid ""
-"Use generic classes? (*)\n"
-"(Makes more of the API available)"
-msgstr ""
-"Употреба генеричких класа? (*)\n"
-"(Повећава видљивост АПИ позива)"
-
-#: xmlhttp.config.option.use_request_processor_2
-msgid ""
-"Use extended request processor?\n"
-"(This is automatically used when generic classes are used.)"
-msgstr ""
-"Употреба проширеног обрађивача захтева?\n"
-"(Користи се аутоматски са генеричким класама.)"
 
 #: xmlhttp.config.group.debug
 msgid "Debug settings"
@@ -7116,7 +7103,10 @@ msgstr "Укључи проналазач рачунара у локалној �
 msgid ""
 "Port clash detected on LAN: %1 already in use by another Azureus user, "
 "select new random port(s) for incoming TCP / UDP listen [between %2 and %3]."
-msgstr "Сукоб портова је откривен у локалној мрежи: %1 већ користи неки други корисник Азуреуса. Изаберите нове (случајне) портове за прихватање ТЦП и УДП веза [између %2 и %3]."
+msgstr ""
+"Сукоб портова је откривен у локалној мрежи: %1 већ користи неки други "
+"корисник Азуреуса. Изаберите нове (случајне) портове за прихватање ТЦП и УДП "
+"веза [између %2 и %3]."
 
 #: ConfigView.section.transfer.lan
 msgid "LAN"
@@ -7402,6 +7392,339 @@ msgstr "Затварање прозора: %1 s"
 #: popup.more.waiting
 msgid "%1 more message(s).."
 msgstr "Број порука: %1"
+
+# > 2402
+#: popup.next
+msgid ">"
+msgstr ">"
+
+#: popup.previous
+msgid "< (%1)"
+msgstr "< (%1)"
+
+#: Plugin.localtracker.autoadd.info
+msgid ""
+"Automatically add these local peers [';' separated addresses, e.g. 1.2.3.4]"
+msgstr ""
+"\n"
+"Аутоматски додај ове локалне рачунаре [„;‟ одваја адресе, нпр. 1.2.3.4]"
+
+#: Plugin.localtracker.autoadd
+msgid "\\ \\ \\ \\ Explicit peers"
+msgstr "    Рачунари по имену"
+
+#: Plugin.localtracker.networks.info
+msgid ""
+"Consider the following networks to be local [';' separated networks, e.g. "
+"145.227.*.*]"
+msgstr ""
+"\n"
+"Сматрај да су наведене мреже локалне [„;‟ одваја мреже, нпр. 145.227.*.*]"
+
+#: Plugin.localtracker.networks
+msgid "\\ \\ \\ \\ Local networks"
+msgstr "    Локалне мреже"
+
+#: MainWindow.menu.view.plugins.logViews
+msgid "Log Views"
+msgstr "Прегледи дневника"
+
+#: SpeedView.stats.autospeed
+msgid "Automatic Upload Speed"
+msgstr "Аутоматска брзина слања"
+
+#: SpeedView.stats.autospeed.disabled
+msgid ""
+"This Feature is either disabled (you need the DHT) or not in use (manual "
+"upload speed selected)"
+msgstr ""
+"\n"
+"Ова могућност је или искључена (потребан је ДХТ) или се не користи (брзина "
+"слања је ручно подешена)"
+
+#: SpeedView.stats.idlePing
+msgid "Idle Ping:"
+msgstr "Пинг:"
+
+#: SpeedView.stats.maxPing
+msgid "Max Ping:"
+msgstr "Најв. пинг:"
+
+#: SpeedView.stats.currentPing
+msgid "Current Ping:"
+msgstr "Тренутни пинг:"
+
+#: SpeedView.stats.maxUp
+msgid "Max Up Speed:"
+msgstr "Највећа брзина слања:"
+
+#: sendTorrent.title
+msgid "Send a torrent to a friend"
+msgstr "Пошаљи торент пријатељу"
+
+#: sendTorrent.destination.title
+msgid "How do you want to send th %1 selected torrent(s)?"
+msgstr "Како желите да пошаљете торент број %1?"
+
+#: sendTorrent.destination.byEmail
+msgid "By E-mail"
+msgstr "Ел. поштом"
+
+#: sendTorrent.destination.byHTML
+msgid "By blog entry, or web page"
+msgstr "По уносу у блог, или мрежној страни"
+
+#: sendTorrent.finish.title
+msgid "Complete"
+msgstr "Готово"
+
+#: sendTorrent.finish.byEmail
+msgid "Copy the text below into an e-mail:"
+msgstr "Унеси овај текст у ел. поруку:"
+
+#: sendTorrent.finish.byHTML
+msgid "Copy the text below into your webpage:"
+msgstr "Унеси овај текст у мрежну страну:"
+
+#: sendTorrent.finish.button.toClipboard
+msgid "Copy to Clipboard"
+msgstr "Умножи на клипборд"
+
+#: iconBar.sendTorrent.tooltip
+msgid "Send Torrent via E-Mail/Webpage"
+msgstr "Пошаљи торент ел. поштом или на мрежну страну"
+
+#: MyTorrentsView.menu.sendTorrent
+msgid "Send Torrent.."
+msgstr "Пошаљи торент..."
+
+#: ConfigView.pluginlist.unloadSelected
+msgid "Unload Selected"
+msgstr "Уклони изабране"
+
+#: ConfigView.pluginlist.scan
+msgid "Scan for new Plugins"
+msgstr "Потражи нове додатке"
+
+#: ConfigView.section.transfer.autospeed
+msgid "Auto-Speed"
+msgstr "Аутом. брзина"
+
+#: ConfigView.section.transfer.autospeed.tooltip
+msgid "Auto-speed specific settings"
+msgstr "Подешавања за аутоматску регулацију брзине"
+
+#: ConfigView.section.transfer.autospeed.info
+msgid ""
+"Auto-speed automatically adjusts the upload speed limit to avoid overloading "
+"the network connection.\n"
+"\n"
+"These limits will only be applied when automatic upload speed is enabled and "
+"also require the distributed database to be enabled."
+msgstr ""
+"Аутоматско подешавање брзине подешава горњу границу брзине преноса како би "
+"се избегло преоптерећење мрежне везе.\n"
+"\n"
+"Ове границе се примењују само ако је укључена аутоматска регулација брзине "
+"слања, и такође захтева да је укључена дистрибуирана база података."
+
+#: ConfigView.section.transfer.autospeed.minupload
+msgid "%1 minimum upload speed"
+msgstr "%1 најмања брзина слања"
+
+#: ConfigView.section.transfer.autospeed.minupload.tooltip
+msgid ""
+"Upload speed will not normally be automatically decreased below this limit"
+msgstr "Брзина слања неће бити постављена испод ове границе"
+
+#: ConfigView.section.transfer.autospeed.maxupload
+msgid "%1 maximum upload speed [0: unlimited]"
+msgstr "%1 највећа брзина слања [0: неограничено]"
+
+#: ConfigView.section.transfer.autospeed.maxupload.tooltip
+msgid "Upload speed will not be automatically increased above this limit"
+msgstr "Брзина слања неће бити постављена изнад ове границе"
+
+#: ConfigView.section.transfer.autospeed.chokeping
+msgid "Choking ping time [milliseconds]"
+msgstr "Време за пинг за пригушење [ms]"
+
+#: ConfigView.section.transfer.autospeed.chokeping.tooltip
+msgid ""
+"Ping times in excess of this value will be considered as an indicator of "
+"network saturation"
+msgstr ""
+"Времена пинговања која су већа од ове вредности биће узета као знак да је "
+"мрежа засићена"
+
+#: ConfigView.section.transfer.autospeed.enableauto
+msgid "Enable when downloading and seeding"
+msgstr "Укључи при пријему и заметању"
+
+#: ConfigView.section.transfer.autospeed.enableautoseeding
+msgid "Enable only when seeding"
+msgstr "Укључи само при заметању"
+
+#: ConfigView.pluginlist.column.unloadable
+msgid "Unloadable"
+msgstr "Искључив"
+
+#: ConfigView.section.transfer.lan.enable
+msgid "Enable separate speed limits for LAN connections"
+msgstr "Дозволи одвојена ограничења брзине за ЛАН везе"
+
+#: Plugin.localtracker.wellknownlocals
+msgid "Automatically include loopback/link/site local networks (192.168 etc)"
+msgstr "Аутоматски укључи повратне и сличне локалне мреже (192.168...)"
+
+#: MyTorrentsView.filesdone
+#, fuzzy
+msgid "Files Done"
+msgstr "Име датотеке"
+
+#: MyTorrentsView.filesdone.info
+msgid ""
+"Files done/Total files *or* Non-skipped files done (Files done)/Total non-"
+"skipped files (Total files)"
+msgstr ""
+
+#: MagnetPlugin.private_torrent
+#, fuzzy
+msgid "<private torrent>"
+msgstr "Направи торент"
+
+#: MagnetPlugin.decentral_disabled
+#, fuzzy
+msgid "<decentralised tracking disabled>"
+msgstr "Децентрализовано праћење"
+
+#: MagnetPlugin.decentral_backup_disabled
+#, fuzzy
+msgid "<decentralised backup disabled>"
+msgstr "Децентрализовано праћење"
+
+#: MagnetPlugin.report.waiting_ddb
+msgid "waiting for DDB initialization..."
+msgstr ""
+
+#: MagnetPlugin.report.searching
+#, fuzzy
+msgid "searching..."
+msgstr "Упити..."
+
+#: MagnetPlugin.report.found
+msgid "found %1"
+msgstr ""
+
+#: MagnetPlugin.report.alive
+msgid "%1 is alive"
+msgstr ""
+
+#: MagnetPlugin.report.dead
+msgid "%1 is dead"
+msgstr ""
+
+#: MagnetPlugin.report.tunnel
+#, fuzzy
+msgid "tunnelling to %1"
+msgstr "Повезивање са"
+
+#: MagnetPlugin.report.downloading
+#, fuzzy
+msgid "downloading from %1"
+msgstr "Преузимање са :"
+
+#: MagnetPlugin.report.error MagnetURLHandler.report.error
+#, fuzzy
+msgid "error %1"
+msgstr "Грешка :"
+
+#: MagnetURLHandler.report.no_sources
+msgid "no sources found for torrent"
+msgstr ""
+
+#: MagnetURLHandler.report.torrent_size
+#, fuzzy
+msgid "torrent size: %1"
+msgstr "Торент датотекe:"
+
+#: MagnetURLHandler.report.percent
+#, fuzzy
+msgid "completed: %1%"
+msgstr "Преузето"
+
+#: DHTTransport.report.request_all
+msgid "requesting entire transfer from %1"
+msgstr ""
+
+#: DHTTransport.report.received_bit
+msgid "received %1 to %2 from %3"
+msgstr ""
+
+#: DHTTransport.report.complete
+#, fuzzy
+msgid "complete"
+msgstr "Готово"
+
+#: DHTTransport.report.timeout
+msgid "timeout, no replies from %1"
+msgstr ""
+
+#: DHTTransport.report.rerequest_all
+msgid "re-requesting entire transfer from %1"
+msgstr ""
+
+#: DHTTransport.report.rerequest_bit
+msgid "re-requesting %1 to %2 from %3"
+msgstr ""
+
+#: DHTTransport.report.timeout_some
+msgid "timeout, %1 packets received from %2 but incomplete"
+msgstr ""
+
+#: DHTTransport.report.sending
+#, fuzzy
+msgid "sending data"
+msgstr "Растући"
+
+#: DHTTransport.report.resending
+#, fuzzy
+msgid "resending data"
+msgstr "Опадајући"
+
+#: DHTTransport.report.send_complete
+#, fuzzy
+msgid "send complete"
+msgstr "Готово"
+
+#: DHTTransport.report.send_timeout
+#, fuzzy
+msgid "send timeout"
+msgstr "Време читања (секунди)"
+
+#~ msgid ""
+#~ "These options allow new features improving the functionality of this "
+#~ "plugin to be enabled.\n"
+#~ "However, this code is still in alpha mode, so it is disabled by default."
+#~ msgstr ""
+#~ "Ова подешавања укључују нове могућности које побољшавају функционалност "
+#~ "овог додатка.\n"
+#~ "Међутим, овај код је још увек алфа квалитета, тако да је искључено на "
+#~ "почетку."
+
+#~ msgid ""
+#~ "Use generic classes? (*)\n"
+#~ "(Makes more of the API available)"
+#~ msgstr ""
+#~ "Употреба генеричких класа? (*)\n"
+#~ "(Повећава видљивост АПИ позива)"
+
+#~ msgid ""
+#~ "Use extended request processor?\n"
+#~ "(This is automatically used when generic classes are used.)"
+#~ msgstr ""
+#~ "Употреба проширеног обрађивача захтева?\n"
+#~ "(Користи се аутоматски са генеричким класама.)"
 
 #~ msgid ""
 #~ "_: MainWindow.menu.file.open\n"
@@ -9139,16 +9462,10 @@ msgstr "Број порука: %1"
 #~ "Browse..."
 #~ msgstr "Преглед..."
 
-#~ msgid "Filename"
-#~ msgstr "Име датотеке"
-
 #~ msgid ""
 #~ "_: IrcView.title.full\n"
 #~ "Irc"
 #~ msgstr "Ирц"
-
-#~ msgid "Open a .torrent file"
-#~ msgstr "Отвори торент датотеку"
 
 #~ msgid ""
 #~ "Torrent Files:\n"

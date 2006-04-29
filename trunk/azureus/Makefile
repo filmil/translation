@@ -10,7 +10,7 @@ ATON=native2ascii -encoding UTF-8
 POTOMOZ=po2moz
 MOZ2PO=moz2po
 MSGMERGE=msgmerge
-TARGETDIR=/home/filip/work/prg/azureus2/org/gudy/azureus2/internat
+TARGETDIR=/home/filip/personal/prg/azureus2/org/gudy/azureus2/internat
 CVS=cvs
 
 # The template object
