@@ -1,3 +1,16 @@
+2006-06-18  Filip Miletic  <filmil@gmail.com>
+
+	* Updated xchat translation.
+
+2006-06-14  Filip Miletic  <filmil@gmail.com>
+
+	* plone/Makefile (PLONEDIR): Updated the plone directory upon
+	moving plone itself.
+
+2006-05-27  Filip Miletic  <filmil@gmail.com>
+
+	* gnome-applets-locations/sr.po: Updated Dutch place names
+
 2006-04-19  Filip Miletic  <filmil@gmail.com>
 
 	* skype/sr.po: Updated for 2.0.0.97

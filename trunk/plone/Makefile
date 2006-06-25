@@ -5,10 +5,11 @@ RM=rm -f
 SCP=scp
 MKDIR=mkdir -p
 CP=cp
-PLONEDIR=/home/filip/work/prg/plone-svn/2.1/PloneTranslations/i18n
+PLONEDIR=/home/filip/personal/prg/plone-svn/2.1/PloneTranslations/i18n
 SVN=svn
 
-dest_objects := $(patsubst %-sr.po,%-sr-Latn.po,$(wildcard *-sr.po))
+src_objects := $(wildcard *-sr.po)
+dest_objects := $(patsubst %-sr.po,%-sr-Latn.po,$(src_objects))
 
 .PHONY: clean publish
 
@@ -28,3 +29,5 @@ publish: all
 	(cd $(PLONEDIR) ; $(SVN) commit -m "Updated Serbian and Serbian Latin")
 
 
+stats:
+	for A in *-sr.po; do msgfmt --statistics -c -v $(A) ; done }'

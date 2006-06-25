@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 2.0.0.97\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-04-19 10:49+0200\n"
-"PO-Revision-Date: 2006-04-19 10:54+0200\n"
+"PO-Revision-Date: 2006-04-30 02:19+0200\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -4754,7 +4754,7 @@ msgstr "Активан"
 
 #: source/2.0.0.97.lang:sMAINMENU_TOOLS_APIACL:1351
 msgid "Manage other programs' access to Skype"
-msgstr "Уреди приступ осталих програма за Скајп"
+msgstr "Уреди приступ осталих програма Скајпу"
 
 #: source/2.0.0.97.lang:sF_SEARCH_OFFLINE_INFO:1352
 msgid ""

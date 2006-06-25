@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-04-29 01:44+0200\n"
-"PO-Revision-Date: 2006-04-19 12:58+0200\n"
+"POT-Creation-Date: 2006-06-24 14:08+0200\n"
+"PO-Revision-Date: 2006-06-24 14:32+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -289,6 +289,7 @@ msgid "Size"
 msgstr "Величина"
 
 #: MyTorrentsView.done FilesView.done swt.update.window.status.done
+#: FileView.BlockView.Done
 msgid "Done"
 msgstr "Готово"
 
@@ -1940,8 +1941,12 @@ msgid "Please choose the directory to move to"
 msgstr "Молимо да изаберете директорјум у кога треба пребацити"
 
 #: ConfigView.label.movecompleted
-msgid "Move completed files"
-msgstr "Помери завршене датотеке"
+msgid "Move completed files (after download)"
+msgstr "Помери завршене датотеке (после пријема)"
+
+#: ConfigView.label.moveremoved
+msgid "Move completed files (when being removed)"
+msgstr "Помери завршене датотеке (при уклањању)"
 
 #: ConfigView.label.savetorrents
 msgid "Save .torrent files"
@@ -1987,6 +1992,27 @@ msgstr "Преостало"
 #: ConfigView.section.style
 msgid "Interface"
 msgstr "Сучеље"
+
+#: ConfigView.label.set_ui_transfer_speeds
+msgid "Override selectable transfer speeds"
+msgstr "Преиначи изабране брзине преноса"
+
+#: ConfigView.label.set_ui_transfer_speeds.description
+msgid ""
+"You can choose to manually define the default available download and upload "
+"speeds available on the status bar on the system tray.\n"
+"The values must be comma-separated."
+msgstr ""
+"Можете да ручно одредите подразумеване брзине пријема и слања које су доступне у статусној траци у обавештајној зони.\n"
+"Вредности морају бити одвојене запетама."
+
+#: ConfigView.label.set_ui_transfer_speeds.description.download
+msgid "Set download speeds (in KB/s)"
+msgstr "Поставка брзина пријема (у KB/s)"
+
+#: ConfigView.label.set_ui_transfer_speeds.description.upload
+msgid "Set upload speeds (in KB/s)"
+msgstr "Највећа брзина слања (у KB/s)"
 
 #: ConfigView.section.style.useCustomTabs
 msgid "Use closeable tabs (needs restart)"
@@ -2262,6 +2288,10 @@ msgstr "Коментар"
 #: ConfigView.label.movetorrent
 msgid "Move .torrent"
 msgstr "Премести торент"
+
+#: ConfigView.label.movepartialdownloads
+msgid "Move when some files are flagged \"Do Not Download\""
+msgstr "Премести када су неке датотеке означене са „Не преузимај‟"
 
 #: ConfigView.section.file.decoder.label
 msgid "Default torrent encoding when selection required"
@@ -3181,6 +3211,7 @@ msgid "peers"
 msgstr "рачунара"
 
 #: ConfigView.label.queue.debuglog
+#: ConfigView.section.transfer.autospeed.enabledebug
 msgid "Log debug information"
 msgstr "Записуј податке о грешкама"
 
@@ -4207,6 +4238,7 @@ msgid "Reset explorer file associations (.torrent)"
 msgstr "Ресетовање експлорерових повезивања са екстензијама (.torrent)"
 
 #: ConfigView.section.interface.resetassocbutton Button.reset
+#: upnp.ignorebaddevices.reset.action
 msgid "Reset"
 msgstr "Врати"
 
@@ -4798,12 +4830,8 @@ msgid "By default add new torrents in a stopped state"
 msgstr "Додај нове торенте у заустављено стање"
 
 #: ConfigView.section.server.enableudp
-msgid ""
-"Enable UDP tracker client protocol. This uses the same port number as the "
-"TCP server"
-msgstr ""
-"Укључи клијентски протокол са УДП протоколом. Користи се исти порт као за "
-"ТЦП сервер"
+msgid "Enable UDP tracker client protocol"
+msgstr "Дозволи клијентски УДП протокол за пратиоце"
 
 #: upnp.mapping.dataportudp
 msgid "UDP tracker client port"
@@ -5908,9 +5936,8 @@ msgid "Allow decentralized tracking when tracker is unavailable"
 msgstr "Дозволи децентрализовано праћење када је пратилац недоступан"
 
 #: ConfigView.section.sharing.protocol
-#, fuzzy
 msgid "Protocol for shared resources"
-msgstr "Протокол за дељене ресурсе (потребно је подешавање пратиоца)"
+msgstr "Протокол за дељене ресурсе"
 
 #: PeersView.Messaging
 msgid "Messaging"
@@ -6615,15 +6642,15 @@ msgstr "Дејство није успело, могуће због неиспр
 
 #: diagnostics.log_found
 msgid ""
-"Azureus did not shutdown tidily. Check %1 for diagnostic log files and "
-"consider reporting them to the Azureus team if this is the result of an "
-"application error. Also check the Wiki (see the Help menu) for 'Azureus "
-"Disappears'"
+"Azureus did not shutdown tidily. Check for <A HREF=\"%1\">diagnostic log "
+"files</A> and consider reporting them to the Azureus team if this is the "
+"result of an application error. Also check the Wiki (see the Help menu) for "
+"'Azureus Disappears'"
 msgstr ""
-"Азуреус није исправно искључен прошли пут. Молимо да проверите %1 и у њему "
-"поруке о грешкама и размислите о томе да их пријавите Азуреусивим тиму "
-"уколико су настале услед грешке у програму. Такође проверите вики (видите "
-"мени за помоћ) и ставку „Азуреус нестаје“"
+"Азуреус није исправно искључен прошли пут. Молимо да проверите <A HREF=\"%1"
+"\"> и у њему поруке о грешкама и размислите о томе да их пријавите "
+"Азуреусивим тиму уколико су настале услед грешке у програму. Такође "
+"проверите вики (видите мени за помоћ) и ставку „Азуреус нестаје“"
 
 #: ManagerItem.paused
 msgid "Paused"
@@ -6873,8 +6900,8 @@ msgid "download"
 msgstr "пријем"
 
 #: MyTorrentsView.dialog.setNumber.inKbps
-msgid "in kb/s"
-msgstr "у kb/s"
+msgid "in %1"
+msgstr "пријем: %1"
 
 #: OpenTorrentWindow.torrentLocation
 msgid "Torrent Files:"
@@ -7459,12 +7486,12 @@ msgid "Max Up Speed:"
 msgstr "Највећа брзина слања:"
 
 #: sendTorrent.title
-msgid "Send a torrent to a friend"
-msgstr "Пошаљи торент пријатељу"
+msgid "Send to a Friend/Web Page"
+msgstr "Слање пријатељу/на мрежну страну"
 
 #: sendTorrent.destination.title
-msgid "How do you want to send th %1 selected torrent(s)?"
-msgstr "Како желите да пошаљете торент број %1?"
+msgid "How do you want to send the %1 selected item(s)?"
+msgstr "Како желите да пошаљете изабране ставке? (укупно: %1)"
 
 #: sendTorrent.destination.byEmail
 msgid "By E-mail"
@@ -7490,13 +7517,56 @@ msgstr "Унеси овај текст у мрежну страну:"
 msgid "Copy to Clipboard"
 msgstr "Умножи на клипборд"
 
+#: sendTorrent.finish.button.startEMail
+msgid "Create E-Mail"
+msgstr "Направи ел. поруку"
+
+#: sendTorrent.one.email.subject sendTorrent.multi.email.subject
+msgid "I'm recommending you to download %1"
+msgstr "Препоручује се да преузмете %1"
+
+#: sendTorrent.one.email.body
+msgid ""
+"To download \"%1\", simply click on the link below:\n"
+"\n"
+"%2\n"
+"\n"
+"If you have Azureus, it will start downloading, and if you don't the web "
+"page will explain how to install it."
+msgstr ""
+"Да преузмете „%1‟, просто притисните везу дату испод:\n"
+"\n"
+"%2\n"
+"\n"
+"Ако имате Азуреуса, пренос ће почети аутоматски, а ако га немате, на мрежној страни можете да прочитате упутство како га поставити."
+
+#: sendTorrent.multi.email.body.top
+msgid "_: sendTorrent.multi.email.body.top\n"
+msgstr "_: sendTorrent.multi.email.body.top\n"
+
+#: sendTorrent.multi.email.body.eachTorrent
+msgid ""
+"To download \"%1\", simply click on the link below:\n"
+"%2"
+msgstr ""
+"Како бисте преузели „%1‟, просто притисните на везу испод:\n"
+"%2"
+
+#: sendTorrent.multi.email.body.bottom
+msgid ""
+"If you have Azureus, it will start downloading, and if you don't the web "
+"page will explain how to install it."
+msgstr ""
+"Ако имате Азуреуса, почеће аутоматски да прима, а ако немате, мрежна страна "
+"ће Вам објаснити како да га поставите."
+
 #: iconBar.sendTorrent.tooltip
-msgid "Send Torrent via E-Mail/Webpage"
-msgstr "Пошаљи торент ел. поштом или на мрежну страну"
+msgid "Send Selected via E-Mail/Webpage"
+msgstr "Слање изабраног торента ел. поштом или на мрежну страну"
 
 #: MyTorrentsView.menu.sendTorrent
-msgid "Send Torrent.."
-msgstr "Пошаљи торент..."
+msgid "Send to Friend/Web Page.."
+msgstr "Слање пријатељу или на мрежну страну"
 
 #: ConfigView.pluginlist.unloadSelected
 msgid "Unload Selected"
@@ -7562,7 +7632,7 @@ msgid "Enable when downloading and seeding"
 msgstr "Укључи при пријему и заметању"
 
 #: ConfigView.section.transfer.autospeed.enableautoseeding
-msgid "Enable only when seeding"
+msgid "Enable when only seeding"
 msgstr "Укључи само при заметању"
 
 #: ConfigView.pluginlist.column.unloadable
@@ -7578,129 +7648,269 @@ msgid "Automatically include loopback/link/site local networks (192.168 etc)"
 msgstr "Аутоматски укључи повратне и сличне локалне мреже (192.168...)"
 
 #: MyTorrentsView.filesdone
-#, fuzzy
 msgid "Files Done"
-msgstr "Име датотеке"
+msgstr "Готово датотека"
 
 #: MyTorrentsView.filesdone.info
 msgid ""
 "Files done/Total files *or* Non-skipped files done (Files done)/Total non-"
 "skipped files (Total files)"
 msgstr ""
+"Преузетих датотека/укупно датотека или непрескочених даоттека (укупно "
+"датотека)/укупно непрескочених датотека (укупно датотека)"
 
 #: MagnetPlugin.private_torrent
-#, fuzzy
 msgid "<private torrent>"
-msgstr "Направи торент"
+msgstr "<приватни торент>"
 
 #: MagnetPlugin.decentral_disabled
-#, fuzzy
 msgid "<decentralised tracking disabled>"
-msgstr "Децентрализовано праћење"
+msgstr "<децентрализовано праћење је искључено>"
 
 #: MagnetPlugin.decentral_backup_disabled
-#, fuzzy
 msgid "<decentralised backup disabled>"
-msgstr "Децентрализовано праћење"
+msgstr "<децентрализоване резервне копије су искључене>"
 
 #: MagnetPlugin.report.waiting_ddb
 msgid "waiting for DDB initialization..."
-msgstr ""
+msgstr "чека се на покретање ДДБ..."
 
 #: MagnetPlugin.report.searching
-#, fuzzy
 msgid "searching..."
-msgstr "Упити..."
+msgstr "тражење..."
 
 #: MagnetPlugin.report.found
 msgid "found %1"
-msgstr ""
+msgstr "нађено: %1"
 
 #: MagnetPlugin.report.alive
 msgid "%1 is alive"
-msgstr ""
+msgstr "жив: %1"
 
 #: MagnetPlugin.report.dead
 msgid "%1 is dead"
-msgstr ""
+msgstr "мртав: %1"
 
 #: MagnetPlugin.report.tunnel
-#, fuzzy
 msgid "tunnelling to %1"
-msgstr "Повезивање са"
+msgstr "тунеловање до %1"
 
 #: MagnetPlugin.report.downloading
-#, fuzzy
 msgid "downloading from %1"
-msgstr "Преузимање са :"
+msgstr "пријем са %1"
 
 #: MagnetPlugin.report.error MagnetURLHandler.report.error
-#, fuzzy
 msgid "error %1"
-msgstr "Грешка :"
+msgstr "грешка %1"
 
 #: MagnetURLHandler.report.no_sources
 msgid "no sources found for torrent"
-msgstr ""
+msgstr "ниједан извор није нађен за торент"
 
 #: MagnetURLHandler.report.torrent_size
-#, fuzzy
 msgid "torrent size: %1"
-msgstr "Торент датотекe:"
+msgstr "величина торента: %1"
 
 #: MagnetURLHandler.report.percent
-#, fuzzy
 msgid "completed: %1%"
-msgstr "Преузето"
+msgstr "готово: %1%"
 
 #: DHTTransport.report.request_all
 msgid "requesting entire transfer from %1"
-msgstr ""
+msgstr "тражење целог преноса од %1"
 
 #: DHTTransport.report.received_bit
 msgid "received %1 to %2 from %3"
-msgstr ""
+msgstr "примљено %1 до %2 од %3"
 
 #: DHTTransport.report.complete
-#, fuzzy
 msgid "complete"
-msgstr "Готово"
+msgstr "готово"
 
 #: DHTTransport.report.timeout
 msgid "timeout, no replies from %1"
-msgstr ""
+msgstr "време је истекло, нема одговора од %1"
 
 #: DHTTransport.report.rerequest_all
 msgid "re-requesting entire transfer from %1"
-msgstr ""
+msgstr "поновно тражење целог преноса од %1"
 
 #: DHTTransport.report.rerequest_bit
 msgid "re-requesting %1 to %2 from %3"
-msgstr ""
+msgstr "поново тражење %1 до %2 од %3"
 
 #: DHTTransport.report.timeout_some
 msgid "timeout, %1 packets received from %2 but incomplete"
-msgstr ""
+msgstr "време је истекло, примељних пакета: %1 од %2, али некомплетних"
 
 #: DHTTransport.report.sending
-#, fuzzy
 msgid "sending data"
-msgstr "Растући"
+msgstr "слање података"
 
 #: DHTTransport.report.resending
-#, fuzzy
 msgid "resending data"
-msgstr "Опадајући"
+msgstr "поновно слање"
 
 #: DHTTransport.report.send_complete
-#, fuzzy
 msgid "send complete"
-msgstr "Готово"
+msgstr "послато"
 
 #: DHTTransport.report.send_timeout
-#, fuzzy
 msgid "send timeout"
-msgstr "Време читања (секунди)"
+msgstr "време је истекло"
+
+#: MyTorrentsView.date_added
+msgid "Date added"
+msgstr "Датум додавања"
+
+#: MyTorrentsView.date_added.info
+msgid "Date the torrent was added"
+msgstr "Датум када је торент додат"
+
+#: ConfigView.section.file.hashchecking.smallestfirst
+msgid "Recheck smallest downloads first"
+msgstr "Провери прво најмање пријеме"
+
+#: platform.win32.baddll.info
+msgid ""
+"Azureus has detected the presence of '%1'. This is part of '%2' and has been "
+"known to cause severe problems such as application crashes and high CPU "
+"usage. If you encounter these then please uninstall the software or "
+"configure it to not affect Azureus."
+msgstr "Азуреус је примети присуство '%1'.  То је део '%2' и познато је да може буде узрок озбиљних прпоблема попут рушења програма и велике заузетости процесора. Ако се суочите са неким од ових проблема, молимо да укллоните програм или га подесите да не утиче на Азуреуса."
+
+#: platform.win32.baddll.niphk
+msgid "Norman Anti-Virus"
+msgstr "Норманов Анти-вирус"
+
+#: platform.win32.baddll.nvappfilter
+msgid "NVidia Firewall"
+msgstr "НВидијин ватробран"
+
+#: platform.win32.baddll.netdog
+msgid "Armor2net Personal Firewall"
+msgstr "Лични ватробран Armor2net"
+
+#: platform.win32.baddll.vlsp
+msgid "Venturi Firewall"
+msgstr "Вентури ватробран"
+
+#: platform.win32.baddll.imon
+msgid "NOD32"
+msgstr "NOD32"
+
+#: platform.win32.baddll.sarah
+msgid "FRITZ! Application Layer Firewall"
+msgstr "Ватробран на апликацијском нивоу, FRITZ!"
+
+#: upnp.ignorebaddevices
+msgid "Ignore devices that fail to respond correctly"
+msgstr "Занемари уређаје који не одговоре како треба"
+
+#: upnp.ignorebaddevices.info
+msgid "Currently ignored devices: %1"
+msgstr "Занемарени уређаји: %1"
+
+#: upnp.ignorebaddevices.reset
+msgid "Reset the ignored device list"
+msgstr "Очисти списак занемарених уређаја"
+
+#: upnp.ignorebaddevices.alert
+msgid ""
+"UPnP device at location %1 is being ignored due to repeated failures. See "
+"the UPnP plugin configuration for options regarding this action."
+msgstr "Уређај UPnP на месту %1 је занемарен услед учесталих грешака. Погледајте подешавања за UPnP додатак за доступне могућности у вези с овим дејством."
+
+#: TorrentOptionsView.param.max.uploads.when.busy
+msgid "KB/s max upload speed when global upload limit reached [0: disabled]"
+msgstr "KB/s највеће брзине слања када је достигнуто глобално ограничење брзине слања [0: неограничено]"
+
+#: UpdateMonitor.messagebox.verification.failed.title
+msgid "Install Verification Failed"
+msgstr "Провера поставке није успела"
+
+#: UpdateMonitor.messagebox.verification.failed.text
+msgid "Verification of '%1' failed: %2"
+msgstr "Провера „%1‟ није успела: %2"
+
+#: UpdateMonitor.messagebox.accept.unverified.title
+msgid "Accept Unverified Installation"
+msgstr "Прихвати непроверену доградњу"
+
+#: UpdateMonitor.messagebox.accept.unverified.text
+msgid ""
+"'%1' could not be verified as an official Azureus plugin.\n"
+"If it is such a plugin you should NOT continue.\n"
+"Proceed with installation?"
+msgstr ""
+"'%1' изгледа није званични Азуреусов додатак.\n"
+"Ако заиста није званичан додатак, НЕ БИСТЕ требали да наставите.\n"
+"Да ли да наставим постављање?"
+
+# FIXME: Да ли је датотека у множини или једнини
+#: FileView.BlockView.title
+msgid "File Pieces"
+msgstr "Делови датотеке"
+
+#: FileView.BlockView.Skipped
+msgid "Skipped"
+msgstr "Прескочен"
+
+#: FileView.BlockView.Active
+msgid "Active"
+msgstr "Активан"
+
+#: FileView.BlockView.Outstanding
+msgid "Outstanding"
+msgstr "Преостало"
+
+#: ConfigView.label.tcplistenport
+msgid "Incoming TCP listen port"
+msgstr "Долазни порт за слушање ТЦП везе"
+
+#: ConfigView.label.udplistenport
+msgid "UDP listen port"
+msgstr "УДП порт за слушање"
+
+#: upnp.portchange.alert
+msgid ""
+"The following ports have been changed to avoid UPnP device problems: %1 [old "
+"port=%2] %3 [old port=%4]"
+msgstr "Наредни портови су промењени како би се избегли проблеми са UPnP уређајем: %1 [стари порт=%2] %3 [стари порт=%4]"
+
+#: ConfigView.section.proxy.username.info
+msgid ""
+"If the proxy server demands authentication even when none is defined, use "
+"the string \"<none>\" as the username(s)"
+msgstr "Ако заступник тражи аутентификацију чак и ако није дефинисана, користите ниску „<none>‟ за корисничко име."
+
+#: ConfigView.label.maxuploadswhenbusymin
+msgid "Per torrent max upload speed when busy timer [sec]"
+msgstr "Највећа брзина слања када је мерач времена покренут [s]"
+
+#: MainWindow.menu.help.debug
+msgid "Generate Debug Info"
+msgstr "Запиши податке за исправљање грешака"
+
+#: DownloadManager.error.badsize
+msgid "Incorrect Size"
+msgstr "Неисправна величина"
+
+#~ msgid ""
+#~ "Enable UDP tracker client protocol. This uses the same port number as the "
+#~ "TCP server"
+#~ msgstr ""
+#~ "Укључи клијентски протокол са УДП протоколом. Користи се исти порт као за "
+#~ "ТЦП сервер"
+
+#~ msgid "in kb/s"
+#~ msgstr "у kb/s"
+
+#~ msgid "Send a torrent to a friend"
+#~ msgstr "Пошаљи торент пријатељу"
+
+#~ msgid "Send Torrent.."
+#~ msgstr "Пошаљи торент..."
 
 #~ msgid ""
 #~ "These options allow new features improving the functionality of this "
@@ -9473,9 +9683,6 @@ msgstr "Време читања (секунди)"
 #~ msgstr ""
 #~ "Торент датотеке:\n"
 #~ "(једна датотека у једном реду)"
-
-#~ msgid "KB/s global max upload speed when only seeding [0: unlimited]"
-#~ msgstr "KB/s највеће глобалне брзине слања при заметању [0: неограничено]"
 
 #~ msgid ""
 #~ "_: MyTorrentsView.menu.setSpeed.disabled\n"
