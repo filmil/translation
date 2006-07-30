@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
 "POT-Creation-Date: 2006-06-18 18:21+0000\n"
-"PO-Revision-Date: 2006-06-25 02:02+0200\n"
+"PO-Revision-Date: 2006-06-14 10:09+0200\n"
 "Last-Translator: Filip Miletic <f dot miletic at ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "${monthname} ${year}"
 
 #: ./skins/plone_scripts/check_id.py:137
 msgid "${name} is reserved."
-msgstr "${name} је резервисано."
+msgstr ""
 
 #: ./skins/plone_scripts/object_copy.cpy:36
 msgid "${title} copied."
@@ -328,7 +328,7 @@ msgstr "Умножи или исеци једну или више ставки �
 
 #: ./skins/plone_prefs/prefs_navigation_form_validate.vpy:27
 msgid "Could not find ${root}"
-msgstr "Није пронађен ${root}"
+msgstr ""
 
 #: ./skins/plone_form_scripts/send_feedback.cpy:55
 msgid "Could not find a valid email address"
@@ -3412,12 +3412,12 @@ msgstr "Датум када је овај садржај последњи пут
 #. Default: "Change the English title of the navigation tree portlet. Note that this won't affect the title in other languages."
 #: ./skins/plone_prefs/prefs_navigation_form.cpt
 msgid "help_navigation_portlet_title"
-msgstr "Промена енглеског назива за портлет са дрветом за управљање.  Ово неће утицати на наслове у другим језицима."
+msgstr ""
 
 #. Default: "A path that specifies the base folder where the navigation tree, sitemap, breadcrumbs and tabs will be rooted. Use '/' for the portal root, and '/folder1' to start at 'folder1'."
 #: ./skins/plone_prefs/prefs_navigation_form.cpt
 msgid "help_navigation_root"
-msgstr "Стаза која одређује основни директоријум дрвета за управљање, мапе ел. места, трагова и језичака.  Користите '/' за корен портала, а '/dir1' да бисте почели у директоријуму 'dir1'."
+msgstr ""
 
 #. Default: "An integer value that specifies the number of folder levels below the site root that must be exceeded before the navigation tree will display. 0 means that the navigation tree should be displayed everywhere including pages in the root of the site. 1 means the tree should be displayed with content contained inside folders in the site root and below."
 #: ./skins/plone_prefs/prefs_navigation_form.cpt
