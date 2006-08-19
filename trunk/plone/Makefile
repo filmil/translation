@@ -28,6 +28,9 @@ publish: all
 	$(CP) *.po $(PLONEDIR)
 	(cd $(PLONEDIR) ; $(SVN) commit -m "Updated Serbian and Serbian Latin")
 
+import: 
+	(pushd . ; cd $(PLONEDIR) ; $(SVN) update ; popd ; $(CP) $(PLONEDIR)/*-sr.po . )
+
 
 stats:
 	for A in *-sr.po; do msgfmt --statistics -c -v $(A) ; done }'
