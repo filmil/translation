@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quills 1.5\n"
 "POT-Creation-Date: 2006-06-29 15:58+0000\n"
-"PO-Revision-Date: 2006-08-19 16:29+0200\n"
+"PO-Revision-Date: 2006-08-19 16:31+0200\n"
 "Last-Translator: Filip Miletic <f dot miletic at ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -89,9 +89,8 @@ msgstr "Семантички довод"
 
 #. Default: "Recent Comments"
 #: skins/Quills/portlet_recent_comments.pt
-#, fuzzy
 msgid "box_recent_comments"
-msgstr "Скорашње слике"
+msgstr "Скорашњи коментари"
 
 #. Default: "No comments posted yet."
 #: skins/Quills/portlet_recent_comments.pt
@@ -100,15 +99,13 @@ msgstr "Још увек нема коментара."
 
 #. Default: "No items changed yet."
 #: skins/Quills/portlet_recent_posts.pt
-#, fuzzy
 msgid "box_recent_no_items"
-msgstr "Скорашње слике"
+msgstr "Још нема промењених ставки."
 
 #. Default: "Recent Posts"
 #: skins/Quills/portlet_recent_posts.pt
-#, fuzzy
 msgid "box_recent_posts"
-msgstr "Скорашње слике"
+msgstr "Скорашњи чланци"
 
 #. Default: "Entries For:"
 #: skins/Quills/weblogarchive_view.pt
@@ -128,9 +125,8 @@ msgstr "Архиве"
 
 #. Default: "Tag cloud"
 #: skins/Quills/portlet_tag_cloud.pt
-#, fuzzy
 msgid "heading_tagcloud"
-msgstr "Показивач уназад"
+msgstr "Облак ознака"
 
 #. Default: "Topics"
 #: skins/Quills/portlet_topics.pt
@@ -150,9 +146,8 @@ msgstr "Још увек нема уноса у дневник."
 
 #. Default: "Comments:"
 #: skins/Quills/entry_macros.pt
-#, fuzzy
 msgid "number_of_comments"
-msgstr "Коментари"
+msgstr "Коментари:"
 
 #. Default: "Topics in Detail"
 #: skins/Quills/portlet_topics.pt
