@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-21 21:32+0200\n"
-"PO-Revision-Date: 2006-07-21 21:29+0200\n"
+"POT-Creation-Date: 2006-08-22 22:06+0200\n"
+"PO-Revision-Date: 2006-08-22 22:36+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2519,6 +2519,14 @@ msgstr "Користи ССЛ"
 msgid "Play a sound when a download is finished"
 msgstr "Пусти звук када се пренос заврши"
 
+#: ConfigView.label.popupdownloadfinished
+msgid "Popup an alert when a download is finished"
+msgstr "Прикажи обавештење о крају пријема"
+
+#: ConfigView.label.popupfilefinished
+msgid "Popup an alert when a file is finished"
+msgstr "Обавести о крају преузимања"
+
 #: MyTorrentsView.pieces.info
 msgid "Graphical bar representing which pieces you have downloaded"
 msgstr "Графичке траке које представљају преузете делове"
@@ -2813,8 +2821,8 @@ msgid "Upload Speed"
 msgstr "Слање"
 
 #: ConfigView.section.style.useSIUnits
-msgid "Use SI Units (KB -> KiB etc.)"
-msgstr "Користи SI јединице (KB -> KiB итд.)"
+msgid "Use IEC Units (KB -> KiB etc.)"
+msgstr "Користи ИЕЦ јединице (KiB уместо KB итд.)"
 
 #: iconBar.top.tooltip
 msgid "Move to top"
@@ -3710,11 +3718,11 @@ msgstr ""
 
 #: ConfigView.section.proxy
 msgid "Proxy"
-msgstr "Заступник"
+msgstr "Заступник (Proxy)"
 
 #: ConfigView.section.proxy.enable_proxy
 msgid "Enable proxying of tracker communications [restart required]"
-msgstr "Укључи заступање разговора са пратиоцима [тражи рестарт]"
+msgstr "Укључи заступање (proxying) разговора са пратиоцима [тражи рестарт]"
 
 #: ConfigView.section.proxy.username
 msgid "Username"
@@ -3722,7 +3730,7 @@ msgstr "Корисничко име"
 
 #: ConfigView.section.proxy.enable_socks
 msgid "I have a SOCKS proxy"
-msgstr "Користи се SOCKS заступник"
+msgstr "Користи се SOCKS заступник (proxy)"
 
 #: wizard.createtorrent.extrahashes
 msgid "Add hashes for other networks (e.g. Gnutella2, eDonkey2000)"
@@ -5048,8 +5056,8 @@ msgid ""
 "Enable proxying of peer communications (outgoing connections only) [restart "
 "required]"
 msgstr ""
-"Дозволи заступање комуникације са рачунарима (само одлазне везе) [неопходан "
-"рестарт]"
+"Дозволи заступање (proxying) комуникације са рачунарима (само одлазне везе) "
+"[неопходан рестарт]"
 
 #: ConfigView.section.proxy.peer.informtracker
 msgid "Inform tracker of limitation"
@@ -5128,8 +5136,8 @@ msgstr "Торент"
 #: ConfigView.section.proxy.peer.same
 msgid "Use same proxy settings for tracker and peer communications proxy"
 msgstr ""
-"Користите иста подешавања заступника за пратиоца и за комуникацију са "
-"рачунарима"
+"Користите иста подешавања заступника (proxy) за пратиоца и за комуникацију "
+"са рачунарима"
 
 #: ConfigView.section.connection.network.max.simultaneous.connect.attempts
 msgid "Max simultaneous outbound connection attempts"
@@ -5285,7 +5293,7 @@ msgstr "Подешавања за преиначење"
 
 #: ConfigView.section.proxy
 msgid "Proxy Options"
-msgstr "Подешавања заступника"
+msgstr "Подешавања заступника (proxy)"
 
 #: ConfigView.section.file.perf.cache.notsmallerthan
 msgid "Do not cache files smaller than this (in %1)"
@@ -7211,6 +7219,7 @@ msgstr ""
 
 #: ConfigView.section.connection.encryption.encrypt.info.link
 #: ConfigView.section.connection.advanced.info.link
+#: ConfigView.label.please.visit.here
 msgid "Please visit here for details"
 msgstr "Молимо да посетите ову везу за више података"
 
@@ -7431,6 +7440,10 @@ msgstr ">"
 #: popup.previous
 msgid "< (%1)"
 msgstr "< (%1)"
+
+#: popup.download.finished popup.file.finished
+msgid "\"%1\" has finished downloading."
+msgstr "„%1‟ је завршио са пријемом."
 
 #: Plugin.localtracker.autoadd.info
 msgid ""
@@ -7898,8 +7911,8 @@ msgid ""
 "If the proxy server demands authentication even when none is defined, use "
 "the string \"<none>\" as the username(s)"
 msgstr ""
-"Ако заступник тражи аутентификацију чак и ако није дефинисана, користите "
-"ниску „<none>‟ за корисничко име."
+"Ако заступник (proxy) тражи аутентификацију чак и ако није дефинисана, "
+"користите ниску „<none>‟ за корисничко име."
 
 #: ConfigView.label.maxuploadswhenbusymin
 msgid "Per torrent max upload speed when busy timer [sec]"
@@ -8109,17 +8122,47 @@ msgstr "Алатна трака"
 msgid "Rename"
 msgstr "Преименуј"
 
-#: MyTorrentsView.menu.rename.enter.title
+#: MyTorrentsView.menu.rename.displayed
+#: MyTorrentsView.menu.rename.displayed.enter.title
+msgid "Rename Displayed Name"
+msgstr "Промени приказано име"
+
+#: MyTorrentsView.menu.rename.save_path
+#: MyTorrentsView.menu.rename.save_path.enter.title
+msgid "Rename Save Path"
+msgstr "Преименуј стазу за чување"
+
+#: MyTorrentsView.menu.rename.displayed_and_save_path
+msgid "Rename Both"
+msgstr "Преименуј оба"
+
+#: MyTorrentsView.menu.rename.displayed.enter.message
+msgid "Enter a new name to display for this download."
+msgstr "Унесите ново име за овај пријем."
+
+#: MyTorrentsView.menu.rename.displayed.enter.message.2
+msgid "If no text is entered, the original name will be used."
+msgstr "Ако се не унесе никакав текст, користи се изворно име."
+
+#: MyTorrentsView.menu.rename.save_path.enter.message
+msgid "Enter a new save path name for this download."
+msgstr "Унесите ново име стазе за чување овог пријема."
+
+#: MyTorrentsView.menu.rename.save_path.enter.message.2
+msgid "If no text is entered, the download's displayed name will be used."
+msgstr "Ако се не унесе никакав текст, користи се приказано име."
+
+#: MyTorrentsView.menu.rename.displayed_and_save_path.enter.title
 msgid "Rename Download"
 msgstr "Преименуј пријем"
 
-#: MyTorrentsView.menu.rename.enter.message
+#: MyTorrentsView.menu.rename.displayed_and_save_path.enter.message
 msgid "Enter a new name for this download."
 msgstr "Унесите ново име за овај пријем."
 
-#: MyTorrentsView.menu.rename.enter.message.2
-msgid "If no text is entered, the original name will be used."
-msgstr "Ако се не унесе никакав текст, користи се изворно име."
+#: MyTorrentsView.menu.rename.displayed_and_save_path.enter.message.2
+msgid "If no text is entered, the original values will be used."
+msgstr "Ако се не унесе никакав текст, користе се изворне вредности."
 
 #: UIDebugGenerator.messageask.title
 msgid "Debug Generator"
@@ -8170,6 +8213,85 @@ msgstr "Запамти лозинку"
 #: ConfigView.section.security.clearpasswords
 msgid "Reset remembered passwords"
 msgstr "Уклони списак запамћених лозинки"
+
+#: Content.alert.notuploaded.title
+msgid "Upload Not Complete"
+msgstr "Слање није довршено"
+
+#: Content.alert.notuploaded.text
+msgid ""
+"Upload of '%1' is not complete. If you %2 now, people will not be able to "
+"completely download your published work.\n"
+"\n"
+"Are you sure you want to %2?"
+msgstr ""
+"Пренос за „%1‟ није довршен. Ако сада %2, други неће моћи да преузму Вашу "
+"датотеку.\n"
+"\n"
+"Да ли сте сигурни да желите да %2?"
+
+#: Content.alert.notuploaded.multi.title
+msgid "Uploads Not Complete"
+msgstr "Слање није потпуно"
+
+#: Content.alert.notuploaded.multi.text
+msgid ""
+"%1 of your published content are not completely seeded. If you %2 now, "
+"people will not be able to completely download your published work. Are you "
+"sure you want to %2?\n"
+"\n"
+"Content not completely seeded:\n"
+"%3"
+msgstr ""
+"%1 садржаја ког сте објавили није заметнуто. Ако сада %2, људи неће моћи да "
+"преузму Ваше датотеке у целини.  Да ли сигурно желите да %2?\n"
+"\n"
+"Садржај који није заметнут:\n"
+"%3"
+
+#: Content.alert.notuploaded.stop
+msgid "stop"
+msgstr "заустави"
+
+#: Content.alert.notuploaded.quit
+msgid "quit azureus"
+msgstr "крај рада"
+
+#: TorrentInfoView.torrent.encoding
+msgid "Torrent encoding"
+msgstr "Кодирање торента"
+
+#: TorrentInfoView.columns
+msgid "Columns from 'My Torrents' view"
+msgstr "Колоне из погледа „My Torrents‟"
+
+#: progress.window.title
+msgid "Operation In Progress"
+msgstr "Дејство је у току"
+
+#: progress.window.msg.filemove
+msgid "Please wait while the file move/rename completes"
+msgstr "Молимо Вас да сачекате да се померање или промена имена доврши"
+
+#: ConfigView.label.popup.timestamp
+msgid "Add timestamps to popup alerts"
+msgstr "Додавање временске ознаке на узбуне"
+
+#: ConfigView.label.popup.autohide
+msgid ""
+"Automatically hide non-error popup alerts after x seconds (set to 0 to "
+"disable auto hiding)"
+msgstr ""
+"Аутоматско сакривање узбуна које не садрже грешке, после X секунди "
+"(поставите на 0 да укинете аутоматско сакривање)"
+
+#: ConfigView.section.ipfilter.enable.descriptionCache
+msgid "Store IP descriptions in scratch file"
+msgstr "Чување описа ИП адреса у привременој датотеци"
+
+#: ConfigView.section.ipfilter.enable.descriptionCache.tooltip
+msgid "When disabled, descriptions will not be remembered"
+msgstr "Када је искључено, описи неће бити чувани"
 
 #~ msgid ""
 #~ "Enable UDP tracker client protocol. This uses the same port number as the "

@@ -1,4 +1,4 @@
-VERSION=2.5.0.126
+VERSION=2.5.0.130
 DISTRIB=distrib
 SKYPE2PO=skype2po.py
 PO2SKYPE=po2skype.py

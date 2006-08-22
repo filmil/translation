@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 2.5.0.126\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-07-20 10:24+0200\n"
-"PO-Revision-Date: 2006-07-30 14:29+0200\n"
+"PO-Revision-Date: 2006-08-03 22:25+0200\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -116,12 +116,10 @@ msgid "Call %s"
 msgstr "Позови %s"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_MISSEDCALLS_ONE:18
-#, fuzzy
 msgid "Missed call"
 msgstr "Пропуштен позив"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_MISSEDCALLS_MORE:19
-#, fuzzy
 msgid "Missed calls"
 msgstr "Пропуштени позиви"
 
@@ -340,7 +338,6 @@ msgid "Rename..."
 msgstr "Преименуј..."
 
 #: source/2.5.0.126.lang:sBUDDYMENU_REMOVE:66
-#, fuzzy
 msgid "Remove from Contacts"
 msgstr "Уклони из списка познаника"
 
@@ -400,9 +397,8 @@ msgid "Skype"
 msgstr "Скајп"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_PROMPT:96
-#, fuzzy
 msgid "Are you sure you want to clear the selected items from History?"
-msgstr "Да ли сигурно желите да обришете дневник?"
+msgstr "Да ли сигурно желите да обришете изабране ставке из дневника?"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_FULL_PROMPT:97
 msgid "Are you sure you want to clear the History?"
@@ -449,7 +445,6 @@ msgid "Cancel call"
 msgstr "Обустави позив"
 
 #: source/2.5.0.126.lang:sINVALID_HANDLE:108
-#, fuzzy
 msgid "%s is not a valid Skype Name or number. Please check it and try again."
 msgstr ""
 "%s није исправно Скајпово име или број. Молимо да проверите и пробате поново."
@@ -592,7 +587,6 @@ msgid "Forgot your password?"
 msgstr "Заборавили сте лозинку?"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LINK_EULA:137
-#, fuzzy
 msgid "Skype End User License Agreement"
 msgstr "Скајпов уговор са крајњим корисником"
 
@@ -601,7 +595,6 @@ msgid "Yes, send me Skype news and special offers"
 msgstr "Да, шаљите ми Скајпове вести и посебне понуде"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_CHECKBOX_EULA:139
-#, fuzzy
 msgid "Yes, I have read and accept the"
 msgstr "Да, прочитао/ла сам и прихватам "
 
@@ -610,9 +603,8 @@ msgid "No Answer"
 msgstr "Без одговора"
 
 #: source/2.5.0.126.lang:sF_SPLASH_COPYRIGHT1:141
-#, fuzzy
 msgid "© 2003-2006 Skype Technologies S.A."
-msgstr "© 2003-2005 Skype Technologies S.A."
+msgstr "© 2003-2006 Skype Technologies S.A."
 
 #: source/2.5.0.126.lang:sF_SPLASH_COPYRIGHT2:142
 msgid "Protected by International Laws. All Rights Reserved."
@@ -798,9 +790,8 @@ msgid " - Options"
 msgstr " - Избори"
 
 #: source/2.5.0.126.lang:sADDRESSENTRY_HINT:185
-#, fuzzy
 msgid "Type Skype Name or number with country or region code"
-msgstr "Унесите Скајпово име или број са ознаком државе"
+msgstr "Унесите Скајпово име или број са ознаком државе или области"
 
 #: source/2.5.0.126.lang:sSTATUSTEXT_CALL_RINGING_IN:186
 #: source/2.5.0.126.lang:sTRAYHINT_CALL_RINGING_IN:187
@@ -843,9 +834,8 @@ msgid "Report a Problem"
 msgstr "Пријави проблем"
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_1_1:196
-#, fuzzy
 msgid "Copyright 2003-2006 Skype Limited"
-msgstr "Copyright 2003-2005 Skype Limited"
+msgstr "Copyright 2003-2006 Skype Limited"
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_1_2:197
 msgid "Patents Pending, Skype Limited"
@@ -857,19 +847,16 @@ msgid ""
 msgstr "Име „Skype‟, зашт. знак и симбол „S‟ су робне марке Skype Limited"
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_2_1:199
-#, fuzzy
 msgid "Portions Copyright © 2001-2006 Joltid • Limited. All rights reserved."
-msgstr "Делимично Copyright © 2001-2005 Joltid ™ Limited. Сва права придржана."
+msgstr "Делимично Copyright © 2001-2005 Joltid • Limited. Сва права придржана."
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_2_2:200
 msgid "Patents Pending, Joltid Limited. www.joltid.com"
 msgstr "Патенти на чекању, Joltid Limited. www.joltid.com"
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_3_1:201
-#, fuzzy
 msgid "Portions Copyright © 1999-2006 Global IP Sound AB. All rights reserved."
-msgstr ""
-"Делимично Copyright © 1999-2005 Global IP Sound AB. Сва права придржана."
+msgstr "Делимично Copyright © 1999-2006 Global IP Sound AB. Сва права придржана."
 
 #: source/2.5.0.126.lang:sF_ABOUT_COPYRIGHT_3_2:202
 msgid ""
@@ -921,14 +908,12 @@ msgid "Home Phone"
 msgstr "Кућни тел."
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_AUTHMSGS_ONE:210
-#, fuzzy
 msgid "User requests your details"
-msgstr "корисник тражи да добавите податке о вама"
+msgstr "Корисник тражи Ваше податке"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_AUTHMSGS_MORE:211
-#, fuzzy
 msgid "Users request your details"
-msgstr "корисници који траже Ваше податке"
+msgstr "Корисници траже Ваше податке"
 
 #: source/2.5.0.126.lang:sGREENBUTTON_HINT_RESUME:212
 msgid "Resume call with %s"
@@ -953,12 +938,10 @@ msgid "Search for Skype Users"
 msgstr "Претрага Скајпових корисника"
 
 #: source/2.5.0.126.lang:sCALL_ERROR_CALLEXISTS:218
-#, fuzzy
 msgid "Error: You already have an ongoing call."
-msgstr "Већ имате активну везу"
+msgstr "Грешка: Разговор је већ у току."
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_RESUME:219
-#, fuzzy
 msgid ""
 "You already have a call in progress. Do you want to put it on hold and "
 "resume this call?"
@@ -967,12 +950,10 @@ msgstr ""
 "наставите са изабраном везом?"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_ANSWER:220
-#, fuzzy
 msgid "Answer incoming call from %s and place %s on hold?"
 msgstr "Јави се за %s и стави %s на чекање?"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_CALLING:221
-#, fuzzy
 msgid ""
 "Do you want to put your current call with %s on hold and initiate a new call "
 "with %s?"
@@ -1164,7 +1145,6 @@ msgstr ""
 "нове лозинке"
 
 #: source/2.5.0.126.lang:sF_CHANGE_PASSWORD_TEXT6:290
-#, fuzzy
 msgid "The old password you entered is not valid.  Please try again."
 msgstr "Стара лозинка коју сте унели није исправна. Молимо покушајте поново."
 
@@ -1244,7 +1224,6 @@ msgid "Add selected"
 msgstr "Додај изабране"
 
 #: source/2.5.0.126.lang:sCLOSE_ALL_CALLS:309
-#, fuzzy
 msgid "All calls will be disconnected. Continue?"
 msgstr "Сви позиви ће бити прекинути. Да наставим?"
 
@@ -1395,7 +1374,6 @@ msgid "About Skype"
 msgstr "О Скајпу"
 
 #: source/2.5.0.126.lang:sUSER_NO_IN_DEVICES:345
-#, fuzzy
 msgid "This computer has no sound recording capabilities for Skype"
 msgstr "Ниједан уређај за снимање није на располагању за Скајп"
 
@@ -1449,7 +1427,6 @@ msgid "Block This User"
 msgstr "Блокирај овог корисника"
 
 #: source/2.5.0.126.lang:sCONFIRM_BLOCK_USER:359
-#, fuzzy
 msgid "Are you sure you want to add %s to your Blocked List?"
 msgstr "Да ли сигурно желите да додате %s у списак блокираних?"
 
@@ -1511,7 +1488,6 @@ msgid "View Chat History"
 msgstr "Преглед дневника порука"
 
 #: source/2.5.0.126.lang:sINFORM_DND:373
-#, fuzzy
 msgid ""
 "Your status is now set to 'Do Not Disturb'. You will not receive any "
 "notifications about incoming calls or messages."
@@ -1520,13 +1496,10 @@ msgstr ""
 "дојаве о новим позивима нити о новим порукама."
 
 #: source/2.5.0.126.lang:sF_CHAT_CANT_SAVEHISTORY_IN_HTML:374
-#, fuzzy
 msgid ""
 "Unable to convert Chat History to HTML file! <br/>Chat History will not be "
 "available."
-msgstr ""
-"Није могуће пребацити дневник порука у HTML датотеку!|Дневник порука неће "
-"бити расположив."
+msgstr "Није могуће пребацити дневник порука у HTML датотеку! <br/>Дневник порука неће бити доступан."
 
 #: source/2.5.0.126.lang:sSTATUS_PENDING:375
 msgid "This user has not shared his/her details with you"
@@ -1614,13 +1587,10 @@ msgid "Load"
 msgstr "Учитај"
 
 #: source/2.5.0.126.lang:sF_TRANSLATE_CONFIRM_NOSAVE:400
-#, fuzzy
 msgid ""
 "The language file has been modified since last save. Do you want to exit "
 "without saving the changes?"
-msgstr ""
-"Језичка датотека је мењана од последњег чувања. Да ли желите да наставите "
-"(при чему ће промене бити изгубљене) или да одустанете?"
+msgstr "Језичка датотека је мењана од последњег чувања. Да ли желите без чувања измена?"
 
 #: source/2.5.0.126.lang:sF_TRANSLATE_NO:401
 #: source/2.5.0.126.lang:sF_CONFIRM_NO:592
@@ -1671,9 +1641,8 @@ msgid "Ring PC speaker"
 msgstr "Звоно преко PC звучника"
 
 #: source/2.5.0.126.lang:sBUDDYMENU_SPEEDDIAL:415
-#, fuzzy
 msgid "Set Speed-Dial..."
-msgstr " Избор брзог тастера"
+msgstr "Подеси брзо звање..."
 
 # 20050406 zmeYpc: покушај да се истакне посебно значење
 #: source/2.5.0.126.lang:sMAINMENU_TOOLS_ADDAFRIEND:416
@@ -1718,10 +1687,9 @@ msgid "Not signed in"
 msgstr "Нисте на вези"
 
 #: source/2.5.0.126.lang:sCONFIRM_OFFLINE:428
-#, fuzzy
 msgid ""
 "All ongoing calls will be disconnected. Are you sure, you want to go offline?"
-msgstr "Сви отворени позиви биће затворени, да ли желите да наставите?"
+msgstr "Сви позиви који трају биће затворени. Да ли сигурно желите да се искључите?"
 
 #: source/2.5.0.126.lang:sCALL_LB2_FAILED_NOT_FRIEND:429
 msgid "not-a-contact"
@@ -1792,9 +1760,8 @@ msgid "Unable to send message, user blocked"
 msgstr "Није могуће послати поруку, корисник је блокиран"
 
 #: source/2.5.0.126.lang:sCONFIRM_CLOSE_CONFERENCE:447
-#, fuzzy
 msgid "Are you sure you want to end this conference call?"
-msgstr "Да ли сигурно желите да обуставите овај разговор?"
+msgstr "Да ли сигурно желите да обуставите овај конференцијски разговор?"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_RADIOGROUP1:448
 msgid "Allow calls from"
@@ -1868,9 +1835,8 @@ msgstr "Прекид везе?"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_PROMPT_CAP:468
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_PROMPT_TITLE:469
-#, fuzzy
 msgid "Clear History Items?"
-msgstr "Брисање дневника?"
+msgstr "Брисање ставки у дневнику?"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_FULL_PROMPT_CAP:470
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_FULL_PROMPT_TITLE:471
@@ -1880,15 +1846,13 @@ msgstr "Брисање дневника?"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_ANSWER_CAP:474
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_ANSWER_TITLE:475
-#, fuzzy
 msgid "Hold Current Call?"
-msgstr "Позив на чекање?"
+msgstr "Стављање позива на чекање?"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_RESUME_CAP:476
 #: source/2.5.0.126.lang:sCALL_CONFIRM_HOLD_ON_RESUME_TITLE:477
-#, fuzzy
 msgid "Hold Other Call?"
-msgstr "Позив на чекање"
+msgstr "Стављање другог позива на чекање?"
 
 #: source/2.5.0.126.lang:sCONFIRM_CLOSE_CONFERENCE_CAP:478
 msgid "End Conference"
@@ -1930,30 +1894,25 @@ msgstr "последњи пут:"
 
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_HOST_RESUME:496
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_REMOTE_RESUME:497
-#, fuzzy
 msgid "Resume the Conference"
 msgstr "Настави конференцију"
 
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_REMOTE_HANGUP:498
-#, fuzzy
 msgid "Leave the Conference"
 msgstr "Напусти конференцију"
 
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_HOST_HOLD:499
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_REMOTE_HOLD:500
-#, fuzzy
 msgid "Hold the Conference"
 msgstr "Конференцију на чекање"
 
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_INCOMING_REJECT:501
-#, fuzzy
 msgid "Reject Conference Invite"
 msgstr "Одбиј позив за конференцију"
 
 #: source/2.5.0.126.lang:sAVATAR_MENUITEM_CONF_INCOMING_IGNORE:502
-#, fuzzy
 msgid "Ignore Conference Invite"
-msgstr "Занемари позив за конференцију"
+msgstr "Занемари позив на конференцију"
 
 #: source/2.5.0.126.lang:sPLACECALL_FAILED:503
 msgid ""
@@ -2135,9 +2094,8 @@ msgstr "Није могуће блокирати"
 
 # 20050404: Превод који боље одговара изворној поруци
 #: source/2.5.0.126.lang:sF_USERENTRY_ERROR_TOO_MANY_ATTEMPTS:547
-#, fuzzy
 msgid "Too many failed sign in attempts, wait 1 minute to retry"
-msgstr "Превише је неуспелих пријава, предах од 10 минута"
+msgstr "Превише је неуспелих пријава, предах од 1 минута"
 
 #: source/2.5.0.126.lang:sF_SEND_CONTACTS_BLOCKED:548
 msgid "Cannot send contacts to %s -  the user is blocked"
@@ -2161,9 +2119,8 @@ msgid "Let Skype adjust my sound device settings"
 msgstr "Дозволи Скајпу да подеси звучне уређаје"
 
 #: source/2.5.0.126.lang:sF_SEND_CONTACTS_INVALID_USER:554
-#, fuzzy
 msgid "Cannot send contacts to %s. The Skype Name is not valid."
-msgstr "Није могуће послати познанике %s - Скајпово име је неважеће"
+msgstr "Није могуће послати познанике %s. Скајпово име је неважеће."
 
 #: source/2.5.0.126.lang:sCALLHISTORYMENU_VM_PLAY:557
 msgid "Listen"
@@ -2179,15 +2136,13 @@ msgid "Voicemail"
 msgstr "Гласовна пошта"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_NEW_VOICEMAILS_ONE:560
-#, fuzzy
 msgid "New voicemail"
-msgstr "Нова глас.пошта"
+msgstr "Нова говорна порука"
 
 # Пошта нема множину, тј. не постоје поште -- осим ако се говори о установама
 #: source/2.5.0.126.lang:sSTATUSPAGE_NEW_VOICEMAILS_MORE:561
-#, fuzzy
 msgid "New voicemails"
-msgstr "Нове глас.поруке"
+msgstr "Нове говорне поруке"
 
 #: source/2.5.0.126.lang:sMAINMENU_TOOLS_CREATE_CONFERENCE:562
 msgid "Create a Conference Call..."
@@ -2202,9 +2157,8 @@ msgstr ""
 "позивни број земље и број ког желите да позовете. Пример: +1 212 555 1212"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_VOICEMAIL:564
-#, fuzzy
 msgid "Your Skype account is activated"
-msgstr "Ваш СкајпИн налог је активан"
+msgstr "Ваш Скајпов налог је активиран"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_VOICEMAIL_LINK_1:565
 #: source/2.5.0.126.lang:sSTATUSPAGE_SKYPEOUT_OK_LINK_1:706
@@ -2257,7 +2211,6 @@ msgid "Number busy"
 msgstr "Број је заузет"
 
 #: source/2.5.0.126.lang:sCANNOT_CALL_EMERGENCY:576
-#, fuzzy
 msgid ""
 "Skype is not a telephony replacement service, and cannot be used for "
 "emergency service dialing."
@@ -2313,9 +2266,8 @@ msgid "Block"
 msgstr "Блокирај"
 
 #: source/2.5.0.126.lang:sF_CONFIRM_BLOCK_CHECK:594
-#, fuzzy
 msgid "Also remove this person from Contacts"
-msgstr "Такође уклони из списка познаника"
+msgstr "Такође уклони особу из списка познаника"
 
 #: source/2.5.0.126.lang:sF_BLOCKUSERS_LABEL_USERNAME:596
 msgid "Block this user:"
@@ -2404,13 +2356,10 @@ msgstr "Изабрана датотека је неважећа"
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_DELETE_PROMPT:620
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_DELETE_PROMPT2:1094
-#, fuzzy
 msgid ""
 "Are you sure you want to remove this picture from My Pictures? The picture "
 "will also be deleted from My Skype Pictures folder."
-msgstr ""
-"Да ли сте сигурни да желите да уклоните слику из Мојих слика? (Приметите да "
-"је слика такође уклоњена из директоријума Моје Скајпове слике)"
+msgstr "Да ли сте сигурни да желите да уклоните слику из Мојих слика? Слика ђе такође бити уклоњена из директоријума Моје Скајпове слике."
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_DELETE_PROMPT_TITLE:621
 msgid "Remove Picture?"
@@ -2544,13 +2493,10 @@ msgid "Save..."
 msgstr "Сачувај..."
 
 #: source/2.5.0.126.lang:sFILETRANSFER_CLOSE_TEXT:660
-#, fuzzy
 msgid ""
 "Are you sure you want to cancel the file transfer? If you cancel now then %s "
 "will not receive this file."
-msgstr ""
-"Да ли сте сигурни да желите да откажете пренос датотека? Ако откажете сада, "
-"нећете примити ову датотеку"
+msgstr "Да ли сте сигурни да желите да откажете пренос датотека? Ако откажете сада, корисник %s неће примити ову датотеку."
 
 #: source/2.5.0.126.lang:sFILETRANSFER_CLOSE_TITLE:661
 msgid "Cancelling File Transfer"
@@ -2561,11 +2507,10 @@ msgid "Cancelling file transfer"
 msgstr "Отказ преноса датотеке"
 
 #: source/2.5.0.126.lang:sFILETRANSFER_INFORM:663
-#, fuzzy
 msgid ""
 "You can only send files to people who have exchanged contact details with "
 "you."
-msgstr "Можете једино слати датотеке људима који су вас за то овластили"
+msgstr "Можете једино слати датотеке људима са којима сте разменили личне податке."
 
 #: source/2.5.0.126.lang:sFILETRANSFER_HINT1_RELAYED:664
 msgid "Your transfer is being relayed. "
@@ -2595,9 +2540,8 @@ msgid "From 6 to 32 characters (%d used)"
 msgstr "Од 6 до 32 знака (%d употребљено)"
 
 #: source/2.5.0.126.lang:sBUDDYMENU_SENDFILE:670
-#, fuzzy
 msgid "Send File..."
-msgstr "Пошаљи датотеку"
+msgstr "Пошаљи датотеку..."
 
 #: source/2.5.0.126.lang:sFILETRANSFER_CLOSE_TEXT_2:673
 msgid ""
@@ -2709,14 +2653,11 @@ msgstr ""
 "безбедносна мера која спречава злоупотребу Вашег Скајповог налога."
 
 #: source/2.5.0.126.lang:sINFORM_UIC_FAILED_LOGOFF:696
-#, fuzzy
 msgid ""
 "Skype was unable to communicate with the registration server. You will be "
 "signed out from Skype. Please wait for a while, then try to sign back in "
 "later."
-msgstr ""
-"Скајп није успео да се повеже са сервером за пријаву, бићете одјављени са "
-"Скајпове мреже. Молимо Вас да пробате да се пријавите ручно касније."
+msgstr "Скајп није успео да се повеже са сервером за пријаву, бићете одјављени са Скајпове мреже. Молимо Вас да сачекате мало и пробате да се пријавите касније."
 
 #: source/2.5.0.126.lang:sINFORM_CALL_INVALID_PASSWORD_LOGOFF_CAPTION:697
 #: source/2.5.0.126.lang:sINFORM_PASSWORD_OUTDATED_LOGOFF_CAPTION:698
@@ -2740,9 +2681,8 @@ msgid "Invalid Skype Name or number"
 msgstr "Скајпово име или телефонски број су неважећи"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_SKYPEOUT_OK:705
-#, fuzzy
 msgid "%s %s Skype Credit left"
-msgstr "%s (%s) Скајпове поруке"
+msgstr "%s %s преосталих Скајпових кредита"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_SKYPEOUT_LOW:707
 msgid "Skype Credit: %s %s remaining"
@@ -3002,16 +2942,14 @@ msgid "Error creating greeting object"
 msgstr "Грешка при прављењу поздрава"
 
 #: source/2.5.0.126.lang:sGREETING_DELETE_TEXT:772
-#, fuzzy
 msgid ""
 "Are you sure you want to reset your voicemail greeting to the original "
 "default?"
 msgstr "Да ли сигурно желите да вратите изворну поздравну поруку?"
 
 #: source/2.5.0.126.lang:sGREETING_DELETE_TITLE:773
-#, fuzzy
 msgid "Reset My Voicemail Greeting"
-msgstr "Напредна подешавања говорне поште"
+msgstr "Врати изворну поздравну поруку"
 
 #: source/2.5.0.126.lang:sGREETING_DELETE_CAP:774
 msgid "Reset my voicemail greeting"
@@ -3079,14 +3017,12 @@ msgid "The whole world can talk for free."
 msgstr "Цео свет може бесплатно да разговара."
 
 #: source/2.5.0.126.lang:sCONFIRM_MULTICHAT_LEAVE:792
-#, fuzzy
 msgid "Are you sure you want to leave this chat?"
-msgstr "Да ли сигурно желите да обуставите овај разговор?"
+msgstr "Да ли сигурно желите да напустите овај разговор?"
 
 #: source/2.5.0.126.lang:sCONFIRM_MULTICHAT_LEAVE_TITLE:793
-#, fuzzy
 msgid "Leave Chat"
-msgstr "Пропелерко"
+msgstr "Напуштање разговора"
 
 #: source/2.5.0.126.lang:sCHAT_MEMBER_ADDED:794
 msgid "%s added %s to this chat"
@@ -3097,12 +3033,9 @@ msgid "%s left this chat"
 msgstr "%s је напустио овај разговор"
 
 #: source/2.5.0.126.lang:sCHAT_MEMBER_INCAPABLE:796
-#, fuzzy
 msgid ""
 "%s is using a version of Skype which doesn't support chats and cannot join"
-msgstr ""
-"%s користи старије издање Скајпа које не подржава разговор више особа и зато "
-"не може да се придружи"
+msgstr "%s користи издање Скајпа које не подржава разговор више особа и зато не може да се придружи"
 
 #: source/2.5.0.126.lang:sCHAT_MEMBER_PRIVACY_ERROR:797
 msgid "%s can't be added to this chat due to his/her privacy settings"
@@ -3122,9 +3055,8 @@ msgstr "Тема"
 
 #: source/2.5.0.126.lang:sF_MULTICHAT_LEAVE:801
 #: source/2.5.0.126.lang:sF_CONFIRM_LEAVE:2110
-#, fuzzy
 msgid "Leave"
-msgstr "Сними"
+msgstr "Напусти"
 
 #: source/2.5.0.126.lang:sF_MULTICHAT_TOPIC:802
 msgid "Topic: "
@@ -3390,7 +3322,6 @@ msgid "Hang up current call"
 msgstr "Заврши тренутни разговор"
 
 #: source/2.5.0.126.lang:sCALL_LB2_LEAVING_VOICEMAIL:875
-#, fuzzy
 msgid "Recording voicemail"
 msgstr "Снимање гласовне поруке"
 
@@ -3658,7 +3589,6 @@ msgid "Clear Messages"
 msgstr "Обриши поруке"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_HISTORY_DEL_TEXT:943
-#, fuzzy
 msgid "Delete all chat histories? (This will also close all open chats)"
 msgstr ""
 "Брисање свих дневника разговора? (Сви активни разговори биће затворени)"
@@ -3944,9 +3874,8 @@ msgid "Unmute"
 msgstr "Појачај"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_SKYPEIN:1031
-#, fuzzy
 msgid "%s"
-msgstr "[%s]"
+msgstr "%s"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_VM_SET2:1033
 msgid "Default welcome message"
@@ -3989,7 +3918,6 @@ msgid "Call already in progress"
 msgstr "Позив је већ у току"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_DROP_VOICEMAIL:1043
-#, fuzzy
 msgid ""
 "%s is calling. Would you like to answer to the call? If yes, voicemail "
 "recording will be finished and uploaded to the server. If no, voicemail "
@@ -4009,9 +3937,8 @@ msgid "Abort voicemail?||"
 msgstr "Напуштање гласовне поште?||"
 
 #: source/2.5.0.126.lang:sCANNOT_SEND_VOICEMAIL:1046
-#, fuzzy
 msgid "Skype cannot send Voicemail now, because a call is ongoing."
-msgstr "Није могуће послати гласовну пошту сада, јер је активан разговор"
+msgstr "Није могуће послати гласовну пошту сада, јер је активан разговор."
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_VOICEMAIL_v2:1048
 msgid "Expires %s"
@@ -4023,9 +3950,8 @@ msgstr "Преостало време:"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_VOICEMAIL_SHORT:1051
 #: source/2.5.0.126.lang:sSTATUSPAGE_SKYPEIN_SHORT:1055
-#, fuzzy
 msgid "Ends %s"
-msgstr "%s и %s"
+msgstr "Крај %s"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_VOICEMAIL_LINK_SHORT:1052
 msgid "Extend Voicemail service now"
@@ -4061,13 +3987,10 @@ msgstr "Немате ниједан програм који користи Ск�
 # get the effect of right sentence composition. It just happened to work
 # _this time_; in general it is just broken.
 #: source/2.5.0.126.lang:sF_PATC_MESSAGE:1060
-#, fuzzy
 msgid ""
 "Would you like to add %s to your Contact List? This makes calling him/her "
 "easier in future."
-msgstr ""
-"Често сте %s @TS1%s@TS0, да ли желите да %s додате у списак познаника? Тако "
-"ћете их лакше позивати у будућности."
+msgstr "Да ли желите да додате %s у списак познаника? То ће Вам омогућити лакше звање у будућности."
 
 #: source/2.5.0.126.lang:sF_PATC_YESBTN_CAPTION:1062
 msgid "Yes, share my contact details &>>"
@@ -4086,14 +4009,12 @@ msgid "him/her"
 msgstr "га/је"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_CAPTION:1066
-#, fuzzy
 msgid "Getting Started"
-msgstr "Први кораци..."
+msgstr "Први кораци"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_DONTSHOW:1067
-#, fuzzy
 msgid "Do not show this guide at startup"
-msgstr "Не приказуј овог чаробњака на почетку"
+msgstr "Не приказуј овај водич на почетку"
 
 #: source/2.5.0.126.lang:sF_PATC_CAPTION:1068
 msgid "Do You Have a New Friend?"
@@ -4112,7 +4033,6 @@ msgid "Cannot send voicemail"
 msgstr "Није могуће слати гласовну пошту"
 
 #: source/2.5.0.126.lang:sCALL_CONFIRM_DROP_VOICEMAIL2:1072
-#, fuzzy
 msgid ""
 "You are currently recording a voicemail. If you make a new call, this "
 "voicemail recording will be completed and uploaded to the server. Otherwise, "
@@ -4334,21 +4254,16 @@ msgid "Blocked Contacts"
 msgstr "Блокирани познаници"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_NEW_VOICEMAILS_PROMPT:1136
-#, fuzzy
 msgid "%s new voicemail(s) will be deleted. Do you want to continue?"
-msgstr ""
-"Број непреслушаних гласовних порука које ће бити обрисане: %s. Да ли желите "
-"да их обришете?"
+msgstr "Оволико нових гласовних порука ће бити уклоњено: %s. Да ли желите да наставите?"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_NEW_VOICEMAILS_PROMPT_TITLE:1137
-#, fuzzy
 msgid "Delete New Voicemails?"
-msgstr "Обриши гласовну пошту"
+msgstr "Уклањање нове говорне поште?"
 
 #: source/2.5.0.126.lang:sCALLHISTORY_CLEAR_NEW_VOICEMAILS_PROMPT_CAP:1138
-#, fuzzy
 msgid "Delete new voicemails?"
-msgstr "Брисање нове говорне поште?"
+msgstr "Уклањање нове говорне поште?"
 
 #: source/2.5.0.126.lang:sNO_NEW_EVENTS:1139
 msgid "No new events"
@@ -4395,9 +4310,8 @@ msgid "Dancing"
 msgstr "Играње"
 
 #: source/2.5.0.126.lang:sF_USERPROFILE_PHONE_NOTE:1150
-#, fuzzy
 msgid "Enter %s phone number "
-msgstr "Унесите број телефона"
+msgstr "Унесите број телефона за %s"
 
 #: source/2.5.0.126.lang:sMISSEDEVENTS_MORE_HINT:1152
 msgid "Click here to see older missed events"
@@ -4487,14 +4401,12 @@ msgid "%d new contact lists from %s, last at %s"
 msgstr "Нових спискова познаника: %d од %s, последњи у %s"
 
 #: source/2.5.0.126.lang:sF_EULA_CAPTION:1173
-#, fuzzy
 msgid "License Agreement"
-msgstr "Лиценца"
+msgstr "Споразум о лиценци"
 
 #: source/2.5.0.126.lang:sF_EULA_LANG_SELECTOR:1175
-#, fuzzy
 msgid "Read this license agreement in: "
-msgstr "Читање лиценце на:"
+msgstr "Читање овог споразума о лиценци на:"
 
 #: source/2.5.0.126.lang:sFILETRANSFER_DISABLED:1177
 msgid ""
@@ -4504,7 +4416,6 @@ msgstr ""
 "Пренос датотека је искључен. Обратите се управнику система за више података."
 
 #: source/2.5.0.126.lang:sF_ADDFRIEND_LABEL1:1178
-#, fuzzy
 msgid ""
 "Enter the <b>Skype Name, full name</b> or <b>e-mail address</b> of the "
 "person you wish to add to your Contact List."
@@ -4686,67 +4597,48 @@ msgid "To continue, click 'Start'."
 msgstr "За даље, притисните „Почни“"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP1_1:1222
-#, fuzzy
 msgid ""
 "<b>Step 1.</b> In the Contacts tab, locate and click the contact 'Skype Test "
 "Call'."
-msgstr ""
-"_Корак 1._ У језичку Познаници, пронађите и притисните „Скајпов пробни "
-"позив“."
+msgstr "<b>Корак 1.</b> У језичку Познаници, пронађите и притисните „Скајпов пробни позив“."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP2_1:1223
-#, fuzzy
 msgid ""
 "<b>Step 2.</b> Click green 'Call' button to start the call. Follow the "
 "directions given in the recording."
-msgstr ""
-"_Корак 2._ Притисните зелено дугме „Позови“ како бисте почели позив. Пратите "
-"упутства дата на снимку."
+msgstr "<b>Корак 2.</b> Притисните зелено дугме „Позови“ како бисте почели позив. Пратите упутства дата на снимку."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP1_2:1224
-#, fuzzy
 msgid ""
 "<b>Step 1.</b> Click the green 'Add Contact' icon on the Skype application "
 "toolbar"
-msgstr ""
-"_Корак 1._ Притисните зелену сличицу „Додај познаника“ на Скајповој алатној "
-"траци."
+msgstr "<b>Корак 1.</b> Притисните зелену сличицу „Додај познаника“ на Скајповој алатној траци."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP2_2:1225
-#, fuzzy
 msgid ""
 "<b>Step 2.</b> Type your friend's Skype Name into 'Add' box in the 'Add a "
 "contact' window and click 'Search' to find them."
-msgstr ""
-"_Корак 2._ Унесите пријатељево Скајпово име у поље „Додај“ у прозору „Додај "
-"познаника“ и притисните „Нађи“ да га пронађете."
+msgstr "<b>Корак 2.</b> Унесите пријатељево Скајпово име у поље „Додај“ у прозору „Додај познаника“ и притисните „Нађи“ да га пронађете."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP1_3:1226
-#, fuzzy
 msgid "<b>Step 1.</b> Click your friend's name in the Contacts."
-msgstr "_Корак 1._ Притисните име пријатеља међу познаницима."
+msgstr "<b>Корак 1.</b> Притисните име пријатеља међу познаницима."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP2_3:1227
-#, fuzzy
 msgid ""
 "<b>Step 2.</b> Click the green 'Call' button to start the call. When your "
 "friend answers, start talking!"
-msgstr ""
-"_Корак 2._ Притисните зелено дугме „Позови“ како бисте почели позив. Када се "
-"пријатељ јави, почните разговор."
+msgstr "<b>Корак 2.</b> Притисните зелено дугме „Позови“ како бисте почели позив. Када се пријатељ јави, почните разговор."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP1_4:1228
-#, fuzzy
 msgid "<b>Step 1.</b> From 'Contacts' menu, select 'Import Contacts'"
-msgstr "_Корак 1._ Из менија „Познаници“ изаберите „Увези познанике“"
+msgstr "<b>Корак 1.</b> Из менија „Познаници“ изаберите „Увези познанике“"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP2_4:1229
-#, fuzzy
 msgid ""
 "<b>Step 2.</b> The Import Contacts wizard opens. Follow the on-screen "
 "instructions."
-msgstr ""
-"_Корак 2._ Отвара се чаробњак за увоз познаника. Пратите упутства са екрана."
+msgstr "<b>Корак 2.</b> Отвара се чаробњак за увоз познаника. Пратите упутства са екрана."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_HINT1_1:1230
 msgid "If you have problems with sound settings, "
@@ -4918,14 +4810,12 @@ msgid "Follow these simple steps."
 msgstr "Пратите ове једноставне кораке."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_PAGE3_LB_3_1:1265
-#, fuzzy
 msgid "<b>Step 1.</b> Check 'Allow Access for' and choose 10 minutes"
-msgstr "_Корак 1._ Притисните „Дозволи приступ на“ и изаберите 10 минута"
+msgstr "<b>Корак 1.</b> Притисните „Дозволи приступ на“ и изаберите 10 минута"
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_PAGE3_LB_3_2:1266
-#, fuzzy
 msgid "<b>Step 2.</b> Click 'Yes'"
-msgstr "_Корак 2._ Притисните „Да“"
+msgstr "<b>Корак 2.</b> Притисните „Да“"
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_PAGE3_LB_4_1:1267
 msgid "Click 'Next' and the Outlook alert will open."
@@ -5186,22 +5076,16 @@ msgstr ""
 "пријавите на Скајп."
 
 #: source/2.5.0.126.lang:sERROR_HINT_9401:1326
-#, fuzzy
 msgid ""
 "You need Skype Credit to call ordinary phones.<a href=\"skype:?"
 "payments#skypeout\"> Click here to get Skype Credit now</a>"
-msgstr ""
-"Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?"
-"go#store\">Притисните овде да одмах купите кредите</a>"
+msgstr "Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?payments#skypeout\">Притисните овде да одмах купите кредите</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_9402:1327
-#, fuzzy
 msgid ""
 "You do not have Skype Credit. <a href=\"skype:?payments#skypeout\">Click "
 "here to get Skype Credit now</a> "
-msgstr ""
-"Немате Скајпов кредит. <a href=\"skype:?go#store\">Притисните овде да га "
-"одмах купите</a>"
+msgstr "Немате Скајпов кредит. <a href=\"skype:?payments#skypeout\">Притисните овде да га одмах купите</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_9403:1328
 msgid ""
@@ -5228,13 +5112,10 @@ msgstr ""
 "овде за више података</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_10403:1331
-#, fuzzy
 msgid ""
 "The number you are trying to call is currently not supported by Skype. <a "
 "href=\" skype:?go#help.faq.calling.forbidden\">Click here for details</a>"
-msgstr ""
-"Скајп тренутно не подржава позиве на број ког сте звали. <a href=\"skype:?"
-"go#error-10403\">Притисните овде за више података</a>"
+msgstr "Скајп тренутно не подржава позиве на број ког сте звали. <a href=\"skype:?go#help.faq.calling.forbidden\">Притисните овде за више података</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_10404:1332
 msgid "The number you dialed is either invalid or does not exist"
@@ -5295,22 +5176,16 @@ msgstr ""
 "то исправи"
 
 #: source/2.5.0.126.lang:sERROR_HINT_SOUND_RECORDING_ERROR:1342
-#, fuzzy
 msgid ""
 "Please check audio settings and <a href=\"skype:?go#help.faq.sound."
 "recordingerror\">make sure you have the right microphone selected</a>"
-msgstr ""
-"Молимо проверите подешавања звука и <a href=\"skype:?options#sounddevices"
-"\">проверите да ли сте изабрали прави микрофон</a>"
+msgstr "Молимо проверите подешавања звука и <a href=\"skype:?go#help.faq.sound.recodringerror\">проверите да ли сте изабрали прави микрофон</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_SOUND_PLAYBACK_ERROR:1343
-#, fuzzy
 msgid ""
 "Please check audio settings and <a href=\"skype:?go#help.faq.sound."
 "playbackerror\">make sure the correct headphones/speakers are selected</a>"
-msgstr ""
-"Молимо проверите подешавања звука и <a href=\"skype:?options#sounddevices"
-"\">проверите да ли сте изабрали праве слушалице или звучнике</a>"
+msgstr "Молимо проверите подешавања звука и <a href=\"skype:?go#help.faq.sound.recordingerror\">проверите да ли сте изабрали праве слушалице или звучнике</a>"
 
 #: source/2.5.0.126.lang:sERROR_HINT_MAIN_1:1344
 msgid ""
@@ -5384,10 +5259,8 @@ msgid "click here to learn how to import contacts from other applications."
 msgstr "притисните да научите како да увезете познанике из других програма."
 
 #: source/2.5.0.126.lang:sCALLTO_SKYPEOUT_PROMPT:1360
-#, fuzzy
 msgid "The link you clicked will start a SkypeOut call to %s. Are you sure?"
-msgstr ""
-"Веза коју сте изабрали ће започети СкајпАут позив за %s. Да ли сте сигурни?"
+msgstr "Веза коју сте изабрали ће започети СкајпАут позив са корисником %s. Да ли сте сигурни?"
 
 #: source/2.5.0.126.lang:sCALLTO_SKYPEOUT_PROMPT_TITLE:1361
 msgid "Start SkypeOut call"
@@ -5418,14 +5291,12 @@ msgstr ""
 "није био на вези."
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_BTN_GETNEW:1368
-#, fuzzy
 msgid "Create my Avatar"
-msgstr "Направи нови разговор"
+msgstr "Направи моју маскоту"
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_MSG1_1:1369
-#, fuzzy
 msgid "This picture \"%s\" belongs to %s."
-msgstr "Слика „%s“ је преузета за корисника %s."
+msgstr "Слика „%s“ припада кориснику %s."
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_MSG1_2:1370
 msgid "Please sign in as %s to select this picture."
@@ -5436,7 +5307,6 @@ msgid "Picture Belongs to Another User"
 msgstr "Слика припада другом кориснику"
 
 #: source/2.5.0.126.lang:sF_AVATAR_BROWSER_MSG2_1:1372
-#, fuzzy
 msgid ""
 "Sorry, the picture could not be installed, because there was a problem with "
 "the file."
@@ -5472,47 +5342,38 @@ msgid "Get New Sounds"
 msgstr "Добави нове тонове"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT1:1383
-#, fuzzy
 msgid "Skype Ringtone (Modern)"
 msgstr "Скајпово звоно (Модерно)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT2:1384
-#, fuzzy
 msgid "Skype Dial Tone (Modern)"
 msgstr "Скајпов звук при звању (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT3:1385
-#, fuzzy
 msgid "Skype Busy Signal (Modern)"
 msgstr "Скајпов сигнал заузећа (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT4:1386
-#, fuzzy
 msgid "Skype Call on Hold (Modern)"
 msgstr "Скајпов позив на чекању (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT5:1387
-#, fuzzy
 msgid "Skype Resuming Call (Modern)"
 msgstr "Скајп наставак позива (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT6:1388
-#, fuzzy
 msgid "Skype Hang Up (Modern)"
 msgstr "Скајпов прекид везе (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT7:1389
-#, fuzzy
 msgid "Skype Incoming Chat (Modern)"
 msgstr "Скајпов долазни разговор (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT8:1390
-#, fuzzy
 msgid "Skype Contact Online (Modern)"
 msgstr "Скајпов познаник на вези (Модеран)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_SOUND_TEXT9:1391
-#, fuzzy
 msgid "Skype Connecting Call (Modern)"
 msgstr "Скајпово повезивање (Модерно)"
 
@@ -5522,7 +5383,6 @@ msgid "Ringtone"
 msgstr "Звоњење"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_CAPTION_LABEL2:1393
-#, fuzzy
 msgid "Dial Tone"
 msgstr "Звук телефона"
 
@@ -5535,7 +5395,6 @@ msgid "Call on Hold"
 msgstr "Позив на чекању"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_CAPTION_LABEL5:1396
-#, fuzzy
 msgid "Resuming Call"
 msgstr "Наставак позива"
 
@@ -5544,7 +5403,6 @@ msgid "Hang up"
 msgstr "Крај позива"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_CAPTION_LABEL7:1398
-#, fuzzy
 msgid "Incoming Chat"
 msgstr "Долазни разговор"
 
@@ -5553,7 +5411,6 @@ msgid "Contact Online"
 msgstr "Познаник на вези"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_CAPTION_LABEL9:1400
-#, fuzzy
 msgid "Connecting Call"
 msgstr "Повезивање"
 
@@ -5562,7 +5419,6 @@ msgid "Choose your sound"
 msgstr "Изаберите ваш тон"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DELETE_PROMPT:1402
-#, fuzzy
 msgid ""
 "Remove %s from your sound library? This file will also be deleted from My "
 "Skype Content folder."
@@ -5575,9 +5431,8 @@ msgid "Remove Sound File?"
 msgstr "Уклони звучну датотеку?"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_MSG1_1:1404
-#, fuzzy
 msgid "This sound \"%s\" belongs to %s."
-msgstr "Звук „%s“ је преузет за корисника %s."
+msgstr "Звук „%s“ припада кориснику %s."
 
 #: source/2.5.0.126.lang:sF_SOUNDS_MSG1_2:1405
 msgid "Please sign in as %s to select this sound."
@@ -5600,23 +5455,20 @@ msgid "Sound Installation Failed"
 msgstr "Постављање звука није успело"
 
 #: source/2.5.0.126.lang:sF_CONTENT_BROWSER_MSG1_1:1410
-#, fuzzy
 msgid "The picture \"%s\" belongs to %s."
-msgstr "Слика „%s“ је преузета за корисника %s."
+msgstr "Слика „%s“ припада кориснику %s."
 
 #: source/2.5.0.126.lang:sF_CONTENT_BROWSER_MSG1_2:1411
 msgid "Please sign in as %s to select this file."
 msgstr "Молимо пријавите се као %s да изаберете ову датотеку."
 
 #: source/2.5.0.126.lang:sF_CONTENT_BROWSER_MSG1_TITLE:1412
-#, fuzzy
 msgid "File belongs to another user"
 msgstr "Слика припада другом кориснику"
 
 #: source/2.5.0.126.lang:sF_CONTENT_BROWSER_MSG2_1:1413
-#, fuzzy
 msgid "There was a problem with the file, and it could not be installed."
-msgstr "Постоји проблем са уређајем за пуштање звука"
+msgstr "Има проблема са датотеком и зато није могла бити постављена."
 
 #: source/2.5.0.126.lang:sF_CONTENT_BROWSER_MSG2_2:1414
 msgid "Please try downloading this file again."
@@ -5627,7 +5479,6 @@ msgid "File not installed"
 msgstr "Датотека није постављена"
 
 #: source/2.5.0.126.lang:sF_ADDFRIEND_LABEL1_2:1416
-#, fuzzy
 msgid ""
 "Looking to meet new people? Looking for someone in particular? Search the "
 "Skype Directory... "
@@ -5710,9 +5561,8 @@ msgstr ""
 "унесене бројеве."
 
 #: source/2.5.0.126.lang:sF_VOICEMAIL_OPTIONS_LB4:1435
-#, fuzzy
 msgid "If there is no answer, calls are sent to Voicemail."
-msgstr "Ако тамо нема одговора, позиви се шаљу у гласовну пошту."
+msgstr "Ако тамо нема одговора, позиви се шаљу у говорну пошту."
 
 #: source/2.5.0.126.lang:sF_VOICEMAIL_OPTIONS_CB_REJECT:1436
 msgid "I reject an incoming call"
@@ -5756,22 +5606,18 @@ msgid "Call forwarding settings not saved!"
 msgstr "Подешавања прослеђивања позива нису сачувана!"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_CF_ERROR1:1445
-#, fuzzy
 msgid "Phone number or Skype Name is invalid. Please correct it and try again."
-msgstr "Унети број телефона или Скајпово име су неважећи. Молимо исправите."
+msgstr "Унети број телефона или Скајпово име су неважећи. Молимо исправите и пробајте поново."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_CF_ERROR2:1446
 msgid "Error in Call Forwarding settings"
 msgstr "Дошло је до грешке у подешавањима прослеђивања позива"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_CF_ERROR3:1447
-#, fuzzy
 msgid ""
 "In order to forward your calls to ordinary phones, you need to have Skype "
 "Credit. <a href=\"skype:?go#store\">Buy Skype Credit now</a>"
-msgstr ""
-"Како бисте проследили позиве на обичне телефоне, морате имати Скајпове "
-"кредите."
+msgstr "Како бисте проследили позиве на обичне телефоне, морате имати Скајпове кредите.< <a href=\\\"skype:?go#store\\\">Купите одмах Скајпов кредит</a>"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_CF_ERROR4:1448
 msgid "Skype Credit required"
@@ -5798,13 +5644,10 @@ msgstr ""
 "<a href=\"skype:?go#store\">Скајпових кредита</a>"
 
 #: source/2.5.0.126.lang:sNOTIF_R008:1452
-#, fuzzy
 msgid ""
 "Don't want to miss a call? <a href=\"skype:?go#store\">Subscribe to Skype "
 "Voicemail</a> now"
-msgstr ""
-"Сувише сте заузети или одсутни да бисте преузели позиве? <a href=\"skype:?"
-"go#store\">Претплатите се на гласовну пошту</a> већ сада"
+msgstr "Не желите да пропустите позив? <a href=\"skype:?go#store\">Претплатите се на гласовну пошту</a> већ сада"
 
 #: source/2.5.0.126.lang:sNOTIF_R009:1453
 msgid ""
@@ -5937,12 +5780,10 @@ msgstr ""
 "дозвољена величина је 1.5MB)."
 
 #: source/2.5.0.126.lang:sAUDIO_PLAYBACK_ERROR4:1475
-#, fuzzy
 msgid "Skype cannot read the file"
-msgstr "Није могуће читати датотеку"
+msgstr "Скајп не може да прочита датотеку"
 
 #: source/2.5.0.126.lang:sAUDIO_PLAYBACK_ERROR5:1476
-#, fuzzy
 msgid "This sound file is in a format that is not supported by Skype."
 msgstr "Скајп не подржава формат записа звука у овој датотеци."
 
@@ -6024,13 +5865,10 @@ msgstr ""
 "корисника и пробајте поново</a>"
 
 #: source/2.5.0.126.lang:sDATAPATH_REMOVED:1495
-#, fuzzy
 msgid ""
 "The files that Skype needs to work cannot be found. <br/>Please check your "
 "network connections and try again later."
-msgstr ""
-"Датотеке које су потребне да би Скајп радио нису пронађене.| |Молимо "
-"проверите везу са Интернетом и пробајте касније."
+msgstr "Датотеке које су потребне да би Скајп радио нису пронађене. <br/>Молимо проверите везу са Интернетом и пробајте касније."
 
 #: source/2.5.0.126.lang:sDATAPATH_REMOVED_TITLE:1496
 #: source/2.5.0.126.lang:sDATAPATH_MISSING_TITLE:1504
@@ -6038,15 +5876,11 @@ msgid "Skype cannot continue and will now close"
 msgstr "Скајп не може да настави рад и биће угашен"
 
 #: source/2.5.0.126.lang:sCONFIRM_INSTANCE_SHUTDOWN:1497
-#, fuzzy
 msgid ""
 "Skype is already running on this computer. <br/>Do you want to start up "
 "Skype from your USB flash drive? <br/>This will close all currently open "
 "conversation windows."
-msgstr ""
-"Скајп је већ покренут на овом рачунару.|Да ли желите да покренете Скајп са "
-"USB меморијске картице?||Ово ће затворити све отворене прозоре са "
-"разговорима."
+msgstr "Скајп је већ покренут на овом рачунару. <br/>Да ли желите да покренете Скајп са USB меморијске картице? <br/>Ово ће затворити све отворене прозоре са разговорима."
 
 #: source/2.5.0.126.lang:sCONFIRM_INSTANCE_SHUTDOWN_TITLE:1498
 #: source/2.5.0.126.lang:sCONFIRM_INSTANCE_SHUTDOWN_CAPTION:1499
@@ -6054,7 +5888,6 @@ msgid "Skype is already running"
 msgstr "Скајп је већ покренут."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_CLOSE_TEXT:1500
-#, fuzzy
 msgid ""
 "Are you sure you want to close Import Contacts? You can restart this wizard "
 "from the Contacts menu at any time."
@@ -6071,16 +5904,12 @@ msgid "Close import contacts?"
 msgstr "Затварање увоза познаника?"
 
 #: source/2.5.0.126.lang:sDATAPATH_MISSING:1503
-#, fuzzy
 msgid ""
 "The files that Skype needs to work cannot be found. <br/> Please download "
 "and reinstall Skype to fix this problem."
-msgstr ""
-"Датотеке које су потребне да би Скајп радио нису пронађене.| Проверите "
-"подешавања и пробајте да покренете Скајп касније."
+msgstr "Датотеке које су потребне да би Скајп радио нису пронађене. <br/> Молимо да поново преузмете и поставите Скајп како бисте отклонили проблем."
 
 #: source/2.5.0.126.lang:sCONFIRM_LOGIN:1506
-#, fuzzy
 msgid ""
 "The link that you clicked requires that you are signed in to Skype. Sign in "
 "now?"
@@ -6130,9 +5959,8 @@ msgid "Start my video automatically"
 msgstr "Аутоматски покрени мој видео"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_VIDEO_REC_AUTOMATICALLY:1516
-#, fuzzy
 msgid "Receive video automatically"
-msgstr "Аутоматски примај видео"
+msgstr "Аутоматски пријем видеа"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_VIDEO_CONFIGURE:1517
 msgid "Test Webcam"
@@ -6185,14 +6013,10 @@ msgid "My computer's"
 msgstr "Мог рачунара"
 
 #: source/2.5.0.126.lang:sACL_REMOVABLE_WARNING:1530
-#, fuzzy
 msgid ""
 "You are running Skype from a USB flash drive. <br/>Any data stored by %s may "
 "not be available on other computers where this devices is used."
-msgstr ""
-"Покренули сте Скајп са USB меморијске картице.|Било који подаци које је "
-"сачувао корисник %s можда неће бити доступни на другим рачунарима када се "
-"ови уређаји употребе."
+msgstr "Покренули сте Скајп са USB меморијске картице. <br/>Било који подаци које је сачувао корисник %s можда неће бити доступни на другим рачунарима када се ови уређаји употребе."
 
 #: source/2.5.0.126.lang:sF_AUTH_BTN_MORE:1531
 #: source/2.5.0.126.lang:sF_AUTHQUERY_BTN_MORE:1539
@@ -6208,9 +6032,8 @@ msgstr "Сакриј опције"
 
 #: source/2.5.0.126.lang:sF_AUTH_BTN_IGNORE:1534
 #: source/2.5.0.126.lang:sF_OPENGROUPS_BTN_IGNORE:1863
-#, fuzzy
 msgid "Decline"
-msgstr "Смер"
+msgstr "Одбиј"
 
 #: source/2.5.0.126.lang:sF_AUTH_TITLE2:1535
 msgid "Hello! From %s"
@@ -6267,13 +6090,10 @@ msgid "Hello! Please add me to your Contact List"
 msgstr "Здраво! Молим да ме додате у списак познаника"
 
 #: source/2.5.0.126.lang:sADDUSER_MESSAGE:1551
-#, fuzzy
 msgid ""
 "<center>The user is not in your Contact List.<br/><br/>To search through the "
 "Skype network, click the icon above.</center>"
-msgstr ""
-"<center>Корисник није у Вашем списку познаника<br/><br/>Да бисте га "
-"потражили на Скајповој мрежи, притисните сличицу изнад.</center>"
+msgstr "<center>Корисник није у Вашем списку познаника.<br/><br/>Да бисте га потражили на Скајповој мрежи, притисните сличицу изнад.</center>"
 
 #: source/2.5.0.126.lang:sNOTIF_R052:1552
 msgid ""
@@ -6370,9 +6190,8 @@ msgid "Remove Group?"
 msgstr "Уклањање групе?"
 
 #: source/2.5.0.126.lang:sREMOVEGROUP_WARNING:1574
-#, fuzzy
 msgid "Do you want to remove the group \"%s\"?"
-msgstr "Да ли сигурно желите да уклоните групу „%s‟?"
+msgstr "Да ли желите да уклоните групу „%s‟?"
 
 #: source/2.5.0.126.lang:sREMOVEFROMGROUP:1575
 msgid "Remove from \"%s\""
@@ -6413,7 +6232,6 @@ msgid "Call Forwarding..."
 msgstr "Прослеђивање позива..."
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_ASTERISK_3:1586
-#, fuzzy
 msgid "Fields marked with an asterisk are required"
 msgstr "Поља означена црвеном звездицом су неопходна"
 
@@ -6422,7 +6240,6 @@ msgid "Sign In"
 msgstr "Пријава"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_ERROR_1101:1588
-#, fuzzy
 msgid ""
 "Skype could not connect. You may be behind a firewall or experiencing "
 "problems connecting to the Internet. Please check your connection and try "
@@ -6672,9 +6489,8 @@ msgid "People in my Contact List"
 msgstr "само људи са списка познаника"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_RC_REC_VIDEO3:1647
-#, fuzzy
 msgid "Anyone who I allow to call me "
-msgstr "ма ко коме дозволим да ме позове"
+msgstr "Ма ко коме дозволим да позове"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_RC_AD_VIDEO3:1650
 msgid "Everyone"
@@ -6713,7 +6529,6 @@ msgid "Send invitation?"
 msgstr "Слање позивнице?"
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_CONFIRM_SEND_TEXT:1659
-#, fuzzy
 msgid ""
 "This will automatically send an e-mail to the %s friend(s) you selected. Are "
 "you sure?"
@@ -6726,7 +6541,6 @@ msgid "Reset all sounds?"
 msgstr "Ресетовање свих звукова?"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SOUNDS_RESET_TEXT:1661
-#, fuzzy
 msgid ""
 "All your sounds will be reset back to the original defaults. Are you sure?"
 msgstr ""
@@ -6904,7 +6718,6 @@ msgid "Looking for"
 msgstr "Тражење"
 
 #: source/2.5.0.126.lang:sF_CHANGE_PASSWORD_TEXT10:1712
-#, fuzzy
 msgid "New password cannot be the same as the old password."
 msgstr "Нова лозинка не сме бити иста као стара."
 
@@ -7039,7 +6852,6 @@ msgid "Create conference with %s"
 msgstr "Направите конференцију са %s"
 
 #: source/2.5.0.126.lang:sUNSAFE_FILE:1752
-#, fuzzy
 msgid ""
 "\"%s\" is an executable file. Executable files may contain viruses or other "
 "malicious code that could harm your computer. Please use caution when "
@@ -7132,12 +6944,9 @@ msgstr ""
 "<b>%s</b> на Скајповој мрежи, притисните сличицу изнад.</center>"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_VIDEO_LB6:1773
-#, fuzzy
 msgid ""
 "Skype Video is only available for computers DirectX 9.0c OR higher installed"
-msgstr ""
-"Скајпов видео је доступан само на рачунарима који користе Виндовс ИксПе "
-"(Windows XP)"
+msgstr "Скајпов видео је доступан само на рачунарима који користе ДиректИкс 9.0ц или каснија (Виндовд ИксПе)"
 
 #: source/2.5.0.126.lang:sERROR_HINT_10502:1774
 msgid "There was an error with the phone network. Please try again later"
@@ -7181,47 +6990,38 @@ msgstr ""
 "локално време, као и дозвола за ову особу да Вас позове и разговара са вама."
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT1:1783
-#, fuzzy
 msgid "Skype Ringtone (Classic)"
 msgstr "Скајпово звоно (Класично)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT2:1784
-#, fuzzy
 msgid "Skype Dial Tone (Classic)"
 msgstr "Скајпов звук при звању (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT3:1785
-#, fuzzy
 msgid "Skype Busy Signal (Classic)"
 msgstr "Скајпов сигнал заузећа (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT4:1786
-#, fuzzy
 msgid "Skype Call on Hold (Classic)"
 msgstr "Скајпов позив на чекању (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT5:1787
-#, fuzzy
 msgid "Skype Resuming Call (Classic)"
 msgstr "Скајп наставак позива (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT6:1788
-#, fuzzy
 msgid "Skype Connecting Call (Classic)"
 msgstr "Скајпово повезивање (Класично)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT7:1789
-#, fuzzy
 msgid "Skype Hang Up (Classic)"
 msgstr "Скајпов прекид везе (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT8:1790
-#, fuzzy
 msgid "Skype Incoming Chat (Classic)"
 msgstr "Скајпов долазни разговор (Класичан)"
 
 #: source/2.5.0.126.lang:sF_SOUNDS_DEFAULT_OLD_SOUND_TEXT9:1791
-#, fuzzy
 msgid "Skype Contact Online (Classic)"
 msgstr "Скајпов познаник на вези (Класичан)"
 
@@ -7230,9 +7030,8 @@ msgid "Add participants to create a conference"
 msgstr "Додавање учесника у конференцију"
 
 #: source/2.5.0.126.lang:sCONFIRM_RECEIVE_VIDEO:1793
-#, fuzzy
 msgid " %s wants to start a video call with you"
-msgstr " Неко жели да започне видео разговор са вама"
+msgstr " Корисник %s жели да започне видео разговор са вама"
 
 #: source/2.5.0.126.lang:sCONFIRM_RECEIVE_VIDEO_CAPTION:1794
 #: source/2.5.0.126.lang:sCONFIRM_RECEIVE_VIDEO_TITLE:1795
@@ -7268,9 +7067,8 @@ msgid "Delete Selected Entries"
 msgstr "Уклони изабране уносе"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SOUND_TOO_BIG_CAPTION:1802
-#, fuzzy
 msgid "Sound Import Failed"
-msgstr "Постављање звука није успело"
+msgstr "Увоз звука није успео"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_EULA:1803
 msgid ""
@@ -7285,33 +7083,28 @@ msgstr "СМС"
 #: source/2.5.0.126.lang:sF_SMS_BTN_SEND:1805
 #: source/2.5.0.126.lang:sMAIN_TOOLBAR_SENDSMS:2176
 #: source/2.5.0.126.lang:sTOOLBAR_HINT_SENDSMS:2177
-#, fuzzy
 msgid "Send SMS"
-msgstr "Пошаљи"
+msgstr "Пошаљи СМС"
 
 #: source/2.5.0.126.lang:sF_SMS_BTN_INVITE:1806
-#, fuzzy
 msgid "Add recipients to this SMS"
-msgstr "Додај људе у овај разговор"
+msgstr "Додавање примаоца за овај СМС"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_CHARSLEFT:1807
 msgid "%s chars left"
 msgstr "преостало знакова: %s"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_COST:1808
-#, fuzzy
 msgid "This message costs %s to send"
-msgstr "Ова порука је шифрована"
+msgstr "Слање ове поруке кошта %s"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_BALANCE:1809
-#, fuzzy
 msgid "Skype Credit balance: %s"
-msgstr "СкајпАут кредит: %s %s"
+msgstr "Скајпов кредит: %s %s"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_CAPTION:1810
-#, fuzzy
 msgid "Add to SMS"
-msgstr "Додај у поруке"
+msgstr "Додај у СМС"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_LB1:1815
 msgid ""
@@ -7321,46 +7114,40 @@ msgid ""
 msgstr "Изаберите кориснике које желите да приме овај СМС и притисните „Додај‟. Ако се корисник не налази у списку познаника, онда просто унесите број његовог мобилног телефона у поље дато испод."
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_LB2:1816
-#, fuzzy
 msgid "Mobile Enabled and SkypeOut Contacts:"
-msgstr "Познаници са СкајпАута"
+msgstr "Скајпови познаници који имају и мобилни"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_LB3:1817
 msgid "SMS recipients:"
 msgstr "примају СМС:"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_LB4:1818
-#, fuzzy
 msgid "... or add a phone number"
-msgstr "Додајте више телефонских бројева"
+msgstr "... или додајте телефонски број"
 
 #: source/2.5.0.126.lang:sDIALLING_HELP:1819
-#, fuzzy
 msgid "Dialling Help"
-msgstr "Позив је на чекању"
+msgstr "Помоћ за звање"
 
 #: source/2.5.0.126.lang:sDIALPAD:1820
-#, fuzzy
 msgid "Dialpad"
-msgstr "Прикажи бројчаник"
+msgstr "Бројчаник"
 
 #: source/2.5.0.126.lang:sDIALWIZARD_SELECT_COUNTRY:1821
 msgid "Select the country/region you are dialling to"
 msgstr "Изаберите државу или област коју позивате"
 
 #: source/2.5.0.126.lang:sDIALWIZARD_RATES_LINK:1822
-#, fuzzy
 msgid "Calling rates"
-msgstr "Зовем"
+msgstr "Цене разговора"
 
 #: source/2.5.0.126.lang:sDIALWIZARD_TYPE_REST:1823
 msgid "Type rest of the number or use the dialpad"
 msgstr "Унесите остатак броја или искористите бројчаник"
 
 #: source/2.5.0.126.lang:sVOICEMAIL_FAILED:1824
-#, fuzzy
 msgid "Sorry, voicemail failed!"
-msgstr "На жалост, позив није успео!"
+msgstr "На жалост, остављање говорне поште није успело!"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_NO_CREDIT:1825
 msgid "Please purchase Skype Credit to send SMS messages."
@@ -7371,9 +7158,8 @@ msgid "Get it now"
 msgstr "Набавка одмах"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_VIEW_INFO:1827
-#, fuzzy
 msgid "View send info"
-msgstr "Видео у прозору"
+msgstr "Преглед података о слању"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_CLOSE_INFO:1828
 msgid "Close send info"
@@ -7388,9 +7174,8 @@ msgid "No SMS capability"
 msgstr "Нема могућности за обраду СМСа"
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_RESEND:1833
-#, fuzzy
 msgid "Resend this message?"
-msgstr "пошаљем поруку"
+msgstr "Поновно слање?"
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_NOT_REACHABLE:1834
 msgid "Number out of reach"
@@ -7405,111 +7190,91 @@ msgid "SMS is outgoing only! Messages will be shown as sent from %s."
 msgstr "СМС је само одлазни! Поруке ће бити приказане као да их је послао %s."
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_EULA1:1837
-#, fuzzy
 msgid "and I have read the"
-msgstr "Да, прочитао/ла сам и прихватам "
+msgstr "и прочитао/ла сам"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_EULA2:1838
 msgid "Skype Privacy Statement"
-msgstr "Скајпова изјава о приватности"
+msgstr "Скајпову изјаву о приватности"
 
 #: source/2.5.0.126.lang:sMAINMENU_HELP_REDEEM:1839
 msgid "Redeem Voucher"
 msgstr "Уновчавање ваучера"
 
 #: source/2.5.0.126.lang:sHISTORY_ITEM_SMS:1840
-#, fuzzy
 msgid "SMS message to %s"
-msgstr "Пошаљи поруку за %s"
+msgstr "СМС порука за %s"
 
 #: source/2.5.0.126.lang:sSERVICE_VOICEMAIL:1842
-#, fuzzy
 msgid "Skype Voicemail"
-msgstr "претплатите се на Скајпову гласовну пошту."
+msgstr "Скајпова гласовна пошта"
 
 #: source/2.5.0.126.lang:sSERVICEPANEL_MORE:1846
-#, fuzzy
 msgid "More"
-msgstr "Занемари"
+msgstr "Даље"
 
 #: source/2.5.0.126.lang:sDIALWIZARD_TYPE_LOCAL:1847
 #: source/2.5.0.126.lang:sF_ADDFRIEND_PHONE_NOTE:2126
 #: source/2.5.0.126.lang:sF_INPUT_FORM_NOTE:2136
-#, fuzzy
 msgid "Enter %s phone number (with area code)"
-msgstr "Унесите број телефона"
+msgstr "Унесите број телефона за %s (са позивним бројем)"
 
 #: source/2.5.0.126.lang:sADDRESSBAR_FLAG_HINT:1848
-#, fuzzy
 msgid "Click to select country/region to call"
-msgstr "Притисните ово дугме да позовете %s"
+msgstr "Притисните за избор државе или области за звање"
 
 #: source/2.5.0.126.lang:sMAINMENU_TOOLS_SENDSMS:1849
 #: source/2.5.0.126.lang:sBUDDYMENU_SENDSMS:1851
-#, fuzzy
 msgid "Send SMS Message..."
-msgstr "Пошаљи поруку"
+msgstr "Слање СМС поруке..."
 
 #: source/2.5.0.126.lang:sSERVICEPANEL_ANIMATION_HINT:1850
 msgid "You are logged in as %s via a secure connection"
 msgstr "Пријављени сте као %s преко обезбеђене везе"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_CAPTION5:1852
-#, fuzzy
 msgid "Call ordinary phones with Skype"
-msgstr "Зовите телефоне помоћу Скајпа"
+msgstr "Зовите фиксне телефоне помоћу Скајпа"
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP1_5:1853
-#, fuzzy
 msgid ""
 "<b>Step 1.</b> Click \"Buy Skype Credit\" to visit the Skype store. Follow "
 "the on-screen instructions to make your purchase."
-msgstr ""
-"_Корак 1_ Притисните „Купите Скајпов кредит‟ како бисте посетили Скајпову "
-"продавницу. Пратите упутства са екрана како бисте обавили куповину."
+msgstr "<b>Корак 1.<b> Притисните „Купите Скајпов кредит‟ како бисте посетили Скајпову продавницу. Пратите упутства са екрана како бисте обавили куповину."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_STEP2_5:1854
-#, fuzzy
 msgid ""
 "<b>Step 2.</b> After completing your purchase, open the 'Dial' tab in Skype, "
 "select the country you are calling and enter your friend's phone number."
-msgstr ""
-"_Корак 2_ Пошто обавите куповину, отворите језичак „Позив‟ у Скајпу и "
-"унесите број почевши од „+‟ и броја државе."
+msgstr "<b>Корак 2.</b> Пошто обавите куповину, отворите језичак „Позив‟ у Скајпу, изаберите државу коју позивате и унесите број пријатеља."
 
 #: source/2.5.0.126.lang:sF_WIZARDBASE_LB_BUY_CREDIT:1855
-#, fuzzy
 msgid "Buy Credit"
-msgstr "Купите Скајпов кредит"
+msgstr "Купите кредите"
 
 #: source/2.5.0.126.lang:sCONFERENCE_WITH_MANY:1856
-#, fuzzy
 msgid "Conference with %d"
-msgstr "Конференција са %s"
+msgstr "Конференција са %d"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_TITLE1:1857
 #: source/2.5.0.126.lang:sF_OPENGROUPS_HEADER1:1859
 #: source/2.5.0.126.lang:sSHARE_GROUP:1924
-#, fuzzy
 msgid "Share Group"
-msgstr "Пошаљи групу"
+msgstr "Подела групе"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_TITLE2:1858
-#, fuzzy
 msgid "Shared Group Invitation"
-msgstr "Слање позивнице?"
+msgstr "Позивница за дељену групу"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_HEADER2:1860
-#, fuzzy
 msgid "Add Shared Group"
-msgstr "Додај групу"
+msgstr "Додај дељену групу"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_DEFAULT_TEXT:1866
-#, fuzzy
 msgid ""
 "Please join this shared group so we can all easily call and chat with each "
 "other."
-msgstr "Обоје ћете моћи да зовете и разговарате једно с другим"
+msgstr "Молимо да се прикључите овој дељеној групи како бисте могли лако да зовете и разговарате са другим члановима."
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_LB_INVITE:1867
 msgid ""
@@ -7530,19 +7295,15 @@ msgid ""
 msgstr "Сви чланови групе биће додати у ваш списак познаника а ваши подаци биће дати сваком од њих."
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_NR_INVALID:1872
-#, fuzzy
 msgid ""
 "The number you tried to add was not entered correctly. You must select the "
 "country and then enter  the number you wish to add. Example: Select United "
 "Kingdom and enter 0207 555 1212"
-msgstr ""
-"Број ког желите да позовете није исправно унет. Морате унети +, затим "
-"позивни број земље и број ког желите да позовете. Пример: +1 212 555 1212"
+msgstr "Број ког желите да позовете није исправно унет. Морате да изаберете државу а затим број ког желите да позовете. Пример: 0207 555 1212"
 
 #: source/2.5.0.126.lang:sF_SMS_PARTICIPANT_LIMIT_WARNING:1873
-#, fuzzy
 msgid "SMS messages are currently limited to %s recipients at a time."
-msgstr "Разговор је ограничен на %d учесника у исто време"
+msgstr "СМС поруке су тренутно ограничене на %d учесника у исто време"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_BALANCE_INCALL:1874
 msgid "Credit info not accurate while in a call"
@@ -7566,19 +7327,16 @@ msgid ""
 msgstr "Скајп ће ускоро покренути издање Скајпа које ће дозволити корисницима са мање од 13 година да се пријаве у складу са америчким законом из 1993 о <b>заштити приватности деце на мрежи</b>  (COPPA)"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_CHILD_3:1878
-#, fuzzy
 msgid "Stay tuned"
-msgstr "Држава"
+msgstr "Будите у току"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_INFO_KIDS:1880
-#, fuzzy
 msgid "Skype for Kids coming soon"
-msgstr "Скајпов долазни познаник"
+msgstr "Скајп за децу ускоро долази"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_AGE:1881
-#, fuzzy
 msgid "Age"
-msgstr "Год.:"
+msgstr "Године"
 
 #: source/2.5.0.126.lang:sF_USERENTRY_LB_OVER_13:1882
 msgid "13 or older"
@@ -7591,9 +7349,8 @@ msgstr "испод 13"
 #: source/2.5.0.126.lang:sF_OPTIONS_PAGE_SMS:1884
 #: source/2.5.0.126.lang:sF_OPTIONS_LBC_SMS:1885
 #: source/2.5.0.126.lang:sCALLHISTORYBUTTON_HINT_SMS:1923
-#, fuzzy
 msgid "SMS Messages"
-msgstr "Обриши поруке"
+msgstr "СМС поруке"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_CB_SMS:1886
 msgid "Show my mobile number in SMS messages I send out"
@@ -7630,21 +7387,18 @@ msgid "Try to resend confirmation code."
 msgstr "Поново слање кода за потврду."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_STATUS_LB4:1895
-#, fuzzy
 msgid "The confirmation code is not valid."
-msgstr "Изабрана датотека је неважећа"
+msgstr "Шифра за потврду није исправна."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_STATUS_LB5:1896
-#, fuzzy
 msgid "The code worked, your number has been verified successfully."
-msgstr "Ваша датотека је успешно примљена"
+msgstr "Шифра је исправна, Ваш број је успешно проверен."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_STATUS_LB6:1897
 msgid "Please correct the code or try resend to another number."
 msgstr "Молимо да исправите код или да пробате да пошаљете на неки други број."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_LB_FOUND:1898
-#, fuzzy
 msgid "%s contacts are already on Skype"
 msgstr "Оволико Ваших пријатеља већ користе Скајп: %s."
 
@@ -7653,16 +7407,13 @@ msgid "... And You're Done!"
 msgstr "... и готово!"
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_PAGE7_LB_6:1900
-#, fuzzy
 msgid ""
 "%s of your friends are on Skype and have been added to your Contact List."
-msgstr "Честитамо! Изабрани познаници су додати у Ваш списак познаника."
+msgstr "Оволико Ваших пријатеља %s користе Скајп и додати су у списак Ваших познаника."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_PAGE7_LB_7:1901
-#, fuzzy
 msgid "You invited %s of your friends to start using Skype."
-msgstr ""
-"Да ли желите да позовете остале Ваше пријатеље да почну да користе Скајп?"
+msgstr "Позвали сте оволико: %s пријатеља да почну да користе Скајп."
 
 #: source/2.5.0.126.lang:sF_ADDFRIEND_LABEL2_3:1902
 msgid "so you can call ordinary phones."
@@ -7673,14 +7424,12 @@ msgid "Or:"
 msgstr "Или:"
 
 #: source/2.5.0.126.lang:sF_ADDFRIEND_LABEL6_1:1904
-#, fuzzy
 msgid "Add a Skype contact"
-msgstr "Додај међу познанике"
+msgstr "Додавање познаника"
 
 #: source/2.5.0.126.lang:sF_ADDFRIEND_LABEL6_2:1905
-#, fuzzy
 msgid "who is already on Skype."
-msgstr "%s је већ блокиран!"
+msgstr "који већ користи Скајп."
 
 #: source/2.5.0.126.lang:sF_GETTINGSTARTED_LB_HINT5_2:1907
 msgid " to call landlines and mobile phones"
@@ -7711,33 +7460,28 @@ msgid "Confirming the number failed. Please try again."
 msgstr "Потврда броја није успела. Молимо да пробате поново."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_LINK_SMS:1914
-#, fuzzy
 msgid "Learn more about SMS"
-msgstr "Прочитајте више"
+msgstr "Научите више о СМСу"
 
 #: source/2.5.0.126.lang:sOUTLOOK_CONTACT:1915
 msgid "Microsoft Outlook Contact"
 msgstr "Познаници из Микрософтовог Аутлука (Outlook)"
 
 #: source/2.5.0.126.lang:sMAINMENU_VIEW_OUTLOOKCONTACTS:1916
-#, fuzzy
 msgid "View Outlook Contacts"
-msgstr "Познаници са СкајпАута"
+msgstr "Прегледање познаника из Аутлука"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_SEND_AS:1917
-#, fuzzy
 msgid "Sender number: %s"
-msgstr "Неважећи телефонски број (#%s)"
+msgstr "Број пошиљаоца: %s"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_CHANGE_SENDER:1918
-#, fuzzy
 msgid "Change sender"
-msgstr "Промена језика"
+msgstr "Промена пошиљаоца"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_INCLUDE_NR:1919
-#, fuzzy
 msgid "Send from your mobile number"
-msgstr "Додајте више телефонских бројева"
+msgstr "Слање са Вашег мобилног телефона"
 
 #: source/2.5.0.126.lang:sF_SMS_REPLYTO_HINT1:1920
 msgid "Recipients will see \"%s\" as sender."
@@ -7752,28 +7496,24 @@ msgid "%s from Skype:"
 msgstr "%s од Скајпа:"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_HINT_TEXT:1925
-#, fuzzy
 msgid "Enter the local number in %s"
-msgstr "Унесите број телефона"
+msgstr "Унесите локални број у %s"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_FRM_CAPTION:1926
-#, fuzzy
 msgid "Buy Credit - %s"
-msgstr "Купите Скајпов кредит"
+msgstr "Купите кредите - %s"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_CAPTION:1927
-#, fuzzy
 msgid "Skype Credit"
-msgstr "Купите Скајпов кредит"
+msgstr "Скајпов кредит"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_LOADING:1928
 msgid "Loading - %s"
 msgstr "Учитавање - %s"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_ERROR_CAPTION:1929
-#, fuzzy
 msgid "Check your connection"
-msgstr "Веза"
+msgstr "Провера везе"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_ERROR_TEXT:1930
 msgid ""
@@ -7782,37 +7522,32 @@ msgid ""
 msgstr "Изгледа да Вам веза са Интернетом није активна, па Скајп не може да закључи куповину."
 
 #: source/2.5.0.126.lang:sF_CHANGE_PASSWORD_TEXT13:1932
-#, fuzzy
 msgid "Your new password contains invalid characters."
-msgstr "Скајпово име садржи неисправне знаке."
+msgstr "Ваша нова лозинка садржи неважеће знаке."
 
 #: source/2.5.0.126.lang:sF_CHANGE_PASSWORD_TEXT14:1933
-#, fuzzy
 msgid "Your password cannot be the same as your Skype Name."
-msgstr "Нова лозинка не сме бити иста као стара."
+msgstr "Ваша лозинка не сме бити иста као Ваше Скајпово име."
 
 #: source/2.5.0.126.lang:sF_USERPROFILE_SMS_LINK:1934
 msgid "Send SMS from this number"
 msgstr "Слање СМСа са овог броја"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_HINT:1935
-#, fuzzy
 msgid "Insert your mobile number"
-msgstr "Унесите број телефона"
+msgstr "Унесите број мобилног телефона"
 
 #: source/2.5.0.126.lang:sACCEPT_GROUP:1936
-#, fuzzy
 msgid "Accept Shared Group"
-msgstr "Пошаљи групу"
+msgstr "Прихвати дељену групу"
 
 #: source/2.5.0.126.lang:sF_SMS_REPLYTO_HINT3:1937
 msgid "Recipients will see %s as Sender"
 msgstr "При пријему се види %s као пошиљалац"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_LB_MEMBERS2:1938
-#, fuzzy
 msgid "%s contact(s) and %s SkypeOut contact(s)"
-msgstr "%s нових познаника је додато у Ваш списак."
+msgstr "познаника: %s СкајпАут познаника %s"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_MAX_CHUNKS:1939
 msgid "Max %s SMS messages at a time"
@@ -7823,33 +7558,28 @@ msgid "Shared group proposed by %s"
 msgstr "%s предлаже дељену групу"
 
 #: source/2.5.0.126.lang:sSTATUPAGE_MISSEDSHAREDGROUPS_ONE:1941
-#, fuzzy
 msgid "Shared group invitation"
-msgstr "Слање позивнице?"
+msgstr "Позивница за дељену групу"
 
 #: source/2.5.0.126.lang:sSTATUPAGE_MISSEDSHAREDGROUPS_MORE:1942
-#, fuzzy
 msgid "Shared group invitations"
-msgstr "Слање позивнице?"
+msgstr "Позвинице за дељену групу"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_UPDATESTATUS_WAITING:1943
-#, fuzzy
 msgid "Skype update waiting"
-msgstr "Провера Скајпових позива"
+msgstr "Доградња Скајпа је на чекању"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_UPDATESTATUS_DOWNLOADING:1944
 msgid "Downloading Skype update, %d%% complete"
 msgstr "Пријем доградње за Скајп, готово: %d%%"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_UPDATESTATUS_READY:1945
-#, fuzzy
 msgid "Update Skype"
-msgstr "Отвори Скајп"
+msgstr "Догради Скајп"
 
 #: source/2.5.0.126.lang:sCONTACTLIST_ITEM_GROUPS:1946
-#, fuzzy
 msgid "Groups:"
-msgstr "Групе: "
+msgstr "Групе:"
 
 #: source/2.5.0.126.lang:sOUTLOOK_GROUP_TITLE:1947
 msgid "Microsoft Office Outlook"
@@ -7860,14 +7590,12 @@ msgid "Sorry! Such string was not found!"
 msgstr "Извините! Текст није пронађен!"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_FORCED_CAPTION:1953
-#, fuzzy
 msgid "Skype update required"
-msgstr "Неопходан је Скајпов кредит."
+msgstr "Потребна је доградња Скајпа"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_NORMAL_CAPTION:1954
-#, fuzzy
 msgid "Download a Skype update"
-msgstr "Немате Скајпово име?"
+msgstr "Преузимање доградње Скајпа"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_LINK:1955
 msgid "Learn more about this update"
@@ -7903,18 +7631,16 @@ msgid ""
 msgstr "Ово је <b>врућа исправка</b> што значи да садржи склоп малих измена, исправки грешака, безбедносних доградњи и побољшања квалитета."
 
 #: source/2.5.0.126.lang:sF_UPGRADE_INIT:1962
-#, fuzzy
 msgid "Initializing..."
-msgstr "Чекање..."
+msgstr "Покретање..."
 
 #: source/2.5.0.126.lang:sF_UPGRADE_PAUSED:1963
 msgid "Download paused"
 msgstr "Пријем је заустављен"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_DOWNLOAD_CAPTION:1964
-#, fuzzy
 msgid "Downloading..."
-msgstr "Слање..."
+msgstr "Пријем..."
 
 #: source/2.5.0.126.lang:sF_UPGRADE_DOWNLOAD_TEXT:1965
 msgid "Please wait while an update for Skype is being downloaded."
@@ -7944,349 +7670,304 @@ msgstr "Унесите поруку којом ћете представити �
 msgid ""
 "<b>%s</b> will be invited to join the group. The other group members will be "
 "asked to exchange contact details with this contact."
-msgstr ""
+msgstr "Корисник <b>%s</b> ће бити позван да се придружи групи. Остали чланови групе биће питани да размене личне податке са овим корисником."
 
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_WARNING_MULTIPLE:1975
 msgid ""
 "%d contacts will be invited to join the group. The other group members will "
 "be asked to exchange contact details with this contact."
-msgstr ""
+msgstr "Оволико познаника:%d ће бити позвано да се придружи групи. Остали чланови групе биће питани да размене личне податке са овим корисником."
 
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_WARNING_CAPTION:1976
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_WARNING_TITLE:1977
-#, fuzzy
 msgid "Add Contact to Shared Group?"
-msgstr "Пошаљи контакте целој групи"
+msgstr "Додавање познаника у дељену групу?"
 
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_WARNING_TITLE_MULTIPLE:1978
-#, fuzzy
 msgid "Add %d contacts to Shared Group?"
-msgstr "Пошаљи контакте целој групи"
+msgstr "Додавање оволико контаката у дељену групу: %d?"
 
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_SKYPEOUT:1979
 msgid "This SkypeOut contact will be shared with everyone in the group"
-msgstr ""
+msgstr "Овај познаник са СкајпАута биће прослеђен свима у групи"
 
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_SKYPEOUT_TITLE:1980
 #: source/2.5.0.126.lang:sADDTOSHAREDGROUP_SKYPEOUT_CAPTION:1981
-#, fuzzy
 msgid "Add SkypeOut Contact To Shared Group?"
-msgstr "Да бисте додали СкајпАут познаника, притисните овде"
+msgstr "Додавање познаника из СкајпАута у дељену групу?"
 
 #: source/2.5.0.126.lang:sCONTACTLIST_ITEM_GROUP:1982
-#, fuzzy
 msgid "Group:"
-msgstr "Групе: "
+msgstr "Групa:"
 
 #: source/2.5.0.126.lang:sF_SMS_REMOVE:1983
-#, fuzzy
 msgid "Remove from recipients"
-msgstr "Уклони из „%s“"
+msgstr "Уклони из списка прималаца"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_PAGE_UPDATES:1984
 #: source/2.5.0.126.lang:sF_OPTIONS_LBC_UPDATES:1985
-#, fuzzy
 msgid "Updates"
-msgstr "Освежи"
+msgstr "Доградње"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB1:1986
 msgid ""
 "These options control what happens when there is a new version of Skype "
 "available."
-msgstr ""
+msgstr "Ове опције одређују шта се догађа када је доступно ново издање Скајпа."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB2:1987
 msgid "Major Releases"
-msgstr ""
+msgstr "Велике доградње"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB3:1988
 msgid ""
 "Significant updates which introduce several new features and offer dramatic "
 "overall improvement"
-msgstr ""
+msgstr "Значајне доградње које доносе више нових могућности и нуде значајна општа побољшања"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB4:1989
-#, fuzzy
 msgid "Hotfixes"
-msgstr "Брзи тастери"
+msgstr "Брзе поправке"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB5:1990
 msgid ""
 "More frequent updates which include small changes, bug fixes, security "
 "updates, and quality improvements"
-msgstr ""
+msgstr "Чешће доградње које садрже мање измене, исправке грешака, безбедносне закрпе и побољшања квалитета"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_RG_UPDATES1:1991
-#, fuzzy
 msgid "Download automatically"
-msgstr "Аутоматски покрени мој видео"
+msgstr "Аутоматски преузми"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_RG_UPDATES2:1992
 msgid "Ask before downloading"
-msgstr ""
+msgstr "Питај пре преузимања"
 
 #: source/2.5.0.126.lang:sF_AUTH_LB4:1994
-#, fuzzy
 msgid "<b>%s</b> wants to exchange contact details with you."
-msgstr "<b>%s</b> тражи Ваше детаљне податке."
+msgstr "Корисник <b>%s</b> жели да размени податке с вама."
 
 #: source/2.5.0.126.lang:sCALL_LB2_DROPPED:1995
-#, fuzzy
 msgid "Dropped"
-msgstr "Негруписани"
+msgstr "Прекинути"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_BTN_SKIP:1996
-#, fuzzy
 msgid "Skip Update"
-msgstr "Освежи"
+msgstr "Прескочи доградњу"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_BTN_QUIT:1998
-#, fuzzy
 msgid "Quit Skype"
-msgstr "Излаз из Скајпа?"
+msgstr "Излаз из Скајпа"
 
 #: source/2.5.0.126.lang:sREMOVEOPENGROUP_WARNING_TITLE:1999
 #: source/2.5.0.126.lang:sREMOVEOPENGROUP_WARNING_CAPTION:2000
-#, fuzzy
 msgid "Leave Shared Group?"
-msgstr "Уклањање групе?"
+msgstr "Напуштање дељене групе?"
 
 #: source/2.5.0.126.lang:sREMOVEOPENGROUP_WARNING:2001
 msgid ""
 "The group <b>%s</b> is a shared group. By removing this group from your "
 "Contact List, you will leave the group.<br/><br/>What would you like to do?"
-msgstr ""
+msgstr "Група <b>%s</b> је дељена група. Уклањањем ове групе из списка познаника ћете напустити групу.<br/><br/>Шта желите да урадите?"
 
 #: source/2.5.0.126.lang:sREMOVEOPENGROUP_KEEP_CONTACTS:2002
-#, fuzzy
 msgid "Keep contacts (you can find them under 'All Contacts')"
-msgstr ""
-"Познаници из ове групе неће бити обрисани. Можете их пронаћи у групи „Сви "
-"познаници“"
+msgstr "Задржавање познаника (можете их наћи под „Сви познаници‟)"
 
 #: source/2.5.0.126.lang:sREMOVEOPENGROUP_REMOVE_CONTACTS:2003
-#, fuzzy
 msgid "Remove contacts"
-msgstr "Уклањање познаника?"
+msgstr "Уклањање познаника"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_BTN_RETRY:2004
-#, fuzzy
 msgid "Retry"
-msgstr "празна"
+msgstr "Понављање"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_FAILED_CAPTION:2005
-#, fuzzy
 msgid "Problem while downloading"
-msgstr "Проблем са звучним уређајем"
+msgstr "Проблем са пријемом"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_FAILED_TEXT1:2006
 msgid "Download of the Skype update failed."
-msgstr ""
+msgstr "Пријем доградње за Скајп није успео."
 
 #: source/2.5.0.126.lang:sF_UPGRADE_FAILED_TEXT2:2007
 msgid "to go online and download the upgrade manually."
-msgstr ""
+msgstr "да се повежете и ручно доградите програм."
 
 #: source/2.5.0.126.lang:sSTATUPAGE_FAILEDSMS_ONE:2010
-#, fuzzy
 msgid "Failed SMS message"
-msgstr "пошаљем поруку"
+msgstr "Неисправна СМС порука"
 
 #: source/2.5.0.126.lang:sSTATUPAGE_FAILEDSMS_MORE:2011
-#, fuzzy
 msgid "Failed SMS messages"
-msgstr "Обриши поруке"
+msgstr "Неуспеле СМС поруке"
 
 #: source/2.5.0.126.lang:sHISTORY_VM_LISTEN_HINT:2012
-#, fuzzy
 msgid "Listen to this voicemail"
-msgstr "Пошаљи на гласовну пошту"
+msgstr "Послушајте ову говорну поруку"
 
 #: source/2.5.0.126.lang:sHISTORY_VM_STOP_HINT:2013
-#, fuzzy
 msgid "Stop playing this voicemail"
-msgstr "Пусти гласовну пошту"
+msgstr "Прекини ову говорну поруку"
 
 #: source/2.5.0.126.lang:sHISTORY_VM_DELETE_HINT:2014
-#, fuzzy
 msgid "Delete this voicemail"
-msgstr "Обриши гласовну пошту"
+msgstr "Уклони ову говорну поруку"
 
 #: source/2.5.0.126.lang:sHI_SMILEY:2015
 msgid "Hi"
-msgstr ""
+msgstr "Здраво"
 
 #: source/2.5.0.126.lang:sDEVIL_SMILEY:2017
-#, fuzzy
 msgid "Devil"
-msgstr "Позови"
+msgstr "Ђаволак"
 
 #: source/2.5.0.126.lang:sANGEL_SMILEY:2018
-#, fuzzy
 msgid "Angel"
-msgstr "Год.:"
+msgstr "Анђео"
 
 #: source/2.5.0.126.lang:sENVY_SMILEY:2019
 msgid "Envy"
-msgstr ""
+msgstr "Завист"
 
 #: source/2.5.0.126.lang:sWAIT_SMILEY:2020
-#, fuzzy
 msgid "Wait"
-msgstr "Бандит"
+msgstr "Чекање"
 
 #: source/2.5.0.126.lang:sROCK_SMILEY:2021
-#, fuzzy
 msgid "Rock"
-msgstr "Блокирај"
+msgstr "Рок"
 
 #: source/2.5.0.126.lang:sDRUNK_SMILEY:2022
-#, fuzzy
 msgid "Drunk"
-msgstr "пиће"
+msgstr "Пијаница"
 
 #: source/2.5.0.126.lang:sSMOKING_SMILEY:2023
-#, fuzzy
 msgid "Smoking"
-msgstr "куцање"
+msgstr "Пушач"
 
 #: source/2.5.0.126.lang:sTALK_DURATION:2024
-#, fuzzy
 msgid "Skypecast duration"
-msgstr "Скајпова датотека с подацима"
+msgstr "Трајање скајпкаста"
 
 #: source/2.5.0.126.lang:sTALK_MORE_HINT:2027
-#, fuzzy
 msgid "More options"
-msgstr "Сакриј опције"
+msgstr "Више опција"
 
 #: source/2.5.0.126.lang:sTALK_REDBUTTON_HINT:2028
-#, fuzzy
 msgid "Reject incoming call from %s"
-msgstr "Када одбијем долазећи позив"
+msgstr "Одбиј позив од %s"
 
 #: source/2.5.0.126.lang:sTALK_GREENBUTTON_HINT:2029
-#, fuzzy
 msgid "Accept incoming call from %s"
-msgstr "Када одбијем долазећи позив"
+msgstr "Прихвати позив од %s"
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_SENT:2030
-#, fuzzy
 msgid "Sent: %s"
-msgstr "Пошаљи датотеку за %s"
+msgstr "Послато: %s"
 
 #: source/2.5.0.126.lang:sF_SEARCH_RESULTS:2031
-#, fuzzy
 msgid "Search results"
-msgstr "Прикажи више резултата"
+msgstr "Резултати претраге"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_STATUS_LB10:2032
-#, fuzzy
 msgid "You do not have enough Skype Credit to send a code "
-msgstr "Немате Скајпов кредит"
+msgstr "Немате довољно Скајпових кредита да пошаљете шифру"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_UPTODATE:2033
-#, fuzzy
 msgid "You already have the latest version of Skype installed."
-msgstr "Већ имате активну везу"
+msgstr "Већ имате постављено последње издање Скајпа."
 
 #: source/2.5.0.126.lang:sF_MULTICHAT_CLOSE_WARNING:2035
 msgid ""
 "There is an unsent message in this chat. Are you sure you want to close it?"
-msgstr ""
+msgstr "Овај разговор има непослате поруке. Да ли сигурно желите да га затворите?"
 
 #: source/2.5.0.126.lang:sF_MULTICHAT_CLOSE_WARNING_TITLE:2036
 #: source/2.5.0.126.lang:sF_MULTICHAT_CLOSE_WARNING_CAPTION:2037
-#, fuzzy
 msgid "Close Chat Window"
-msgstr "Отвори прозор са порукама"
+msgstr "Затварње прозора с разговором"
 
 #: source/2.5.0.126.lang:sOUTLOOK_NUMBER_WARNING:2038
 msgid ""
 "This phone number is not formatted correctly. Please edit this contact in "
 "Outlook. <br/><br/>Remember to add '+' and correct country code to call this "
 "number on Skype"
-msgstr ""
+msgstr "Овај број телефона није исправно унесен. Молимо да га исправите у Аутлуку. <br/><br/>Не заборавите да додате „+‟ и исправите позивни број за државу како бисте овај број могли да зовете помоћу Скајпа."
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_BTN_LEAVE:2039
-#, fuzzy
 msgid "Leave Group"
-msgstr "Преименуј групу"
+msgstr "Напусти групу"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_NEW_TITLE:2040
 msgid "New Shared Group Member"
-msgstr ""
+msgstr "Нови члан дељене групе"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_NEW_LB1:2041
 msgid "<b>%s</b> has been added to the shared group <b>%s</b>"
-msgstr ""
+msgstr "Корисник <b>%s</b> је додат у дељену групу <b>%s</b>"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_NEW_LB2:2042
-#, fuzzy
 msgid "Your contact details have been exchanged with this person"
-msgstr "Овој особи је дозвољено да прегледа Ваше податке"
+msgstr "Разменили сте личне податке са овом особом"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_CONFIRM_TEXT:2043
 msgid ""
 "This group contains contacts who have not exchanged contact details with "
 "you. You must exchange contact details with all group members before you can "
 "share this group"
-msgstr ""
+msgstr "Ова група садржи кориснике који нису разменили личне податке са вама. Морате разменити личне податке са свим члановима групе пре него што вам буде дозвољено да делите ову групу"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_CONFIRM_TITLE:2044
-#, fuzzy
 msgid "Group Cannot be Shared"
-msgstr "Датотека се не може употребити"
+msgstr "Група се не може делити"
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_CONFIRM_SHARE:2045
-#, fuzzy
 msgid "Exchange contact details"
-msgstr "Прихвати детаље о познанику"
+msgstr "Размена личних података"
 
 #: source/2.5.0.126.lang:sHUG_SMILEY:2046
 msgid "Hug"
-msgstr ""
+msgstr "Загрљај"
 
 #: source/2.5.0.126.lang:sHEADBANG_SMILEY:2047
 msgid "Banging head on wall"
-msgstr ""
+msgstr "Главом о зид"
 
 #: source/2.5.0.126.lang:sHOSTEDBY:2048
-#, fuzzy
 msgid "Hosted by:"
-msgstr "Рачунар:"
+msgstr "Удомљен код:"
 
 #: source/2.5.0.126.lang:sCQ_LINK_TO_ADV:2049
-#, fuzzy
 msgid "Advanced help"
-msgstr "Напредно"
+msgstr "Више помоћи"
 
 #: source/2.5.0.126.lang:sCQ_BASIC_OK:2051
 msgid ""
 "Skype monitors your call quality and will suggest ways to fix poor call "
 "quality when possible."
-msgstr ""
+msgstr "Скајп надгледа квалитет разговора и предложиће начине за оправку лошег квалитета разговора када је то могуће."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_CPU_INUSE:2052
 msgid ""
 "Your CPU usage is high. If you are experiencing call problems, closing other "
 "applications may improve your call quality."
-msgstr ""
+msgstr "Проценат заузетости процесора је висок. Ако имате проблема са разговорима, затварање других програма може да побољша квалитет разговора."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_CPU_SLOW:2053
 msgid "Your computer's processing speed may be too slow to make clear calls."
-msgstr ""
+msgstr "Брзина рада вашег рачунара може бити премала за квалитетну везу."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_CPU_HIGH:2054
 msgid ""
 "Skype is using a high amount of resources, it is suggested to restart Skype."
-msgstr ""
+msgstr "Скајп користи много системских ресурса, предлажемо да поново покренете Скајп."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_FIREWALL_STRONG:2055
 msgid ""
 "If you are experiencing call quality issues this may be because Skype may "
 "have restricted access to the Internet."
-msgstr ""
+msgstr "Ако имате проблема са квалитетом разговора, узрок може бити што Скајп има ограничен приступ Интернету."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_FIREWALL_REMOTE_STRONG:2056
 #: source/2.5.0.126.lang:sCQ_BASIC_CPU_REMOTE_SLOW:2061
@@ -8295,29 +7976,29 @@ msgstr ""
 #: source/2.5.0.126.lang:sCQ_ADV_CPU_REMOTE_SLOW:2073
 #: source/2.5.0.126.lang:sCQ_ADV_REMOTE_LOW_BANDWIDTH:2074
 msgid "%s is using hardware or software that may be affecting call quality."
-msgstr ""
+msgstr "%s користи опрему или програм што може утицати на квалитет разговора."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_FIREWALL_BAD:2057
 msgid ""
 "You may be experiencing call problems. We suggest that all parties restart "
 "Skype and redial the call."
-msgstr ""
+msgstr "Можда имате проблема са позивима. Предлажемо да сви учесници у разговору поново покрену Скајп и поново успоставе везу."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_FIREWALL_REMOTE_BAD:2058
 msgid ""
 "You may be experiencing call problems. It is suggested that all parties "
 "restart Skype and redial the call."
-msgstr ""
+msgstr "Можда имате проблема са позивима. Предлажемо да сви корисници поново покрену Скајп и поново успоставе везу."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_NOT_UDP:2059
 msgid "You may be experiencing call problems. "
-msgstr ""
+msgstr "Можда имате проблема са позивима."
 
 #: source/2.5.0.126.lang:sCQ_BASIC_LOW_BANDWIDTH:2060
 msgid ""
 "If you are experiencing call problems this may be caused by slow internet "
 "connection and other applications using the Internet."
-msgstr ""
+msgstr "Ако имате проблема са позивима, узрок може бити спора веза са Интернетом или други програми који користе везу са Интернетом."
 
 #: source/2.5.0.126.lang:sCQ_ADV_OK:2063
 #: source/2.5.0.126.lang:sCQ_ADV_CPU_INUSE:2064
@@ -8327,274 +8008,248 @@ msgstr ""
 msgid ""
 "Skype's <a href=\"skype:?go#help.guide.callquality\">call quality guide</a> "
 "can also help you to understand and fix common reasons for poor call quality."
-msgstr ""
+msgstr "Скајпов <a href=\"skype:?go#help.guide.callquality\">водич за квалитет разговора</a> Вам такође може помоћи да разумете и исправите честе узроке лошег квалитета разговора."
 
 #: source/2.5.0.126.lang:sCQ_ADV_CPU_SLOW:2065
 msgid ""
 "Recommended minimum system requirements are a 1 GHz processor and at least "
 "256MB RAM"
-msgstr ""
+msgstr "Минимални системски захтеви су процесор на 1GHz и бар 256MB меморије"
 
 #: source/2.5.0.126.lang:sCQ_ADV_CPU_HIGH:2066
 msgid "You may also try disabling other applications that may be using Skype."
-msgstr ""
+msgstr "Можете такође да пробате да искључите друге програме који могу да користе Скајп."
 
 #: source/2.5.0.126.lang:sCQ_ADV_FIREWALL_STRONG:2067
 msgid ""
 "To learn more about changing your firewall settings please consult Skype's "
 "online firewall guide, or you can seek the help of your system administrator."
-msgstr ""
+msgstr "Да бисте сазнали више о подешавању ватробрана, молимо да проучите Скајпов водич за ватробране на мрежи, или можете потражити помоћ управника система."
 
 #: source/2.5.0.126.lang:sCQ_ADV_LOW_BANDWIDTH:2072
 msgid ""
 "The minimum network requirements to use Skype are a dial-up connection with "
 "at least a 33.6Kbps modem. The best Skype call quality is provided by a "
 "broadband internet connection."
-msgstr ""
+msgstr "Најмањи мрежни захтеви за употребу Скајпа су телефонска веза и модем са бар 33.6Kb/s. Најбољи квалитет везе омогућава веза са великим пропусним опсегом."
 
 #: source/2.5.0.126.lang:sFILETRANSFER_STATUS_NO_CAPABILITY:2075
 msgid "Other party does not support file transfers"
-msgstr ""
+msgstr "Друга страна не подржава пренос датотека"
 
 #: source/2.5.0.126.lang:sCANNOT_RESUME:2076
 msgid "Cannot resume active call - cannot hold another!"
-msgstr ""
+msgstr "Није могуће наставити тренутни разговор - не можете да паузирате!"
 
 #: source/2.5.0.126.lang:sCANNOT_ANSWER:2077
 msgid "Cannot answer call - cannot hold currently active call!"
-msgstr ""
+msgstr "Није могуће одговорити на позив - није могуће паузирати тренутни позив!"
 
 #: source/2.5.0.126.lang:sREJECT_TO_TALKS:2078
-#, fuzzy
 msgid "Do not accept to Skypecast"
-msgstr "Увези познанике у Скајп"
+msgstr "Не пуштај на скајпкаст"
 
 #: source/2.5.0.126.lang:sREJECT_TO_CONFERENCE:2079
-#, fuzzy
 msgid "Do not accept to conference"
-msgstr "Позови на конференцију"
+msgstr "Не пуштај на конференцију"
 
 #: source/2.5.0.126.lang:sTALK_EJECT:2080
-#, fuzzy
 msgid "Eject from Skypecast"
-msgstr "Изабери познаника"
+msgstr "Избаци са скајпкаста"
 
 #: source/2.5.0.126.lang:sCONFERENCE_EJECT:2081
-#, fuzzy
 msgid "Remove from Conference"
-msgstr "Настави конференцију"
+msgstr "Уклони са конференције"
 
 #: source/2.5.0.126.lang:sTALK_ACCEPT:2082
-#, fuzzy
 msgid "Accept to Skypecast"
-msgstr "Додавање познаника у Скајп"
+msgstr "Прихвати у скајпкаст"
 
 #: source/2.5.0.126.lang:sCONFERENCE_ACCEPT:2083
 #: source/2.5.0.126.lang:sANSWER_AND_JOIN_WITH_CONF:2084
-#, fuzzy
 msgid "Answer and join to conference"
-msgstr "Одговори и придружи се конференцији"
+msgstr "Одговори и прикључи се конференцији"
 
 #: source/2.5.0.126.lang:sANSWER_AND_JOIN_WITH_CALL:2085
-#, fuzzy
 msgid "Answer and join with existing call"
-msgstr "Одговори и придружи се конференцији"
+msgstr "Одговори и придружи се постојећем позиву"
 
 #: source/2.5.0.126.lang:sTALK_LEAVE:2086
-#, fuzzy
 msgid "Leave Skypecast"
-msgstr "Изабери познаника"
+msgstr "Напусти скајпкаст"
 
 #: source/2.5.0.126.lang:sADDRESSENTRY_HINT_COUNTRY:2087
-#, fuzzy
 msgid "Enter Skype Name or %s phone number (with area code)"
-msgstr "Унесите Скајпово име или број са ознаком државе"
+msgstr "Унесите Скајпово име или број телефона за %s (са позивним бројем)"
 
 #: source/2.5.0.126.lang:sADDRESSENTRY_HINT_COUNTRY2:2088
-#, fuzzy
 msgid ""
 "Enter Skype Name or %s phone number or international number with country/"
 "region code"
-msgstr "Унесите Скајпово име или број са ознаком државе"
+msgstr "Унесите Скајпово име или број телефона за %s или међународни број са позивним бројем државе или области"
 
 #: source/2.5.0.126.lang:sSHAREDGROUP_GHOST_MEMBER:2089
 msgid "This person has left the group"
-msgstr ""
+msgstr "Ова особа је напустила групу"
 
 #: source/2.5.0.126.lang:sSHAREDGROUP_GHOST_MEMBER2:2090
 msgid "This person has left the group \"%s\""
-msgstr ""
+msgstr "Ова особа је напустила групу „%s‟"
 
 #: source/2.5.0.126.lang:sTOOLBAR_HINT_CONFERENCE_NEW:2091
-#, fuzzy
 msgid "Start conference"
 msgstr "Покрени конференцију"
 
 #: source/2.5.0.126.lang:sJOINTALK_WARNING_CAPTION:2092
 #: source/2.5.0.126.lang:sJOINTALK_WARNING_TITLE:2093
-#, fuzzy
 msgid "Join Skypecast"
-msgstr "Пријава на Скајп"
+msgstr "Прикључи се на скајпкаст"
 
 #: source/2.5.0.126.lang:sJOINTALK_WARNING:2094
 msgid ""
 "You are about to join a Skypecast. Some of the other participants may not be "
 "on your Contact List."
-msgstr ""
+msgstr "Ускоро ћете се прикључити Скајпкасту. Неки од осталих учесника можда неће бити на списку познаника."
 
 #: source/2.5.0.126.lang:sJOINTALK_WARNING_DONTASKAGAIN:2095
-#, fuzzy
 msgid "Do not warn me again"
-msgstr "Не питај ме поново"
+msgstr "Не упозоравај ме поново"
 
 #: source/2.5.0.126.lang:sF_SMS_ADD_HINT_TEXT2:2097
 #: source/2.5.0.126.lang:sF_USERPROFILE_PHONE_NOTE2:2128
 #: source/2.5.0.126.lang:sF_ADDFRIEND_PHONE_NOTE2:2129
 #: source/2.5.0.126.lang:sF_INPUT_FORM_NOTE2:2137
-#, fuzzy
 msgid "Enter the number with country or region code"
-msgstr "Унесите Скајпово име или број са ознаком државе"
+msgstr "Унесите број са ознаком државе или области"
 
 #: source/2.5.0.126.lang:sTALK_TAB_CAPTION:2098
 msgid "Skypecast (%s) %s"
-msgstr ""
+msgstr "Скајпкаст (%s) %s"
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_ERROR2_TEXT:2099
 msgid "Due to technical issues, please "
-msgstr ""
+msgstr "Из техничких разлога, молимо да "
 
 #: source/2.5.0.126.lang:sF_PAYMENTS_ERROR_LINK:2100
 msgid "continue your payment in the Skype webstore using your webbrowser"
-msgstr ""
+msgstr "наставите уплату у Скајповој мрежној продавници помоћу прегледача"
 
 #: source/2.5.0.126.lang:sF_SMS_INFO_TEXT2:2101
 msgid ""
 "Note that certain countries and mobile providers may not allow sending this "
 "custom sender ID."
-msgstr ""
+msgstr "Обратите пажњу да у неким државама мобилни оператери не дозвољавају слање ознаке пошиљаоца."
 
 #: source/2.5.0.126.lang:sF_SMS_INFO_TEXT3:2102
-#, fuzzy
 msgid "<a href=\"skype:?go#help.guide.senderid\">Learn more</a>"
-msgstr ""
-"<a href=\"skype:?go#help.guide.logging\">Потражите помоћ за пријаву на "
-"Скајп</a>"
+msgstr "<a href=\"skype:?go#help.guide.senderid\">Научите више</a>"
 
 #: source/2.5.0.126.lang:sF_CONFIRM_CONTINUE:2106
-#, fuzzy
 msgid "Continue"
-msgstr "Веза"
+msgstr "Наставак"
 
 #: source/2.5.0.126.lang:sF_SMS_LB_NO_ROUTE1:2107
 msgid "Skype SMS does not currently support sending SMS messages to %s."
-msgstr ""
+msgstr "Скајпов СМС тренутно не подржава слање СМС порука на %s."
 
 #: source/2.5.0.126.lang:sF_SMS_LB_NO_ROUTE2:2108
 msgid ""
 "Check the <a href=\"skype:?go#help.guide.sms\">destination guide</a> for a "
 "list of supported countries."
-msgstr ""
+msgstr "Проверите <a href=\"skype:?go#help.guide.sms\">водич за одредишта</a> за списак подржаних држава."
 
 #: source/2.5.0.126.lang:sSEARCH_HISTORY:2109
-#, fuzzy
 msgid "Search History"
-msgstr "Обриши дневник"
+msgstr "Историјат претраге"
 
 #: source/2.5.0.126.lang:sPREDDIALER_NUMBER_EXAMPLE:2111
 msgid "For example: %s"
-msgstr ""
+msgstr "На пример: %s"
 
 #: source/2.5.0.126.lang:sDELETE_VOICEMAIL_WARNING:2112
 msgid ""
 "You have not listened to this voicemail. Are you sure you want to delete it?"
-msgstr ""
+msgstr "Нисте преслушали ову поруку. Да ли заиста желите да је уклоните?"
 
 #: source/2.5.0.126.lang:sDELETE_VOICEMAIL_WARNING_TITLE:2113
 #: source/2.5.0.126.lang:sDELETE_VOICEMAIL_WARNING_CAPTION:2114
-#, fuzzy
 msgid "Delete voicemail"
-msgstr "Обриши гласовну пошту"
+msgstr "Брисање говорне поште"
 
 #: source/2.5.0.126.lang:sFMULTICHAT_SHAREDGROUP_ADDBTN_HINT:2115
 msgid ""
 "This is a shared group chat. To add people to this chat, you must add them "
 "to the shared group %s"
-msgstr ""
+msgstr "Ово је дељени групни разговор. Како бисте додали људе у овај разговор, морате их додати у дељену групу %s"
 
 #: source/2.5.0.126.lang:sFMULTICHAT_SHAREDGROUP_TOPICBTN_HINT:2116
 msgid ""
 "This is a shared group chat. To change the topic of this chat, you must "
 "change the shared group name"
-msgstr ""
+msgstr "Ово је дељени групни разговор. Да бисте променили тему овог разговора, морате да промените име дељене групе."
 
 #: source/2.5.0.126.lang:sFMULTICHAT_SHAREDGROUP_LEAVEBTN_HINT:2117
 msgid ""
 "This is a shared group chat. To leave the chat, you must leave the shared "
 "group %s"
-msgstr ""
+msgstr "Ово је дељени групни разговор. Да бисте напустили овај разговор, морате да напустите дељену групу %s"
 
 #: source/2.5.0.126.lang:sSHAREDGROUP_ADD_UNAUTHORIZED:2118
 msgid ""
 "You cannot add this person to a shared group until they have exchanged "
 "contact details with you"
-msgstr ""
+msgstr "Не можете додати ову особу у дељену групу пре него што с Вама размени личне податке"
 
 #: source/2.5.0.126.lang:sSHAREDGROUP_ADD_UNAUTHORIZED_CAPTION:2119
 #: source/2.5.0.126.lang:sSHAREDGROUP_ADD_UNAUTHORIZED_TITLE:2120
-#, fuzzy
 msgid "Cannot add contact to shared group"
-msgstr "Није могуће послати познанике до %s -  корисник је блокиран"
+msgstr "Није могуће додати познаника у дељену групу"
 
 #: source/2.5.0.126.lang:sF_CONFIRM_REQUESTDETAILS:2121
-#, fuzzy
 msgid "Request contact details"
 msgstr "Тражи детаље о познанику"
 
 #: source/2.5.0.126.lang:sHOST:2122
-#, fuzzy
 msgid "%s (Host)"
-msgstr "Рачунар"
+msgstr "%s (Рачунар)"
 
 # 20050404: Прво лице у глаголску именицу
 #: source/2.5.0.126.lang:sSTATUSTEXT_CALL_EARLYMEDIA:2123
 #: source/2.5.0.126.lang:sTRAYHINT_CALL_EARLYMEDIA:2124
-#, fuzzy
 msgid "Calling %s"
-msgstr "Звање %s..."
+msgstr "Звање %s"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_NR_INVALID:2125
 msgid ""
 "The number is not entered correctly. Please select the country and then "
 "enter the number Example: Select United Kingdom and enter 0207 555 1212"
-msgstr ""
+msgstr "Број није исправно унет. Молимо да изаберете државу и затим унесете број. Пример: изаберите Енглеску и унесите: 0207 555 1212"
 
 #: source/2.5.0.126.lang:sLOGIN_PROGRESS_LABEL:2127
 msgid "Skype is updating files. This may take some time."
-msgstr ""
+msgstr "Скајп дограђује датотеке. То ће трајати неко време."
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_BTN_JOIN:2130
 msgid "Join"
-msgstr ""
+msgstr "Придруживање"
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_BLOCKED1:2131
 msgid "Sending SMS is blocked for this Skype Name."
-msgstr ""
+msgstr "Слање СМСова је блокирано за ово Скајпово име."
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_BLOCKED2:2132
-#, fuzzy
 msgid "Sending SMS is blocked."
-msgstr "Шаљем датотеку"
+msgstr "Слање СМСова је блокирано."
 
 #: source/2.5.0.126.lang:sF_SMS_STATUS_GENERAL:2133
-#, fuzzy
 msgid "Sending SMS failed."
-msgstr "Шаљем датотеку"
+msgstr "Слање СМСа није успело."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_LB4:2134
 msgid ""
 "You will be charged the standard rate for one SMS message to authorise this "
 "number."
-msgstr ""
+msgstr "Провера овог броја биће наплаћена по тарифи једне СМС поруке."
 
 #: source/2.5.0.126.lang:sF_CONFIRM_ACCEPT:2138
 msgid "Accept"
@@ -8602,154 +8257,134 @@ msgstr "Прихвати"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_LB5:2139
 msgid "When I send an SMS message, identify me by:"
-msgstr ""
+msgstr "Када шаљем СМС поруке, користи:"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_LB6:2140
 msgid "To choose this option, you must"
-msgstr ""
+msgstr "Да изаберете ову могућност, морате"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_LB7:2141
-#, fuzzy
 msgid "verify your mobile phone number"
-msgstr "Додајте више телефонских бројева"
+msgstr "провера броја мобилног телефона"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_LB8:2142
-#, fuzzy
 msgid "Verify a different mobile phone number"
-msgstr "Додајте више телефонских бројева"
+msgstr "Провера неког другог броја телефона"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_RB1:2143
 msgid "My Skype Name %s. Recipients cannot send SMS replies."
-msgstr ""
+msgstr "Моје Скајпово име %s. Примаоци не могу слати одговоре на СМС."
 
 #: source/2.5.0.126.lang:sF_OPTIONS_SMS_RB2:2144
 msgid "My mobile phone number %s. Recipients can send SMS replies."
-msgstr ""
+msgstr "Мој број мобилног телефона %s. Примаоци могу слати одговоре преко СМСа."
 
 #: source/2.5.0.126.lang:sRENAME_SHARED_GROUP:2145
 msgid "All shared group members will see the new name <b>%s</b>"
-msgstr ""
+msgstr "Сви чланови дељене групе ће видети ново име <b>%s</b>"
 
 #: source/2.5.0.126.lang:sRENAME_SHARED_GROUP_CAPTION:2146
 #: source/2.5.0.126.lang:sRENAME_SHARED_GROUP_TITLE:2147
 msgid "Change Shared Group Name?"
-msgstr ""
+msgstr "Да ли да променим име дељене групе?"
 
 #: source/2.5.0.126.lang:sF_EDITSKYPEOUT_CAPTION:2148
-#, fuzzy
 msgid "Edit SkypeOut Contact"
-msgstr "Познаници са СкајпАута"
+msgstr "Уреди познанике са СкајпАута"
 
 #: source/2.5.0.126.lang:sNOTIF_G001:2149
 msgid ""
 "Shared groups are a simple new way to share contacts with your friends, "
 "family or co-workers. <a href=\"skype:?go#help.guide.sharedgroups\">Learn "
 "more</a>"
-msgstr ""
+msgstr "Дељене групе су једноставан нови начин за дељење података о познаницима са Вашим пријатељима, породицом или колегама. <a href=\"skype:?go#help.guide.sharedgroups\">Више података</a>"
 
 #: source/2.5.0.126.lang:sPRICE_PER_MINUTE:2151
 msgid "%s%s per minute"
-msgstr ""
+msgstr "%s%s по минуту"
 
 #: source/2.5.0.126.lang:sF_MULTICHAT_MESSAGE_UNDELIVERED_SMS:2152
-#, fuzzy
 msgid "Send an SMS message"
-msgstr "Пошаљи једну поруку"
+msgstr "Пошаљи СМС поруку"
 
 #: source/2.5.0.126.lang:sCLBUTTON_SENDSMS:2153
-#, fuzzy
 msgid "Send SMS Message"
-msgstr "Пошаљи поруку"
+msgstr "Пошаљи СМС поруку"
 
 # 20050406 zmeYpc: покушај да се истакне посебно значење
 #: source/2.5.0.126.lang:sBUDDYMENU_EDIT:2154
-#, fuzzy
 msgid "Edit Contact..."
-msgstr "Додавање познаника..."
+msgstr "Уреди познанике..."
 
 #: source/2.5.0.126.lang:sSKYPEOUT_UPSELL:2155
-#, fuzzy
 msgid ""
 "You need Skype Credit to call ordinary phones. <a href=\"skype:?"
 "payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
-"Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?"
-"go#store\">Притисните овде да одмах купите кредите</a>"
+msgstr "Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?go#store\">Купите скајпов кредит</a>"
 
 #: source/2.5.0.126.lang:sSKYPEOUT_UPSELL_NORTH_AMERICA:2156
-#, fuzzy
 msgid ""
 "You need Skype Credit to make international calls to ordinary phones. <a "
 "href=\"skype:?payments#skypeout\">Buy Skype Credit</a>"
-msgstr ""
-"Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?"
-"go#store\">Притисните овде да одмах купите кредите</a>"
+msgstr "Потребан је Скајпов кредит за међународне позиве за фиксне телефоне. <a href=\"skype:?payments#skypeout\">Купите Скајпов кредит</a>"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_NOINET:2157
 msgid "It appears that this computer does not have Internet access"
-msgstr ""
+msgstr "Изгледа да овај рачунар нема приступ Интернету"
 
 #: source/2.5.0.126.lang:sF_UPGRADE_NOINET_CAP2:2159
-#, fuzzy
 msgid "Cannot connect to the Internet"
-msgstr "Повезивање са сервером није успело"
+msgstr "Повезивање са Интернетом није успело"
 
 #: source/2.5.0.126.lang:sF_SMS_SEND_SMSBUTTON_HINT:2160
-#, fuzzy
 msgid "Send SMS message to %s"
-msgstr "Пошаљи поруку за %s"
+msgstr "Слање СМС поруке за %s"
 
 #: source/2.5.0.126.lang:sF_OPTIONS_UPGRADE_LB6:2161
 msgid "Note that you will always be asked before Skype installs an update."
-msgstr ""
+msgstr "Скајп ће Вас увек питати за сагласност пре него што постави доградњу."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_SEARCH_NOTE1:2162
 msgid "You have quite a lot of contacts so this search may take some time."
-msgstr ""
+msgstr "Имате велики број познаника тако да ће потрага трајати неко време."
 
 #: source/2.5.0.126.lang:sF_IMPORTCONTACTS_SEARCH_NOTE2:2163
 msgid "You can continue doing other things while Skype searches."
-msgstr ""
+msgstr "Можете наставити да користите Скајп док претрага траје."
 
 #: source/2.5.0.126.lang:sF_OPENGROUPS_NEW_TITLE2:2165
-#, fuzzy
 msgid "New Shared Group SkypeOut Contact"
-msgstr "Познаници са СкајпАута"
+msgstr "Нова дељена група СкајпАут познаника"
 
 #: source/2.5.0.126.lang:sMAIN_TOOLBAR_SKYPEOUT:2166
 msgid "Call Phones"
 msgstr "Зови телефоне"
 
 #: source/2.5.0.126.lang:sMAIN_SKYPEOUT_PROMO:2167
-#, fuzzy
 msgid ""
 "We have given you 5 free SkypeOut minutes to try out calling ordinary "
 "phones. <a href=\"skype:?go#promo.trybeforebuy\">Learn more.</a>"
-msgstr ""
-"Потребан је Скајпов кредит за позивање обичних телефона. <a href=\"skype:?"
-"go#store\">Притисните овде да одмах купите кредите</a>"
+msgstr "Даил смо Вам 5 бесплатних минута на СкајпАуту како бисте пробали звање обичних телефона. <a href=\"skype:?go#promo.trybeforebuy\">Сазнајте више.</a>"
 
 #: source/2.5.0.126.lang:sMAINMENU_TOOLS_RINGTONE_BUY:2169
 msgid "Get Latest Ringtones"
-msgstr ""
+msgstr "Набави нове звукове"
 
 #: source/2.5.0.126.lang:sSTATUSPAGE_UPDATESTATUS_FAILED:2170
-#, fuzzy
 msgid "Skype update download failed"
-msgstr "Скајпова датотека с подацима"
+msgstr "Доградња Скајпа није успела"
 
 #: source/2.5.0.126.lang:sCALL_QUALITY_BUTTON_HINT:2171
 msgid "How to improve my call quality"
-msgstr ""
+msgstr "Како побољшати квалитет разговора"
 
 #: source/2.5.0.126.lang:sSKYPECAST:2175
-#, fuzzy
 msgid "Skypecast"
-msgstr "Скајп"
+msgstr "Скајпкаст"
 
 #: source/2.5.0.126.lang:sU3TOM:2178
 msgid "Please download the latest version of Skype with Tom.com"
-msgstr ""
+msgstr "Молимо да преузмете последње издање Скајпа са Tom.com"
 
 #~ msgid "View History"
 #~ msgstr "Преглед дневника порука"
