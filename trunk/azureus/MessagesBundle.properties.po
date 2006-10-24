@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-22 22:06+0200\n"
-"PO-Revision-Date: 2006-08-22 22:36+0200\n"
+"POT-Creation-Date: 2006-10-10 17:03+0200\n"
+"PO-Revision-Date: 2006-10-10 17:05+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1003,11 +1003,11 @@ msgid "Block Contributors"
 msgstr "Приложници за блок"
 
 #: SystemTray.tooltip.seeding
-msgid "\\%1 seeding,"
+msgid "%1 seeding,"
 msgstr "заметања: %1,"
 
 #: SystemTray.tooltip.downloading
-msgid "\\%1 downloading,"
+msgid "%1 downloading,"
 msgstr "пријема: %1,"
 
 #: DownloadManager.error.filenotfound
@@ -1880,6 +1880,29 @@ msgstr "Увоз торента није успео"
 msgid "Bind to local IP address"
 msgstr "Привежи за локалну ИП адресу"
 
+#: ConfigView.label.xfs.allocation
+msgid "Allocate new files using a method specific to XFS filesystem"
+msgstr ""
+"Ослобађање места за нове датотеке на начин специфичан за систем датотека XFS"
+
+#: ConfigView.label.xfs.allocation.tooltip
+msgid ""
+"Please make sure /usr/sbin/xfs_io is properly installed on your system. On "
+"most Linux distributions, it's included in the \"xfsprogs\" package."
+msgstr ""
+"Молимо да проверите да је програм /usr/sbin/xfs_io исправно постављен на Ваш "
+"систем.  На многим дистрибуцијама заснованим на Линуксу, налази се у пакету "
+"„xfsprogs‟."
+
+#: xfs.allocation.xfs_io.not.found
+msgid ""
+"XFS file allocation failed because /usr/sbin/xfs_io can't be run. Make sure "
+"it's properly installed on your system. Original error was : \"%1\"."
+msgstr ""
+"Резаервација датотека по методу XFS није успела јер програм /usr/sbin/xfs_io "
+"није могао да буде покренут.  Проверите да је исправно постављен на Вашем "
+"систему.  Изворна грешка је била: „%1‟."
+
 #: ConfigView.label.zeronewfiles
 msgid "Allocate and zero new files on creation"
 msgstr "Резервиши и анулирај нове датотеке при стварању"
@@ -2598,7 +2621,7 @@ msgstr "Објава УРЛа који није у Вашем списку пр�
 
 #: MyTorrentsView.menu.recheck
 msgid "Force Re-chec&k"
-msgstr "Принуди на &проверу"
+msgstr "Принудна &провера"
 
 #: iconBar.showDownloadBar.tooltip
 msgid "Show Download Bar"
@@ -2668,7 +2691,7 @@ msgstr "Сачувај резервни умножак"
 
 #: ConfigView.section.tracker.forceport
 msgid "Force hosted external torrents to default port"
-msgstr "Принуди да спољашњи торенти користе подразумевани порт"
+msgstr "Принудна употреба подразумеваног порта за спољашње торенте"
 
 #: ConfigView.section.ipfilter.allow
 msgid "ALLOW these ranges (default is DENY)"
@@ -3537,7 +3560,7 @@ msgstr "&Освежи"
 
 #: ManagerItem.forced
 msgid "Forced"
-msgstr "Приморан"
+msgstr "Принуђен"
 
 #: ManagerItem.queued OpenTorrentWindow.startMode.queued
 #: DHTView.activity.status.true
@@ -3570,7 +3593,7 @@ msgstr "&Уклони категорију"
 
 #: MyTorrentsView.menu.forceStart
 msgid "&Force Start"
-msgstr "&Приморај покретање"
+msgstr "&Принудно покретање"
 
 #: MyTorrentsView.menu.queue
 msgid "&Queue"
@@ -3934,7 +3957,7 @@ msgstr "Додавање"
 
 #: OpenTorrentWindow.startMode.forceStarted
 msgid "Force Started"
-msgstr "Приморан почетак"
+msgstr "Принудни почетак"
 
 #: OpenTorrentWindow.addPosition
 msgid "Queue Position"
@@ -4780,12 +4803,13 @@ msgstr "Очисти"
 
 #: MainWindow.IPs.tooltip
 msgid ""
-"{Last update of filter list} Total IPFilters in list - Number of blocked/"
-"banned/bad IPs this session.\n"
+"Last update of filter list: %1\n"
+"Total IPFilters in list - Number of blocked/banned/bad IPs this session.\n"
 "Double-click for details."
 msgstr ""
-"{Последње освежење списка филтера} Укупно ИП филтера у списку - Број "
-"блокираних/забрањених/лоших ИПова за ову сесију.\n"
+"Последње освежење списка филтера: %1\n"
+"Укупно ИП филтера у списку - Број блокираних/забрањених/лоших ИПова за ову "
+"сесију.\n"
 "Дупли клик за детаље."
 
 #: ConfigView.section.ipfilter.list.banned
@@ -6915,8 +6939,8 @@ msgid "in %1"
 msgstr "пријем: %1"
 
 #: OpenTorrentWindow.torrentLocation
-msgid "Torrent Files:"
-msgstr "Торент датотекe:"
+msgid "Torrent(s) to be downloaded:"
+msgstr "Торенти за пријем:"
 
 #: OpenTorrentWindow.addFiles.URL
 msgid "Add &URL"
@@ -7109,7 +7133,7 @@ msgstr "Ср. доступност/делу"
 
 #: ConfigView.label.strictfilelocking
 msgid "Enforce exclusive file write access locking across torrents"
-msgstr "Приморај на ексклузивно закључавање датотека при упису за све торенте"
+msgstr "Принуди на ексклузивно закључавање датотека при упису за све торенте"
 
 #: MyTorrentsView.menu.rescanfile
 msgid "Periodically Recheck Incomplete Pieces"
@@ -7185,7 +7209,7 @@ msgstr "Захтевај шифрован пренос"
 
 #: ConfigView.section.connection.encryption.require_encrypted_transport.tooltip
 msgid "Force use of encrypted connections with other peers."
-msgstr "Захтева употребу шифрованих веза са другим рачунарима."
+msgstr "Захтевај употребу шифрованих веза са другим рачунарима."
 
 #: ConfigView.section.connection.encryption.min_encryption_level
 msgid "Minimum encryption level"
@@ -7825,6 +7849,22 @@ msgstr "NOD32"
 msgid "FRITZ! Application Layer Firewall"
 msgstr "Ватробран на апликацијском нивоу, FRITZ!"
 
+#: platform.win32.baddll.MxAVLsp
+msgid "VCom Fix-It Utilities"
+msgstr "ВКом-ови (VCom) алати за оправку (Fix-It)"
+
+#: platform.win32.baddll.mclsp
+msgid "McAfee Privacy Service"
+msgstr "Мекефијева (McAfee) служба за приватност"
+
+#: platform.win32.baddll.radhslib
+msgid "Naomi Internet Filter (Radiant)"
+msgstr "Наоми Интернет филтер (Радијант)"
+
+#: platform.win32.baddll.nl_lsp
+msgid "NetLimiter"
+msgstr "НетЛимитер"
+
 #: upnp.ignorebaddevices
 msgid "Ignore devices that fail to respond correctly"
 msgstr "Занемари уређаје који не одговоре како треба"
@@ -8292,6 +8332,60 @@ msgstr "Чување описа ИП адреса у привременој да
 #: ConfigView.section.ipfilter.enable.descriptionCache.tooltip
 msgid "When disabled, descriptions will not be remembered"
 msgstr "Када је искључено, описи неће бити чувани"
+
+#: OpenTorrentWindow.filesInfo
+msgid "%1 of %2 will be downloaded."
+msgstr "%1 од %2 ће бити преузето."
+
+#: ConfigView.label.openmytorrents
+msgid "Open 'My Torrents' on startup"
+msgstr "Отвори „Моје торенте‟ при покретању"
+
+#: ConfigView.section.style.DNDalwaysInIncomplete
+msgid ""
+"Always show torrents with 'Do Not Download' files in Incomplete section of "
+"My Torrents"
+msgstr ""
+"Увек приказуј торенте означене као „Не преузимај‟ у одељку за незавршене "
+"торенте"
+
+#: OpenTorrentWindow.mb.noGlobalDestDir.title
+#: OpenTorrentWindow.mb.noDestDir.title
+msgid "Destination Directory not found"
+msgstr "Одредишни директоријум није пронађен"
+
+#: OpenTorrentWindow.mb.noGlobalDestDir.text
+msgid "The destination directory '%1' does not exist or is invalid."
+msgstr "Одредишни директоријум „%1‟ не постоји или није исправан."
+
+#: OpenTorrentWindow.mb.noDestDir.text
+msgid ""
+"The destination directory '%1' for torrent '%2' does not exist or is invalid."
+msgstr ""
+"Одредишни директоријум „%1‟ за торент „%2‟ не постоји или није исправан."
+
+#: OpenTorrentWindow.mb.notValid.title
+msgid "Open Torrent"
+msgstr "Отвори торент"
+
+#: OpenTorrentWindow.mb.notValid.text
+msgid ""
+"Could not open torrent '%1'.  If you are opening in seeding mode, please "
+"make sure the torrent data files exist."
+msgstr ""
+"Торент „%1‟ није могуће отворити.  Ако отварате за заметање, проверите да су "
+"подаци присутни."
+
+#: ConfigView.label.pause.downloads.on.exit
+msgid "Pause downloads on exit"
+msgstr "Паузирај преузимања при крају рада"
+
+#: ConfigView.label.resume.downloads.on.start
+msgid "Resume paused downloads on start after initialisation completes"
+msgstr "Настави паузиране пријеме при покретању када је програм спреман за рад"
+
+#~ msgid "Torrent Files:"
+#~ msgstr "Торент датотекe:"
 
 #~ msgid ""
 #~ "Enable UDP tracker client protocol. This uses the same port number as the "
@@ -9074,11 +9168,6 @@ msgstr "Када је искључено, описи неће бити чува�
 #~ "_: authenticator.password\n"
 #~ "Password"
 #~ msgstr "Лозинка"
-
-#~ msgid ""
-#~ "_: MyTorrentsView.down\n"
-#~ "Downloaded"
-#~ msgstr "Преузето"
 
 #~ msgid ""
 #~ "_: MyTorrentsView.up\n"

@@ -2,14 +2,32 @@
 # translation of video.dvdrip.po to Serbian
 # This file is distributed under the same license as the dvd::rip package.
 # Copyright (C) 2004-2006 Joern Reder <joern AT zyn.de>.
+#
+# Translators:
 # Bojan Bozovic <bole89@infosky.net>, 2004.
 # Filip Miletic <filmil at gmail dot com>, 2006.
+#
+# The files sr.po and sr@Latn.po are respectivelly the dvd::rip
+# translations for the Serbian language in Cyrillic and the Serbian
+# language in Latin script. As the Serbian language can be written down
+# equivocally using these two different scripts, both translation files
+# are provided.
+#
+# The file sr@Latn.po is automatically generated from sr.po and should
+# NOT be edited by hand.
+#
+# The sr.po and sr@Latn.po for MUST always be distributed one with the
+# other.
+#
+# If you have any questions regarding this translation, you can write to
+# the last translator, Filip Miletic (filmil at gmail dot com).
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: dvd::rip 0.97\n"
 "Report-Msgid-Bugs-To: dvd::rip Translation Team <dvdrip-lang AT exit1.org>\n"
 "POT-Creation-Date: 2006-08-06 00:38+0200\n"
-"PO-Revision-Date: 2006-09-09 00:15+0200\n"
+"PO-Revision-Date: 2006-09-09 00:18+0200\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <kde-yu@kde.org.yu> <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
