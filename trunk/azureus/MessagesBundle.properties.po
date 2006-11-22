@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-10-10 17:03+0200\n"
-"PO-Revision-Date: 2006-10-10 17:05+0200\n"
+"POT-Creation-Date: 2006-11-21 15:15+0100\n"
+"PO-Revision-Date: 2006-11-22 01:37+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: ConfigView.label.priorityExtensions
 msgid ""
-"Auto-prioritize files with extension\n"
+"Auto-prioritize files with \n"
 " - eg: .txt;.nfo;.jpg"
 msgstr ""
 "Аутоматски приоритет датотекама са екстензијама\n"
@@ -928,8 +928,12 @@ msgid "Update Tracker"
 msgstr "Освежи пратиоца"
 
 #: GeneralView.label.comment
-msgid "Comment :"
-msgstr "Коментар :"
+msgid "Torrent Comment :"
+msgstr "Коментар за торент :"
+
+#: GeneralView.label.user_comment
+msgid "User Comment :"
+msgstr "Корисников коментар :"
 
 #: ManagerItem.waiting StartStopRules.waiting
 msgid "Waiting"
@@ -1491,6 +1495,7 @@ msgid "Edit Filter"
 msgstr "Уреди филтер"
 
 #: ConfigView.section.ipfilter.enable ConfigView.section.stats.enable
+#: ConfigView.section.connection.http.enable
 msgid "Enable"
 msgstr "Укључено"
 
@@ -1526,9 +1531,11 @@ msgstr ""
 
 #: ConfigView.label.startNumSeeds
 msgid ""
+"\n"
 "Start seeding if there is less than\n"
 " - Overrides all other rules"
 msgstr ""
+"\n"
 "Покрени заметање ако има мање од\n"
 " - преиначује сва остала правила"
 
@@ -1559,12 +1566,14 @@ msgid "Warning"
 msgstr "Упозорење"
 
 #: deletedata.message1
-msgid "You are about to delete the DATA from :"
-msgstr "Само што нисте уклонили ПОДАТКЕ са :"
+msgid "You are about to delete the DATA from :\n"
+msgstr "Само што нисте уклонили ПОДАТКЕ са :\n"
 
 #: deletedata.message2 deletetorrent.message2
-msgid "Are you sure you want to proceed?"
-msgstr "Да ли сигурно да желите да наставите?"
+msgid ""
+"\n"
+"Are you sure you want to proceed?"
+msgstr "\nДа ли сигурно да желите да наставите?"
 
 #: MainWindow.menu.file.configure
 msgid "Configuration &Wizard..."
@@ -1877,8 +1886,8 @@ msgid "Torrent Import Fails"
 msgstr "Увоз торента није успео"
 
 #: ConfigView.label.bindip
-msgid "Bind to local IP address"
-msgstr "Привежи за локалну ИП адресу"
+msgid "Bind to local IP address or interface"
+msgstr "Привежи за локалну ИП адресу или сучеље"
 
 #: ConfigView.label.xfs.allocation
 msgid "Allocate new files using a method specific to XFS filesystem"
@@ -2198,8 +2207,8 @@ msgid "Use an external Tracker"
 msgstr "Користи спољашњи пратилац"
 
 #: wizard.tracker.howToLocal
-msgid "Go to 'Tools->Options->Tracker' to enable it"
-msgstr "Изаберите „Алати->Подешавања->Пратилац“ како бисте га укључили"
+msgid "\tGo to 'Tools->Options->Tracker' to enable it"
+msgstr "        Изаберите „Алати->Подешавања->Пратилац“ како бисте га укључили"
 
 #: wizard.announceUrl
 msgid "Announce URL :"
@@ -2305,7 +2314,7 @@ msgstr "Торент датотека (без подразумеваног чу�
 msgid "Meta+Opt+O"
 msgstr "Meta+Opt+O"
 
-#: wizard.comment
+#: wizard.comment MyTorrentsView.comment
 msgid "Comment"
 msgstr "Коментар"
 
@@ -2316,6 +2325,12 @@ msgstr "Премести торент"
 #: ConfigView.label.movepartialdownloads
 msgid "Move when some files are flagged \"Do Not Download\""
 msgstr "Премести када су неке датотеке означене са „Не преузимај‟"
+
+#: ConfigView.label.subdir_is_in_default
+msgid ""
+"When considering if downloads exist in a default directory, also consider "
+"default subdirectories"
+msgstr "При одређивању да ли постоје преузете датотеке у подразумеваном диракторијуму, прегледај такође и подразумеване поддиректоријуме"
 
 #: ConfigView.section.file.decoder.label
 msgid "Default torrent encoding when selection required"
@@ -3044,7 +3059,7 @@ msgid "Meta+3"
 msgstr "Meta+3"
 
 #: MySharesView.type PiecesView.type DHTView.activity.type
-#: ConfigView.pluginlist.column.type
+#: Files.column.fileext ConfigView.pluginlist.column.type
 msgid "Type"
 msgstr "Врста"
 
@@ -3819,8 +3834,8 @@ msgstr ""
 
 #: DonationWindow.text.footer
 msgid ""
-"\\ \\ \\ \\ \\ \\ \\ \\ \\ If the donation page doesn't appear, you can "
-"donate using the link at the very bottom."
+"         If the donation page doesn't appear, you can donate using the link "
+"at the very bottom."
 msgstr ""
 "         Ако се страна са прилозима не отвори, можете приложити користећи "
 "везу на самом дну."
@@ -4845,8 +4860,8 @@ msgid "Automatically remove unauthorized torrents"
 msgstr "Аутоматски уклони неовлашћене торенте"
 
 #: download.removerules.unauthorised.seedingonly
-msgid "Only if seeding"
-msgstr "Само при заметању"
+msgid "\tOnly if seeding"
+msgstr "        Само при заметању"
 
 #: download.removerules.removed.ok
 msgid ""
@@ -5505,8 +5520,8 @@ msgid "Confirm when Removing a torrent from the MyTorrents view."
 msgstr "Потврди уклањале торента из прегледа Мојих торента."
 
 #: MyTorrentsView.confirm_torrent_removal
-msgid "Are you sure you want to remove?"
-msgstr "Да ли сте сигурни да желите да уклоните?"
+msgid "Are you sure you want to remove?\n"
+msgstr "Да ли сигурно желите да уклоните?"
 
 #: MyTorrentsView.seed_to_peer_ratio
 msgid "Seed2PeerRatio"
@@ -5753,8 +5768,8 @@ msgid "Do you really want to restart Azureus?"
 msgstr "Да ли заиста желите да рестартујете Азуреуса?"
 
 #: deletetorrent.message1
-msgid "You are about to delete the TORRENT for :"
-msgstr "Само што нисте уклонили ТОРЕНТ за :"
+msgid "You are about to delete the TORRENT for :\n"
+msgstr "Само што нисте уклонили ТОРЕНТ за :\n"
 
 #: ConfigView.label.prioritizemostcompletedfiles
 msgid ""
@@ -6300,7 +6315,7 @@ msgid "DHT Initializing"
 msgstr "Покретање ДХТ"
 
 #: MainWindow.dht.status.users
-msgid "%1 Users"
+msgid "%1 users"
 msgstr "корисника: %1"
 
 #: MainWindow.dht.status.unreachable
@@ -6365,6 +6380,18 @@ msgstr "Ср. брзина роја"
 #: MyTorrentsView.swarm_average_speed.info
 msgid "The average speed of peers in the swarm"
 msgstr "Средња брзина рачунара у роју"
+
+#: MyTorrentsView.comment.info
+msgid "User-defined comment for download"
+msgstr "Корисников коментар за пријем"
+
+#: MyTorrentsView.commenticon
+msgid "Comment Icon"
+msgstr "Сличица за коментар"
+
+#: MyTorrentsView.commenticon.info
+msgid "Displays icon if the download has a user-defined comment"
+msgstr "Приказује сличицу ако пријем има кориснички дефинисан коментар"
 
 #: MainWindow.menu.file.open.torrentfortracking
 msgid "Torrent File... (Tracking Only)"
@@ -7271,6 +7298,10 @@ msgstr "Стање НАТа"
 msgid "DDB Status"
 msgstr "Стање ДДБа"
 
+#: ConfigView.section.style.status.show_ipf
+msgid "IPFilter Status"
+msgstr "Статус ИПФилтра (IPFilter)"
+
 #: ConfigView.section.connection.encryption.encrypt.group
 msgid "Transport Encryption/Obfuscation"
 msgstr "Шифровање и скривање преноса"
@@ -7477,8 +7508,8 @@ msgstr ""
 "Аутоматски додај ове локалне рачунаре [„;‟ одваја адресе, нпр. 1.2.3.4]"
 
 #: Plugin.localtracker.autoadd
-msgid "\\ \\ \\ \\ Explicit peers"
-msgstr "    Рачунари по имену"
+msgid "    Explicit peers"
+msgstr "    Експлицитни рачунари"
 
 #: Plugin.localtracker.networks.info
 msgid ""
@@ -7489,7 +7520,7 @@ msgstr ""
 "Сматрај да су наведене мреже локалне [„;‟ одваја мреже, нпр. 145.227.*.*]"
 
 #: Plugin.localtracker.networks
-msgid "\\ \\ \\ \\ Local networks"
+msgid "    Local networks"
 msgstr "    Локалне мреже"
 
 #: MainWindow.menu.view.plugins.logViews
@@ -7589,10 +7620,13 @@ msgstr "_: sendTorrent.multi.email.body.top\n"
 msgid ""
 "To download \"%1\", simply click on the link below:\n"
 "\n"
-"%2"
+"%2\n"
+"\n"
 msgstr ""
 "Како бисте преузели „%1‟, просто притисните на везу испод:\n"
-"%2"
+"\n"
+"%2\n"
+"\n"
 
 #: sendTorrent.multi.email.body.bottom
 msgid ""
@@ -7632,7 +7666,7 @@ msgid ""
 "the network connection.\n"
 "\n"
 "These limits will only be applied when automatic upload speed is enabled and "
-"also require the distributed database to be enabled."
+"also require the distributed database to be enabled.\n"
 msgstr ""
 "Аутоматско подешавање брзине подешава горњу границу брзине преноса како би "
 "се избегло преоптерећење мрежне везе.\n"
@@ -8204,6 +8238,15 @@ msgstr "Унесите ново име за овај пријем."
 msgid "If no text is entered, the original values will be used."
 msgstr "Ако се не унесе никакав текст, користе се изворне вредности."
 
+#: MyTorrentsView.menu.edit_comment
+#: MyTorrentsView.menu.edit_comment.enter.title
+msgid "Edit Comment"
+msgstr "Уреди коментар"
+
+#: MyTorrentsView.menu.edit_comment.enter.message
+msgid "Enter a comment for this download."
+msgstr "Унесите нови коментар за овај пријем."
+
 #: UIDebugGenerator.messageask.title
 msgid "Debug Generator"
 msgstr "Генератор пријаве за грешку"
@@ -8364,7 +8407,7 @@ msgid ""
 msgstr ""
 "Одредишни директоријум „%1‟ за торент „%2‟ не постоји или није исправан."
 
-#: OpenTorrentWindow.mb.notValid.title
+#: OpenTorrentWindow.mb.notValid.title OpenTorrentWindow.mb.notTorrent.title
 msgid "Open Torrent"
 msgstr "Отвори торент"
 
@@ -8376,6 +8419,18 @@ msgstr ""
 "Торент „%1‟ није могуће отворити.  Ако отварате за заметање, проверите да су "
 "подаци присутни."
 
+#: OpenTorrentWindow.mb.notTorrent.text
+msgid ""
+"Could not open '%1'.  It doesn't appear to be a .torrent file.\n"
+"\n"
+"Some of the data received:\n"
+"%2"
+msgstr ""
+"Није могуће отворити „%1‟.  Изгледа да није датотека са подацима за торент.\n"
+"\n"
+"Шта је од података примљено:\n"
+"%2"
+
 #: ConfigView.label.pause.downloads.on.exit
 msgid "Pause downloads on exit"
 msgstr "Паузирај преузимања при крају рада"
@@ -8383,6 +8438,64 @@ msgstr "Паузирај преузимања при крају рада"
 #: ConfigView.label.resume.downloads.on.start
 msgid "Resume paused downloads on start after initialisation completes"
 msgstr "Настави паузиране пријеме при покретању када је програм спреман за рад"
+
+#: UIDebugGenerator.message.cancel.title
+msgid "Generate Debug Info Canceled"
+msgstr "Отказано је прављење података за исправку грешака"
+
+#: UIDebugGenerator.message.cancel.text
+msgid ""
+"You did not enter a description of the bug you are trying to report.  Your "
+"bug may be obvious to you, but without a description, we would only be "
+"guessing as to your problem.\n"
+"\n"
+"Generation of Debug Information has been cancelled."
+msgstr ""
+"Нисте унели опис грешке коју покушавате да пријавите.  Грешка која се десила је можда очигледна вама, али без описа, ми бисмо морали да нагађамо у чему је проблем.\n"
+"\n"
+"Прављење података са извештајем о грешци је отказано."
+
+#: ConfigView.section.connection.group.http
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ConfigView.section.connection.group.http.info
+msgid "Support for HTTP seeding."
+msgstr "Подршка за заметање путем HTTPа."
+
+#: ConfigView.section.connection.http.port
+msgid "Incoming port number"
+msgstr "Број долазног порта"
+
+#: ConfigView.section.connection.http.portoverride
+msgid "Tracker HTTP Port override [0: none]"
+msgstr "HTTP порт за пратиоца [0: ниједан]"
+
+#: window.update.noupdates.title
+msgid "Check for Updates Results"
+msgstr "Резултат провере доградњи"
+
+#: window.update.noupdates.text
+msgid ""
+"There are no new updates available for you.\n"
+"\n"
+"Congratulations!"
+msgstr ""
+"За вас нема нових доступних доградњи.\n"
+"\n"
+"Честитамо!"
+
+#: ConfigView.label.bindip.info
+msgid "For example, '192.168.1.2' or 'eth0' (current: %1)"
+msgstr "На пример, „192.168.1.2„ или „eth0‟ (тренутно: %1)"
+
+#: ConfigView.label.mindownloads
+msgid "Min simultaneous downloads"
+msgstr "Минималан број истовремених пријема"
+
+#: UI.cannot_submit_blank_text
+msgid "You must enter a value."
+msgstr "Морате да унесете неку вредност."
 
 #~ msgid "Torrent Files:"
 #~ msgstr "Торент датотекe:"
