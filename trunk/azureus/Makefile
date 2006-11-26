@@ -1,12 +1,13 @@
 # Generates the latin version of the unicode translation
 
+N2A=/usr/java/java-sdk-current/bin/native2ascii
 C2L=c2l
 CP=cp
 RM=rm -f
 SCP=scp
 SED=sed
-NTOA=native2ascii -encoding UTF-8 -reverse
-ATON=native2ascii -encoding UTF-8
+NTOA=$(N2A) -encoding UTF-8 -reverse
+ATON=$(N2A) -encoding UTF-8
 POTOMOZ=po2moz
 MOZ2PO=moz2po
 MSGMERGE=msgmerge

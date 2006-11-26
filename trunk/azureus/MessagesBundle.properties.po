@@ -1,15 +1,17 @@
 # extracted from MessagesBundle.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Azureus 1.5.0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-21 15:15+0100\n"
-"PO-Revision-Date: 2006-11-22 01:37+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2006-11-26 23:48+0100\n"
+"PO-Revision-Date: 2006-11-26 23:47+0100\n"
+"Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
+"Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 # There is a plugin to help with internationalizing these bundles at http://azureus.sourceforge.net/plugin_list.php
 #: MainWindow.menu.file.open.torrent
@@ -1573,7 +1575,9 @@ msgstr "Само што нисте уклонили ПОДАТКЕ са :\n"
 msgid ""
 "\n"
 "Are you sure you want to proceed?"
-msgstr "\nДа ли сигурно да желите да наставите?"
+msgstr ""
+"\n"
+"Да ли сигурно да желите да наставите?"
 
 #: MainWindow.menu.file.configure
 msgid "Configuration &Wizard..."
@@ -2330,7 +2334,9 @@ msgstr "Премести када су неке датотеке означен�
 msgid ""
 "When considering if downloads exist in a default directory, also consider "
 "default subdirectories"
-msgstr "При одређивању да ли постоје преузете датотеке у подразумеваном диракторијуму, прегледај такође и подразумеване поддиректоријуме"
+msgstr ""
+"При одређивању да ли постоје преузете датотеке у подразумеваном "
+"диракторијуму, прегледај такође и подразумеване поддиректоријуме"
 
 #: ConfigView.section.file.decoder.label
 msgid "Default torrent encoding when selection required"
@@ -5509,7 +5515,7 @@ msgstr ""
 "0x08 за IPTOS_THROUGHPUT\n"
 "0x10 за IPTOS_LOWDELAY\n"
 "ПРИМЕДБА: имплементације мреже могу да занемаре ову вредност, тако да она "
-"јако зависи од издања оперативног система и ЈРЕ.\n"
+"јако зависи од издања оперативног система и ЈРЕ."
 
 #: ConfigView.section.interface.confirm_torrent_removal
 msgid "Show confirmation dialog on torrent removal"
@@ -5521,7 +5527,7 @@ msgstr "Потврди уклањале торента из прегледа М�
 
 #: MyTorrentsView.confirm_torrent_removal
 msgid "Are you sure you want to remove?\n"
-msgstr "Да ли сигурно желите да уклоните?"
+msgstr "Да ли сигурно желите да уклоните?\n"
 
 #: MyTorrentsView.seed_to_peer_ratio
 msgid "Seed2PeerRatio"
@@ -5923,7 +5929,7 @@ msgstr ""
 "Изаберите оне који дозвољавају пратиоце и комуникацију.\n"
 "Ако је ово анонимни пратилац који подржава јавне клијенте, онда укључите и "
 "јавне и приватне мреже.\n"
-"Дозвољавање јавних мрежа очигледно уклања анонимност!\n"
+"Дозвољавање јавних мрежа очигледно уклања анонимност!"
 
 #: window.networkselection.description
 msgid "Torrent :"
@@ -6327,9 +6333,8 @@ msgid ""
 "There appears to be a problem with the Distributed Database's UDP port "
 "mapping (NAT/firewall)"
 msgstr ""
-"\n"
 "Изгледа постоји проблем са пресликавањем УДП порта дистрибуиране базе "
-"података"
+"података (НАТ/ватробран)"
 
 #: MyTorrentsView.menu.setUpSpeed
 msgid "Set Up Speed"
@@ -6426,7 +6431,6 @@ msgid ""
 "Disable per-tracker scrape aggregation (can help with trackers that report "
 "'URL too long' (414) errors)"
 msgstr ""
-"\n"
 "Забрани удруживање чистача по пратиоцу (може да помогне око пратилаца који "
 "јављају да је УРЛ предугачак (грешка 414))"
 
@@ -6438,7 +6442,6 @@ msgstr "Бележи прекршаје ИП филтрирања"
 msgid ""
 "Consider 'add for seeding' downloads to have downloaded this number of copies"
 msgstr ""
-"\n"
 "Размислите о употреби „додај за заметање“ за преузимање оволико умножака"
 
 #: ActivityView.legend.limit
@@ -6636,7 +6639,6 @@ msgid ""
 "All you need to download torrents.\n"
 "Use this mode if all you want is manage your torrents."
 msgstr ""
-"\n"
 "Све што Вам треба за преузимање торента.\n"
 "Користите овај начин рад аако само желите да управљате торентима."
 
@@ -6646,7 +6648,6 @@ msgid ""
 "Use this mode if you want to create your own tracker and host/publish your "
 "files."
 msgstr ""
-"\n"
 "Приступ функцијама пратиоца.\n"
 "Користите овај начин рада ако желите да направите сопственог пратиоца и "
 "хостујете или објављујете своје датотеке."
@@ -6656,7 +6657,6 @@ msgid ""
 "Access to network settings.\n"
 "Use this mode if you know what MTU or non blocking I/O are..."
 msgstr ""
-"\n"
 "Приступ мрежним подешавањима\n"
 "Користите овај начин рада ако знате које су вредности за МТУ или мрежно "
 "блокирање."
@@ -6686,7 +6686,6 @@ msgid ""
 "This User Proficiency setting will determine the level of the options "
 "displayed in Tools > Options. It is in your best interest to set it properly."
 msgstr ""
-"\n"
 "Подешавање вештине корисника одређује ниво детаља који се приказује у „Алати-"
 ">Подешавања“. У Вашем је интересу да ово исправно поставите."
 
@@ -6778,8 +6777,7 @@ msgid ""
 "Most plugins are safe to try out, just don't overload your configuration "
 "with plugins you will not use."
 msgstr ""
-"\n"
-"Нису Вам потребни додаци да би Азуреус исправнор радио. Они дају\n"
+"Додаци нису неопходни да би Азуреус исправно радио. Они дају\n"
 "посебне могућности за забаву, аутоматизацију рада или даљинско управљање.\n"
 "Зато молимо да прочитате пажљиво опис сваког додатка пре него што \n"
 "одлучите да га поставите.\n"
@@ -7504,7 +7502,6 @@ msgstr "„%1‟ је завршио са пријемом."
 msgid ""
 "Automatically add these local peers [';' separated addresses, e.g. 1.2.3.4]"
 msgstr ""
-"\n"
 "Аутоматски додај ове локалне рачунаре [„;‟ одваја адресе, нпр. 1.2.3.4]"
 
 #: Plugin.localtracker.autoadd
@@ -7516,7 +7513,6 @@ msgid ""
 "Consider the following networks to be local [';' separated networks, e.g. "
 "145.227.*.*]"
 msgstr ""
-"\n"
 "Сматрај да су наведене мреже локалне [„;‟ одваја мреже, нпр. 145.227.*.*]"
 
 #: Plugin.localtracker.networks
@@ -7536,7 +7532,6 @@ msgid ""
 "This Feature is either disabled (you need the DHT) or not in use (manual "
 "upload speed selected)"
 msgstr ""
-"\n"
 "Ова могућност је или искључена (потребан је ДХТ) или се не користи (брзина "
 "слања је ручно подешена)"
 
@@ -7555,94 +7550,6 @@ msgstr "Тренутни пинг:"
 #: SpeedView.stats.maxUp
 msgid "Max Up Speed:"
 msgstr "Највећа брзина слања:"
-
-#: sendTorrent.title
-msgid "Send to a Friend/Web Page"
-msgstr "Слање пријатељу/на мрежну страну"
-
-#: sendTorrent.destination.title
-msgid "How do you want to send the %1 selected item(s)?"
-msgstr "Како желите да пошаљете изабране ставке? (укупно: %1)"
-
-#: sendTorrent.destination.byEmail
-msgid "By E-mail"
-msgstr "Ел. поштом"
-
-#: sendTorrent.destination.byHTML
-msgid "By blog entry, or web page"
-msgstr "По уносу у блог, или мрежној страни"
-
-#: sendTorrent.finish.title
-msgid "Complete"
-msgstr "Готово"
-
-#: sendTorrent.finish.byEmail
-msgid "Copy the text below into an e-mail:"
-msgstr "Унеси овај текст у ел. поруку:"
-
-#: sendTorrent.finish.byHTML
-msgid "Copy the text below into your webpage:"
-msgstr "Унеси овај текст у мрежну страну:"
-
-#: sendTorrent.finish.button.toClipboard
-msgid "Copy to Clipboard"
-msgstr "Умножи на клипборд"
-
-#: sendTorrent.finish.button.startEMail
-msgid "Create E-Mail"
-msgstr "Направи ел. поруку"
-
-#: sendTorrent.one.email.subject sendTorrent.multi.email.subject
-msgid "I recommend you download %1"
-msgstr "Препоручује се да преузмете %1"
-
-#: sendTorrent.one.email.body
-msgid ""
-"To download \"%1\", simply click on the link below:\n"
-"\n"
-"%2\n"
-"\n"
-"\"%1\" will start downloading if you already have Azureus.  If you don't "
-"have Azureus yet, the web page will explain how to install it."
-msgstr ""
-"Да преузмете „%1‟, просто притисните везу дату испод:\n"
-"\n"
-"%2\n"
-"\n"
-"Ако већ имате Азуреуса, пренос за „%1‟ ће почети аутоматски, а ако га "
-"немате, на мрежној страни можете да прочитате упутство како га поставити."
-
-#: sendTorrent.multi.email.body.top
-msgid "_: sendTorrent.multi.email.body.top\n"
-msgstr "_: sendTorrent.multi.email.body.top\n"
-
-#: sendTorrent.multi.email.body.eachTorrent
-msgid ""
-"To download \"%1\", simply click on the link below:\n"
-"\n"
-"%2\n"
-"\n"
-msgstr ""
-"Како бисте преузели „%1‟, просто притисните на везу испод:\n"
-"\n"
-"%2\n"
-"\n"
-
-#: sendTorrent.multi.email.body.bottom
-msgid ""
-"They will start downloading if you already have Azureus.  If you don't have "
-"Azureus yet, the web page will explain how to install it."
-msgstr ""
-"Ако имате Азуреуса, пријем ће почети аутоматски. Ако још немате Азуреуса, "
-"мрежна страна ће Вам објаснити како да га поставите."
-
-#: iconBar.sendTorrent.tooltip
-msgid "Send Selected via E-Mail/Webpage"
-msgstr "Слање изабраног торента ел. поштом или на мрежну страну"
-
-#: MyTorrentsView.menu.sendTorrent
-msgid "Send to Friend/Web Page.."
-msgstr "Слање пријатељу или на мрежну страну"
 
 #: ConfigView.pluginlist.unloadSelected
 msgid "Unload Selected"
@@ -7672,7 +7579,7 @@ msgstr ""
 "се избегло преоптерећење мрежне везе.\n"
 "\n"
 "Ове границе се примењују само ако је укључена аутоматска регулација брзине "
-"слања, и такође захтева да је укључена дистрибуирана база података."
+"слања, и такође захтева да је укључена дистрибуирана база података.\n"
 
 #: ConfigView.section.transfer.autospeed.minupload
 msgid "%1 minimum upload speed"
@@ -7999,14 +7906,6 @@ msgstr "Запиши податке за исправљање грешака"
 #: DownloadManager.error.badsize
 msgid "Incorrect Size"
 msgstr "Неисправна величина"
-
-#: MyTorrentsView.sendto
-msgid "Send"
-msgstr "Слање"
-
-#: MyTorrentsView.sendto.info
-msgid "Send to Friend button"
-msgstr "Дугме за слање пријатељу"
 
 #: ConfigView.section.NATPMP
 msgid "NAT-PMP"
@@ -8451,7 +8350,9 @@ msgid ""
 "\n"
 "Generation of Debug Information has been cancelled."
 msgstr ""
-"Нисте унели опис грешке коју покушавате да пријавите.  Грешка која се десила је можда очигледна вама, али без описа, ми бисмо морали да нагађамо у чему је проблем.\n"
+"Нисте унели опис грешке коју покушавате да пријавите.  Грешка која се десила "
+"је можда очигледна вама, али без описа, ми бисмо морали да нагађамо у чему "
+"је проблем.\n"
 "\n"
 "Прављење података са извештајем о грешци је отказано."
 
@@ -8487,7 +8388,7 @@ msgstr ""
 
 #: ConfigView.label.bindip.info
 msgid "For example, '192.168.1.2' or 'eth0' (current: %1)"
-msgstr "На пример, „192.168.1.2„ или „eth0‟ (тренутно: %1)"
+msgstr "На пример, „192.168.1.2‟ или „eth0‟ (тренутно: %1)"
 
 #: ConfigView.label.mindownloads
 msgid "Min simultaneous downloads"
@@ -8496,6 +8397,94 @@ msgstr "Минималан број истовремених пријема"
 #: UI.cannot_submit_blank_text
 msgid "You must enter a value."
 msgstr "Морате да унесете неку вредност."
+
+#: crypto.alert.as.warning
+msgid ""
+"Network '%1' is known to impose traffic shaping to reduce download "
+"performance. Transport encryption has automatically been turned on - this "
+"can be turned off/modified via configuration parameters."
+msgstr ""
+"За мрежу „%1‟ се зна да користи обликовање саобраћаја како би успорила "
+"пренос датотека. Шифровање транспорта је аутоматски укључено. Ово понашање "
+"се може искључити или променити у подешавањима.\n"
+
+#~ msgid "Send to a Friend/Web Page"
+#~ msgstr "Слање пријатељу/на мрежну страну"
+
+#~ msgid "How do you want to send the %1 selected item(s)?"
+#~ msgstr "Како желите да пошаљете изабране ставке? (укупно: %1)"
+
+#~ msgid "By E-mail"
+#~ msgstr "Ел. поштом"
+
+#~ msgid "By blog entry, or web page"
+#~ msgstr "По уносу у блог, или мрежној страни"
+
+#~ msgid "Complete"
+#~ msgstr "Готово"
+
+#~ msgid "Copy the text below into an e-mail:"
+#~ msgstr "Унеси овај текст у ел. поруку:"
+
+#~ msgid "Copy the text below into your webpage:"
+#~ msgstr "Унеси овај текст у мрежну страну:"
+
+#~ msgid "Copy to Clipboard"
+#~ msgstr "Умножи на клипборд"
+
+#~ msgid "Create E-Mail"
+#~ msgstr "Направи ел. поруку"
+
+#~ msgid "I recommend you download %1"
+#~ msgstr "Препоручује се да преузмете %1"
+
+#~ msgid ""
+#~ "To download \"%1\", simply click on the link below:\n"
+#~ "\n"
+#~ "%2\n"
+#~ "\n"
+#~ "\"%1\" will start downloading if you already have Azureus.  If you don't "
+#~ "have Azureus yet, the web page will explain how to install it."
+#~ msgstr ""
+#~ "Да преузмете „%1‟, просто притисните везу дату испод:\n"
+#~ "\n"
+#~ "%2\n"
+#~ "\n"
+#~ "Ако већ имате Азуреуса, пренос за „%1‟ ће почети аутоматски, а ако га "
+#~ "немате, на мрежној страни можете да прочитате упутство како га поставити."
+
+#~ msgid "_: sendTorrent.multi.email.body.top\n"
+#~ msgstr "_: sendTorrent.multi.email.body.top\n"
+
+#~ msgid ""
+#~ "To download \"%1\", simply click on the link below:\n"
+#~ "\n"
+#~ "%2\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Како бисте преузели „%1‟, просто притисните на везу испод:\n"
+#~ "\n"
+#~ "%2\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "They will start downloading if you already have Azureus.  If you don't "
+#~ "have Azureus yet, the web page will explain how to install it."
+#~ msgstr ""
+#~ "Ако имате Азуреуса, пријем ће почети аутоматски. Ако још немате Азуреуса, "
+#~ "мрежна страна ће Вам објаснити како да га поставите."
+
+#~ msgid "Send Selected via E-Mail/Webpage"
+#~ msgstr "Слање изабраног торента ел. поштом или на мрежну страну"
+
+#~ msgid "Send to Friend/Web Page.."
+#~ msgstr "Слање пријатељу или на мрежну страну"
+
+#~ msgid "Send"
+#~ msgstr "Слање"
+
+#~ msgid "Send to Friend button"
+#~ msgstr "Дугме за слање пријатељу"
 
 #~ msgid "Torrent Files:"
 #~ msgstr "Торент датотекe:"
