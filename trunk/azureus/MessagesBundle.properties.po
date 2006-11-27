@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Azureus 1.5.0.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-26 23:48+0100\n"
-"PO-Revision-Date: 2006-11-26 23:47+0100\n"
+"PO-Revision-Date: 2006-11-27 00:14+0100\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -168,7 +168,7 @@ msgstr "Затвори &све детаље"
 
 #: MainWindow.menu.closealldownloadbars
 msgid "Close All Download &Bars"
-msgstr "Затвори све &траке са преузимањима"
+msgstr "Затвори све &траке са пријемима"
 
 #: MainWindow.menu.language
 msgid "&Language"
@@ -236,7 +236,7 @@ msgstr "Страна Сорсфорџовог пројекта"
 
 #: MainWindow.about.internet.sourceforgedownloads
 msgid "Sourceforge Downloads"
-msgstr "Преузимање са Сорсфорџа"
+msgstr "Пријем са Сорсфорџа"
 
 #: MainWindow.about.internet.bugreports
 msgid "Bug Reports"
@@ -372,7 +372,7 @@ msgstr "Покажи &детаље"
 
 #: MyTorrentsView.menu.showdownloadbar
 msgid "Show Download &Bar"
-msgstr "Покажи траку за &преузимање"
+msgstr "Покажи траку за &пријем"
 
 #: MyTorrentsView.menu.open
 msgid "&Open File"
@@ -464,7 +464,7 @@ msgstr "П (Пригушен од другог рачунара)"
 
 #: PeersView.C1.info
 msgid "Whether the peer is stopping you from downloading"
-msgstr "Да ли вас удаљени рачунар спречава да преузимате"
+msgstr "Да ли вас удаљени рачунар спречава да примате"
 
 #: PeersView.pieces FilesView.pieces PiecesView.title.short
 #: PiecesView.title.full MyTorrentsView.pieces
@@ -493,7 +493,7 @@ msgstr "П (Пригушивање удаљеног рачунара)"
 
 #: PeersView.C2.info
 msgid "Whether you are blocking the peer from downloading"
-msgstr "Да ли спречавате удаљени рачунар да преузима"
+msgstr "Да ли спречавате удаљени рачунар да прима"
 
 #: PeersView.uploadspeed.info
 msgid "Your uploading speed to the peer"
@@ -529,7 +529,7 @@ msgstr ""
 
 #: PeersView.downloadspeedoverall
 msgid "Overall Down Speed"
-msgstr "Укупна брзина преузимања"
+msgstr "Укупна брзина пријема"
 
 #: PeersView.optunchoke
 msgid "Opt. Unchoke"
@@ -593,7 +593,7 @@ msgid ""
 "Max simultaneous downloads [0: unlimited]\n"
 " - Cannot be higher than the number of max active torrents"
 msgstr ""
-"Највећи број истовремених преузимања [0: неограничено]\n"
+"Највећи број истовремених пријема [0: неограничено]\n"
 " - Не може да буде више од највећег броја активних торента"
 
 #: ConfigView.label.maxdownloads.tooltip
@@ -603,10 +603,8 @@ msgid ""
 "A completed torrent matching First Priority may take over an active download "
 "slot if absolutely required."
 msgstr ""
-"Увек је могуће активно преузимати број ког овде упишете, са једним "
-"изузетком.\n"
-"Завршен торент који има Први приоритет може да преузме активно преузимање "
-"уколико је заиста неопходно."
+"Увек је могуће активно примати број ког овде упишете, са једним изузетком.\n"
+"Завршен торент који има први приоритет може да преузме активан пријем уколико је заиста неопходно."
 
 #: ConfigView.label.maxactivetorrents
 msgid ""
@@ -614,7 +612,7 @@ msgid ""
 " - New torrents won't start if you are downloading/seeding more"
 msgstr ""
 "Највише активних торента [0: неограничено]\n"
-" - Нови торенти се неће покретати ако преузимате или делите више"
+" - Нови торенти се неће покретати ако примате или делите више"
 
 #: ConfigView.label.priorityExtensions
 msgid ""
@@ -790,7 +788,7 @@ msgstr "висок"
 
 #: FileItem.donotdownload
 msgid "Do not download"
-msgstr "Не преузимај"
+msgstr "Не примај"
 
 #: FilesView.firstpiece
 msgid "First piece \\#"
@@ -814,7 +812,7 @@ msgstr "&Обичан"
 
 #: FilesView.menu.setpriority.skipped
 msgid "&Do not download"
-msgstr "&Не преузимај"
+msgstr "&Не примај"
 
 #: GeneralView.section.downloaded MyTrackerView.downloaded MyTorrentsView.down
 msgid "Downloaded"
@@ -1066,7 +1064,7 @@ msgstr "Догради сарадника"
 
 #: MainWindow.upgrade.newerversion
 msgid "There is a newer version of Azureus available for download"
-msgstr "Постоји ново издање Азуреуса спремно за преузимање"
+msgstr "Постоји ново издање Азуреуса спремно за пријем"
 
 #: MainWindow.upgrade.explanation
 msgid ""
@@ -1086,7 +1084,7 @@ msgstr ""
 
 #: MainWindow.upgrade.step1
 msgid "Step 1: Download the new version"
-msgstr "Корак 1: Преузимање новог издања"
+msgstr "Корак 1: Пријем новог издања"
 
 #: MainWindow.upgrade.step2
 msgid "Step 2: Close this version and restart the new version of Azureus"
@@ -1457,7 +1455,7 @@ msgstr "Хеширање датотека"
 
 #: MainWindow.upgrade.downloadingfrom
 msgid "Downloading from :"
-msgstr "Преузимање са :"
+msgstr "Пријем са :"
 
 #: MainWindow.menu.view.ipFilter
 msgid "&IP Filters"
@@ -1618,13 +1616,7 @@ msgid ""
 "time will also result in slow speeds. We recommend using 5KB/s per torrent "
 "as a STRICT minimum. The faster you upload, the faster you'll download (with "
 "respect to the torrent speed)."
-msgstr ""
-"Молимо изаберите везу из доле датог списка. Имајте на уму да ако не "
-"дозволите довољну брзину слања то ће имати за последицу и споро преузимање. "
-"Како се брзине преноса рачунају по појединачном торенту, покушај преношења "
-"превише торента у исто време може бити узрок малој брзини преноса. "
-"Препоручујемо да користите 5KB/s као СТРОГИ минимум. Што брже шаљете, брже "
-"ћете преузимати (у односу на брзину торента)."
+msgstr "Молимо изаберите везу из доле датог списка. Имајте на уму да ако не дозволите довољну брзину слања то ће имати за последицу и спор пријем. Како се брзине преноса рачунају по појединачном торенту, покушај пријема превише торента у исто време може бити узрок малој брзини преноса. Препоручујемо да користите 5KB/s као СТРОГИ минимум. Што брже шаљете, брже ћете примати (у односу на брзину торента)."
 
 #: configureWizard.transfer.connection
 msgid "Line"
@@ -2065,11 +2057,11 @@ msgstr "Сачувај торент датотеку у"
 
 #: fileDownloadWindow.title
 msgid "Azureus - Torrent Downloader"
-msgstr "Азуреус - Преузимање торента"
+msgstr "Азуреус - Пријем торента"
 
 #: fileDownloadWindow.downloading
 msgid "Downloading From :"
-msgstr "Преузимање од :"
+msgstr "Пријем од :"
 
 #: fileDownloadWindow.status
 msgid "Status :"
@@ -2328,7 +2320,7 @@ msgstr "Премести торент"
 
 #: ConfigView.label.movepartialdownloads
 msgid "Move when some files are flagged \"Do Not Download\""
-msgstr "Премести када су неке датотеке означене са „Не преузимај‟"
+msgstr "Премести када су неке датотеке означене са „Не примај‟"
 
 #: ConfigView.label.subdir_is_in_default
 msgid ""
@@ -2369,7 +2361,7 @@ msgstr "Укључи спољашње торенте"
 
 #: ConfigView.label.playdownloadspeech
 msgid "Speak when a download is finished"
-msgstr "Обавести говором о крају преузимања"
+msgstr "Обавести гласом о крају пријема"
 
 #: ConfigView.label.playdownloadspeech.info
 #: ConfigView.label.playfilespeech.info
@@ -2384,10 +2376,7 @@ msgid ""
 "Displays the number of available copies of each piece.\n"
 "Should the number on the right be less than 1, you are not seeing one entire "
 "copy of the file (and may have trouble completing the download)."
-msgstr ""
-"Приказује број доступних умножака сваког дела. Ако је број здесна мањи од 1, "
-"то значи да цела датотека није видљива (па ћете вероватно имати проблема да "
-"довршите преузимање)."
+msgstr "Приказује број доступних умножака сваког дела. Ако је број здесна мањи од 1, то значи да цела датотека није видљива (па ћете вероватно имати проблема да довршите пријем)."
 
 # FIXME Са Речника на Преводу.
 #: GeneralView.label.trackerurl.tooltip
@@ -2549,7 +2538,7 @@ msgstr "Заустави &све преносе"
 
 #: TrayWindow.menu.stopalldownloads
 msgid "Stop &All Downloads"
-msgstr "Заустави сва &преузимања"
+msgstr "Заустави све &пријеме"
 
 #: ConfigView.section.tracker.sslport.info
 msgid "See the FAQ for further information"
@@ -2569,7 +2558,7 @@ msgstr "Прикажи обавештење о крају пријема"
 
 #: ConfigView.label.popupfilefinished
 msgid "Popup an alert when a file is finished"
-msgstr "Обавести о крају преузимања"
+msgstr "Обавести о крају пријема"
 
 #: MyTorrentsView.pieces.info
 msgid "Graphical bar representing which pieces you have downloaded"
@@ -2581,7 +2570,7 @@ msgstr "Завршено"
 
 #: MyTorrentsView.completion.info
 msgid "Graphical representation of % downloaded"
-msgstr "Графички процентуални приказ преузимања"
+msgstr "Графички процентуални приказ пријема"
 
 #: ConfigView.section.style.showdownloadbasket
 msgid "Show Download Basket (Drag and Drop .torrents)"
@@ -2646,7 +2635,7 @@ msgstr "Принудна &провера"
 
 #: iconBar.showDownloadBar.tooltip
 msgid "Show Download Bar"
-msgstr "Прикажи траку за преузимање"
+msgstr "Прикажи траку за пријем"
 
 #: iconBar.stop.tooltip
 msgid "Stop"
@@ -2766,9 +2755,7 @@ msgstr "Прећутно отвори достављени УРЛ"
 msgid ""
 "Automatically download passed/dropped .torrent URLs without opening prompt "
 "dialog box."
-msgstr ""
-"Аутоматско преузимање прослеђених или спуштених УРЛова са торентима, без "
-"отварања прозорчета са упитом."
+msgstr "Аутоматски пријем прослеђених или спуштених УРЛова са торентима, без отварања прозорчета са упитом."
 
 #: ConfigView.section.file.decoder.prompt
 msgid "Always prompt when encoding choice available"
@@ -3010,7 +2997,7 @@ msgid ""
 "To remove the download remove the associated share"
 msgstr ""
 "Овај пријем је резултат дељеног ресурса.\n"
-"Како бисте уклонили преузимање, уклоните придружено дељење"
+"Да уклоните пријем, уклоните придружено дељење"
 
 #: ConfigView.section.tracker.main ConfigView.section.queue.main
 msgid "Main"
@@ -3030,7 +3017,7 @@ msgid ""
 "For support of early previewing."
 msgstr ""
 "Покушава да прво преузме сам почетак и сам крај сваке датотеке.\n"
-"Служи да подржи рани преглед садржаја"
+"Служи да подржи рани преглед садржаја."
 
 #: ConfigView.section.file.confirm_data_delete
 msgid "Confirm when deleting data"
@@ -3149,19 +3136,19 @@ msgstr "Користи ССЛ за дељене ресурсе (захтева �
 
 #: ConfigView.section.style.dropdiraction
 msgid "Drag and Drop action for directories"
-msgstr "Превуците и пустите директоријуме"
+msgstr "Дејство при довлачању директоријума"
 
 #: ConfigView.section.style.dropdiraction.opentorrents
 msgid "Open Torrents"
-msgstr "Отвори торенте"
+msgstr "Отварање торента"
 
 #: ConfigView.section.style.dropdiraction.sharefolder
 msgid "Share Directory"
-msgstr "Дели директоријум"
+msgstr "Дељење директоријума"
 
 #: ConfigView.section.style.dropdiraction.sharefoldercontents
 msgid "Share Contents"
-msgstr "Дели садржај"
+msgstr "Дељење садржаја"
 
 #
 # 2.0.7.x
@@ -3318,10 +3305,8 @@ msgid ""
 "Therefore, you may not want the seeding rules pretending there's a full copy "
 "(and thus incorrectly reducing its rank)"
 msgstr ""
-"Често се дешава да ако торенти имају са мали броје заметака и великим броје "
-"рачунара, да цела копија није доступна за преузимање.\n"
-"Према томе, можда не желите да поставите правила правећи се да постоји "
-"потпуна копија, што би неисправно смањило редослед"
+"Често се дешава да ако торенти имају са мали броје заметака и великим броје рачунара, да цео примерак није доступан за пријем.\n"
+"Према томе, можда не желите да поставите правила правећи се да постоји потпуна копија, што би неисправно смањило редослед"
 
 #: ConfigView.label.seeding.fakeFullCopySeedStart
 msgid "but only for torrents with at least"
@@ -3678,7 +3663,7 @@ msgstr "1. приоритет"
 
 #: ConfigView.section.style.dropdiraction.sharefoldercontentsrecursive
 msgid "Share Contents (Recursive)"
-msgstr "Садржај дељења (рекурзиван)"
+msgstr "Дељење садржаја (и под-дирова)"
 
 #: DownloadManager.error.unabletostartserver
 msgid ""
@@ -3756,9 +3741,7 @@ msgstr ""
 msgid ""
 "Useful if you download torrents with hundreds/thousands of files in them, "
 "and you if you're reaching file handle limits of the OS."
-msgstr ""
-"Корисно ако преузимате торенте са стотинама или хиљадама датотека и ако "
-"достигнете ограничење у броју отворених датотека оперативног система."
+msgstr "Корисно ако примате торенте са стотинама или хиљадама датотека и ако достигнете ограничење у броју отворених датотека оперативног система."
 
 #: ConfigView.section.proxy
 msgid "Proxy"
@@ -4170,7 +4153,7 @@ msgstr "Доградња није успела, притисните понов�
 
 #: window.updateswt.status.downloading.updater
 msgid "Downloading the Updater Module"
-msgstr "Преузимање модула за доградњу"
+msgstr "Пријем модула за доградњу"
 
 #: window.updateswt.status.finding
 msgid "Finding latest SWT Version"
@@ -4178,7 +4161,7 @@ msgstr "Тражење последњег издања библиотеке SWT"
 
 #: window.updateswt.status.downloading
 msgid "Downloading Latest SWT Version"
-msgstr "Преузимање последњег издања SWT"
+msgstr "Пријем последњег издања SWT"
 
 #: window.updateswt.status.done
 msgid "Restarting"
@@ -4186,7 +4169,7 @@ msgstr "Поновно покретање"
 
 #: swt.updater.downloader.downloading
 msgid "Downloading SWT from"
-msgstr "Преузимање SWT са"
+msgstr "Пријем SWTа са"
 
 #: swt.updater.urlsgetter.downloading
 msgid "Getting a list of mirrors from"
@@ -4354,11 +4337,11 @@ msgstr "Записник:"
 
 #: ConfigView.label.maxdownloadspeed
 msgid "KB/s global max download speed [0: unlimited]"
-msgstr "Највећа брзина преузимања у KB/s [0: неограничено]"
+msgstr "Највећа брзина пријема у KB/s [0: неограничено]"
 
 #: splash.loadingTorrent
 msgid "Loading Torrent"
-msgstr "Преузимање торента"
+msgstr "Пријем торента"
 
 #: splash.of
 msgid "of"
@@ -4425,9 +4408,7 @@ msgstr "OnlyCDing4"
 msgid ""
 "Amount of time the torrent has been only seeding.  Excludes the time the "
 "torrent was downloading (and seeding)."
-msgstr ""
-"Време које је торент провео само у заметању. Није урачунато време када је "
-"торент преузиман (и заметан у исто време)."
+msgstr "Време које је торент провео само у заметању. Није урачунато време када је торент приман (и заметан у исто време)."
 
 #: ConfigView.section.style.alternateTablePainting
 msgid ""
@@ -4799,7 +4780,7 @@ msgstr "Највише задржаних заметака по торенту [
 
 #: ConfigView.section.tracker.seedretention.info
 msgid "Note: Upload statistics will be lost for non-retained seeds"
-msgstr "Примедба: Статистике о преузимању биће изгубљене за незадржане заметке"
+msgstr "Примедба: Статистике о пријему биће изгубљене за незадржане заметке"
 
 #: ConfigView.section.tracker.port
 msgid "Enable tracker on HTTP port"
@@ -4883,7 +4864,7 @@ msgstr "Уклони Азуреусове торенте са доградњам
 
 #: ConfigView.label.defaultstarttorrentsstopped
 msgid "By default add new torrents in a stopped state"
-msgstr "Додај нове торенте у заустављено стање"
+msgstr "Када се торент дода, додељује му се стање „Заустављено‟"
 
 #: ConfigView.section.server.enableudp
 msgid "Enable UDP tracker client protocol"
@@ -5559,7 +5540,7 @@ msgstr "Највећа брзина пријема"
 
 #: MyTorrentsView.maxdownspeed.info
 msgid "Max Download Speed per torrent"
-msgstr "Највећа брзина преузимања по торенту"
+msgstr "Највећа брзина пријема по торенту"
 
 #: PeersGraphicView.title
 msgid "Swarm"
@@ -5585,9 +5566,7 @@ msgstr "Коментари за начињене торенте"
 msgid ""
 "Copy and then delete the original data rather than move it in one operation "
 "- can help avoid data loss on some file systems"
-msgstr ""
-"Умножи и уклони оригиналне податке радије него да их помераш у једном потезу "
-"- ово може да спречи губљење података на неким системима датотека"
+msgstr "Раздвајање умножавања и уклањања података у две операције, уместо померања у једном потезу - ово може да спречи губитак података на неким системима датотека"
 
 #: ConfigView.label.openstatsonstart
 msgid "Open Statistics on startup"
@@ -5885,7 +5864,7 @@ msgstr "Изаберите подразумеване дозвољене мре�
 
 #: ConfigView.section.connection.networks.prompt
 msgid "Prompt for selection when a download with an anonymous tracker is added"
-msgstr "Упитај за избор при преузимању анонимног пратиоца"
+msgstr "Упитај за избор при пријему анонимног пратиоца"
 
 #: ConfigView.section.connection.networks.Public
 msgid "Public IP network (not anonymous)"
@@ -6013,7 +5992,7 @@ msgid ""
 "as soon as the download finishes."
 msgstr ""
 "Имајте на уму да употреба ових правила може зауставити торенте\n"
-"чим се преузимање заврши."
+"чим се пријием заврши."
 
 #: ConfigView.label.seeding.firstPriority.ignore
 msgid "Ignore First Priority rules above for:"
@@ -6416,7 +6395,7 @@ msgstr "Резервни портови („;“ за раздвајање)"
 
 #: ConfigView.label.playfilespeech
 msgid "Speak when a file is finished"
-msgstr "Обавести говором о крају преузимања"
+msgstr "Обавести гласом о крају пријема"
 
 #: ConfigView.label.playfilefinished
 msgid "Play a sound when a file is finished"
@@ -6441,8 +6420,7 @@ msgstr "Бележи прекршаје ИП филтрирања"
 #: ConfigView.label.seeding.addForSeedingDLCopyCount
 msgid ""
 "Consider 'add for seeding' downloads to have downloaded this number of copies"
-msgstr ""
-"Размислите о употреби „додај за заметање“ за преузимање оволико умножака"
+msgstr "Размислите о употреби „додај за заметање“ за пријем оволико умножака"
 
 #: ActivityView.legend.limit
 msgid "Rate limit"
@@ -6639,8 +6617,8 @@ msgid ""
 "All you need to download torrents.\n"
 "Use this mode if all you want is manage your torrents."
 msgstr ""
-"Све што Вам треба за преузимање торента.\n"
-"Користите овај начин рад аако само желите да управљате торентима."
+"Све што Вам треба за пријем торента.\n"
+"Користите овај начин радa ако само желите да управљате торентима."
 
 #: ConfigView.section.mode.intermediate.text
 msgid ""
@@ -7080,10 +7058,7 @@ msgstr "Највећи број записа који чекају (у %1)"
 msgid ""
 "When disk write speed is lower than download speed this parameter limits how "
 "much data will be queued before download speeds are reduced."
-msgstr ""
-"Када је брзина записа на диск нижа од брзине преузимања, овај параметар "
-"ограничава колико ће података бити стављено на чекање пре него што се брзине "
-"преузимања смање."
+msgstr "Када је брзина записа на диск нижа од брзине пријема, овај параметар ограничава колико ће података бити стављено на чекање пре него што се брзине пријема смање."
 
 #: ConfigView.section.file.readmblimit
 msgid "Maximum read requests queued (in %1)"
@@ -7215,14 +7190,13 @@ msgstr "Везе са рачунарима у ЛАНу имају одвојен
 
 #: ConfigView.section.transfer.lan.downloadrate
 msgid "KB/s LAN max download speed [0: unlimited]"
-msgstr "Највећа брзина преузимања у KB/s за ЛАН [0: неограничено]"
+msgstr "Највећа брзина пријема у KB/s за ЛАН [0: неограничено]"
 
 #: ConfigView.section.transfer.lan.downloadrate.tooltip
 msgid ""
 "Peers connections within the same internal LAN have a separete download rate "
 "limit."
-msgstr ""
-"Везе са рачунарима у истом ЛАНу имају одвојене границе за брзину преузимања."
+msgstr "Везе са рачунарима у истом ЛАНу имају одвојене границе за брзину пријема."
 
 #: TorrentOptionsView.param.max.peers
 msgid "Maximum number of connections [0: unlimited]"
@@ -7941,7 +7915,7 @@ msgstr "унесите текст за филтрирање"
 
 #: ConfigView.section.files.move
 msgid "Completion Moving"
-msgstr "Премештање готово"
+msgstr "Премештање после пријема"
 
 #: ConfigView.section.file.defaultdir.section
 msgid "Default Directory Options"
@@ -7949,7 +7923,7 @@ msgstr "Изворне опције за директоријум"
 
 #: ConfigView.section.file.defaultdir.auto
 msgid "Automatically download to default directory (No Prompt)"
-msgstr "Аутоматско преузимање у директоријум за пријем (без питања)"
+msgstr "Аутоматски пријем у директоријум за пријем (без питања)"
 
 #: ConfigView.section.file.defaultdir.bestguess
 msgid "Use best guess when choosing default save directory"
@@ -8029,7 +8003,7 @@ msgstr ""
 
 #: ConfigView.section.transfer.autospeed.reset
 msgid "Reset advanced values"
-msgstr "Уклони напредне вредности"
+msgstr "Врати изворне вредности"
 
 #: PeerColumn.activationCount
 msgid "Peers trying to connect: %1"
@@ -8041,7 +8015,7 @@ msgstr "Протекло време од пријема података за т
 
 #: MyTorrentsView.timesincedownload
 msgid "Down Idle"
-msgstr "Преузимање стоји"
+msgstr "Пријем стоји"
 
 #: MyTorrentsView.timesinceupload.info
 msgid "The time elapsed since data was uploaded for the torrent"
@@ -8287,9 +8261,7 @@ msgstr "Отвори „Моје торенте‟ при покретању"
 msgid ""
 "Always show torrents with 'Do Not Download' files in Incomplete section of "
 "My Torrents"
-msgstr ""
-"Увек приказуј торенте означене као „Не преузимај‟ у одељку за незавршене "
-"торенте"
+msgstr "Увек приказуј торенте означене као „Не примај‟ у одељку за незавршене торенте"
 
 #: OpenTorrentWindow.mb.noGlobalDestDir.title
 #: OpenTorrentWindow.mb.noDestDir.title
@@ -8332,7 +8304,7 @@ msgstr ""
 
 #: ConfigView.label.pause.downloads.on.exit
 msgid "Pause downloads on exit"
-msgstr "Паузирај преузимања при крају рада"
+msgstr "Паузирај пријем пре краја рада"
 
 #: ConfigView.label.resume.downloads.on.start
 msgid "Resume paused downloads on start after initialisation completes"

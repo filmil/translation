@@ -1,3 +1,14 @@
+2006-11-27  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: Updated: преузимање->пријем
+
+2006-11-26  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: ConfigView.section.transfer.autospeed.reset
+
+	* azureus/Makefile (ATON): Updated the Makefile to include a path
+	to native2ascii
+
 2006-11-22  Filip Miletic  <filmil@gmail.com>
 
 	* azureus/MessagesBundle.properties.po: Updated.

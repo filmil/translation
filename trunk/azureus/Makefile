@@ -14,6 +14,10 @@ MSGMERGE=msgmerge
 TARGETDIR=/home/filip/personal/prg/azureus2/org/gudy/azureus2/internat
 CVS=cvs
 
+# Locale marks
+loc1 := sr
+loc2 := sr_Latin
+
 # The template object
 template_object := MessagesBundle.properties
 
@@ -21,14 +25,14 @@ template_object := MessagesBundle.properties
 source_object   := MessagesBundle.properties.po
 
 interim_object  := MessagesBundle.properties.native
-target_object_1 := MessagesBundle_sr_CS.properties.utf8
-target_object_2 := MessagesBundle_sr_CS_Latin.properties.utf8
+target_object_1 := MessagesBundle_$(loc1).properties.utf8
+target_object_2 := MessagesBundle_$(loc2).properties.utf8
 pot_object      := MessagesBundle.properties.pot
 merge_object    := MessagesBundle.properties.merge
 
 # The things that are obtained at the end
-final_object_1  := MessagesBundle_sr_CS.properties
-final_object_2  := MessagesBundle_sr_CS_Latin.properties
+final_object_1  := MessagesBundle_$(loc1).properties
+final_object_2  := MessagesBundle_$(loc2).properties
 
 .PHONY: clean publish all pot merge adopt_merge
 
@@ -45,15 +49,18 @@ adopt_merge: $(merge_object)
 	$(CP) $< $(source_object)
 
 clean:
-	$(RM) $(target_object_1) $(target_object_2) $(interim_object) $(merge_object) $(final_object_1) $(final_object_2) semantic.cache *~ $(pot_object)
+	$(RM) $(target_object_1) $(target_object_2) $(interim_object) \
+	      $(merge_object) $(final_object_1) $(final_object_2) \
+	      semantic.cache *~ $(pot_object)
 
 publish: $(final_object_1) $(final_object_2)
 	$(CP) $^ $(TARGETDIR)
-	(cd $(TARGETDIR) ; $(CVS) commit -m "Updated Serbian and Serbian Latin translations")
+	( cd $(TARGETDIR) ; \
+          $(CVS) commit -m "Updated Serbian and Serbian Latin translations")
 
 get_template:
 	(cd $(TARGETDIR) ; $(CVS) update)
-	$(CP) $(TARGETDIR)/MessagesBundle.properties .
+	$(CP) $(TARGETDIR)/$(template_object)
 
 $(merge_object): $(pot_object) $(source_object)
 	$(MSGMERGE) $(source_object) $(pot_object) -o $@
