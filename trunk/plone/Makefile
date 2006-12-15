@@ -33,4 +33,4 @@ import:
 
 
 stats:
-	for A in *-sr.po; do msgfmt --statistics -c -v $(A) ; done }'
+	for A in *-sr.po; do echo $$A: ; msgfmt --statistics -c -v $$A ; done 

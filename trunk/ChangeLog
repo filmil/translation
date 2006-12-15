@@ -1,3 +1,12 @@
+2006-12-15  Filip Miletic  <filmil@gmail.com>
+
+	* dvd-rip/sr.po: Corrected a serious bug in the po file that
+	prevented the file menu to be shown.
+
+2006-11-28  Filip Miletic  <filmil@gmail.com>
+
+	* mail-notification/sr.po: Updated for 4.0
+
 2006-11-27  Filip Miletic  <filmil@gmail.com>
 
 	* azureus/MessagesBundle.properties.po: Updated: преузимање->пријем
