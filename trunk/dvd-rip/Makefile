@@ -3,7 +3,6 @@
 C2L=c2l
 RM=rm -f
 SCP=scp
-DIRNAME=gnomebaker
 SED=sed 
 
 source_objects := sr.po splash.sr.svg
@@ -22,7 +21,7 @@ splash.sr@Latn.svg: splash.sr.svg
 dvd-rip.tgz: $(source_objects) $(destination_objects)
 	tar czvvf $@ $(source_objects) $(destination_objects)
 clean:
-	$(RM) $(destination_objects) dvd-rip.tgz *~
+	$(RM) $(destination_objects) dvd-rip.tgz *.mo *~
 
 publish: all
 	$(SCP) *.po filip@cobalt.et.tudelft.nl:~/public_html/files/tran/$(DIRNAME)
