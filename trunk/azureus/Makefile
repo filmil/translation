@@ -60,7 +60,7 @@ publish: $(final_object_1) $(final_object_2)
 
 get_template:
 	(cd $(TARGETDIR) ; $(CVS) update)
-	$(CP) $(TARGETDIR)/$(template_object)
+	$(CP) $(TARGETDIR)/$(template_object) .
 
 $(merge_object): $(pot_object) $(source_object)
 	$(MSGMERGE) $(source_object) $(pot_object) -o $@
