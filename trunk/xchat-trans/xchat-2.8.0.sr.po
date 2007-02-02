@@ -4,7 +4,7 @@
 # Translators:
 # o Zoltan Čala <zolika@sezampro.yu>, 1999.
 # o Filip Miletić <f.miletic@ewi.tudelft.nl>, 2004, 2005, 2006, 2007.
-# o Aleksandar Jelenak <jelenak@netlinkplus.net>, 2004, 2005.
+# o Aleksandar Jelenak <jelenak@verizon.net>, 2004, 2005.
 #
 # Note:
 # The file sr@Latn.po is automatically generated from sr.po
@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: xchat 2.8.0\n"
 "Report-Msgid-Bugs-To: www.xchat.org\n"
 "POT-Creation-Date: 2007-01-03 23:06+1100\n"
-"PO-Revision-Date: 2007-02-02 22:57+0100\n"
+"PO-Revision-Date: 2007-02-02 22:58+0100\n"
 "Last-Translator: Aleksandar Jelenak <jelenak@verizon.net>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
