@@ -1,0 +1,319 @@
+Index: sr.po
+===================================================================
+RCS file: /usr/local/src/cvsroot/translation/skype/sr.po,v
+retrieving revision 1.2
+retrieving revision 1.9
+diff -u -r1.2 -r1.9
+--- sr.po	3 Apr 2005 01:46:02 -0000	1.2
++++ sr.po	4 Apr 2005 21:52:29 -0000	1.9
+@@ -1,14 +1,18 @@
+-# Converted by skype2po
++# Seed file for Serbian Skype translations. Used to produce both the
++# Cyrillic and the Latin translation. Also aiming to be used as a seed
++# for other editions of Skype.
++#
++# Converted by skype2po <http://cobalt.et.tudelft.nl/~filip/files/skype2po.tgz>
+ msgid ""
+ msgstr ""
+-"Project-Id-Version: PACKAGE VERSION\n"
++"Project-Id-Version: skype 1.2.0.27\n"
+ "POT-Creation-Date: 2005-04-01 01:00\n"
+-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+-"Language-Team: LANGUAGE <LL@li.org>\n"
++"PO-Revision-Date: 2005-04-04 01:00-0100\n"
++"Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
++"Language-Team: Serbian <gnu@prevod.org>\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+-"Content-Transfer-Encoding: ENCODING\n"
++"Content-Transfer-Encoding: text/plain\n"
+ 
+ #: 1.2.0.27.lang.utf8:1
+ msgid "View profile"
+@@ -143,10 +147,11 @@
+ msgid "Found: %d"
+ msgstr "Нађен: %d"
+ 
++# Доследно у односу на коришћење речи Contacts на другим местима у преводу
+ #: 1.2.0.27.lang.utf8:25
+ #: 1.2.0.27.lang.utf8:303
+ msgid "Contacts"
+-msgstr "Контакти"
++msgstr "Познаници"
+ 
+ #: 1.2.0.27.lang.utf8:26
+ msgid "End Call with %s"
+@@ -653,10 +658,11 @@
+ msgid "Could not connect"
+ msgstr "Повезивање није могуће"
+ 
++# Скраћење превода
+ #: 1.2.0.27.lang.utf8:154
+ #: 1.2.0.27.lang.utf8:208
+ msgid "Skype Name is taken"
+-msgstr "Ово Skype име се већ користи"
++msgstr "Ово Skype име је заузето"
+ 
+ #: 1.2.0.27.lang.utf8:155
+ msgid "A new version (%s) of Skype is available (%s), would you like to upgrade?"
+@@ -1288,10 +1294,11 @@
+ msgid "Cancel Calling %s"
+ msgstr "Обустави позив %s"
+ 
++# 20050404: Прво лице у глаголску именицу
+ #: 1.2.0.27.lang.utf8:327
+ #: 1.2.0.27.lang.utf8:328
+ msgid "Calling %s..."
+-msgstr "Зовем %s..."
++msgstr "Звање %s..."
+ 
+ #: 1.2.0.27.lang.utf8:329
+ msgid "Ignore Call"
+@@ -1806,7 +1813,7 @@
+ msgstr "Пошаљи контакте до "
+ 
+ #: 1.2.0.27.lang.utf8:527
+-msgid "(Use a "%s" between multiple recipients)"
++msgid "(Use a \"%s\" between multiple recipients)"
+ msgstr "(Користите „%s‟ да раздвојите примаоце)"
+ 
+ #: 1.2.0.27.lang.utf8:528
+@@ -2147,9 +2154,10 @@
+ msgid "Turn off USB Phone LED if handset is standing by"
+ msgstr "Искључи сијалицу на USB телефону ако је слушалица спуштена"
+ 
++# This should be translated as the name of the language you translate into
+ #: 1.2.0.27.lang.utf8:625
+ msgid "English"
+-msgstr "Енглески"
++msgstr "Српски/Serbian"
+ 
+ #: 1.2.0.27.lang.utf8:626
+ msgid " Set Speed Dial Key"
+@@ -2285,7 +2293,7 @@
+ msgstr "%s је већ блокиран!"
+ 
+ #: 1.2.0.27.lang.utf8:658
+-msgid "Are you sure you want to block "%s"?"
++msgid "Are you sure you want to block \"%s\"?"
+ msgstr "Да ли сигурно желите да блокирате „%s‟?"
+ 
+ #: 1.2.0.27.lang.utf8:659
+@@ -2780,7 +2788,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:822
+ msgid "This is the port that Skype uses to listen for incoming communications from other Skype users (assuming your firewall does not block them). In addition, Skype will send out outgoing UDP packets from this port. Note that this setting does not affect outgoing communications  -- i.e. your ability to connect to other Skype users and the Skype network."
+-msgstr "Ово је порт на коме Skype ослушкује долазеће позиве од осталих корисника Skype (под претпоставком да их Ваш фајервол не блокира). Као додатак, Skype шаље UDP пакете са овог порта. Ово подешавање не утиче на вашу могућност да се повезујете са другим корисницима Skype-а и са Skupe мрежом."
++msgstr "Ово је порт на коме Skype ослушкује долазеће позиве од осталих корисника Skype (под претпоставком да их Ваш фајервол не блокира). Као додатак, Skype шаље UDP пакете са овог порта. Ово подешавање не утиче на вашу могућност да се повезујете са другим корисницима Skype-а и са Skype мрежом."
+ 
+ #: 1.2.0.27.lang.utf8:823
+ msgid "Remove %s from Contacts?"
+@@ -3152,13 +3160,14 @@
+ msgid "Do not allow this person to see when you are online"
+ msgstr "Не дозволи да ова особа види када сам на вези"
+ 
++# Остале могућности су у првом лицу, па је и ова измењена да буде таква
+ #: 1.2.0.27.lang.utf8:962
+ msgid "Block this person from contacting you in the future"
+-msgstr "Блокирај ову особу како не би могла да Вас зове убудуће"
++msgstr "Блокирај ову особу како не би могла да ме зове убудуће"
+ 
+ #: 1.2.0.27.lang.utf8:963
+ msgid "Only the person hosting the conference can invite other participants!"
+-msgstr "Само домаћин конференције може позвати друге учеснике"
++msgstr "Само домаћин конференције може позивати друге учеснике"
+ 
+ #: 1.2.0.27.lang.utf8:965
+ msgid "Not a conference host!"
+@@ -3263,9 +3272,10 @@
+ msgid "Start a Skype Conference Call"
+ msgstr "Покрени Skype конференцијски позив"
+ 
++# Интерпункција
+ #: 1.2.0.27.lang.utf8:998
+ msgid "Conference topic:"
+-msgstr "Тема конференције."
++msgstr "Тема конференције:"
+ 
+ #: 1.2.0.27.lang.utf8:999
+ msgid "All Contacts:"
+@@ -3283,10 +3293,11 @@
+ msgid "<< Remove"
+ msgstr "<< Уклони"
+ 
++# Заузима мање места.
+ #: 1.2.0.27.lang.utf8:1005
+ #: 1.2.0.27.lang.utf8:1006
+ msgid "Skype Rocks ..."
+-msgstr "Skype је главни ..."
++msgstr "Skype је главни..."
+ 
+ #: 1.2.0.27.lang.utf8:1007
+ msgid "The Skype Name you entered is invalid!"
+@@ -3296,9 +3307,10 @@
+ msgid "Cannot Block"
+ msgstr "Није могуће блокирати"
+ 
++# 20050404: Превод који боље одговара изворној поруци
+ #: 1.2.0.27.lang.utf8:1010
+ msgid "Too many failed login attempts, wait 10 minutes to retry"
+-msgstr "Превише је неуспелих пријава, чекам 10 минута"
++msgstr "Превише је неуспелих пријава, предах 10 минута"
+ 
+ #: 1.2.0.27.lang.utf8:1011
+ msgid "Cannot send contacts to %s -  the user is blocked"
+@@ -3325,9 +3337,11 @@
+ msgid "Enable automating sound device settings adjustment"
+ msgstr "Дозволи аутоматско подешавање уређаја за звук"
+ 
++# Рачунар никада о себи не говори у првом лицу. Уместо тога користе се
++# глаголске именице.
+ #: 1.2.0.27.lang.utf8:1022
+ msgid " (refreshing ...)"
+-msgstr " (освежавам ...)"
++msgstr " (освежавање...)"
+ 
+ #: 1.2.0.27.lang.utf8:1023
+ msgid "Cannot send contacts to %s - Invalid Skype Name"
+@@ -3496,11 +3510,12 @@
+ msgid "Status message"
+ msgstr "Статусна порука"
+ 
++# 20050404: Стој је вероватно више домаћа реч
+ #: 1.2.0.27.lang.utf8:1068
+ #: 1.2.0.27.lang.utf8:1217
+ #: 1.2.0.27.lang.utf8:1236
+ msgid "Stop"
+-msgstr "Стоп"
++msgstr "Стој"
+ 
+ #: 1.2.0.27.lang.utf8:1069
+ msgid "RECORDING"
+@@ -3673,7 +3688,7 @@
+ msgstr "Ово је ваша тренутно изабрана слика"
+ 
+ #: 1.2.0.27.lang.utf8:1120
+-msgid "Select a picture from the list below and click "Set" to set it as your new picture"
++msgid "Select a picture from the list below and click \"Set\" to set it as your new picture"
+ msgstr "Изаберите слику из доњег списка и притисните „Постави‟ да бисте је поставили као своју слику"
+ 
+ #: 1.2.0.27.lang.utf8:1125
+@@ -3855,7 +3870,7 @@
+ msgstr "Прихвати"
+ 
+ #: 1.2.0.27.lang.utf8:1188
+-msgid "Open "%s""
++msgid "Open \"%s\""
+ msgstr "Отвори „%s‟"
+ 
+ #: 1.2.0.27.lang.utf8:1189
+@@ -3913,7 +3928,7 @@
+ msgstr "Следећа Skype имена су расположива."
+ 
+ #: 1.2.0.27.lang.utf8:1207
+-msgid "Please select one of the available Skype Names and click "Next" to continue."
++msgid "Please select one of the available Skype Names and click \"Next\" to continue."
+ msgstr "Молимо изаберите неко од понуђених Skype имена и притисните „Даље‟ за наставак."
+ 
+ #: 1.2.0.27.lang.utf8:1208
+@@ -4217,7 +4232,7 @@
+ msgstr "Учесници у порукама"
+ 
+ #: 1.2.0.27.lang.utf8:1316
+-msgid "Select the users you would like to add to this chat and press "Add"."
++msgid "Select the users you would like to add to this chat and press \"Add\"."
+ msgstr "Изаберите кориснике које бисте желели да додате у ове поруке и притисните „Додај‟"
+ 
+ #: 1.2.0.27.lang.utf8:1321
+@@ -4341,7 +4356,7 @@
+ msgstr "Изабери Skype познаника"
+ 
+ #: 1.2.0.27.lang.utf8:1359
+-msgid "Please select Skype contact You want to send the file (%s) to and press "Send" to start the file transfer."
++msgid "Please select Skype contact You want to send the file (%s) to and press \"Send\" to start the file transfer."
+ msgstr "Молимо изаберите Skype познаника коме желите да пошаљете датотеку (%s) и притисните „Слање‟ да покренете пренос."
+ 
+ #: 1.2.0.27.lang.utf8:1360
+@@ -4517,7 +4532,7 @@
+ msgstr "Тема:"
+ 
+ #: 1.2.0.27.lang.utf8:1407
+-msgid "%s has changed the chat topic to "%s""
++msgid "%s has changed the chat topic to \"%s\""
+ msgstr "%s промени тему у  „%s‟"
+ 
+ #: 1.2.0.27.lang.utf8:1408
+@@ -4627,7 +4642,7 @@
+ msgstr "Чаробњак није успео да пронађе ниједан запис о познаницима на Вашем рачунару."
+ 
+ #: 1.2.0.27.lang.utf8:1443
+-msgid "To search for friends yourself, select "Search for Skype Users..." from Tools menu."
++msgid "To search for friends yourself, select \"Search for Skype Users...\" from Tools menu."
+ msgstr "Да бисте сами потражили познанике, изаберите ставку „Претрага Skype корисника...‟ из менија Алати."
+ 
+ #: 1.2.0.27.lang.utf8:1444
+@@ -4904,7 +4919,7 @@
+ msgstr "Пошаљи датотеку за %s"
+ 
+ #: 1.2.0.27.lang.utf8:1519
+-msgid "Are you sure you want to send file "%s" to %s?"
++msgid "Are you sure you want to send file \"%s\" to %s?"
+ msgstr "Да ли сигурно желите да пошаљете датотеку „%s‟ за %s?"
+ 
+ #: 1.2.0.27.lang.utf8:1520
+@@ -4920,15 +4935,15 @@
+ msgstr "Уреди мој профил"
+ 
+ #: 1.2.0.27.lang.utf8:1523
+-msgid "minute\minutes\hour\hours\day\days"
+-msgstr "минут\минута\сат\сати\дан\дана"
++msgid "minute\\minutes\\hour\\hours\\day\\days"
++msgstr "минут\\минута\\сат\\сати\\дан\\дана"
+ 
+ #: 1.2.0.27.lang.utf8:1524
+ msgid "Last message was posted %d %s ago"
+ msgstr "Последња порука је послата пре %d %s"
+ 
+ #: 1.2.0.27.lang.utf8:1525
+-msgid "%s \| %s Chat"
++msgid "%s \\| %s Chat"
+ msgstr "%s \\| %s разговор"
+ 
+ #: 1.2.0.27.lang.utf8:1526
+@@ -4937,7 +4952,7 @@
+ 
+ #: 1.2.0.27.lang.utf8:1527
+ msgid "It is completely safe to click Yes because Skype would not harm your contacts but will only read the data."
+-msgstr "Потпуно је безбедно притиснути Да, пошто Skype неће оштетити списак Ваших контакате, већ ће само прочитати податке."
++msgstr "Потпуно је безбедно притиснути Да, пошто Skype неће оштетити списак Ваших контаката, већ ће само прочитати податке."
+ 
+ #: 1.2.0.27.lang.utf8:1528
+ msgid "Download Skype and start calling for free all over the world."
+@@ -5225,7 +5240,7 @@
+ msgstr "Поруке у овом разговору су старије од %d %s"
+ 
+ #: 1.2.0.27.lang.utf8:1609
+-msgid "Message "%s" not delivered yet"
++msgid "Message \"%s\" not delivered yet"
+ msgstr "Порука „%s‟ још није испоручена"
+ 
+ #: 1.2.0.27.lang.utf8:1610
+@@ -5339,7 +5354,7 @@
+ msgstr "Искључена дојава порука"
+ 
+ #: 1.2.0.27.lang.utf8:1644
+-msgid "Only messages containing "%s" will produce alerts in this chat"
++msgid "Only messages containing \"%s\" will produce alerts in this chat"
+ msgstr "Само поруке које садрже „%s‟ ће изазвати дојаву поруке у овом разговору"
+ 
+ #: 1.2.0.27.lang.utf8:1645
+@@ -5351,7 +5366,7 @@
+ msgstr "Притисните овде да убележите овај разговор"
+ 
+ #: 1.2.0.27.lang.utf8:1647
+-msgid "Cannot find "%s""
++msgid "Cannot find \"%s\""
+ msgstr "Није могуће наћи „%s‟"
+ 
+ #: 1.2.0.27.lang.utf8:1648

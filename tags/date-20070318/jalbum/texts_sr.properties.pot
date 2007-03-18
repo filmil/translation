@@ -1,0 +1,1733 @@
+# English translation for JAlbum 6.1 by David Ekholm, david@jalbum.net
+#
+# JAlbum language texts property file (UTF-8 format)
+# Translation instructions:
+# Copy this file. Name the copy "texts_xx.properties",
+# where xx is the ISO 2 letter LANGUAGE code
+# according to http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter
+# (A Swedish translation would for example be put in texts_sv.properties)
+# Translate the key values (text after = sign) to your language.
+# The keys (text before =) may not be touched in any way.
+# Pay careful attention to lines ending in \ (multi line texts) and the placeholders for
+# variable text, indicated like this: {0}, {1}...
+#
+# When done, save the file using UTF-8 encoding (preferred as it supports ALL characters),
+# (Notepad supports UTF-8), then test through the translated text by launching JAlbum.
+# JAlbum should automatically load the text file for your language.
+# You can set JAlbum to load a specific language file "xx"
+# by launching JAlbum from the command line like this:
+#
+# java -Duser.language=xx -jar JAlbum.jar
+#
+# If you have missed a certain translation, the English text will show instead.
+# When everything works ok, please mail the translation to david@jalbum.net
+# Thank you for your help for the JAlbum project.
+# extracted from texts.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-09-20 23:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.8\n"
+"X-Accelerator-Marker: &\n"
+
+# General texts
+#: ok
+msgid "Ok"
+msgstr ""
+
+#: cancel
+msgid "Cancel"
+msgstr ""
+
+#: abort
+msgid "Abort"
+msgstr ""
+
+# Texts from the album engine
+#: engine.invalidDirectoryError
+msgid "Directory does not point to a valid directory"
+msgstr ""
+
+#: engine.readingMetadataInfo
+msgid "Reading image metadata..."
+msgstr ""
+
+#: engine.unsupportedFileFormatError
+msgid "Unsupported image file format for"
+msgstr ""
+
+#: engine.missingDirectoryError
+msgid "Missing directory"
+msgstr ""
+
+#: engine.missingOutputDirectoryError
+msgid "Missing output directory"
+msgstr ""
+
+#: engine.missingThumbSizeError
+msgid "Missing thumbSize"
+msgstr ""
+
+#: engine.missingImageSizeError
+msgid "Missing imageSize"
+msgstr ""
+
+#: engine.notADirectoryError
+msgid "Specified image directory is not a directory"
+msgstr ""
+
+#: engine.notNestedIteratorsError
+msgid "No ja:coliterator element within ja:rowiterator element in index page"
+msgstr ""
+
+#: engine.invalidSizeError
+msgid "Invalid size: {0}. Format should be width x height"
+msgstr ""
+
+# Texts relating to image editing
+#: edit.losslessManipulationBorder
+#: edit.losslessManipulationTitle
+msgid "Lossless manipulation"
+msgstr ""
+
+#: edit.commentExtractionBorder
+msgid "Comment extraction"
+msgstr ""
+
+#: edit.getImagesFromAlbum
+msgid "Get images from album"
+msgstr ""
+
+#: edit.tipLabel
+msgid "Use PageUp / PageDown to move between images"
+msgstr ""
+
+#: edit.noFilesLoadedInfo
+msgid "No files loaded"
+msgstr ""
+
+#: edit.commentLabel
+#: ui.commentBorder
+msgid "Comment"
+msgstr ""
+
+#: edit.writeToolTip
+msgid "Write comment to image. Optional as comments are always written to an external text file too."
+msgstr ""
+
+#: edit.writeToImage
+msgid "Write to image"
+msgstr ""
+
+#: edit.readEXIFCommentToolTip
+msgid "Read comments from EXIF user comment section within image"
+msgstr ""
+
+#: edit.readEXIFComment
+msgid "EXIF"
+msgstr ""
+
+#: edit.readJPEGCommentToolTip
+msgid "Read comments from JPEG comment section within image"
+msgstr ""
+
+# I recommend not translating these comment types as they are de-facto names
+#: edit.readJPEGComment
+#: ui.jpegComment
+msgid "JPEG"
+msgstr ""
+
+#: edit.dropImagesHereInfo
+msgid "Drop images here"
+msgstr ""
+
+#: edit.renameFile
+msgid "Rename"
+msgstr ""
+
+#: edit.rotateLeftToolTip
+msgid "Rotate 90° left"
+msgstr ""
+
+#: edit.rotateRightToolTip
+msgid "Rotate 90° right"
+msgstr ""
+
+#: edit.mirror
+msgid "Mirror"
+msgstr ""
+
+#: edit.flip
+msgid "Flip"
+msgstr ""
+
+#: edit.readFileCommentToolTip
+msgid "Read comment from text file"
+msgstr ""
+
+#: edit.readFileComment
+#: upload.fileLabel
+#: progress.fileInfo
+#: console.FileInfo
+#: ui.fileMenu
+msgid "File"
+msgstr ""
+
+#: edit.undo
+msgid "Undo"
+msgstr ""
+
+#: edit.readIPTCComment
+msgid "IPTC"
+msgstr ""
+
+#: edit.readIPTCCommentToolTip
+msgid "Read comments from IPTC comment section within image"
+msgstr ""
+
+#: edit.LabelLabel
+msgid "Label"
+msgstr ""
+
+#: edit.locationLabel
+msgid "File {0} of {1}"
+msgstr ""
+
+#: edit.preparingPreviewInfo
+msgid "Preparing preview..."
+msgstr ""
+
+#: edit.cannotPreviewImageInfo
+msgid "Can't preview image"
+msgstr ""
+
+#: edit.commentWritingError
+msgid "Comment could not be written to file"
+msgstr ""
+
+#: edit.fileAlreadyExistsError
+msgid "File {0} already exists"
+msgstr ""
+
+#: edit.fileRenamedInfo
+msgid "File renamed to"
+msgstr ""
+
+#: edit.renameFileTitle
+msgid "Rename file"
+msgstr ""
+
+#: edit.losslessManipulationInfo
+msgid "These operations directly manipulate the original image file.If the image gets distorted, use undo!(Keeping a backup is of course always recommended.)Continue?"
+msgstr ""
+
+#: edit.savingInfo
+msgid "Saving..."
+msgstr ""
+
+#: edit.doneInfo
+#: console.processingDoneInfo
+#: ui.albumGenerationDone
+msgid "Done"
+msgstr ""
+
+#: edit.rotatingLeftInfo
+msgid "Rotating left"
+msgstr ""
+
+#: edit.rotatingRightInfo
+msgid "Rotating right"
+msgstr ""
+
+#: edit.mirroringInfo
+msgid "Mirroring"
+msgstr ""
+
+#: edit.flippingInfo
+msgid "Flipping"
+msgstr ""
+
+#: edit.loadingPreviewInfo
+msgid "Loading preview..."
+msgstr ""
+
+# Texts relating uploading files
+#: upload.outputDirectoryNotADirectoryError
+msgid "The output directory is not a directory"
+msgstr ""
+
+#: upload.comparingFilesInfo
+msgid "Comparing files..."
+msgstr ""
+
+#: upload.processingInfo
+#: progress.processingInfo
+msgid "Processing"
+msgstr ""
+
+#: upload.estimatedTimeLeftInfo
+#: progress.estimatedTimeLeftInfo
+msgid "Estimated time left:"
+msgstr ""
+
+#: upload.countLabel
+#: progress.countInfo
+msgid "Count"
+msgstr ""
+
+#: upload.processingInfo2
+#: progress.processingInfo2
+msgid "{0} of {1}"
+msgstr ""
+
+#: upload.bytesInfo
+msgid "bytes"
+msgstr ""
+
+# Texts relating to scripting
+#: scripting.unknownElementError
+msgid "Unknown element:"
+msgstr ""
+
+#: scripting.missingAttibutesForJaIfElement
+msgid "Missing exists or test attribute for ja:if element"
+msgstr ""
+
+#: scripting.elseNotFollowingIfError
+msgid "ja:else element not directly following ja:if element"
+msgstr ""
+
+#: scripting.expressionNotEvaluatingToBooleanError
+msgid "Test expression {"
+msgstr ""
+
+#: scripting.expressionNotEvaluatingToBooleanError2
+msgid "} of ja:if element didn't evaluate to a boolean value"
+msgstr ""
+
+#: scripting.missingPageAttributeForJaIncludeElementError
+msgid "Missing page attribute for ja:include element"
+msgstr ""
+
+# Texts relating to the progress window
+#: progress.peek
+msgid "Peek"
+msgstr ""
+
+# Texts for the about window
+#: about.commentsInfo
+msgid "Create web based photo albums with thumbnails and slide pages."
+msgstr ""
+
+#: about.freewareInfo
+msgid "This is Freeware, enjoy!"
+msgstr ""
+
+#: about.translationInfo
+msgid "English translation by David Ekholm"
+msgstr ""
+
+#: about.aboutTitle
+#: ui.aboutMenu
+msgid "About"
+msgstr ""
+
+#: about.mailAuthorToolTip
+msgid "Mail author with suggestions and encouragement"
+msgstr ""
+
+#: about.freewareInfo2
+msgid "This is freeware, enjoy!"
+msgstr ""
+
+#: about.webSiteInfo2
+msgid "Web site:"
+msgstr ""
+
+#: about.webSiteToolTip
+msgid "Please visit my website"
+msgstr ""
+
+# Texts when running JAlbum from the command line
+#: console.startupInfo
+msgid "JAlbum v{0} started in console mode"
+msgstr ""
+
+#: console.helpInfo
+msgid "Options and their default values:"
+msgstr ""
+
+#: console.userVariableInfo
+msgid "-user.<your variable> <value>"
+msgstr ""
+
+#: console.requiredArgumentsInfo
+msgid "Required arguments are -directory and (-outputDirectory or -sameDirectory)"
+msgstr ""
+
+#: console.albumCreationInfo
+msgid "Album created in"
+msgstr ""
+
+#: console.processingInfo
+msgid "Processing {0} writing to {1}"
+msgstr ""
+
+#: console.errorProcessingInfo
+msgid "Error processing {0}: {1}"
+msgstr ""
+
+# All other user interface texts
+#: ui.skinPreviewTitle
+msgid "Skin sample"
+msgstr ""
+
+#: ui.recentProjectsMenu
+msgid "Recent projects"
+msgstr ""
+
+#: ui.internationalJavaInfo
+msgid "-- International Java only --"
+msgstr ""
+
+#: ui.generatingAlbumInfo
+msgid "Generating album"
+msgstr ""
+
+#: ui.ftpConnectionPropertiesBorder
+msgid "FTP connection properties"
+msgstr ""
+
+#: ui.smartUploadBorder
+#: ui.smartUpload
+msgid "Smart upload"
+msgstr ""
+
+#: ui.imageBorder
+msgid "Image:"
+msgstr ""
+
+#: ui.imageBoundsBorder
+msgid "Image bounds"
+msgstr ""
+
+#: ui.imageOrderingBorder
+msgid "Image ordering"
+msgstr ""
+
+#: ui.namingBorder
+#: ui.namingPanel
+msgid "Naming"
+msgstr ""
+
+#: ui.appearanceBorder
+#: ui.appearancePanel
+msgid "Appearance"
+msgstr ""
+
+#: ui.imageLinkingBorder
+msgid "Image linking"
+msgstr ""
+
+#: ui.thumbnailLayoutBorder
+msgid "Thumbnail layout"
+msgstr ""
+
+#: ui.windowTitle
+msgid "JAlbum - The web album creator"
+msgstr ""
+
+#: ui.exitMenu
+msgid "Exit"
+msgstr ""
+
+#: ui.helpMenu
+msgid "Help"
+msgstr ""
+
+#: ui.helpTopicsMenu
+msgid "Help Topics"
+msgstr ""
+
+#: ui.jalbumOnTheWebMenu
+msgid "JAlbum on the Web"
+msgstr ""
+
+#: ui.supportingJAlbumMenu
+msgid "Supporting JAlbum"
+msgstr ""
+
+#: ui.consoleMenu
+msgid "System console"
+msgstr ""
+
+#: ui.imageDirectoryLabel
+msgid "Image directory"
+msgstr ""
+
+#: ui.processSubdirectoriesCheckbox
+msgid "Process subdirectories"
+msgstr ""
+
+#: ui.processSubdirectoriesToolTip
+msgid "Search recursively through subdirectories when looking for images"
+msgstr ""
+
+#: ui.columnsLabel
+msgid "Columns"
+msgstr ""
+
+#: ui.thumbnailsLabel
+msgid "Thumbnails"
+msgstr ""
+
+#: ui.imagesLabel
+msgid "Images"
+msgstr ""
+
+#: ui.makeAlbumToolTip
+msgid "Make album rescaling new and updated images only (faster). Original files are not touched"
+msgstr ""
+
+#: ui.makeAlbum
+msgid "Make album"
+msgstr ""
+
+#: ui.chooseDirectoryToolTip
+msgid "Select directory"
+msgstr ""
+
+#: ui.imageDirectoryToolTip
+msgid "Select directory containing jpeg images or drag and drop a directory"
+msgstr ""
+
+#: ui.imageSizeToolTip
+#: ui.thumbSizeToolTip
+msgid "Specifies bounding width and height. Images will maintain aspect ratio"
+msgstr ""
+
+#: ui.styleToolTip
+msgid "Styles defined for the current skin"
+msgstr ""
+
+#: ui.useLayoutHints
+msgid "Use layout hints"
+msgstr ""
+
+#: ui.useLayoutHintsToolTip
+msgid "Decide if skins are allowed to make adjustments to the album settings"
+msgstr ""
+
+#: ui.makeSlides
+msgid "Make slides"
+msgstr ""
+
+#: ui.makeSlidesToolTip
+msgid "Link images together for easy sequential access"
+msgstr ""
+
+#: ui.dateFormat
+msgid "Date format"
+msgstr ""
+
+#: ui.urlEncode
+msgid "URL-encode links"
+msgstr ""
+
+#: ui.urlEncodeToolTip
+msgid "Check in order to make links with spaces and international characters work with the web. Uncheck for local browsing"
+msgstr ""
+
+#: ui.indexPageName
+msgid "Index page name"
+msgstr ""
+
+#: ui.viewAlbum
+msgid "View album"
+msgstr ""
+
+#: ui.viewAlbumToolTip
+msgid "View generated or existing web album"
+msgstr ""
+
+#: ui.metaData
+msgid "Extract photographic data (EXIF)"
+msgstr ""
+
+#: ui.dateFormatTemplate
+msgid "Example: yyyy-MM-dd HH:mm:ss"
+msgstr ""
+
+#: ui.dateFormatTemplateToolTip
+msgid "Leave blank to use standard date format for this region"
+msgstr ""
+
+#: ui.rebuildAll
+msgid "Rebuild all"
+msgstr ""
+
+#: ui.rebuildAllToolTip
+msgid "Rebuild album rescaling all images. Original files are not touched"
+msgstr ""
+
+#: ui.rows
+msgid "Rows"
+msgstr ""
+
+#: ui.appearancePanelToolTip
+msgid "The choices here can be extended by adding new skins to the skins directory of JAlbum"
+msgstr ""
+
+#: ui.skin
+msgid "Skin"
+msgstr ""
+
+#: ui.style
+msgid "Style"
+msgstr ""
+
+#: ui.outputDirectory
+msgid "Output directory"
+msgstr ""
+
+#: ui.outputDirectoryToolTip
+msgid "Output directory relative to image directory (if relative). Accepts drag and drop too!"
+msgstr ""
+
+#: ui.copyOriginals
+msgid "Copy originals"
+msgstr ""
+
+#: ui.copyOriginalsToolTip
+msgid "Copy original images to output directory"
+msgstr ""
+
+#: ui.sameDirectory
+msgid "Output to image directory"
+msgstr ""
+
+#: ui.linkToOriginals
+msgid "Link to originals"
+msgstr ""
+
+#: ui.linkToOriginalsViaScaledImages
+msgid "Link to originals via scaled images"
+msgstr ""
+
+#: ui.linkToScaledImagesOnly
+msgid "Link to scaled-down images only"
+msgstr ""
+
+#: ui.dateOrdering
+msgid "Date"
+msgstr ""
+
+#: ui.nameOrdering
+#: ui.userVariablesNameColumn
+#: wiz.select.name
+msgid "Name"
+msgstr ""
+
+#: ui.simpleNameOrdering
+msgid "Name (simple)"
+msgstr ""
+
+#: ui.jpegQuality
+msgid "JPEG quality"
+msgstr ""
+
+#: ui.highQualityScaling
+msgid "High quality scaling"
+msgstr ""
+
+#: ui.highQualityScalingToolTip
+msgid "Smoother but slower image scaling"
+msgstr ""
+
+#: ui.rowsToolTip
+msgid "Limit table rows. JAlbum will use several index pages if needed."
+msgstr ""
+
+#: ui.rowsToolTip2
+msgid "0 = unlimited number of rows"
+msgstr ""
+
+#: ui.presetsMenu
+msgid "Presets"
+msgstr ""
+
+#: ui.smallSizeWebAlbumMenu
+msgid "Small size web album from large originals"
+msgstr ""
+
+#: ui.hiqhQualityWebAlbumMenu
+msgid "High quality web album from large originals"
+msgstr ""
+
+#: ui.smallOriginalsWebAlbumMenu
+msgid "Web album from small originals"
+msgstr ""
+
+#: ui.indexWithLinksToCD-ROMOriginalsMenu
+msgid "Index with links to CD-ROM originals"
+msgstr ""
+
+#: ui.localAlbumMenu
+msgid "Local (hard disk) album"
+msgstr ""
+
+#: ui.qualityPercentToolTip
+msgid "Balance image quality versus image file size"
+msgstr ""
+
+#: ui.pageExtension
+msgid "Page extension"
+msgstr ""
+
+#: ui.180ImagesIndexMenu
+msgid "180 images index (6 x 30)"
+msgstr ""
+
+#: ui.12ImagesMenu
+msgid "12 images index (4 x 3)"
+msgstr ""
+
+#: ui.4ImagesMenu
+msgid "4 images index (2 x 2)"
+msgstr ""
+
+#: ui.toolsMenu
+msgid "Tools"
+msgstr ""
+
+#: ui.includeDirectories
+msgid "Include subdirectories in index pages"
+msgstr ""
+
+#: ui.newProjectMenu
+msgid "New project"
+msgstr ""
+
+#: ui.openProjectMenu
+msgid "Open project..."
+msgstr ""
+
+#: ui.saveProjectMenu
+msgid "Save project"
+msgstr ""
+
+#: ui.saveProjectAsMenu
+msgid "Save project as..."
+msgstr ""
+
+#: ui.saveAsDefaultMenu
+msgid "Save as default"
+msgstr ""
+
+#: ui.saveProjectInImageDirectoryMenu
+msgid "Save project in image directory"
+msgstr ""
+
+#: ui.saveProjectInAlbumMenu
+msgid "Save project in album"
+msgstr ""
+
+#: ui.edit
+#: ui.editOrdering
+#: ui.editPanel
+msgid "Edit"
+msgstr ""
+
+#: ui.editToolTip
+msgid "Edit skin"
+msgstr ""
+
+#: ui.userVariables
+msgid "User defined variables"
+msgstr ""
+
+#: ui.userVariablesValueColumn
+msgid "Value"
+msgstr ""
+
+#: ui.userVariablesToolTip
+msgid "Variables to be replaced or overridden during album generation. Override \"title\" in order to set your own page title"
+msgstr ""
+
+#: ui.ftpServer
+msgid "FTP server"
+msgstr ""
+
+#: ui.ftpServerToolTip
+msgid "Host name of FTP server"
+msgstr ""
+
+#: ui.userName
+msgid "Username"
+msgstr ""
+
+#: ui.userNameToolTip
+msgid "Username/login"
+msgstr ""
+
+#: ui.password
+#: wiz.form.password
+msgid "Password"
+msgstr ""
+
+#: ui.remoteDirectory
+msgid "Remote directory"
+msgstr ""
+
+#: ui.passiveMode
+msgid "Passive mode"
+msgstr ""
+
+#: ui.passiveModeToolTip
+msgid "Try this switch if you are having trouble connecting through a firewall"
+msgstr ""
+
+#: ui.testConnection
+msgid "Test connection"
+msgstr ""
+
+#: ui.savePassword
+msgid "Save password"
+msgstr ""
+
+#: ui.smartUploadToolTip
+msgid "Attempts to speed up uploading by skipping files with equal size"
+msgstr ""
+
+#: ui.uploadAllToolTip
+msgid "Upload the full contents of the output directory to the ftp server"
+msgstr ""
+
+#: ui.uploadAll
+msgid "Upload all"
+msgstr ""
+
+#: ui.smartUploadPanelToolTip
+msgid "Smart upload is an attempt to speed up uploading by skipping files with equal size"
+msgstr ""
+
+#: ui.alwaysUploadPages
+msgid "Always upload pages"
+msgstr ""
+
+#: ui.alwaysUploadPagesToolTip
+msgid "Upload html pages even if file size is equal"
+msgstr ""
+
+#: ui.reverseOrder
+msgid "Reverse"
+msgstr ""
+
+#: ui.directoriesFirst
+msgid "Directories first"
+msgstr ""
+
+#: ui.directoriesFirstToolTip
+msgid "Put directories before image files (ordered by name)"
+msgstr ""
+
+#: ui.debugMode
+msgid "Debug mode"
+msgstr ""
+
+#: ui.debugModeToolTip
+msgid "Halt on internal errors and display stack trace"
+msgstr ""
+
+#: ui.tipLabel
+msgid "Drag and drop works!"
+msgstr ""
+
+#: ui.portToolTip
+msgid "Port (usually 21)"
+msgstr ""
+
+#: ui.preview
+msgid "Sample"
+msgstr ""
+
+#: ui.editOrderingToolTip
+msgid "Edit custom image ordering"
+msgstr ""
+
+#: ui.encoding
+msgid "Encoding"
+msgstr ""
+
+#: ui.writeUTF8
+msgid "Write UTF-8"
+msgstr ""
+
+#: ui.writeUTF8ToolTip
+msgid "Always write text using UTF-8 encoding (recommended)"
+msgstr ""
+
+#: ui.textEncodingToolTip
+msgid "Default character encoding. (Auto detects UTF-8 and UTF-16)"
+msgstr ""
+
+# New texts for JAlbum 5.0
+#: ui.checkForUpdatesMenu
+#: ui.checkForUpdates
+#: ui.checkForUpdatesTitle
+msgid "Check for updates"
+msgstr ""
+
+# New texts for JAlbum 4.5
+# Advanced tab
+#: ui.mainPanel
+#: ui.generalPanel
+msgid "Main"
+msgstr ""
+
+#: ui.publishPanel
+msgid "Publish"
+msgstr ""
+
+#: ui.advancedPanel
+msgid "Advanced"
+msgstr ""
+
+#: ui.selectionPanel
+msgid "Selection"
+msgstr ""
+
+#: ui.ignore
+msgid "Ignore"
+msgstr ""
+
+#: ui.useOldSizes
+msgid "Use old sizes"
+msgstr ""
+
+#: ui.newSizeWarning
+msgid "The new image and thumbnail sizes ({0} and {1})are different to the sizes used last time ({2} and {3})With \"Make album\", existing images will not be rescaled, but insteadstretched or shrunk by the browser to fit the selected size.This may lead to images appearing unsharp or mosaic-like.You can either:Ignore this in order to quickly try out a layout.Rebuild all images, thereby rescaling them for high-quality end result.Make the album using the sizes they were last scaled to."
+msgstr ""
+
+#: ui.newSizeWarningLabel
+msgid "Image quality warning"
+msgstr ""
+
+#: ui.externalLinksWarning
+msgid "The created album will contain links to original files outside the output directory!If you are uploading the album to a web server, make sure you also upload the originalfiles and not just the output directory. Broken links will otherwise appear.As an alternative, you may consider the following:Select \"Link to scaled-down images only\", orselect \"Output to image directory\", orselect \"Copy originals\" (links to copies will be used instead)."
+msgstr ""
+
+#: ui.makeAlbumInfo
+msgid "JAlbum will now create some files and directories under{0}Original images will not be touched"
+msgstr ""
+
+#: ui.unsupportedEncodingError
+msgid "The specified text encoding {0} is not supported.Please make adjustments in the Advanced section(Note: Some encodings require an international Java runtime)"
+msgstr ""
+
+#: ui.operationAborted
+msgid "Operation aborted"
+msgstr ""
+
+#: ui.scriptingError
+msgid "Scripting error"
+msgstr ""
+
+#: ui.errorsDuringAlbumGeneration
+msgid "Errors during album generation"
+msgstr ""
+
+#: ui.albumGenerationProgress
+msgid "Processing image {0} of {1} in {2}..."
+msgstr ""
+
+#: ui.processingAborted
+msgid "Processing aborted"
+msgstr ""
+
+#: ui.filesDroppedError
+msgid "You may drop image directories/folders but not plain image files"
+msgstr ""
+
+#: ui.filesDroppedError2
+msgid "You may drop directories/folders but not plain files"
+msgstr ""
+
+#: ui.noPreviewAvailable
+msgid "No preview available"
+msgstr ""
+
+#: ui.fileProcessingError
+msgid "The following files could not be processed due to errors:"
+msgstr ""
+
+#: ui.introInfo
+msgid "Select or drag and drop an image directory, then press Make album"
+msgstr ""
+
+#: ui.projectSavedInImageDirectoryInfo
+msgid "The project settings for this album has now been saved in the image directoryJAlbum will optionally load settings from this file when you open this image directory again"
+msgstr ""
+
+#: ui.projectSavedInAlbumInfo
+msgid "The project settings for this album has now been saved in the output directoryJAlbum will optionally load settings from this file when you open this image directory again"
+msgstr ""
+
+#: ui.loadProjectFile
+msgid "A JAlbum project file was found in this image directory.Do you want to load these settings?"
+msgstr ""
+
+#: ui.layoutHintsLoaded
+msgid "Layout hints loaded from"
+msgstr ""
+
+#: ui.projectLoaded
+msgid "Project loaded from"
+msgstr ""
+
+#: ui.projectSaved
+msgid "Project saved to"
+msgstr ""
+
+#: ui.uploadConfirmation
+msgid "JAlbum will now upload the"
+msgstr ""
+
+#: ui.uploadConfirmation2
+msgid "whole contents"
+msgstr ""
+
+#: ui.uploadConfirmation3
+msgid "changes"
+msgstr ""
+
+#: ui.uploadConfirmation4
+msgid "of the output directory to the ftp server.You can continue working with JAlbum during upload"
+msgstr ""
+
+#: ui.uploadConfirmationTitle
+msgid "Upload album"
+msgstr ""
+
+#: ui.uploadingAlbumTitle
+msgid "Uploading album"
+msgstr ""
+
+#: ui.uploadAborted
+msgid "Upload aborted"
+msgstr ""
+
+#: ui.connectingToServer
+msgid "Connecting to"
+msgstr ""
+
+#: ui.remoteDirectoryWarning
+msgid "The remote directory {0} does not exist.Do you wish to have it created?"
+msgstr ""
+
+#: ui.connectedOk
+msgid "Connected ok"
+msgstr ""
+
+#: ui.versionIsCurrentInfo
+msgid "You have the most recent version"
+msgstr ""
+
+#: ui.newUpdateAvailable
+msgid "An update is available!The most recent version is {0}Do you want to view the history of changes?"
+msgstr ""
+
+#: ui.cannotFindVersionInformationError
+msgid "Cannot find version info at"
+msgstr ""
+
+#: ui.varsPanel
+msgid "User variables"
+msgstr ""
+
+#: ui.thumbnailDirectory
+msgid "Thumbnails directory"
+msgstr ""
+
+#: ui.closeupDirectory
+msgid "Closeups directory"
+msgstr ""
+
+#: ui.slideDirectory
+msgid "Slides directory"
+msgstr ""
+
+#: ui.thumbnailPrefix
+msgid "Thumbnail prefix"
+msgstr ""
+
+#: ui.closeupPrefix
+msgid "Closeup prefix"
+msgstr ""
+
+#: ui.ignorePattern
+msgid "Ignore pattern"
+msgstr ""
+
+#: ui.ignorePatternToolTip
+msgid "Regular expression for files and directories to ignore"
+msgstr ""
+
+# Preferences tab
+#: ui.prefsPanel
+msgid "Preferences"
+msgstr ""
+
+#: prefs.tipLabel
+msgid "Use menu [File -> Save as default] to save settings permanently"
+msgstr ""
+
+#: prefs.keepSettingsOnSkinChange
+msgid "Keep settings on skin change"
+msgstr ""
+
+#: prefs.autoWriteCommentsToFile
+msgid "Auto write comments to file"
+msgstr ""
+
+#: prefs.imageEditingBorder
+msgid "Image editing"
+msgstr ""
+
+#: prefs.skinsBorder
+msgid "Skins"
+msgstr ""
+
+#: prefs.language
+msgid "Language"
+msgstr ""
+
+#: prefs.lookAndFeel
+msgid "Look And Feel"
+msgstr ""
+
+#: prefs.systemDefault
+msgid "<System default>"
+msgstr ""
+
+#: prefs.restartInfo
+msgid "Note: Some changes requires a JAlbum restart (after saving)"
+msgstr ""
+
+#: prefs.guidesBorder
+msgid "Guides"
+msgstr ""
+
+#: prefs.showWarnings
+msgid "Show warning dialogues"
+msgstr ""
+
+#: prefs.allowBlinkingHints
+msgid "Allow blinking hints"
+msgstr ""
+
+#: prefs.showTipOfTheDay
+msgid "Show tip of the day"
+msgstr ""
+
+# New texts for JAlbum 4.6
+# Advanced tab
+#: ui.commentSourcesBorder
+msgid "Comment sources"
+msgstr ""
+
+#: ui.commentSourcesToolTip
+msgid "Controls locations to pick image comments from (listed in order of precedence)"
+msgstr ""
+
+#: ui.textFileComment
+msgid "Text file"
+msgstr ""
+
+#: ui.iptcCaption
+msgid "IPTC Caption"
+msgstr ""
+
+#: ui.exifUserComment
+msgid "EXIF User"
+msgstr ""
+
+#: ui.exifImageDescription
+msgid "EXIF Image Desc."
+msgstr ""
+
+#: ui.highQualityThumbs
+msgid "High quality thumbnails"
+msgstr ""
+
+#: ui.highQualityThumbsToolTip
+msgid "Smoother and almost as fast thumbnail image scaling"
+msgstr ""
+
+#: ui.checkForUpdatesToolTip
+msgid "Check for updates on start up"
+msgstr ""
+
+#: ui.signupTipLabel
+msgid "To publish an album you need a web server<br>account with \"ftp access\""
+msgstr ""
+
+#: ui.signupWizard
+msgid "Create account..."
+msgstr ""
+
+#: ui.ftpAccounts
+msgid "Accounts..."
+msgstr ""
+
+#: ui.ftpAccountsToolTip
+msgid "Choose and edit account profiles"
+msgstr ""
+
+#: ui.signupWizardToolTip
+msgid "Start web host signup wizard"
+msgstr ""
+
+#: ui.albumPreviewBorder
+msgid "Album preview"
+msgstr ""
+
+#: ui.webRoot
+msgid "Web root URL"
+msgstr ""
+
+#: ui.previewLink
+msgid "Preview link"
+msgstr ""
+
+#: ui.ftpForceUTF8
+msgid "Force UTF-8"
+msgstr ""
+
+#: ui.ftpForceUTF8ToolTip
+msgid "Force UTF-8 file name encoding nomatter what the server reports"
+msgstr ""
+
+#: ui.ftpWebDirectory
+msgid "Web directory"
+msgstr ""
+
+#: ui.ftpWebDirectoryToolTip
+msgid "Directory under ftp directory that is web published (leave blank if same directory)"
+msgstr ""
+
+#: ui.remoteDirectoryToolTip
+msgid "Directory for album on remote server"
+msgstr ""
+
+#: wiz.title
+msgid "Web host signup"
+msgstr ""
+
+#: wiz.stepInfo
+msgid "Step {0} of {1}"
+msgstr ""
+
+#: wiz.back
+msgid "< Back"
+msgstr ""
+
+#: wiz.next
+msgid "Next >"
+msgstr ""
+
+#: wiz.finish
+msgid "Finish"
+msgstr ""
+
+#: wiz.info.header
+msgid "Information"
+msgstr ""
+
+#: wiz.info.text
+msgid "Do you want to share your images? I will assist you in getting an account with space for them on a web server.You will be asked to select a \"web host provider\" from a list.Choose either free web hosting (may contain banner ads) or pay-alternatives.<p>You then fill in a form with basic sign-up information.I will handle the sign-up process and fill in allneccesary \"ftp connection\" settings in the JAlbum publish tab. When done, you can upload your albums for public viewing.</p><p>Web host providers:<br>To join the list of hosts, please see my <a href=\"http://jalbum.net/webhosting.jsp\">web hosts page</a>.</p>"
+msgstr ""
+
+#: wiz.select.header
+msgid "Please select a web host provider from the list below"
+msgstr ""
+
+#: wiz.select.provider
+msgid "Provider"
+msgstr ""
+
+#: wiz.select.info
+msgid "Info"
+msgstr ""
+
+#: wiz.form.header
+msgid "Please fill in the form below"
+msgstr ""
+
+#: wiz.form.name
+msgid "Name (first, last)"
+msgstr ""
+
+#: wiz.form.email
+msgid "Email"
+msgstr ""
+
+#: wiz.form.country
+msgid "Country"
+msgstr ""
+
+#: wiz.form.userName
+msgid "Desired user name"
+msgstr ""
+
+#: wiz.form.repeatPassword
+msgid "Repeat password"
+msgstr ""
+
+#: wiz.confirm.header
+msgid "Please confirm your settings"
+msgstr ""
+
+#: wiz.confirm.submitLabel
+msgid "By pressing finish, you submit these settings to the selected provider"
+msgstr ""
+
+#: wiz.confirm.afterSignup
+msgid "After signup:"
+msgstr ""
+
+#: wiz.confirm.setSettings
+msgid "Set selected settings in publish section"
+msgstr ""
+
+#: wiz.confirm.createProfile
+msgid "Create account profile for selected settings"
+msgstr ""
+
+#: wiz.contactingLabel
+msgid "Contacting provider..."
+msgstr ""
+
+#: wiz.signupOkTitle
+msgid "Signup ok"
+msgstr ""
+
+#: wiz.signupFailedTitle
+msgid "Signup failed"
+msgstr ""
+
+#: wiz.httpError
+msgid "HTTP error"
+msgstr ""
+
+#: wiz.openFailed
+msgid "Open failed"
+msgstr ""
+
+#: wiz.connectionFailed
+msgid "Connection failed"
+msgstr ""
+
+#: add
+msgid "Add"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: remove
+msgid "Remove"
+msgstr ""
+
+#: acc.title
+msgid "Accounts manager"
+msgstr ""
+
+#: acc.profilesLabel
+msgid "Account profiles"
+msgstr ""
+
+#: acc.newProfileBorder
+msgid "New account profile"
+msgstr ""
+
+#: acc.removeAccountTitle
+msgid "Remove account profile"
+msgstr ""
+
+#: acc.removeAccountInfo
+msgid "Do you really want to remove the \"{0}\" account profile?"
+msgstr ""
+
+# New texts for JAlbum 5.2
+#: ui.updatedDirsOnly
+msgid "Process only updated subdirectories"
+msgstr ""
+
+#: ui.updatedDirsOnlyToolTip
+msgid "Skip subdirectories that haven't been touched since the last album build"
+msgstr ""
+
+#: engine.makingIndexPages
+msgid "Making index pages..."
+msgstr ""
+
+# New texts for JAlbum 6.0
+#: ui.updateCheckInfo
+msgid "Checking for updates..."
+msgstr ""
+
+#: ui.javaVersionError
+msgid "JAlbum requires at least v{0} of Sun''s Java. Please update at www.java.com"
+msgstr ""
+
+#: ui.secureFtp
+msgid "Secure"
+msgstr ""
+
+#: ui.secureFtpToolTip
+msgid "Use sftp connection (SSH2 based)"
+msgstr ""
+
+#: ui.imageGenerationBorder
+msgid "Image generation"
+msgstr ""
+
+#: ui.progressiveMode
+msgid "Progressive mode"
+msgstr ""
+
+#: ui.progressiveModeToolTip
+msgid "Use progressive encoding"
+msgstr ""
+
+# Late addition, sorry
+#: ui.classicReaders
+msgid "Use classic image readers"
+msgstr ""
+
+#: ui.classicReadersToolTip
+msgid "Use older, but faster code for reading JPEG, GIF and PNG files instead of ImageIO"
+msgstr ""
+
+#: edit.update
+#: share.update
+msgid "Update"
+msgstr ""
+
+#: edit.open
+msgid "Open"
+msgstr ""
+
+#: edit.properties
+msgid "Properties"
+msgstr ""
+
+#: edit.hideExcluded
+msgid "Hide excluded"
+msgstr ""
+
+#: edit.largeThumbnails
+msgid "Large thumbnails"
+msgstr ""
+
+#: edit.delete
+msgid "Delete"
+msgstr ""
+
+#: edit.cannotDeleteFoldersInfo
+msgid "You cannot delete folders (safety rule)"
+msgstr ""
+
+#: edit.deleteFilesTitle
+msgid "Delete files"
+msgstr ""
+
+#: edit.deletePermanentlyInfo
+msgid "Are you sure you want to permanently delete {0} file(s) from disk?"
+msgstr ""
+
+#: edit.include
+msgid "Include"
+msgstr ""
+
+#: edit.exclude
+msgid "Exclude"
+msgstr ""
+
+#: edit.selectAll
+msgid "Select all"
+msgstr ""
+
+#: edit.invertSelection
+msgid "Invert selection"
+msgstr ""
+
+#: edit.runSlideshow
+msgid "Run slide show"
+msgstr ""
+
+#: edit.orderBy
+msgid "Order by"
+msgstr ""
+
+#: edit.reverseDateOrdering
+msgid "Reverse date"
+msgstr ""
+
+#: edit.cameraDateOrdering
+msgid "Camera date"
+msgstr ""
+
+#: edit.jalbumOrdering
+msgid "Use JAlbum ordering"
+msgstr ""
+
+#: edit.propertyEditorTitle
+msgid "Properties for"
+msgstr ""
+
+#: edit.summaryPanel
+msgid "Summary"
+msgstr ""
+
+#: edit.folderThumbnail
+msgid "Use as folder thumbnail"
+msgstr ""
+
+#: edit.folderThumbnailToolTip
+msgid "Use this image to represent this album in the parent album"
+msgstr ""
+
+# Late addition, sorry
+#: edit.titleLabel
+msgid "Title"
+msgstr ""
+
+# New texts for JAlbum 6.1
+#: prefs.multipleProcessorsBorder
+msgid "Multiple processors"
+msgstr ""
+
+#: prefs.nThreadsLabel
+msgid "Number of threads"
+msgstr ""
+
+#: edit.redo
+msgid "Redo"
+msgstr ""
+
+#: edit.cut
+msgid "Cut"
+msgstr ""
+
+#: edit.copy
+msgid "Copy"
+msgstr ""
+
+#: edit.paste
+msgid "Paste"
+msgstr ""
+
+#: ui.useThumbForFolderIcon
+msgid "Use thumbnail for folder icon"
+msgstr ""
+
+#: ui.useThumbForFolderIconToolTip
+msgid "Replaces standard folder icon with a thumbnail from one of the files in the image directory"
+msgstr ""
+
+# New texts for JAlbum 6.2
+#: ui.saveChangesToProjectQuestion
+msgid "Save changes to project?"
+msgstr ""
+
+# New texts for JAlbum 6.3
+#: edit.reverseNameOrdering
+msgid "Reverse name"
+msgstr ""
+
+#: ui.excludeByDefault
+msgid "Exclude new images by default"
+msgstr ""
+
+#: ui.excludeByDefaultToolTip
+msgid "Automatically exclude images recently added to the image directory"
+msgstr ""
+
+# New texts for JAlbum 6.5
+#: ui.keepMetaDataInfo
+msgid "Keep photographic data"
+msgstr ""
+
+#: ui.keepMetaDataToolTip
+msgid "Pass on photographic data (EXIF) from original file"
+msgstr ""
+
+#: ui.sharePanel
+msgid "Share"
+msgstr ""
+
+#: ui.activeSharesWarning
+msgid "You currently have active shared albums. Quitting now will make them unavailable to visitors."
+msgstr ""
+
+#: share.infoLabel
+msgid "This section lets you share albums straight from your local hard disk.<br>JAlbum has a small web server that enables viewers to surf to your computer and view your shared albums."
+msgstr ""
+
+#: share.shareAlbum
+msgid "Share album"
+msgstr ""
+
+#: share.shareCurrentAlbum
+msgid "Share current album"
+msgstr ""
+
+#: share.shareCurrentAlbumInfo
+msgid "Your album is now shared. Copy the address below to friends. JAlbum needs to be running for the sharing to work."
+msgstr ""
+
+#: share.currentShareBorder
+msgid "Current share"
+msgstr ""
+
+#: share.active
+msgid "Active"
+msgstr ""
+
+#: share.securitySettings
+msgid "Security settings..."
+msgstr ""
+
+#: share.securitySettingsTitle
+msgid "Security settings"
+msgstr ""
+
+#: share.passwordProtect
+msgid "Password protect album"
+msgstr ""
+
+#: share.name
+msgid "Name (URI)"
+msgstr ""
+
+#: share.localPath
+msgid "Local path"
+msgstr ""
+
+#: share.url
+msgid "Address"
+msgstr ""
+
+#: share.urlToolTip
+msgid "To share this album, copy and paste address to chat clients when chating with friends"
+msgstr ""
+
+#: share.gotoURL
+msgid "Go to"
+msgstr ""
+
+#: share.sharesList
+msgid "Shared albums"
+msgstr ""
+
+#: share.serverControlBorder
+msgid "Web server control"
+msgstr ""
+
+#: share.start
+msgid "Start"
+msgstr ""
+
+#: share.stop
+msgid "Stop"
+msgstr ""
+
+#: share.settings
+msgid "Settings..."
+msgstr ""
+
+#: share.settingsTitle
+msgid "Web server settings"
+msgstr ""
+
+#: share.port
+msgid "Port"
+msgstr ""
+
+#: share.hostName
+msgid "Hostname"
+msgstr ""
+
+#: share.hostNameToolTip
+msgid "Name that identifies this server on the Internet. If left blank, the IP address will be used"
+msgstr ""
+
+#: share.autoStart
+msgid "Start web server when JAlbum starts"
+msgstr ""
+
+#: share.doPortMapping
+msgid "Establish port mapping in firewall (requires UPnP support)"
+msgstr ""
+
+#: share.loggingBorder
+msgid "Logging"
+msgstr ""
+
+#: share.noLogging
+msgid "No logging"
+msgstr ""
+
+#: share.consoleLogging
+msgid "Log to system console window"
+msgstr ""
+
+#: share.fileLogging
+msgid "Log to file"
+msgstr ""
+
+#: share.logDateFormat
+msgid "Log date format"
+msgstr ""
+
+#: share.logFileName
+msgid "Log file name"
+msgstr ""
+
+#: share.portForwardingInfo
+msgid "Your computer seem to be behind a firewall.For JAlbum file sharing to work you need to allow incoming \"TCP\" traffic to port {0} and pass it to this computer (ip address {1})(If the firewall was UPnP enabled, JAlbum would automatically make this adjustment.)"
+msgstr ""
+
+#: share.softwareFirewallInfo
+msgid "Access to JAlbum shared albums seems to be blocked by a firewall.On Windows systems, make sure you don't have the \"javaw.exe\" process blocked by the software firewall(See Control Panel->Windows Firewall->Exceptions)"
+msgstr ""
+
+#: share.bindErrorInfo
+msgid "The current web server port ({0}) is already in use by another program."
+msgstr ""
+
+#: trayIcon.title
+msgid "JAlbum album sharing"
+msgstr ""
+
+#: trayIcon.message
+msgid "The JAlbum web server is now running in the background.It is safe to close the JAlbum window."
+msgstr ""
+
+# New texts for JAlbum 6.5.1
+#: progress.pause
+msgid "Pause"
+msgstr ""
+
