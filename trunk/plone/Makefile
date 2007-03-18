@@ -10,6 +10,7 @@ SVN=svn
 
 src_objects := $(wildcard *-sr.po)
 dest_objects := $(patsubst %-sr.po,%-sr-Latn.po,$(src_objects))
+log_object := trans.log
 
 .PHONY: clean publish
 
@@ -18,19 +19,31 @@ all: $(dest_objects)
 	$(CP) *.po distrib
 
 %-sr-Latn.po: %-sr.po
-	$(C2L) < $< | sed -e "s/Language-Code: sr/Language-Code: sr-Latn/" | sed -e "s/Language-Name: Serbian/Language-Name: Serbian (Latin)/" > $@
+	$(C2L) < $< 2>> $(log_object) | \
+	sed -e "s/Language-Code: sr/Language-Code: sr-Latn/" | \
+	sed -e "s/Language-Name: Serbian/Language-Name: Serbian (Latin)/" \
+        > $@
 
 clean:
-	$(RM) $(dest_objects) *~ semantic.cache
-	$(RM) -r distrib
+	$(RM) $(dest_objects) *~ semantic.cache $(log_object)
+	$(RM) -r distrib 
 
 publish: all
 	$(CP) *.po $(PLONEDIR)
-	(cd $(PLONEDIR) ; $(SVN) commit -m "Updated Serbian and Serbian Latin")
+	(cd $(PLONEDIR) ; \
+	  $(SVN) commit -m "Updated Serbian and Serbian Latin")
 
 import: 
-	(pushd . ; cd $(PLONEDIR) ; $(SVN) update ; popd ; $(CP) $(PLONEDIR)/*-sr.po . )
-
+	(pushd . ; \
+	  cd $(PLONEDIR) ; \
+          $(SVN) update ; popd ; \
+	  $(CP) $(PLONEDIR)/*-sr.po . )
 
 stats:
-	for A in *-sr.po; do echo $$A: ; msgfmt --statistics -c -v $$A ; done 
+	@echo "Translation stats:"
+	@echo "---"
+	@for A in *-sr.po; do \
+	   echo -ne $$A":\t\t" ; \
+	   msgfmt --statistics -c -v $$A ; \
+	done
+	@echo "---"

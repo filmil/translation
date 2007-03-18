@@ -3,14 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Azureus 2.5.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-02-02 20:38+0100\n"
-"PO-Revision-Date: 2007-02-02 22:31+0100\n"
+"POT-Creation-Date: 2007-03-05 01:24+0100\n"
+"PO-Revision-Date: 2007-03-05 01:51+0100\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 # There is a plugin to help with internationalizing these bundles at http://azureus.sourceforge.net/plugin_list.php
 #: MainWindow.menu.file.open.torrent
@@ -278,18 +279,18 @@ msgid "My Torrents"
 msgstr "Моји торенти"
 
 #: MyTorrentsView.name FilesView.name MyTrackerView.name
-#: wizard.multitracker.edit.name MySharesView.name
-#: swt.update.window.columns.name installPluginsWizard.list.name
-#: ConfigView.pluginlist.column.name OpenTorrentWindow.torrentTable.name
+#: wizard.multitracker.edit.name MySharesView.name UpdateWindow.columns.name
+#: installPluginsWizard.list.name ConfigView.pluginlist.column.name
+#: OpenTorrentWindow.torrentTable.name
 msgid "Name"
 msgstr "Име"
 
 #: MyTorrentsView.size FilesView.size PiecesView.size
-#: swt.update.window.columns.size OpenTorrentWindow.fileTable.size
+#: UpdateWindow.columns.size OpenTorrentWindow.fileTable.size
 msgid "Size"
 msgstr "Величина"
 
-#: MyTorrentsView.done FilesView.done swt.update.window.status.done
+#: MyTorrentsView.done FilesView.done UpdateWindow.status.done
 #: FileView.BlockView.Done
 msgid "Done"
 msgstr "Готово"
@@ -952,7 +953,7 @@ msgid "Waiting for other torrent(s) to Queue"
 msgstr "Чекање да се други торенти убаце у ред"
 
 #: ManagerItem.downloading fileDownloadWindow.state_downloading
-#: swt.update.window.status.downloading
+#: UpdateWindow.status.downloading
 msgid "Downloading"
 msgstr "Пријем"
 
@@ -1130,7 +1131,7 @@ msgstr "Следећи"
 msgid "Finish"
 msgstr "Заврши"
 
-#: Button.cancel window.updateswt.cancel swt.update.window.cancel
+#: Button.cancel window.updateswt.cancel UpdateWindow.cancel
 #: security.certcreate.cancel sharing.progress.cancel
 msgid "Cancel"
 msgstr "Откажи"
@@ -1425,7 +1426,7 @@ msgstr "Чување датотеке..."
 msgid "File saved."
 msgstr "Датотека је сачувана."
 
-#: wizard.close swt.update.window.close Button.close
+#: wizard.close UpdateWindow.close Button.close
 msgid "Close"
 msgstr "Затвори"
 
@@ -3786,6 +3787,10 @@ msgstr "повезан"
 msgid "in swarm"
 msgstr "у роју"
 
+#: AlertMessageBox.unread
+msgid "You have unread alert messages - click here to display them."
+msgstr "Постоје непрочитана упозорења - притисните овде да их погледате."
+
 #: SharedPortServer.alert.selectorfailed
 msgid ""
 "Failed to establish listener for incoming data.\n"
@@ -4366,40 +4371,40 @@ msgstr "Пријем торента"
 msgid "of"
 msgstr "од"
 
-#: swt.update.window.title
+#: UpdateWindow.title
 msgid "Azureus Updater"
 msgstr "Доградња Азуреуса"
 
-#: swt.update.window.header
+#: UpdateWindow.header
 msgid "The following components need an update :"
 msgstr "Следеће компоненте морају да се дограде :"
 
-#: swt.update.window.columns.install swt.install.window.ok
+#: UpdateWindow.columns.install swt.install.window.ok
 msgid "Install"
 msgstr "Постави"
 
-#: swt.update.window.columns.version installPluginsWizard.list.version
+#: UpdateWindow.columns.version installPluginsWizard.list.version
 #: ConfigView.pluginlist.column.version
 msgid "Version"
 msgstr "Издање"
 
-#: swt.update.window.quit
+#: UpdateWindow.quit
 msgid "Quit"
 msgstr "Крај"
 
-#: swt.update.window.ok
+#: UpdateWindow.ok
 msgid "Update"
 msgstr "Освежи"
 
-#: swt.update.window.restart
-msgid "Restart"
+#: UpdateWindow.restart
+msgid "Restart Now"
 msgstr "Поново покрени"
 
-#: swt.update.window.status.failed DHTView.operations.failed
+#: UpdateWindow.status.failed DHTView.operations.failed
 msgid "Failed"
 msgstr "Неуспело"
 
-#: swt.update.window.status.restartNeeded
+#: UpdateWindow.status.restartNeeded
 msgid "Restart will be required!"
 msgstr "Потребно је поново покренути програм!"
 
@@ -4437,7 +4442,7 @@ msgid ""
 msgstr ""
 "Користи други начин за цртање колона у табелама (може да тражи рестарт)"
 
-#: swt.update.window.status.restartMaybeNeeded
+#: UpdateWindow.status.restartMaybeNeeded
 msgid "Restart may be required"
 msgstr "Можда ћете морати да поново покренете програм"
 
@@ -4876,7 +4881,7 @@ msgid ""
 "Automatic removal of torrent '%1' succeeded. This was caused by the torrent "
 "removal rules."
 msgstr ""
-"Аутоматско добављање торента „%1“ је успело. Узрок овоме су правила за "
+"Аутоматско уклањање торента „%1“ је успело. Узрок овоме су правила за "
 "уклањање торента."
 
 #: download.removerules.updatetorrents
@@ -5760,7 +5765,7 @@ msgstr ""
 "проверите подешавања ватробрана за овај порт како бисте били сигурни да је "
 "укључен за примљене везе."
 
-#: swt.update.window.restartLater
+#: UpdateWindow.restartLater
 msgid "Restart Later"
 msgstr "Покрени касније"
 
@@ -7073,7 +7078,7 @@ msgstr "Овај пратилац подржава вишеструка чишћ
 #: Tracker.tooltip.NoMultiSupport
 msgid ""
 "This tracker does not support multiple hash scrapes per request.\n"
-"This will not affect your performace, but it does puts extra load on the "
+"This will not affect your performace, but it does put extra load on the "
 "tracker."
 msgstr ""
 "Овај пратилац не подржава вишеструка чишћења хешева по захтеву.\n"
@@ -7222,7 +7227,7 @@ msgstr ""
 "корисник Азуреуса. Изаберите нове (случајне) портове за прихватање ТЦП и УДП "
 "веза [између %2 и %3]."
 
-#: ConfigView.section.transfer.lan
+#: ConfigView.section.transfer.lan Peers.column.lan
 msgid "LAN"
 msgstr "ЛАН"
 
@@ -8521,7 +8526,8 @@ msgstr ""
 "Неке од датотека већ постоје у одредишном директоријуму ког сте задали:\n"
 "\n"
 "%1\n"
-"Ако наставите, Азуреус ће проверити да ли ове датотеке имају очекиван садржај и преписиваће их ако буде потребно."
+"Ако наставите, Азуреус ће проверити да ли ове датотеке имају очекиван "
+"садржај и преписиваће их ако буде потребно."
 
 #: splash.unloadingTorrents
 msgid "Unloading Torrents"
@@ -8539,7 +8545,8 @@ msgstr "Аутоматска промена имена торента ако п�
 msgid ""
 "This prevents one torrent from overwriting another torrent's files when the "
 "file names are the same"
-msgstr "Ово спречава да један торент преиначи датотеке другог ако су имена иста"
+msgstr ""
+"Ово спречава да један торент преиначи датотеке другог ако су имена иста"
 
 #: alert.raised.at.close
 msgid "(Message from previous close of Azureus)"
@@ -8552,7 +8559,49 @@ msgstr "Ауторизација удаљеног пратиоца"
 #: Plugin.trackerpeerauth.info
 msgid ""
 "This plugin works with trackers to verify that peers are valid swarm members"
-msgstr "Овај додатак ради са пратиоцима и проверава да ли су рачунари заиста чланови роја"
+msgstr ""
+"Овај додатак ради са пратиоцима и проверава да ли су рачунари заиста чланови "
+"роја"
+
+#: MyTorrents.items.DownSpeedLimit.disabled
+msgid "No download"
+msgstr "Нема пријема"
+
+#: upnp.selectedaddresses
+msgid "Addresses (';' seperated, '-' prefix=deny, '+' =allow) [blank: any]"
+msgstr "Адресе („;‟ за одвајање, префикс „-‟=забрана, „+‟ =дознола) [празно: било која]"
+
+#: upnp.alert.multipledevice.warning
+msgid ""
+"Multiple UPnP devices have been detected - check if all require port mapping "
+"(see UPnP log and configuration)"
+msgstr "Пронађено је неколико УПнП уређаја - проверите да ли је свима потребно пресликавање портова (погледајте дневник и подешавања за УПнП)"
+
+#: UpdateMonitor.messagebox.restart.title
+msgid "Software Update"
+msgstr "Доградња програма"
+
+#: UpdateMonitor.messagebox.restart.text
+msgid ""
+"Azureus just completed downloading an important update and must now be "
+"restarted so that the update can be installed."
+msgstr "Азуреус је управо завршио са пријемом важне доградње и мора да се поново покрене како би доградња била постављена."
+
+#: PiecesView.BlockView.Have
+msgid "Have"
+msgstr "Има"
+
+#: PiecesView.BlockView.NoHave
+msgid "Don't Have"
+msgstr "Нема"
+
+#: PiecesView.BlockView.Header
+msgid "%1 column(s), %2 row(s), %3 pieces"
+msgstr "колона: %1, редова: %2, делова: %3"
+
+#: ConfigView.section.update.autodownload
+msgid "Auto download updates and prompt when installation is ready"
+msgstr "Аутоматски пријем доградњи и упит када је постављање спремно"
 
 #~ msgid "Alternate upload slots when seeding"
 #~ msgstr "Други прорези за заметање"
