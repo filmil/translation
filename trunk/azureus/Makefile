@@ -41,6 +41,10 @@ all: $(final_object_1) $(final_object_2)
 # Target that gets the template from the CVS and produces a new .PO file
 all_merge: get_template pot merge adopt_merge
 
+stats:
+	@echo -n $(source_object)":  "
+	@msgfmt --statistics -c -v $(source_object)
+
 pot: $(pot_object)
 
 merge: $(merge_object)
@@ -49,14 +53,21 @@ adopt_merge: $(merge_object)
 	$(CP) $< $(source_object)
 
 clean:
-	$(RM) $(target_object_1) $(target_object_2) $(interim_object) \
-	      $(merge_object) $(final_object_1) $(final_object_2) \
-	      semantic.cache *~ $(pot_object)
+	$(RM) 	$(target_object_1) \
+		$(target_object_2) \
+		$(interim_object) \
+	      	$(merge_object) \
+		$(final_object_1) \
+		$(final_object_2) \
+		semantic.cache \
+		*~ \
+		$(pot_object)
 
 publish: $(final_object_1) $(final_object_2)
 	$(CP) $^ $(TARGETDIR)
 	( cd $(TARGETDIR) ; \
-          $(CVS) commit -m "Updated Serbian and Serbian Latin translations")
+          $(CVS) commit \
+		-m "Updated Serbian and Serbian Latin translations")
 
 get_template:
 	(cd $(TARGETDIR) ; $(CVS) update)

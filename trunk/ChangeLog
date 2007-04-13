@@ -1,4 +1,17 @@
+2007-04-14  Filip Miletic  <filmil@gmail.com>
+
+	* dvd::rip/sr.po: Updated translation for latest edition.
+
+2007-04-11  Filip Miletic  <filmil@gmail.com>
+
+	* plone/plone-sr.po: Changed "Review List" translation to make it 
+	consistent.
+
 2007-03-18  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: Updated translation
+
+	* azureus/Makefile (get_template): Updated makefile.
 
 	* plone/cmfeditions-sr.po: Update translation.
 

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Azureus 2.5.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-03-05 01:24+0100\n"
-"PO-Revision-Date: 2007-03-05 01:51+0100\n"
+"POT-Creation-Date: 2007-03-18 15:15+0100\n"
+"PO-Revision-Date: 2007-03-18 15:20+0100\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -2505,6 +2505,10 @@ msgstr ""
 "Дозволи Азуреусу да шаље анонимни број издања и анонимни идентификатор при "
 "провери новог издања"
 
+#: ConfigView.label.version.info.link
+msgid "Visit here for details on what data is sent to the version check server"
+msgstr "Посетите ову везу за детаље о подацима који се шаљу серверу за проверу издања"
+
 #: wizard.hint.mode
 msgid ""
 "Hint:\tYou can Drag and Drop a single file or directory on this wizard\n"
@@ -4397,8 +4401,8 @@ msgid "Update"
 msgstr "Освежи"
 
 #: UpdateWindow.restart
-msgid "Restart Now"
-msgstr "Поново покрени"
+msgid "Restart Azureus Now"
+msgstr "Покрени Азуреуса поново"
 
 #: UpdateWindow.status.failed DHTView.operations.failed
 msgid "Failed"
@@ -4747,6 +4751,14 @@ msgstr "Пријави портове које користе други рач�
 #: upnp.alertdeviceproblems
 msgid "Report problems with the UPnP device"
 msgstr "Пријави проблеме са UPnP уређајем"
+
+#: upnp.trace_to_log
+msgid "Output full debug information to log"
+msgstr "Записуј детаљне податке о грешкама"
+
+#: upnp.wiki_link
+msgid "Azureus Wiki page on UPnP"
+msgstr "Страна о УПнПу на Азуреусовом викију"
 
 #: blank.resource
 msgid "_: blank.resource\n"
@@ -5766,8 +5778,8 @@ msgstr ""
 "укључен за примљене везе."
 
 #: UpdateWindow.restartLater
-msgid "Restart Later"
-msgstr "Покрени касније"
+msgid "Restart Azureus Later"
+msgstr "Покрени Азуреуса поново, али касније"
 
 #: MainWindow.menu.file.restart
 msgid "Restart Azureus"
@@ -8450,10 +8462,7 @@ msgid ""
 "Network '%1' is known to impose traffic shaping to reduce download "
 "performance. Transport encryption has automatically been turned on - this "
 "can be turned off/modified via configuration parameters."
-msgstr ""
-"За мрежу „%1‟ се зна да користи обликовање саобраћаја како би успорила "
-"пренос датотека. Шифровање транспорта је аутоматски укључено. Ово понашање "
-"се може искључити или променити у подешавањима.\n"
+msgstr "За мрежу „%1‟ се зна да користи обликовање саобраћаја како би успорила пренос датотека. Шифровање транспорта је аутоматски укључено. Ово понашање се може искључити или променити у подешавањима."
 
 #: ConfigView.section.interface.alerts
 msgid "Alerts"
@@ -8569,13 +8578,17 @@ msgstr "Нема пријема"
 
 #: upnp.selectedaddresses
 msgid "Addresses (';' seperated, '-' prefix=deny, '+' =allow) [blank: any]"
-msgstr "Адресе („;‟ за одвајање, префикс „-‟=забрана, „+‟ =дознола) [празно: било која]"
+msgstr ""
+"Адресе („;‟ за одвајање, префикс „-‟=забрана, „+‟ =дознола) [празно: било "
+"која]"
 
 #: upnp.alert.multipledevice.warning
 msgid ""
 "Multiple UPnP devices have been detected - check if all require port mapping "
 "(see UPnP log and configuration)"
-msgstr "Пронађено је неколико УПнП уређаја - проверите да ли је свима потребно пресликавање портова (погледајте дневник и подешавања за УПнП)"
+msgstr ""
+"Пронађено је неколико УПнП уређаја - проверите да ли је свима потребно "
+"пресликавање портова (погледајте дневник и подешавања за УПнП)"
 
 #: UpdateMonitor.messagebox.restart.title
 msgid "Software Update"
@@ -8585,7 +8598,9 @@ msgstr "Доградња програма"
 msgid ""
 "Azureus just completed downloading an important update and must now be "
 "restarted so that the update can be installed."
-msgstr "Азуреус је управо завршио са пријемом важне доградње и мора да се поново покрене како би доградња била постављена."
+msgstr ""
+"Азуреус је управо завршио са пријемом важне доградње и мора да се поново "
+"покрене како би доградња била постављена."
 
 #: PiecesView.BlockView.Have
 msgid "Have"
@@ -8602,6 +8617,36 @@ msgstr "колона: %1, редова: %2, делова: %3"
 #: ConfigView.section.update.autodownload
 msgid "Auto download updates and prompt when installation is ready"
 msgstr "Аутоматски пријем доградњи и упит када је постављање спремно"
+
+#: Peers.column.peer_id Peers.column.peer_byte_id
+msgid "Peer ID"
+msgstr "ИД рачунара"
+
+#: Peers.column.peer_id.info
+msgid "Peer ID in readable form"
+msgstr "Ознаке рачунара у читљивом облику"
+
+#: Peers.column.peer_byte_id.info
+msgid "Peer ID in byte form"
+msgstr "Ознаке рачунара као низ бајтова"
+
+#: dht.warn.user
+msgid "Warn of potential NAT/port mapping problems"
+msgstr "Упозори у случају проблема са НАТ-ом и пресликавањем портова"
+
+#: ConfigView.label.openbar.incomplete
+msgid "Download bars: auto open downloads"
+msgstr "Траке за пријем: аутоматски отвори пријеме"
+
+#: ConfigView.label.openbar.complete
+msgid "auto open seeds"
+msgstr "Аутоматски отвори заметке"
+
+#~ msgid "Restart Now"
+#~ msgstr "Поново покрени"
+
+#~ msgid "Restart Later"
+#~ msgstr "Покрени касније"
 
 #~ msgid "Alternate upload slots when seeding"
 #~ msgstr "Други прорези за заметање"
