@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Azureus 2.5.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-03-18 15:15+0100\n"
-"PO-Revision-Date: 2007-03-18 15:20+0100\n"
+"POT-Creation-Date: 2007-04-25 00:13+0200\n"
+"PO-Revision-Date: 2007-04-25 00:14+0200\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -2507,7 +2507,8 @@ msgstr ""
 
 #: ConfigView.label.version.info.link
 msgid "Visit here for details on what data is sent to the version check server"
-msgstr "Посетите ову везу за детаље о подацима који се шаљу серверу за проверу издања"
+msgstr ""
+"Посетите ову везу за детаље о подацима који се шаљу серверу за проверу издања"
 
 #: wizard.hint.mode
 msgid ""
@@ -4838,6 +4839,7 @@ msgstr ""
 
 #: Button.clear plugins.basicview.clear
 #: ConfigView.section.interface.cleardecisionsbutton
+#: ConfigView.section.interface.cleartrackersbutton
 msgid "Clear"
 msgstr "Очисти"
 
@@ -6720,6 +6722,10 @@ msgstr "Запамти моју одлуку"
 msgid "Clear remembered dialog decisions"
 msgstr "Уклони запамћене одлуке у прозорчету"
 
+#: ConfigView.section.interface.cleartrackers
+msgid "Clear remembered trackers"
+msgstr "Уклони запамћене пратиоце"
+
 #: configureWizard.welcome.usermodes
 msgid ""
 "This User Proficiency setting will determine the level of the options "
@@ -8462,7 +8468,10 @@ msgid ""
 "Network '%1' is known to impose traffic shaping to reduce download "
 "performance. Transport encryption has automatically been turned on - this "
 "can be turned off/modified via configuration parameters."
-msgstr "За мрежу „%1‟ се зна да користи обликовање саобраћаја како би успорила пренос датотека. Шифровање транспорта је аутоматски укључено. Ово понашање се може искључити или променити у подешавањима."
+msgstr ""
+"За мрежу „%1‟ се зна да користи обликовање саобраћаја како би успорила "
+"пренос датотека. Шифровање транспорта је аутоматски укључено. Ово понашање "
+"се може искључити или променити у подешавањима."
 
 #: ConfigView.section.interface.alerts
 msgid "Alerts"
@@ -8473,7 +8482,7 @@ msgid "Popup an alert when a download is added"
 msgstr "Прикажи узбуну када се дода нови пријем"
 
 #: popup.download.added
-msgid "\"%1\" has beed added to your download list."
+msgid "\"%1\" has been added to your download list."
 msgstr "„%1‟ је додат у списак пријема."
 
 #: MessageBoxWindow.nomoreprompting
@@ -8641,6 +8650,10 @@ msgstr "Траке за пријем: аутоматски отвори приј
 #: ConfigView.label.openbar.complete
 msgid "auto open seeds"
 msgstr "Аутоматски отвори заметке"
+
+#: ConfigView.section.transfer.autospeed.forcemin
+msgid "%1 upload speed forced when baselining connection"
+msgstr "%1 брзина пријема приморана за основну везу"
 
 #~ msgid "Restart Now"
 #~ msgstr "Поново покрени"
