@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Azureus 2.5.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-04-25 00:13+0200\n"
-"PO-Revision-Date: 2007-04-25 00:14+0200\n"
+"POT-Creation-Date: 2007-05-12 10:58+0200\n"
+"PO-Revision-Date: 2007-05-12 11:19+0200\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -693,9 +693,8 @@ msgid "IRC"
 msgstr "ИРЦ"
 
 #: ConfigView.label.ircwiki
-msgid "Please read http://azureus.aelitis.com/wiki/index.php/Rules_for_IRC"
-msgstr ""
-"Молимо да прочитате http://azureus.aelitis.com/wiki/index.php/Rules_for_IRC"
+msgid "Please read http://www.azureuswiki.com/index.php/Rules_for_IRC"
+msgstr "Молимо да прочитате http://www.azureuswiki.com/index.php/Rules_for_IRC"
 
 #: ConfigView.label.ircserver ConfigView.section.tracker.server
 msgid "Server"
@@ -1780,12 +1779,8 @@ msgid "Confirmation"
 msgstr "Потврда"
 
 #: wizard.close.message
-msgid ""
-"Do you want this wizard to load\n"
-" next time Azureus is started?"
-msgstr ""
-"Да ли желите да се чаробњак учита\n"
-"наредни пут када се Азуреус покрене?"
+msgid "Do you want this wizard to load next time Azureus is started?"
+msgstr "Да ли желите да се чаробњак учита наредни пут када се Азуреус покрене?"
 
 #: exportTorrentWizard.title
 msgid "Export a XML torrent"
@@ -2469,7 +2464,7 @@ msgstr "Избор колона за приказ"
 msgid "Drag rows to re-order them"
 msgstr "Превуците редове како бисте их преуредили"
 
-#: columnChooser.apply Button.apply
+#: columnChooser.apply Button.apply SpeedTestWizard.set.upload.button.apply
 msgid "Apply"
 msgstr "Примени"
 
@@ -5447,8 +5442,8 @@ msgid "Advanced Network Settings"
 msgstr "Напредна подешавања мреже"
 
 #: ConfigView.section.connection.advanced.url
-msgid "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
-msgstr "http://azureus.aelitis.com/wiki/index.php/AdvancedNetworkSettings"
+msgid "http://www.azureuswiki.com/index.php/AdvancedNetworkSettings"
+msgstr "http://www.azureuswiki.com/index.php/AdvancedNetworkSettings"
 
 #: ConfigView.section.connection.advanced.mtu
 msgid "Line Maximum Transmission Unit (MTU)"
@@ -5761,7 +5756,7 @@ msgstr "Тренутно активне доградње"
 msgid "Press 'Abort' to terminate all outstanding tasks"
 msgstr "Притисните „Откажи“ како бисте зауставили све активне доградње"
 
-#: Button.abort
+#: Button.abort SpeedTestWizard.test.panel.abort
 msgid "Abort"
 msgstr "Откажи"
 
@@ -6996,11 +6991,11 @@ msgstr "Постави брзину %1"
 msgid "Enter a number %1 to change %2 to:"
 msgstr "Унеси број %1 да се промени %2 у:"
 
-#: MyTorrentsView.dialog.setNumber.upload
+#: MyTorrentsView.dialog.setNumber.upload speedtest.wizard.test.mode.up
 msgid "upload"
 msgstr "слање"
 
-#: MyTorrentsView.dialog.setNumber.download
+#: MyTorrentsView.dialog.setNumber.download speedtest.wizard.test.mode.down
 msgid "download"
 msgstr "пријем"
 
@@ -8234,13 +8229,9 @@ msgstr ""
 #: swt.alert.cant.update
 msgid ""
 "SWT library loaded from \"%3\" can't be automatically updated from version %"
-"1 to %2 (must be loaded from \"%4\"). Please see <A HREF=\"http://azureus."
-"aelitis.com/wiki/index.php/SWT_Cant_Auto_Update\">the wiki</A> for details."
-msgstr ""
-"SWT библиотека учитана са \"%3\" не може се аутоматски доградити са издања  %"
-"1 на %2 (мора се добавити са \"%4\"). Молимо да погледате <A HREF=\"http://"
-"azureus.aelitis.com/wiki/index.php/SWT_Cant_Auto_Update\">вики</A> за више "
-"података."
+"1 to %2 (must be loaded from \"%4\"). Please see <A HREF=\"http://www."
+"azureuswiki.com/index.php/SWT_Cant_Auto_Update\">the wiki</A> for details."
+msgstr "SWT библиотека учитана са \"%3\" не може се аутоматски доградити са издања  %1 на %2 (мора се добавити са \"%4\"). Молимо да погледате <A HREF=\"http://www.azureuswiki.com/index.php/SWT_Cant_Auto_Update\">вики</A> за више података."
 
 #: authenticator.savepassword
 msgid "Remember my password"
@@ -8655,14 +8646,317 @@ msgstr "Аутоматски отвори заметке"
 msgid "%1 upload speed forced when baselining connection"
 msgstr "%1 брзина пријема приморана за основну везу"
 
+#: MainWindow.menu.tools.speedtest
+msgid "Speed Test..."
+msgstr "Провера брзине..."
+
+#: speedtest.wizard.title
+msgid "Speed Test"
+msgstr "Провера брзине"
+
+#: speedtest.wizard.run
+msgid "Run a speed test"
+msgstr "Покрени проверу брзине"
+
+#: speedtest.wizard.test.mode.updown
+msgid "upload and download"
+msgstr "слање и пријем"
+
+#: SpeedTestWizard.test.panel.currinfo
+msgid "BitTorrent bandwidth testing."
+msgstr "Провера пропусног опсега."
+
+#: SpeedTestWizard.test.panel.label
+msgid "Azureus speed test:"
+msgstr "Азуреусова провера брзине:"
+
+#: SpeedTestWizard.test.panel.already.running
+msgid "Test already running!"
+msgstr "Провера већ ради!"
+
+#: SpeedTestWizard.test.panel.not.accepted
+msgid "Test request not accepted:"
+msgstr "Захтев за проверу је одбијен:"
+
+#: SpeedTestWizard.test.panel.explain
+msgid ""
+"Measure your upload and download rates using the BT protocol. Select the "
+"speed test type and the encryption mode. Then the Run button to start. While "
+"the test is running, hit Abort to stop it. The test will stop automatically "
+"if it takes longer then two minutes. Typical tests will finish in less then "
+"a minute. Once the test is finished it then recommends an max upload limit. "
+"Click Next apply the upload limit."
+msgstr "Измерите брзине слања и пријема употребом протокола БТ. Изаберите врсту провере брзине и начин шифровања. Затим притисните дугме „Покрени‟. Притисак на дугме „Откажи‟ зауставља тест. Провера ће се завршити аутоматски ако потраје дуже од два минута. Типично се провера брзине сама заврши после минут. Када се провера заврши, добићете препоруку за највећу брзину слања. Притисните „Даље‟ да примените препоруку."
+
+#: SpeedTestWizard.test.panel.abort.countdown
+msgid "abort test in:"
+msgstr "откажи проверу за:"
+
+#: SpeedTestWizard.test.panel.test.countdown
+msgid "test finish in:"
+msgstr "Провера завршава за:"
+
+#: SpeedTestWizard.test.panel.testfailed
+msgid "Test failed"
+msgstr "Провера није успела"
+
+#: SpeedTestWizard.test.panel.aborted
+msgid "Test aborted manually."
+msgstr "Провера је ручно отказана."
+
+#: SpeedTestWizard.test.panel.enc.label
+msgid "Press to test with encryption:"
+msgstr "Притисните за проверу са шифровањем:"
+
+#: SpeedTestWizard.test.panel.standard
+msgid "standard"
+msgstr "стадардни"
+
+#: SpeedTestWizard.test.panel.encrypted
+msgid "encrypted"
+msgstr "шифрован"
+
+#: SpeedTestWizard.set.upload.title
+msgid "Set Upload Limit"
+msgstr "Поставка брзине слања"
+
+#: SpeedTestWizard.set.upload.hint
+msgid "Set the upload limit to 80% of the measured value."
+msgstr "Постави брзину слања на 80% измерене вредности."
+
+#: SpeedTestWizard.set.upload.panel.explain
+msgid ""
+"To get the best performance out of Azureus, it is recommended that you set "
+"the upload limit to 80% of the achievable maximum.\n"
+"\n"
+"Note that line speeds are often quoted in \"bits per second\" - however the "
+"value below is shown in \"kilobytes per second\"."
+msgstr ""
+"За најбоље перформансе Азуреуса, препоручује се да за највећу брзину слања изаберете 80% од остваривог максимума.\n"
+"\n"
+"Брзине преноса се обично наводе у „битима у секунди‟, док су овде приказани „колобајти у секунди‟."
+
+#: SpeedTestWizard.set.upload.label
+msgid "Recommended Upload Speed Limit - %1"
+msgstr "Препоручено ограничење брзине слања је: %1"
+
+#: SpeedTestWizard.set.upload.result
+msgid "Last Test Result"
+msgstr "Резултат последње провере"
+
+#: SpeedTestWizard.set.upload.bytes.per.sec
+msgid "bytes/sec"
+msgstr "B/s"
+
+#: SpeedTestWizard.set.upload.bits.per.sec
+msgid "bits/sec"
+msgstr "b/s"
+
+#: SpeedTestWizard.finish.panel.title
+msgid "Speed Test Finished!"
+msgstr "Провера брзине је готова!"
+
+#: SpeedTestWizard.finish.panel.click.close
+msgid "You have finished the speed test wizard. Click close to exit."
+msgstr "Завршили сте проверу брзине.  Притисните „Затвори‟ да затворите."
+
+#: SpeedTestWizard.finish.panel.max.upload
+msgid "Max upload :"
+msgstr "Најбрже слање :"
+
+#: SpeedTestWizard.finish.panel.max.seeding.upload
+msgid "Max upload while seeding :"
+msgstr "Најбрже слање при заметању :"
+
+#: SpeedTestWizard.finish.panel.max.download
+msgid "Max download :"
+msgstr "Најбржи пријем :"
+
+#: SpeedTestWizard.finish.panel.auto.speed
+msgid "Auto speed is :"
+msgstr "Аутом. брзина је :"
+
+#: SpeedTestWizard.finish.panel.auto.speed.seeding
+msgid "Auto speed while seeding is :"
+msgstr "Aутоматска брзина при заметању је :"
+
+#: SpeedTestWizard.finish.panel.enabled
+msgid "enabled"
+msgstr "укључено"
+
+#: SpeedTestWizard.finish.panel.disabled
+msgid "disabled"
+msgstr "искључено"
+
+#: SpeedTestWizard.abort.message.scheduled.in
+msgid "test scheduled in ... %1 seconds\""
+msgstr "провера је заказана за ... %1 s"
+
+#: SpeedTestWizard.abort.message.unsupported.type
+msgid "Unsupported test type!!!!"
+msgstr "Ова провера није подржана!"
+
+#: SpeedTestWizard.abort.message.manual.abort
+msgid "Manually aborted"
+msgstr "Ручно отказано"
+
+#: SpeedTestWizard.abort.message.scheduling.failed
+msgid "Scheduling of the test failed"
+msgstr "Заказивање провере није успело"
+
+#: SpeedTestWizard.abort.message.download.added
+msgid "Download %1 added during test"
+msgstr "Приликом провере додат је пренос за %1"
+
+#: SpeedTestWizard.abort.message.entered.error
+msgid "Test download entered error state '%1'"
+msgstr "Пробни пренос је имао грешку: %1"
+
+#: SpeedTestWizard.abort.message.entered.queued
+msgid "Test downloaded entered queued/stopped state"
+msgstr "Пробни пренос је ушао у стање: заказан/заустављен"
+
+#: SpeedTestWizard.abort.message.interrupted
+msgid "TorrentSpeedTestMonitorThread was interrupted before test completed"
+msgstr "Провера TorrentSpeedTestMonitorThread је прекинута пре него што је провера завршена"
+
+#: SpeedTestWizard.abort.message.execution.failed
+msgid "Test execution failed"
+msgstr "Провера није успела"
+
+#: SpeedTestWizard.abort.message.failed.peers
+msgid "Failed to connect to any peers"
+msgstr "Није могуће повезати се ни на један рачунар"
+
+#: SpeedTestWizard.abort.message.insufficient.slots
+msgid "Could not upload to any of the peers - insufficient upload slots?"
+msgstr "Није могуће послати ни на један удаљен рачунар - можда нема довољно прореза за слање?"
+
+#: SpeedTestWizard.abort.message.not.unchoked
+msgid "Could not download from any of the peers as never unchoked by them"
+msgstr "Није могуће примити ни са једног рачунара услед удаљеног ограничења брзине"
+
+#: SpeedTestWizard.stage.message.requesting
+msgid "requesting test..."
+msgstr "захтев за проверз..."
+
+#: SpeedTestWizard.stage.message.preparing
+msgid "preparing test..."
+msgstr "припрема провере..."
+
+#: SpeedTestWizard.stage.message.starting
+msgid "starting test..."
+msgstr "покретање провере..."
+
+#: SpeedTestWizard.stage.message.connect.stats
+msgid "Connection stats: peers=%1, down_ok=%2, up_ok=%3"
+msgstr "Статистике провере: рачунара=%1, пријем_у_реду=%2, слање_у_реду=%3"
+
+#: window.uiswitcher.title
+msgid "Azureus UI Chooser"
+msgstr "Избор корисничког сучеља"
+
+#: window.uiswitcher.text
+msgid "Please select a user interface below that best suits your needs."
+msgstr "Молимо да испод изаберете корисничко сучеље које најбоље одговара Вашим потребама."
+
+#: window.uiswitcher.NewUI.title
+msgid "Vuze"
+msgstr "Вјуз (Vuze)"
+
+#: window.uiswitcher.NewUI.text
+msgid ""
+"Provides the most polished interface.\n"
+"\n"
+"Recommended for new and beginner users."
+msgstr ""
+"Обезбеђује најприступачније сучеље.\n"
+"\n"
+"Препоручује се новим и почетним корисницима."
+
+#: window.uiswitcher.AdvancedUI.title
+msgid "Advanced Vuze"
+msgstr "Напредни Вјуз (Vuze)"
+
+#: window.uiswitcher.AdvancedUI.text
+msgid ""
+"The new Vuze interface with the Advanced tab as the default.\n"
+"\n"
+"Excellent choice for users who are used to and like the classic interface, "
+"but still want to see how the Vuze UI is coming along."
+msgstr ""
+"Ново сучеље „Вјуз‟, са језичком „Напредно‟ као подразумевним.\n"
+"\n"
+"Одличан избор за кориснике којима се допада и навикнути су на класично сучеље, али и даље желе да виде како Вјуз напредује."
+
+#: window.uiswitcher.ClassicUI.title
+msgid "Classic Interface"
+msgstr "Класично сучеље"
+
+#: window.uiswitcher.ClassicUI.text
+msgid ""
+"For those who do not want anything to do with the new interface.  Azureus "
+"will run exactly the same way it did in the 2.x series of versions."
+msgstr "За оне који не желе да имају везе са новим сучељем.  Азуреус ће радити исто као што је радио у издањима 2.x."
+
+#: VivaldiView.notAvailable
+msgid "Vivaldi View not available"
+msgstr "Вивалди није доступан"
+
+#: restart.error
+msgid ""
+"Restart failed:\n"
+"%1\n"
+"See <A HREF=\"{restart.error.url}\">restarting issues</a>."
+msgstr ""
+"Поново покретање није успело:\n"
+"%1\n"
+"Погледајте <A HREF=\"{restart.error.url}\">проблеме при поновном покретању</a>."
+
+#: restart.error.url
+msgid "http://www.azureuswiki.com/index.php/Restarting_Issues"
+msgstr "http://www.azureuswiki.com/index.php/AdvancedNetworkSettings"
+
+#: restart.error.oom
+msgid "Out of Memory"
+msgstr "Нема меморије"
+
+#: restart.error.fnf
+msgid "'%1' not found in '%2'"
+msgstr "„%1‟ није пронађен у „%2‟"
+
+#: restart.error.pnf
+msgid "Path '%1' not found"
+msgstr "Стаза „%1‟ није пронађена"
+
+#: restart.error.bad
+msgid "Bad file format for '%1'"
+msgstr "Неисправан формат датотеке за „%1‟"
+
+#: restart.error.denied
+msgid ""
+"Access was denied when trying to run '%1'.  Make sure you have rights to run "
+"this program."
+msgstr "Приступ није дозвољен при покретању „%1‟. Проверите да ли смете да покрећете овај програм."
+
+#: MyTorrentsView.date_completed
+msgid "Completed On"
+msgstr "Готово у"
+
+#: MyTorrentsView.date_added.menu.reset
+msgid "Reset Date"
+msgstr "Датум ресета"
+
+#: ConfigView.section.ipfilter.discardbanning
+msgid "Block peers whose discarded data/good data ratio exceeds [0: disabled]"
+msgstr "Блокирај рачунаре за које однос одбачених и добрих пакета премашује: [0: искључено]"
+
+#: ConfigView.section.ipfilter.discardminkb
+msgid "Minimum %1 discarded before applying ratio"
+msgstr "Најмање %1 одбачених пре него што се примени однос"
+
 #~ msgid "Restart Now"
 #~ msgstr "Поново покрени"
-
-#~ msgid "Restart Later"
-#~ msgstr "Покрени касније"
-
-#~ msgid "Alternate upload slots when seeding"
-#~ msgstr "Други прорези за заметање"
 
 #~ msgid "Send to a Friend/Web Page"
 #~ msgstr "Слање пријатељу/на мрежну страну"
@@ -8757,9 +9051,6 @@ msgstr "%1 брзина пријема приморана за основну в
 
 #~ msgid "Send a torrent to a friend"
 #~ msgstr "Пошаљи торент пријатељу"
-
-#~ msgid "Send Torrent.."
-#~ msgstr "Пошаљи торент..."
 
 #~ msgid ""
 #~ "These options allow new features improving the functionality of this "
