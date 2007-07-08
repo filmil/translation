@@ -1,3 +1,17 @@
+2007-07-08  Filip Miletic  <filmil@gmail.com>
+
+	* plone/kupu/kupupox-sr.po: Fully translated.
+
+	* plone/kupu/kupu-sr.po: Started Kupu translation.
+
+2007-06-19  Filip Miletic  <filmil@gmail.com>
+
+	* mail-notification/Makefile (destination_objects): Made gzipped PO a default for delivery
+
+2007-06-08  Filip Miletic  <filmil@gmail.com>
+
+	* plone/plone-sr.po: Started updating the translation
+
 2007-05-12  Filip Miletic  <filmil@gmail.com>
 
 	* plone/plone-sr.po: Started updating to latest.

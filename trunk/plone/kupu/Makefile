@@ -15,7 +15,6 @@ log_object := trans.log
 .PHONY: clean publish
 
 all: $(dest_objects) 
-	make -C kupu all
 	$(MKDIR) distrib
 	$(CP) *.po distrib
 
@@ -26,30 +25,21 @@ all: $(dest_objects)
         > $@
 
 clean:
-	make -C kupu clean
 	$(RM) $(dest_objects) *~ semantic.cache $(log_object) *.mo
 	$(RM) -r distrib 
 
 publish: all
-	$(CP) *.po $(PLONEDIR)
-	make -C kupu publish
-	(cd $(PLONEDIR) ; \
-	  $(SVN) commit -m "Updated Serbian and Serbian Latin")
+	$(CP) *.po $(PLONEDIR)/kupu
+	(cd $(PLONEDIR)/kupu ; \
+	  $(SVN) commit -m "Updated Kupu for Serbian and Serbian Latin")
 
 import: 
 	(pushd . ; \
-	  cd $(PLONEDIR) ; \
-          $(SVN) update ; popd ; \
-	  $(CP) $(PLONEDIR)/*-sr.po . ; )
+	  $(CP) $(PLONEDIR)/kupu/*-sr.po . ; )
 	make -C kupu import
 
-
 stats:
-	@echo "Translation stats:"
-	@echo "---"
 	@for A in *-sr.po; do \
 	   echo -ne $$A":\t\t" ; \
 	   msgfmt --statistics -c -v $$A ; \
 	done
-	make -C kupu stats
-	@echo "---"
