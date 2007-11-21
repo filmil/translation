@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.6.0.216\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-11-20 21:59+0100\n"
-"PO-Revision-Date: 2007-11-21 05:36+0100\n"
+"PO-Revision-Date: 2007-11-21 18:51+0100\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -11684,7 +11684,7 @@ msgstr "Видео није у реду?  Особа с којом причат�
 msgid ""
 "Video quality not great? The person you're talking to has a slow internet "
 "connection which might be causing some problems."
-msgstr "Видео није у реду?  Особа с којом причате има спору везу са Интернетом, што може бити узрок неким проблемима.<"
+msgstr "Видео није у реду?  Особа с којом причате има спору везу са Интернетом, што може бити узрок неким проблемима."
 
 #: source/3.6.0.216.lang:sCQ_ADV_VIDEO_USB_LIMITED:3093
 #: source/3.6.0.216.lang:sCQ_ADV_VIDEO_USB_NO_BW:3094
@@ -11801,7 +11801,7 @@ msgstr "Веза са Мајспејсом није успела.  Унета ј
 #: source/3.6.0.216.lang:sF_MANDALAY_LB_ERROR2:3130
 msgid ""
 "Connection to MySpace failed. There is a server error. Pls try again later."
-msgstr "Веза са Мајспејсом није успела.  Дошло је до грешке на серверу.  Молимо да пробате касније.<"
+msgstr "Веза са Мајспејсом није успела.  Дошло је до грешке на серверу.  Молимо да пробате касније."
 
 #: source/3.6.0.216.lang:sF_MANDALAY_MOOD:3131
 msgid "<a href=\"%s\">Check out my MySpace page</a>"
