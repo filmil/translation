@@ -25,4 +25,11 @@ clean:
 	$(RM) sr@Latn.po sr.lang sr@Latn.lang  \
 	      semantic.cache *~ *.utf8
 
+pot: source/$(VERSION).lang
+	$(SKYPE2PO) $< skype-$(VERSION).pot
+
+merge: sr.po skype-$(VERSION).pot
+	$(MSGMERGE) $^ > temp.po
+	$(CP) temp.po sr.po
+	$(RM) temp.po
 

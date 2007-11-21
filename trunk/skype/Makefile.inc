@@ -1,4 +1,4 @@
-VERSION=2.5.0.130
+VERSION=3.6.0.216
 DISTRIB=distrib
 SKYPE2PO=skype2po.py
 PO2SKYPE=po2skype.py
@@ -12,7 +12,7 @@ SCP=scp
 DATE=$(shell date +%Y%m%d)
 NAME=filmil
 
-REMOTEDIR=filip@cobalt.et.tudelft.nl:~/public_html/files/tran/skype
+REMOTEDIR=~/mnt/hdlfactory/\~filmil/files/publish/translation/
 LAST_REV=date20050919-001
 
 SERBIANFILE=distrib/Serbian_$(VERSION)_$(DATE)_$(NAME).lang
