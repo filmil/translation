@@ -1,3 +1,24 @@
+2007-11-27  Filip Miletic  <filmil@gmail.com>
+
+	* mail-notification/sr.po: Updated for versio 5.0
+
+2007-11-21  Filip Miletic  <filmil@gmail.com>
+
+	* skype/sr.po: All untranslated messages are now translated
+	Completed 3.6.0.216.
+
+2007-11-20  Filip Miletic  <filmil@gmail.com>
+
+	* skype/Makefile: Major overhaul to support merging the translations
+
+2007-09-26  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: Updated
+
+2007-08-28  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/MessagesBundle.properties.po: Updated to latest. 
+
 2007-07-08  Filip Miletic  <filmil@gmail.com>
 
 	* plone/kupu/kupupox-sr.po: Fully translated.

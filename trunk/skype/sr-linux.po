@@ -1,0 +1,3278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-21 16:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 0.10.1\n"
+
+#: API#1
+msgid "Skype API Authorisation Request"
+msgstr ""
+
+#: API#2
+msgid "Another program wants to use Skype"
+msgstr "Други програм жели да користи Скајп"
+
+#: API#3
+msgid ""
+"A program \"%1\" is trying to connect to Skype. Do you want to allow it?"
+msgstr ""
+
+#: API#4 Options#11
+msgid "Public API"
+msgstr ""
+
+#: API#5
+msgid "Allowed programs:"
+msgstr ""
+
+#: API#6
+msgid "Blocked programs:"
+msgstr ""
+
+#: API#7
+msgid "Remove"
+msgstr "Уклони"
+
+#: API#8
+msgid "Enabled transports:"
+msgstr ""
+
+#: API#9
+msgid "X11"
+msgstr ""
+
+#: API#10
+msgid "DBUS"
+msgstr ""
+
+#: API#11
+msgid "Session"
+msgstr ""
+
+#: API#12
+msgid "System"
+msgstr ""
+
+#: API#13
+msgid "Default"
+msgstr ""
+
+#: API#14
+msgid "UNIX domain socket"
+msgstr ""
+
+#: API#15
+msgid "TCP network socket"
+msgstr ""
+
+#: API#16
+msgid ""
+"Allowing access to Skype API over network is insecure. Do it only<br>in well-"
+"controlled environments and never over the Internet.<br>Skype does not make "
+"any security guarantee if you enable networked<br>TCP socket, as the "
+"communication channel is unencrypted clear text."
+msgstr ""
+
+#: API#17
+msgid "Enable networked TCP socket"
+msgstr ""
+
+#: API#18
+msgid "Bus:"
+msgstr ""
+
+#: About#1
+msgid "Take a deep breath."
+msgstr ""
+
+#: About#2
+msgid "Version"
+msgstr ""
+
+#: Calls#1
+msgid "Open DTMF Dialpad"
+msgstr ""
+
+#: Calls#2
+msgid "Answer Call"
+msgstr ""
+
+#: Calls#3
+msgid "Reject Call"
+msgstr ""
+
+#: Calls#4
+msgid "Ignore Call"
+msgstr "Занемари позив"
+
+#: Calls#5 Video#10
+msgid "Call with %1"
+msgstr ""
+
+#: Calls#6
+msgid "Conference with %1"
+msgstr ""
+
+#: Calls#7
+msgid "Answer Calls"
+msgstr ""
+
+#: Calls#8
+msgid "Join to Conference"
+msgstr ""
+
+#: Calls#9
+msgid "Start Call"
+msgstr "Позив"
+
+#: Calls#10
+msgid "Hold Call"
+msgstr "Задржи позив"
+
+#: Calls#11
+msgid "Resume Call"
+msgstr "Настави позив"
+
+#: Calls#12
+msgid "Hangup"
+msgstr ""
+
+#: Calls#13
+msgid "Conference %1: All Participants"
+msgstr ""
+
+#: Calls#14
+msgid "Conference %1: %2"
+msgstr ""
+
+#: Calls#15
+msgid "End Call"
+msgstr "Крај позива"
+
+#: Calls#16
+msgid "Invite to Conference"
+msgstr "Позови на конференцију"
+
+#: Calls#17
+msgid "Call %1"
+msgstr ""
+
+#: Calls#18
+msgid "Place Call"
+msgstr ""
+
+#: Calls#19
+msgid "Start Conference with Selected Contacts"
+msgstr ""
+
+#: Calls#20
+msgid "Invite Selected Contacts to Conference"
+msgstr ""
+
+#: Calls#21
+msgid "Duration: %1"
+msgstr ""
+
+#: Calls#22
+msgid "Start conference call"
+msgstr ""
+
+#: Calls#23
+msgid "Conference call topic (optional):"
+msgstr ""
+
+#: Calls#24
+msgid "Ca&ll"
+msgstr ""
+
+#: Calls#25 Chats#11 Send Contacts#5 SendProgress#10
+msgid "&Cancel"
+msgstr "&Откажи"
+
+#: Calls#26 Chats#12 Send Contacts#20
+msgid "&Add"
+msgstr "&Додај"
+
+#: Calls#27
+msgid "&Do not add"
+msgstr ""
+
+#: Calls#28 Send Contacts#8
+msgid "Contacts in your list"
+msgstr ""
+
+#: Calls#29
+msgid "Contacts to call"
+msgstr ""
+
+#: Calls#30
+msgid "Type a number to call"
+msgstr ""
+
+#: Calls#31
+msgid "Click this button to resume the call."
+msgstr ""
+
+#: Calls#32
+msgid "Click this button to place the call on hold."
+msgstr ""
+
+#: Calls#33
+msgid "Unmute Microphone"
+msgstr "Укључи микрофон"
+
+#: Calls#34
+msgid ""
+"Click this button to restore your microphone so the remote party can hear "
+"you again."
+msgstr ""
+
+#: Calls#35
+msgid "Mute Microphone"
+msgstr "Утишај микрофон"
+
+#: Calls#36
+msgid ""
+"Click this button to mute your microphone so the remote party can no longer "
+"hear you."
+msgstr ""
+
+#: Calls#37
+msgid "Click this button to answer the incoming call."
+msgstr ""
+
+#: Calls#38
+msgid "Finish Call"
+msgstr ""
+
+#: Calls#39
+msgid "Click this button to finish the call and close the call window."
+msgstr ""
+
+#: Calls#40
+msgid "Conference Call - %1 participants"
+msgstr ""
+
+#: Calls#41
+msgid "Call Duration: %1"
+msgstr ""
+
+#: Calls#42
+msgid "Connecting..."
+msgstr "Прикључујем се..."
+
+#: Calls#43
+msgid "Call Cancelled"
+msgstr ""
+
+#: Calls#44
+msgid "User Not Found"
+msgstr ""
+
+#: Calls#45
+msgid "User Not Online"
+msgstr ""
+
+#: Calls#46
+msgid "No Proxies Found"
+msgstr ""
+
+#: Calls#47
+msgid "Session Terminated"
+msgstr ""
+
+#: Calls#48
+msgid "No Common Codec"
+msgstr ""
+
+#: Calls#49
+msgid "Problem with Audio Capture"
+msgstr ""
+
+#: Calls#50
+msgid "Problem with Audio Playback"
+msgstr ""
+
+#: Calls#51
+msgid "Remote Sound Problem"
+msgstr ""
+
+#: Calls#52
+msgid "Recipient Blocked"
+msgstr ""
+
+#: Calls#53
+msgid "Not Authorized"
+msgstr ""
+
+#: Calls#54
+msgid "Skype credit expired"
+msgstr ""
+
+#: Calls#55
+msgid "Insufficient credit"
+msgstr "Нема довољно кредита"
+
+#: Calls#56
+msgid "Number invalid"
+msgstr ""
+
+#: Calls#57 Events#40
+msgid "Call Failed"
+msgstr ""
+
+#: Calls#58
+msgid "Call Failed: %1"
+msgstr ""
+
+#: Calls#59
+msgid "Ringing..."
+msgstr "Звони..."
+
+#: Calls#60
+msgid "Call in Progress"
+msgstr "Позив у току"
+
+#: Calls#61
+msgid "Participant on Hold"
+msgstr ""
+
+#: Calls#62
+msgid "Participant Held the Call"
+msgstr ""
+
+#: Calls#63
+msgid "Call Finished"
+msgstr ""
+
+#: Calls#64 Events#39
+msgid "Call Missed"
+msgstr ""
+
+#: Calls#65
+msgid "Call Refused"
+msgstr ""
+
+#: Calls#66
+msgid "Busy"
+msgstr "Заузето"
+
+#: Calls#67
+msgid "Call Dropped"
+msgstr ""
+
+#: Calls#68
+msgid "Call Being Transferred"
+msgstr ""
+
+#: Calls#69
+msgid "Call Transferred"
+msgstr ""
+
+#: Calls#70
+msgid "Voicemail Greeting"
+msgstr "Поздравна порука"
+
+#: Calls#71
+msgid "Voicemail Recording"
+msgstr ""
+
+#: Calls#72 Events#71
+msgid "Voicemail Sent"
+msgstr "Гласовна порука је послата"
+
+#: Calls#73
+msgid "Voicemail Cancelled"
+msgstr ""
+
+#: Calls#74
+msgid "Voicemail Failed"
+msgstr "Гласовна порука није успела"
+
+#: Calls#75
+msgid "Unknown Call Status"
+msgstr ""
+
+#: Calls#76
+msgid "Hold/Resume Call"
+msgstr ""
+
+#: Calls#77
+msgid "Mute/Unmute Microphone"
+msgstr ""
+
+#: Calls#78 Main Window#12
+msgid "Call ordinary phones"
+msgstr ""
+
+#: Calls#79
+msgid "Calling rates"
+msgstr "Цене разговора"
+
+#: Calls#80
+msgid "Answer call"
+msgstr "Одговори на позив"
+
+#: Calls#81
+msgid "Rejcet Call"
+msgstr ""
+
+#: Calls#82
+msgid "Reject call"
+msgstr ""
+
+#: Calls#83
+msgid "and %1"
+msgstr ""
+
+#: Calls#84
+msgid "You are receiving a conference call from %1 %2"
+msgstr ""
+
+#: Calls#85
+msgid "%1 is calling you"
+msgstr ""
+
+#: Calls#86
+msgid "An unknown contact is calling you"
+msgstr ""
+
+#: Chats#1 Events#16
+msgid "Chats"
+msgstr "Поруке"
+
+#: Chats#2
+msgid "ChatToolbar"
+msgstr ""
+
+#: Chats#3
+msgid "Chat window control toolbar"
+msgstr ""
+
+#: Chats#4
+msgid "Start Chat"
+msgstr "Покрени поруке"
+
+#: Chats#5
+msgid "Open Chat"
+msgstr ""
+
+#: Chats#6
+msgid "Unbookmark Chat"
+msgstr ""
+
+#: Chats#7
+msgid "Bookmark Chat"
+msgstr "Забележи разговор"
+
+#: Chats#8
+msgid "Start Chat with Selected Contacts"
+msgstr ""
+
+#: Chats#9
+msgid "Add to Chat"
+msgstr "Додај у поруке"
+
+#: Chats#10
+msgid "&OK"
+msgstr ""
+
+#: Chats#13
+msgid "&Remove"
+msgstr ""
+
+#: Chats#14
+msgid "Choose contacts"
+msgstr "Избор контаката"
+
+#: Chats#15
+msgid "Chat participants"
+msgstr "Учесници у порукама"
+
+#: Chats#16
+msgid "Adding users failed"
+msgstr ""
+
+#: Chats#17
+msgid "Couldn't add some users to the chat."
+msgstr ""
+
+#: Chats#18
+msgid "[*] %1 - Skypeâ¢ Chat"
+msgstr ""
+
+#: Chats#19
+msgid "Add People"
+msgstr ""
+
+#: Chats#20
+msgid "Add people to the chat"
+msgstr ""
+
+#: Chats#21
+msgid "This person is on a device that does not support multichats."
+msgstr ""
+
+#: Chats#22
+msgid "Send File(s)"
+msgstr ""
+
+#: Chats#23
+msgid "Send file(s) to all people in this chat"
+msgstr ""
+
+#: Chats#24
+msgid "Chat History"
+msgstr "Дневник порука"
+
+#: Chats#25
+msgid "Load previous history from the chat"
+msgstr ""
+
+#: Chats#26
+msgid "Leave Chat"
+msgstr "Напуштање разговора"
+
+#: Chats#27
+msgid "Leave this chat"
+msgstr "Напусти разговор"
+
+#: Chats#28
+msgid "Last 24 Hours"
+msgstr ""
+
+#: Chats#29
+msgid "Last 7 Days"
+msgstr ""
+
+#: Chats#30
+msgid "Last 14 Days"
+msgstr ""
+
+#: Chats#31
+msgid "Last 30 Days"
+msgstr ""
+
+#: Chats#32 Options#27
+msgid "Forever"
+msgstr ""
+
+#: Chats#33
+msgid "Emoticons"
+msgstr "Емотикони"
+
+#: Chats#34 FindDialog#3
+msgid "Find"
+msgstr "Нађи"
+
+# #-#-#-#-#  linux-TMP.1.pot (PACKAGE VERSION)  #-#-#-#-#
+# Progress / Total
+#: Chats#35 Send Contacts#14
+msgid "%1 / %2"
+msgstr ""
+
+#: Chats#36
+msgid "Loading Chat History"
+msgstr ""
+
+#: Chats#37
+msgid "Really leave chat?"
+msgstr ""
+
+#: Chats#38
+msgid ""
+"If you leave this chat, you will no longer receive any new messages from the "
+"chat.  Are you really sure you want to leave the chat?"
+msgstr ""
+
+#: Chats#39
+msgid "Click here to hide members of this chat"
+msgstr ""
+
+#: Chats#40
+msgid "Click here to show members of this chat"
+msgstr ""
+
+#: Chats#41
+msgid "invited %1"
+msgstr ""
+
+#: Chats#42
+msgid "left the chat."
+msgstr ""
+
+#: Chats#43
+msgid "has changed the chat topic to \"%1\""
+msgstr ""
+
+#: Chats#44
+msgid "kicked %1 from the chat."
+msgstr ""
+
+#: Chats#45
+msgid "kicked and banned %1 from the chat."
+msgstr ""
+
+#: Chats#46
+msgid "has changed the chat picture."
+msgstr ""
+
+#: Chats#47
+msgid "has changed the chat guidelines."
+msgstr ""
+
+#: Chats#48
+msgid "Information"
+msgstr "Подаци"
+
+#: Chats#49
+msgid ""
+"Cannot find \"%1\" in chat (you might want to show all previous messages "
+"first)"
+msgstr ""
+
+#: Chats#50
+msgid ""
+"Cannot find more occurences of \"%1\" in chat (you might want to show all "
+"previous messages first)"
+msgstr ""
+
+# sF_MULTICHAT_EDITTOPIC_HINT_2
+#: Chats#51
+msgid "Double-click here to set chat topic."
+msgstr ""
+
+#: Chats#52
+msgid "Double-click here to set chat topic"
+msgstr "Притисните двапут овде да поставите тему разговора"
+
+#: Chats#53
+msgid "This chat is bookmarked"
+msgstr "Овај разговор је убележен"
+
+# sF_MULTICHAT_BOOKMARK_OFF
+#: Chats#54
+msgid "Click here to bookmark this chat"
+msgstr ""
+
+#: Chats#55
+msgid "Chat with %1"
+msgstr ""
+
+#: Chats#56
+msgid "%1 has joined the chat"
+msgstr ""
+
+#: Chats#57
+msgid "%1 new members were added to the chat"
+msgstr ""
+
+#: Chats#58
+msgid "%1 has left the chat"
+msgstr ""
+
+#: Chats#59
+msgid "%1 has set the topic to %2"
+msgstr ""
+
+#: Confirmation#1 File Transfer#11 Send Contacts#21
+msgid "Accept"
+msgstr "Прихвати"
+
+#: Confirmation#2 File Transfer#12
+msgid "Decline"
+msgstr "Одбиј"
+
+#: Confirmation#3 File Transfer#58 Options#12
+msgid "Close"
+msgstr "Затвори"
+
+#: Confirmation#4
+msgid "Yes"
+msgstr "Да"
+
+#: Confirmation#5
+msgid "No"
+msgstr "Не"
+
+#: Confirmation#6
+msgid "Remember this selection"
+msgstr ""
+
+#: Confirmation#7
+msgid "Are you sure?"
+msgstr ""
+
+#: Confirmation#8
+msgid "Cancel"
+msgstr "Откажи"
+
+#: Confirmation#9
+msgid "Update"
+msgstr "Освежи"
+
+#: Confirmation#10
+msgid "Clear"
+msgstr "Очисти"
+
+#: Confirmation#11
+msgid "Apply"
+msgstr "Примени"
+
+#: Confirmation#12
+msgid "Reset"
+msgstr "Очисти"
+
+#: Confirmation#13
+msgid "OK"
+msgstr "&У реду"
+
+#: Confirmation#14
+msgid "Back"
+msgstr "Назад"
+
+#: Confirmation#15
+msgid "Try Again"
+msgstr ""
+
+#: Contact Authorisation#1
+msgid "Request Authorisation"
+msgstr ""
+
+#: Contact Authorisation#2
+msgid "Add and Authorise Contact"
+msgstr ""
+
+#: Contact Authorisation#3
+msgid "Authorise Contact Only"
+msgstr ""
+
+#: Contact Authorisation#4
+msgid "Authorise Contact"
+msgstr ""
+
+#: Contact Authorisation#5
+msgid "Ignore Authorisation Request"
+msgstr ""
+
+#: Contact Authorisation#6
+msgid "%1 people"
+msgstr ""
+
+#: Contact Authorisation#7
+msgid "Say Hello to %1"
+msgstr ""
+
+#: Contact Authorisation#8
+msgid "Type a short message to introduce yourself to %1"
+msgstr ""
+
+#: Contact Authorisation#9
+msgid "Please allow me to see when you are online"
+msgstr "Молим Вас да ми допустите да видим када сте на вези"
+
+#: Contact Authorisation#10
+msgid "Send a request to see this contact's status"
+msgstr ""
+
+#: Contact Authorisation#11
+msgid "Do not send a request to this contact"
+msgstr ""
+
+#: Contact Authorisation#12
+msgid "Send a request to see these contact's details"
+msgstr ""
+
+#: Contact Authorisation#13
+msgid "Do not send a request to these contacts"
+msgstr ""
+
+#: Contact Authorisation#14
+msgid "Allow this contact to see your status"
+msgstr ""
+
+#: Contact Authorisation#15
+msgid "Do not allow this contact to see your status"
+msgstr ""
+
+#: Contact Authorisation#16
+msgid "Allow these contacts to see your status"
+msgstr ""
+
+#: Contact Authorisation#17
+msgid "Do not allow these contacts to see your status"
+msgstr ""
+
+#: Contact Authorisation#18
+msgid " Call %1"
+msgstr ""
+
+#: Contact Authorisation#19
+msgid " Start a chat with %1"
+msgstr ""
+
+#: Contact Authorisation#20
+msgid " View the profile of %1"
+msgstr ""
+
+#: Contact Authorisation#21
+msgid "Authorisation request from %1"
+msgstr ""
+
+#: Contact Authorisation#22
+msgid "Authorise the contact and add them to your contact list"
+msgstr ""
+
+#: Contact Authorisation#23
+msgid "Accept the authorisation request"
+msgstr ""
+
+#: Contact Authorisation#24
+msgid "Ignore the authorisation request"
+msgstr ""
+
+#: Contact Authorisation#25
+msgid "Please let me see your contact details."
+msgstr ""
+
+#: Contact Information#1
+msgid "This is the user's current mood message. "
+msgstr ""
+
+#: Contact Information#2
+msgid "Call Contact"
+msgstr "Позови познаника"
+
+#: Contact Information#3
+msgid "Click this button to place a call to this contact."
+msgstr ""
+
+#: Contact Information#4
+msgid "Call Button"
+msgstr ""
+
+#: Contact Information#5
+msgid "Chat to Contact"
+msgstr ""
+
+#: Contact Information#6
+msgid "Click this button to start a chat with this contact."
+msgstr ""
+
+#: Contact Information#7
+msgid "Chat Button"
+msgstr ""
+
+#: Contact Information#8
+msgid "View Profile"
+msgstr "Преглед профила"
+
+#: Contact Information#9
+msgid "Click this button to view this contact's profile."
+msgstr ""
+
+#: Contact Information#10
+msgid "Profile Button"
+msgstr ""
+
+#: Contact Information#11
+msgid "This contact is configured for video conferencing."
+msgstr ""
+
+# jom
+#: Contact Information#12
+msgid "Online"
+msgstr "На вези"
+
+#: Contact Information#13
+msgid "Skype Me"
+msgstr ""
+
+#: Contact Information#14
+msgid "Away"
+msgstr "Одсутан"
+
+#: Contact Information#15
+msgid "Not Available"
+msgstr "Нисам ту"
+
+#: Contact Information#16
+msgid "Do Not Disturb"
+msgstr "Не ометај"
+
+#: Contact Information#17
+msgid "Invisible"
+msgstr "Невидљив"
+
+#: Contact Information#18
+msgid "Offline"
+msgstr "Неповезан"
+
+#: Contact Information#19
+msgid "Edit Profile"
+msgstr ""
+
+#: Contact Information#20 Events#6
+msgid "Undisclosed Number"
+msgstr ""
+
+#: Contact Information#21
+msgid "SkypeOut contact"
+msgstr "СкајпАут познаник"
+
+#: Contact Information#22
+msgid "Last Seen: %1"
+msgstr ""
+
+#: Contact Information#23
+msgid "Edit Contact"
+msgstr ""
+
+#: Contact Information#24
+msgid "Rename Contact"
+msgstr ""
+
+#: Contact Information#25
+msgid "Contact Groups"
+msgstr "Групе"
+
+#: Contact Information#26
+msgid "Delete Contact"
+msgstr ""
+
+#: Contact Information#27
+msgid "Add to Contact List"
+msgstr ""
+
+#: Contact Information#28
+msgid "Unblock Contact"
+msgstr ""
+
+#: Contact Information#29
+msgid "Block Contact"
+msgstr ""
+
+#: Contact Information#30
+msgid "Are you sure you wish to delete %1 from your contact list?"
+msgstr ""
+
+#: Contact Information#31
+msgid "Are you sure you wish to block %1?"
+msgstr ""
+
+#: Contact Information#32
+msgid "Delete Selected Contacts"
+msgstr ""
+
+#: Contact Information#33
+msgid ""
+"Are you sure you wish to delete the selected users from your contact list?"
+msgstr ""
+
+#: Contact Information#34
+msgid "This contact is using a mobile device that does not support chats."
+msgstr ""
+
+#: Contact Information#35 Events#25
+msgid "%1, %2 turned %3"
+msgstr ""
+
+#: Contact Information#36 Events#26
+msgid "%1, %2 turns %3"
+msgstr ""
+
+#: Contact Information#37
+msgid "Profile for %1"
+msgstr ""
+
+#: Contact Information#38
+msgid "Contact Information"
+msgstr ""
+
+#: Contact Information#39
+msgid "Skype Name:"
+msgstr "Скајпово име:"
+
+#: Contact Information#40
+msgid "Full Name:"
+msgstr "Пуно име:"
+
+#: Contact Information#41
+msgid "E-mail:"
+msgstr "Ел. адреса:"
+
+#: Contact Information#42
+msgid "Home Phone:"
+msgstr "Кућни тел.:"
+
+# 20050404: zmeYpc -- скраћено
+#: Contact Information#43
+msgid "Office Phone:"
+msgstr "Тел. на послу:"
+
+#: Contact Information#44
+msgid "Mobile Phone:"
+msgstr "Мобилни тел.:"
+
+#: Contact Information#45
+msgid "Personal Information"
+msgstr ""
+
+# 20050406 Доследно у односу на коришћење речи Contacts на другим местима у преводу
+#: Contact Information#46
+msgid "Contacts:"
+msgstr "Познаници:"
+
+#: Contact Information#47
+msgid "Local Time:"
+msgstr ""
+
+#: Contact Information#48
+msgid "Birthday:"
+msgstr ""
+
+#: Contact Information#49
+msgid "Age:"
+msgstr "Год.:"
+
+#: Contact Information#50
+msgid "Gender:"
+msgstr "Пол:"
+
+#: Contact Information#51
+msgid "Language:"
+msgstr "Језик:"
+
+#: Contact Information#52
+msgid "Country:"
+msgstr "Земља:"
+
+#: Contact Information#53
+msgid "Region:"
+msgstr ""
+
+#: Contact Information#54
+msgid "City:"
+msgstr "Град"
+
+# 20050406 Скраћење, уз наду да је Веб практично синоним за Интернет
+#: Contact Information#55
+msgid "Homepage:"
+msgstr "Интернет:"
+
+#: Contact Information#56
+msgid "Phone Number:"
+msgstr ""
+
+#: Contact Information#57
+msgid "Male"
+msgstr "Мушки"
+
+#: Contact Information#58
+msgid "Female"
+msgstr "Женски"
+
+#: Contact Information#59
+msgid "Change Avatar"
+msgstr ""
+
+#: Contact Information#60
+msgid "Remove Avatar"
+msgstr ""
+
+#: Contact Information#61
+msgid "Click here to read the privacy policy"
+msgstr ""
+
+#: Contact Information#62
+msgid "Clear Birthday"
+msgstr ""
+
+#: Contact Information#63
+msgid "-- Unspecified --"
+msgstr ""
+
+#: Contact Information#64
+msgid "Rename"
+msgstr ""
+
+#: Contact Information#65
+msgid "Edit SkypeOut Contact"
+msgstr "Уреди познанике са СкајпАута"
+
+#: Contact Information#66
+msgid "Type a new name or number for %1"
+msgstr ""
+
+#: Contact Information#67
+msgid "Clear Name"
+msgstr ""
+
+#: Contact Information#68
+msgid "Rename %1"
+msgstr ""
+
+#: Contact Information#69
+msgid "Type a new display name for %1"
+msgstr ""
+
+#: Contact Information#70
+msgid "Name"
+msgstr "Име"
+
+#: Contact Information#71
+msgid "Gender"
+msgstr "Пол"
+
+#: Contact Information#72
+msgid "City"
+msgstr "Град"
+
+#: Contact Information#73 EULA#3
+msgid "Language"
+msgstr "Језик"
+
+#: Contact Information#74
+msgid "Connecting"
+msgstr "Повезивање"
+
+#: Contact Information#75
+msgid "Offline with Voicemail"
+msgstr ""
+
+#: Contact Information#76
+msgid "Offline with Call Forwarding"
+msgstr "Неповезан, позиви се прослеђују"
+
+#: Contact Information#77
+msgid "Online from Mobile"
+msgstr ""
+
+#: Contact Information#78
+msgid "Away from Mobile"
+msgstr ""
+
+#: Contact Information#79
+msgid "Not Available from Mobile"
+msgstr ""
+
+#: Contact Information#80
+msgid "Do Not Disturb from Mobile"
+msgstr ""
+
+#: Contact Information#81
+msgid "Skype Me from Mobile"
+msgstr ""
+
+#: Contact Information#82
+msgid "Blocked"
+msgstr "Блокиран"
+
+#: Contact Information#83
+msgid "Awaiting Authorisation"
+msgstr ""
+
+#: Contact Information#84 Events#77
+msgid "Unknown"
+msgstr ""
+
+#: Contact Information#85
+msgid "Undisclosed number"
+msgstr ""
+
+#: Contact Information#86
+msgid "Echo Test Service"
+msgstr ""
+
+#: Contact Information#87
+msgid "%n contact(s)"
+msgstr ""
+
+#: Contact Search#1
+msgid "Add Contact"
+msgstr "Додај познаника"
+
+#: Contact Search#2
+msgid "Search"
+msgstr "Претражи"
+
+#: Contact Search#3
+msgid "Country/Region"
+msgstr "Земља/област"
+
+#: Contact Search#4
+msgid "Phone Number"
+msgstr "Телефонски број"
+
+#: Contact Search#5
+msgid "International"
+msgstr ""
+
+#: Contact Search#6
+msgid "All Countries/Regions"
+msgstr ""
+
+#: Contact Search#7
+msgid "Age Range"
+msgstr "Опсег година"
+
+#: Contact Search#8
+msgid "All Ages"
+msgstr ""
+
+# 20050406: zmeYpc
+#: Contact Search#9
+msgid "State/Province"
+msgstr "Држава/област"
+
+#: Contact Search#10
+msgid "Do not specify"
+msgstr "Није битно"
+
+#: Contact Search#11
+msgid "All Languages"
+msgstr ""
+
+#: Contact Search#12
+msgid "'Skype Me' mode"
+msgstr ""
+
+#: Contact Search#13
+msgid "Show only Skype Me contacts"
+msgstr ""
+
+#: Contact Search#14 Login#34
+msgid "Full Name"
+msgstr "Пуно име"
+
+#: Contact Search#15
+msgid "Skype Name"
+msgstr "Скајпово име"
+
+# Result Table Header: City, Country
+#: Contact Search#16
+msgid "City, Country"
+msgstr ""
+
+#: Contact Search#17
+msgid "Add a Skype Contact"
+msgstr ""
+
+#: Contact Search#18
+msgid "Search for Skype Contacts"
+msgstr ""
+
+#: Contact Search#19
+msgid ""
+"Search the Skype directory for old and new friends. If you know their Skype "
+"name, full name or e-mail address, enter it into the box below."
+msgstr ""
+
+#: Contact Search#20
+msgid "Or add an ordinary phone number as a SkypeOut contact"
+msgstr ""
+
+#: Contact Search#21
+msgid "New Search"
+msgstr ""
+
+#: Contact Search#22
+msgid "Add a SkypeOut Contact"
+msgstr ""
+
+#: Contact Search#23
+msgid "Add an ordinary phone number as a SkypeOut contact"
+msgstr ""
+
+#: Contact Search#24
+msgid "Or add a Skype contact"
+msgstr ""
+
+#: Contact Search#25
+msgid "Add Number"
+msgstr ""
+
+#: Contact Search#26
+msgid "Cancel Search"
+msgstr ""
+
+#: Controls#1
+msgid "Ctrl+O"
+msgstr ""
+
+#: Controls#2
+msgid "Ctrl+Q"
+msgstr ""
+
+#: Dates and Time#1
+msgid "Tomorrow"
+msgstr "Сутра"
+
+#: Dates and Time#2
+msgid "Today"
+msgstr "Данас"
+
+#: Dates and Time#3
+msgid "Yesterday"
+msgstr "Јуче"
+
+#: EULA#1
+msgid "Skype End User License Agreement"
+msgstr "Скајпов уговор са крајњим корисником"
+
+#: EULA#2
+msgid ""
+"To start using Skype, you must agree to the terms of the End User License "
+"Agreement."
+msgstr ""
+
+#: EULA#4
+msgid "End User License Agreement"
+msgstr ""
+
+#: Events#1 Main Window#29
+msgid "Show History"
+msgstr ""
+
+#: Events#2 Main Window#30
+msgid "Mark All Viewed"
+msgstr ""
+
+#: Events#3
+msgid "Unread Chats"
+msgstr ""
+
+#: Events#4
+msgid "Recent Chats"
+msgstr "Скорашњи разговори"
+
+#: Events#5
+msgid "Bookmarked Chats"
+msgstr "Забележени разговори"
+
+#: Events#7
+msgid "Birthday for %1"
+msgstr ""
+
+#: Events#8
+msgid "Remind Me Later"
+msgstr ""
+
+#: Events#9
+msgid "Delete Event"
+msgstr ""
+
+#: Events#10
+msgid "Delete Selected Events"
+msgstr ""
+
+#: Events#11
+msgid "Unknown event"
+msgstr ""
+
+#: Events#12 Main Window#14
+msgid "Event History"
+msgstr ""
+
+#: Events#13
+msgid "New Events"
+msgstr ""
+
+#: Events#14
+msgid "Calls"
+msgstr "Позиви"
+
+#: Events#15
+msgid "Voicemails"
+msgstr "Гласовне поруке"
+
+#: Events#17 Main Window#17
+msgid "File Transfers"
+msgstr ""
+
+#: Events#18
+msgid "SMS"
+msgstr "СМС"
+
+#: Events#19
+msgid "Birthdays"
+msgstr ""
+
+#: Events#20
+msgid "%1 has appeared online"
+msgstr ""
+
+#: Events#21
+msgid "%1 has gone offline"
+msgstr ""
+
+#: Events#22
+msgid "%1 has been added to your contact list"
+msgstr ""
+
+#: Events#23
+msgid "%1 has been deleted from your contact list"
+msgstr ""
+
+#: Events#24
+msgid "%1 has a birthday"
+msgstr ""
+
+#: Events#27 Options#39
+msgid "Test Event"
+msgstr ""
+
+#: Events#28
+msgid "Example Chat Message"
+msgstr ""
+
+#: Events#29
+msgid "This is an example of a chat event popup."
+msgstr ""
+
+#: Events#30
+msgid "Test Sound"
+msgstr ""
+
+#: Events#31
+msgid "Skype Login"
+msgstr ""
+
+#: Events#32
+msgid "Skype Logout"
+msgstr ""
+
+#: Events#33
+msgid "Skype Login Failed"
+msgstr ""
+
+#: Events#34
+msgid "Call Connecting"
+msgstr ""
+
+#: Events#35
+msgid "Incoming Call Ringing"
+msgstr ""
+
+#: Events#36
+msgid "Outgoing Call Ringing"
+msgstr ""
+
+#: Events#37
+msgid "Call Answered"
+msgstr ""
+
+#: Events#38
+msgid "Number Busy"
+msgstr ""
+
+#: Events#41
+msgid "Call on Hold"
+msgstr "Позив на чекању"
+
+#: Events#42
+msgid "Call Resumed"
+msgstr ""
+
+#: Events#43
+msgid "Call Waiting"
+msgstr ""
+
+#: Events#44
+msgid "Call Hungup"
+msgstr ""
+
+#: Events#45
+msgid "Call Ended"
+msgstr ""
+
+#: Events#46
+msgid "First Chat Message Received"
+msgstr ""
+
+#: Events#47
+msgid "Chat Message Received"
+msgstr ""
+
+#: Events#48
+msgid "Chat Message Sent"
+msgstr ""
+
+#: Events#49
+msgid "Contact Joined Chat"
+msgstr ""
+
+#: Events#50
+msgid "Contact Left Chat"
+msgstr ""
+
+#: Events#51
+msgid "Contact Kicked from Chat"
+msgstr ""
+
+#: Events#52
+msgid "Contact Came Online"
+msgstr ""
+
+#: Events#53
+msgid "Contact Went Offline"
+msgstr ""
+
+#: Events#54
+msgid "Incoming Authorisation Request"
+msgstr ""
+
+#: Events#55
+msgid "Contact Profile Updated"
+msgstr ""
+
+#: Events#56
+msgid "Contact Added to List"
+msgstr ""
+
+#: Events#57
+msgid "Contact Deleted from List"
+msgstr ""
+
+#: Events#58
+msgid "File Transfer Request"
+msgstr ""
+
+#: Events#59
+msgid "File Transfer Complete"
+msgstr ""
+
+#: Events#60
+msgid "File Transfer Failed"
+msgstr ""
+
+#: Events#61
+msgid "Contacts Received"
+msgstr ""
+
+#: Events#62
+msgid "Contacts Sent"
+msgstr ""
+
+#: Events#63
+msgid "SMS Received"
+msgstr ""
+
+#: Events#64
+msgid "SMS Sent"
+msgstr ""
+
+#: Events#65
+msgid "SMS Failed"
+msgstr ""
+
+#: Events#66
+msgid "Money Received"
+msgstr ""
+
+#: Events#67
+msgid "Money Sent"
+msgstr ""
+
+#: Events#68
+msgid "Credit Received"
+msgstr ""
+
+#: Events#69
+msgid "Credit Sent"
+msgstr ""
+
+#: Events#70
+msgid "Voicemail Received"
+msgstr ""
+
+#: Events#72
+msgid "Advertisement"
+msgstr ""
+
+#: Events#73
+msgid "Upsell"
+msgstr ""
+
+#: Events#74
+msgid "Contact's Birthday"
+msgstr ""
+
+#: Events#75
+msgid "Our Birthday"
+msgstr ""
+
+#: Events#76
+msgid "Credit is Low"
+msgstr ""
+
+#: File Tranfer#1 Transfer#81
+msgid "Cleanup"
+msgstr ""
+
+#: File Transfer#1
+msgid "Send File"
+msgstr "Пошаљи датотеку"
+
+#: File Transfer#2
+msgid "Accept Transfer"
+msgstr ""
+
+#: File Transfer#3
+msgid "Resume Transfer"
+msgstr ""
+
+#: File Transfer#4
+msgid "Pause Transfer"
+msgstr ""
+
+#: File Transfer#5
+msgid "Cancel Transfer"
+msgstr ""
+
+#: File Transfer#6
+msgid "Retry Transfer"
+msgstr ""
+
+#: File Transfer#7
+msgid "Open Receiving Directory"
+msgstr ""
+
+#: File Transfer#8
+msgid "Send File to Selected Contacts"
+msgstr ""
+
+#: File Transfer#9
+msgid "Incoming files from %1"
+msgstr ""
+
+#: File Transfer#10
+msgid ""
+"Your transfer is being relayed. Click this icon to find out what this means."
+msgstr ""
+
+#: File Transfer#13
+msgid "%1 files - %2"
+msgstr ""
+
+#: File Transfer#14
+msgid "%1 transfers"
+msgstr ""
+
+#: File Transfer#15
+msgid ""
+"Some of your transfers are being relayed.  Click this icon to find out what "
+"this means."
+msgstr ""
+
+#: File Transfer#16
+msgid ""
+"Your transfer is being relayed.  Click this icon to find out what this means."
+msgstr ""
+
+#: File Transfer#17
+msgid "1 transfer"
+msgstr ""
+
+#: File Transfer#18
+msgid "%1 requires authorisation"
+msgstr ""
+
+#: File Transfer#19
+msgid "%1 cancelled the transfer"
+msgstr ""
+
+#: File Transfer#20
+msgid "Could not read from the file"
+msgstr ""
+
+#: File Transfer#21
+msgid "Could not write to the file"
+msgstr ""
+
+#: File Transfer#22
+msgid "%1 could not write the file"
+msgstr ""
+
+#: File Transfer#23
+msgid "%1 does not support file transfers"
+msgstr ""
+
+#: File Transfer#24
+msgid "%1 has been offline for too long"
+msgstr ""
+
+#: File Transfer#25
+msgid "Failed"
+msgstr ""
+
+#: File Transfer#26
+msgid "Incoming transfer from %1"
+msgstr ""
+
+#: File Transfer#27
+msgid "Connecting to %1"
+msgstr ""
+
+#: File Transfer#28
+msgid "Receiving from %1"
+msgstr ""
+
+#: File Transfer#29
+msgid "Paused - Receiving from %1"
+msgstr ""
+
+#: File Transfer#30
+msgid "Cancelled - Transfer from %1"
+msgstr ""
+
+#: File Transfer#31
+msgid "Completed - Received from %1"
+msgstr ""
+
+#: File Transfer#32
+msgid "Failed - %1"
+msgstr ""
+
+#: File Transfer#33
+msgid "Waiting for %1 to authorise transfer"
+msgstr ""
+
+#: File Transfer#34
+msgid "Sending file to %1"
+msgstr ""
+
+#: File Transfer#35
+msgid "Paused - Sending file to %1"
+msgstr ""
+
+#: File Transfer#36
+msgid "Cancelled - Transfer to %1"
+msgstr ""
+
+#: File Transfer#37
+msgid "Completed - Sent to %1"
+msgstr ""
+
+#: File Transfer#38
+msgid "Status Unknown"
+msgstr ""
+
+#: File Transfer#39
+msgid "Accept transfer"
+msgstr ""
+
+#: File Transfer#40
+msgid "Accept Transfer to..."
+msgstr ""
+
+#: File Transfer#41
+msgid "Decline transfer"
+msgstr ""
+
+#: File Transfer#42
+msgid "Decline Transfer"
+msgstr ""
+
+#: File Transfer#43
+msgid "Accept All"
+msgstr ""
+
+#: File Transfer#44
+msgid "Accept all transfers"
+msgstr ""
+
+#: File Transfer#45
+msgid "Accept All Transfers"
+msgstr ""
+
+#: File Transfer#46
+msgid "Accept All Transfers to..."
+msgstr ""
+
+#: File Transfer#47
+msgid "Decline All"
+msgstr ""
+
+#: File Transfer#48
+msgid "Decline all transfers"
+msgstr ""
+
+#: File Transfer#49
+msgid "Decline All Transfers"
+msgstr ""
+
+#: File Transfer#50
+msgid "Pause all transfers"
+msgstr ""
+
+#: File Transfer#51
+msgid "Pause All Transfers"
+msgstr ""
+
+#: File Transfer#52
+msgid "Cancel all transfers"
+msgstr ""
+
+#: File Transfer#53
+msgid "Cancel All Transfers"
+msgstr ""
+
+#: File Transfer#54
+msgid "Retry failed transfers"
+msgstr ""
+
+#: File Transfer#55
+msgid "Retry Failed Transfers"
+msgstr ""
+
+#: File Transfer#56
+msgid "Cancel active transfers"
+msgstr ""
+
+#: File Transfer#57
+msgid "Cancel Active Transfers"
+msgstr ""
+
+#: File Transfer#59
+msgid "Close Transfer"
+msgstr ""
+
+#: File Transfer#60
+msgid "Pause transfer"
+msgstr ""
+
+#: File Transfer#61
+msgid "Resume transfer"
+msgstr ""
+
+#: File Transfer#62
+msgid "Open the directory for this file"
+msgstr ""
+
+#: File Transfer#63
+msgid "Open Directory"
+msgstr ""
+
+#: File Transfer#64
+msgid "Retry transfer"
+msgstr ""
+
+#: File Transfer#65
+msgid "Cancel transfer"
+msgstr ""
+
+#: File Transfer#66
+msgid "%1 files"
+msgstr ""
+
+#: File Transfer#67
+msgid "%1 recipients"
+msgstr ""
+
+# #-#-#-#-#  linux-TMP.1.pot (PACKAGE VERSION)  #-#-#-#-#
+# Sub-transfer partner skypename, progress, speed and finish ETA
+# #-#-#-#-#  linux-TMP.1.pot (PACKAGE VERSION)  #-#-#-#-#
+# Top transfer partner skypename or recipient/file count, progress, speed and finish ETA
+#: File Transfer#68 Transfer#69
+msgid "%1 - %2 (%3) - %4"
+msgstr ""
+
+# Progress: bytes transferred of bytes total
+#: File Transfer#70
+msgid "%1 of %2"
+msgstr ""
+
+# Speed: size units per second
+#: File Transfer#71
+msgid "%1ps"
+msgstr ""
+
+#: File Transfer#72
+msgid "Finishing in %1"
+msgstr ""
+
+#: File Transfer#73
+msgid "%1 seconds"
+msgstr ""
+
+#: File Transfer#74
+msgid "Choose Directory to Save Files"
+msgstr ""
+
+#: File Transfer#75
+msgid "Choose File Name to Save"
+msgstr ""
+
+#: File Transfer#76
+msgid "All files downloaded to:"
+msgstr ""
+
+#: File Transfer#77
+msgid "Open Default Download Directory"
+msgstr ""
+
+#: File Transfer#78
+msgid "Remove completed and failed transfers from the list"
+msgstr ""
+
+#: File Transfer#79
+msgid "Choose Default Directory to Save Files"
+msgstr ""
+
+#: File Transfer#80
+msgid "All Transfers"
+msgstr ""
+
+#: File Transfer#82
+msgid "All Inactive Transfers"
+msgstr ""
+
+#: File Transfer#83
+msgid "Auto-Accept File Transfers"
+msgstr ""
+
+#: File Transfer#84
+msgid "Change Default Download Directory..."
+msgstr ""
+
+#: File Transfer#85
+msgid "Choose File(s) to send to %1"
+msgstr ""
+
+#: File Transfer#86
+msgid "Choose File(s) to send to selected users"
+msgstr ""
+
+#: File Transfer#87
+msgid "%n transfer(s) from %1"
+msgstr ""
+
+#: File Transfer#88
+msgid "Accept %n transfer(s) from %1"
+msgstr ""
+
+#: File Transfer#89
+msgid "Decline %n transfer(s) from %1"
+msgstr ""
+
+#: File Transfer#90
+msgid "Cleanup %n Received Transfer(s)"
+msgstr ""
+
+#: File Transfer#91
+msgid "Cleanup %n Sent Transfer(s)"
+msgstr ""
+
+#: File Transfer#92
+msgid "Cleanup %n Failed Transfer(s)"
+msgstr ""
+
+#: FindDialog#1
+msgid "Search options"
+msgstr ""
+
+#: FindDialog#2
+msgid "Direction"
+msgstr "Смер"
+
+#: FindDialog#4
+msgid "Fi&nd what:"
+msgstr "На&ђи ово:"
+
+# sF_FIND_WHOLE_WORDS
+#: FindDialog#5
+msgid "&Match whole word only"
+msgstr ""
+
+# sF_FIND_MATCH_CASE
+#: FindDialog#6
+msgid "M&atch case"
+msgstr ""
+
+# sF_FIND_IGNORE_TITLES
+#: FindDialog#7
+msgid "I&gnore poster names"
+msgstr ""
+
+#: FindDialog#8
+msgid "&Up"
+msgstr "&Горе"
+
+# sF_FIND_DIRECTION_DOWN
+#: FindDialog#9
+msgid "D&own"
+msgstr ""
+
+# sF_OPTIONS_BUTTON_CANCEL
+#: FindDialog#10
+msgid "Cance&l"
+msgstr ""
+
+#: LoadHistory#1 Login#1 SendProgress#1
+msgid "Form"
+msgstr ""
+
+#: LoadHistory#2
+msgid "loadhistory"
+msgstr ""
+
+#: LoadHistory#3
+msgid "Load chat history progress"
+msgstr ""
+
+#: LoadHistory#4
+msgid "Loading chat history..."
+msgstr ""
+
+#: LoadHistory#5 SendProgress#5
+msgid "sendprogress"
+msgstr ""
+
+#: LoadHistory#6 SendProgress#6
+msgid "Send progress count"
+msgstr ""
+
+#: LoadHistory#7 SendProgress#7
+msgid "24 / 100"
+msgstr ""
+
+#: LoadHistory#8 SendProgress#8
+msgid "sendprogressbar"
+msgstr ""
+
+#: LoadHistory#9 SendProgress#9
+msgid "Send progress bar"
+msgstr ""
+
+#: Login#2
+msgid ""
+"<span style=\" font-size:13pt; font-weight:600; color:#00bfff;\">Welcome to "
+"Skype.</span>"
+msgstr ""
+
+#: Login#3
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">p, li { white-space: pre-wrap; }</style></head><body style=\" font-"
+"family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal; text-"
+"decoration:none;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-weight:600;\">Skype Name</span></p></body></html>"
+msgstr ""
+
+#: Login#4
+msgid "<a href=\"moo\">Don't have a Skype Name yet?</a>"
+msgstr ""
+
+#: Login#5
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">p, li { white-space: pre-wrap; }</style></head><body style=\" font-"
+"family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal; text-"
+"decoration:none;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-weight:600;\">Password</span></p></body></html>"
+msgstr ""
+
+#: Login#6
+msgid "<a href=\"\">Forgot your password?</a>"
+msgstr ""
+
+#: Login#7
+msgid "Sign me in when Skype starts"
+msgstr "Пријави ме аутоматски када се Скајп покрене"
+
+#: Login#8
+msgid "Sign in"
+msgstr "Пријава"
+
+#: Login#9
+msgid "Signing in..."
+msgstr "Пријављивање..."
+
+#: Login#10
+msgid "Signed in"
+msgstr ""
+
+#: Login#11
+msgid "Logout requested"
+msgstr ""
+
+#: Login#12
+msgid "HTTPS proxy auth failed"
+msgstr ""
+
+#: Login#13
+msgid "SOCKS proxy auth failed"
+msgstr ""
+
+#: Login#14
+msgid "P2P connect failed"
+msgstr ""
+
+#: Login#15
+msgid "Server connect failed"
+msgstr ""
+
+#: Login#16
+msgid "Server is overloaded"
+msgstr ""
+
+#: Login#17
+msgid "Invalid Skype Name"
+msgstr "Неважеће Скајпово име"
+
+#: Login#18
+msgid "Invalid Email"
+msgstr ""
+
+#: Login#19
+msgid "Unacceptable Password"
+msgstr ""
+
+#: Login#20
+msgid "Skype Name Taken"
+msgstr "Ово име се већ користи"
+
+#: Login#21
+msgid "Rejected as underage"
+msgstr ""
+
+#: Login#22
+msgid "No such Skype Name"
+msgstr ""
+
+#: Login#23
+msgid "Incorrect Password"
+msgstr "Лозинка је неисправна"
+
+#: Login#24
+msgid "Too many login attempts"
+msgstr ""
+
+#: Login#25
+msgid "Another Skype instance may exist"
+msgstr ""
+
+#: Login#26
+msgid "Password has changed"
+msgstr ""
+
+#: Login#27
+msgid "Periodic UIC update failed"
+msgstr ""
+
+#: Login#28
+msgid "Sign up failed"
+msgstr ""
+
+#: Login#29
+msgid "Sign in failed"
+msgstr ""
+
+#: Login#30
+msgid "Signing up..."
+msgstr ""
+
+#: Login#31
+msgid "Forgot your password?"
+msgstr "Заборавили сте лозинку?"
+
+#: Login#32
+msgid "Create a new Skype Account"
+msgstr "Направи нови Скајпов налог"
+
+#: Login#33
+msgid "Sign up"
+msgstr ""
+
+#: Login#35
+msgid "Email Address"
+msgstr ""
+
+#: Login#36
+msgid "A valid e-mail address is the only way to retrieve lost passwords"
+msgstr ""
+
+#: Login#37
+msgid "Please email me with Skype news and special offers"
+msgstr ""
+
+#: Login#38
+msgid "Choose Skype Name"
+msgstr "Изаберите Скајпово име"
+
+#: Login#39 Login#68
+msgid "Between 6 and 32 characters"
+msgstr "Између 6 и 32 знака"
+
+#: Login#40 Options#89
+msgid "Password"
+msgstr "Лозинка"
+
+# #-#-#-#-#  linux-TMP.1.pot (PACKAGE VERSION)  #-#-#-#-#
+# Minimum Password Length Hint
+#: Login#41 Login#69
+msgid "Minimum 6 characters"
+msgstr ""
+
+#: Login#42
+msgid "Verify Password"
+msgstr ""
+
+# EULA Agreement: Part 1 of 5
+#: Login#43
+msgid "Yes, I have read and I accept the"
+msgstr ""
+
+# EULA Agreement: Part 2 of 5
+#: Login#44
+msgid "Skype End User License"
+msgstr ""
+
+# EULA Agreement: Part 3 of 5
+#: Login#45
+msgid "Skype Terms of Services"
+msgstr ""
+
+# EULA Agreement: Part 4 of 5
+#: Login#46
+msgid "and the"
+msgstr ""
+
+#: Login#47
+msgid "Skype Privacy Statement"
+msgstr "Скајпову изјаву о приватности"
+
+#: Login#48
+msgid "Fields marked with an asterisk are required"
+msgstr ""
+
+#: Login#49
+msgid "Sorry!"
+msgstr ""
+
+#: Login#50
+msgid "Unfortunately, another person is already using this Skype name."
+msgstr ""
+
+#: Login#51
+msgid "Please choose another below, or enter one of your own."
+msgstr ""
+
+#: Login#52
+msgid "Other: "
+msgstr ""
+
+#: Login#53
+msgid "Congratulations!"
+msgstr ""
+
+#: Login#54
+msgid ""
+"You have successfully signed up to Skype.  What would you like to do now?"
+msgstr ""
+
+#: Login#55
+msgid "Edit your profile so friends can find you"
+msgstr ""
+
+#: Login#56
+msgid "Search for new and old friends on Skype"
+msgstr ""
+
+#: Login#57
+msgid "Make a test call to check your sound configuration"
+msgstr ""
+
+#: Login#58
+msgid "Configure your devices and Skype's behaviour"
+msgstr ""
+
+#: Login#59
+msgid "Click here to configure network settings"
+msgstr ""
+
+#: Login#60
+msgid "Your Skype Name must be between 6 and 32 characters."
+msgstr ""
+
+#: Login#61
+msgid "Your Skype Name contains invalid characters."
+msgstr ""
+
+#: Login#62
+msgid "Your password must be at least 6 characters."
+msgstr ""
+
+#: Login#63
+msgid "Your entered passwords do not match."
+msgstr ""
+
+#: Login#64
+msgid "Your password must differ from your Skype name."
+msgstr ""
+
+#: Login#65
+msgid "An e-mail address is required."
+msgstr ""
+
+#: Login#66
+msgid "You must agree to the terms specified."
+msgstr ""
+
+#: Login#67
+msgid "Sign up for your new Skype account"
+msgstr ""
+
+#: Login#70
+msgid ""
+"Please wait while we create your account.This shouldn't take more than a few "
+"seconds."
+msgstr ""
+
+#: Login#71
+msgid "This Skype Name is taken.  Please choose another."
+msgstr ""
+
+#: Login#72
+msgid "This Skype Name is invalid.  Please choose another."
+msgstr ""
+
+#: Login#73
+msgid "This email is invalid.  Please choose another."
+msgstr ""
+
+#: Login#74
+msgid "This password is invalid.  Please choose another."
+msgstr ""
+
+#: Login#75
+msgid ""
+"There was a network problem while signing up for your account.Please check "
+"your network configuration or try again later."
+msgstr ""
+
+#: Login#76
+msgid "There was a problem signing up for your account.Please try again."
+msgstr ""
+
+#: Login#77
+msgid "Change Password"
+msgstr "Промена лозинке"
+
+#: Login#78
+msgid "Current Password"
+msgstr ""
+
+#: Login#79
+msgid "New Password"
+msgstr ""
+
+#: Login#80
+msgid "Verify New Password"
+msgstr ""
+
+#: Login#81
+msgid "Your password must be at least 6 characters in length."
+msgstr ""
+
+#: Login#82
+msgid "Automatically sign-in when I start Skype"
+msgstr ""
+
+#: Login#83
+msgid "Password Changed."
+msgstr ""
+
+#: Login#84
+msgid "Your password has been successfully changed."
+msgstr ""
+
+#: Login#85
+msgid "Your new and old passwords match."
+msgstr ""
+
+#: Login#86
+msgid "Your password is too long."
+msgstr ""
+
+#: Login#87
+msgid "Your password contains an invalid character."
+msgstr ""
+
+#: Login#88
+msgid "Click here to change your password"
+msgstr ""
+
+#: Login#89
+msgid "Changing Password..."
+msgstr ""
+
+#: Login#90
+msgid ""
+"Please wait while your password is changed.This shouldn't take more than a "
+"few seconds."
+msgstr ""
+
+#: Login#91
+msgid "Current password is incorrect."
+msgstr ""
+
+#: Login#92
+msgid ""
+"Server connect failed.Please check your internet connection and try again."
+msgstr ""
+
+#: Login#93
+msgid "Your new password can not be the same as your old password."
+msgstr ""
+
+#: Login#94
+msgid "Your new password is invalid."
+msgstr ""
+
+#: Login#95
+msgid "You must be logged in in order to change your password."
+msgstr ""
+
+#: Login#96
+msgid "Password Change Failed"
+msgstr ""
+
+#: Login#97
+msgid ""
+"An unknown error occured whilst changing your password.Please try again "
+"later."
+msgstr ""
+
+#: Main Window#1
+msgid "All Groups"
+msgstr ""
+
+#: Main Window#2
+msgid "Click here to change your status"
+msgstr ""
+
+#: Main Window#3
+msgid "Change Status"
+msgstr "Промени статус"
+
+#: Main Window#4
+msgid "Click here to personalise your mood and profile"
+msgstr ""
+
+#: Main Window#5
+msgid "Click here to change your avatar"
+msgstr ""
+
+#: Main Window#6
+msgid "Type your mood message in this box"
+msgstr ""
+
+#: Main Window#7
+msgid "Skype Credit"
+msgstr "Скајпов кредит"
+
+#: Main Window#8
+msgid "SkypeIn"
+msgstr "СкајпИн"
+
+#: Main Window#9
+msgid "Skype Voicemail"
+msgstr "Скајпова гласовна пошта"
+
+#: Main Window#10
+msgid "Visit account page"
+msgstr ""
+
+#: Main Window#11
+msgid "Quit"
+msgstr "Крај"
+
+#: Main Window#13
+msgid ""
+"This is the amount of credit you have on your Skype account for making "
+"SkypeOut calls."
+msgstr ""
+
+#: Main Window#15
+msgid "Add or Search for Skype Contacts"
+msgstr ""
+
+#: Main Window#16
+msgid "Main Menu"
+msgstr ""
+
+#: Main Window#18
+msgid "Binary file corrupted"
+msgstr ""
+
+#: Main Window#19
+msgid "Please reinstall Skype."
+msgstr ""
+
+# Pre-login main window title: ie. %1 = "Skype", %2 = "1.5", %3 = " (Alpha)"
+#: Main Window#20
+msgid "%1 %2%3 for Linux"
+msgstr ""
+
+#: Main Window#21
+msgid "%1 Skype Credit available"
+msgstr ""
+
+#: Main Window#22
+msgid "SkypeOut account is inactive"
+msgstr ""
+
+#: Main Window#23
+msgid "SkypeIn account expires in %1 days"
+msgstr ""
+
+#: Main Window#24
+msgid "SkypeIn account is inactive"
+msgstr ""
+
+#: Main Window#25
+msgid "%1 People Online"
+msgstr ""
+
+#: Main Window#26
+msgid "Images"
+msgstr ""
+
+#: Main Window#27
+msgid "Show Contacts"
+msgstr ""
+
+#: Main Window#28
+msgid "Click here to show contact list"
+msgstr ""
+
+#: Main Window#31
+msgid "Click here to hide new events"
+msgstr ""
+
+#: Main Window#32
+msgid "Click here to show new events"
+msgstr ""
+
+#: Main Window#33
+msgid "Click here to show event history"
+msgstr ""
+
+#: Main Window#34
+msgid "Click here to show contacts"
+msgstr ""
+
+#: Main Window#35
+msgid "Start Conference Call..."
+msgstr "Покрени конференцију..."
+
+#: Main Window#36
+msgid "Change Password..."
+msgstr "Промена лозинке..."
+
+#: Main Window#37
+msgid "&Options"
+msgstr "&Опције..."
+
+#: Main Window#38
+msgid "&About"
+msgstr ""
+
+#: Main Window#39
+msgid "Sign &Out"
+msgstr ""
+
+#: Main Window#40
+msgid "&Quit"
+msgstr ""
+
+#: Main Window#41
+msgid "New Version Available"
+msgstr ""
+
+#: Main Window#42
+msgid "Open Download Page"
+msgstr ""
+
+#: Main Window#43
+msgid "A new version of Skype is now available for download."
+msgstr ""
+
+#: Main Window#44
+msgid "Current Version: %1"
+msgstr ""
+
+#: Main Window#45
+msgid "New Version: %1"
+msgstr ""
+
+#: Main Window#46
+msgid "This is a required upgrade."
+msgstr ""
+
+#: Main Window#47
+msgid "%n new event(s)"
+msgstr ""
+
+#: Options#1
+msgid "General"
+msgstr "Опште"
+
+#: Options#2
+msgid "Privacy"
+msgstr "Приватност"
+
+#: Options#3
+msgid "Notifications"
+msgstr "Дојаве"
+
+#: Options#4
+msgid "Chat"
+msgstr "Порука"
+
+#: Options#5
+msgid "Call Forwarding"
+msgstr "Прослеђивање позива"
+
+#: Options#6 Voicemail#6
+msgid "Voicemail"
+msgstr "Гласовна пошта"
+
+#: Options#7
+msgid "Sound Devices"
+msgstr "Звучни уређаји"
+
+#: Options#8
+msgid "Video Devices"
+msgstr ""
+
+#: Options#9
+msgid "Advanced"
+msgstr "Напредно"
+
+#: Options#10
+msgid "Blocked People"
+msgstr ""
+
+#: Options#13
+msgid "Options"
+msgstr "Опције"
+
+#: Options#14
+msgid "When I double-click on a Contact or use the address field"
+msgstr ""
+
+#: Options#15
+msgid "Start a call"
+msgstr "Позови"
+
+#: Options#16
+msgid "Start a chat"
+msgstr "Пошаљи поруку"
+
+#: Options#17
+msgid "Show me as 'Away' when I am inactive for"
+msgstr "Прикажи одсутност ако ме нема "
+
+#: Options#18
+msgid "minutes"
+msgstr "минута"
+
+#: Options#19
+msgid "Show me as 'Not Available' when I am inactive for"
+msgstr ""
+
+#: Options#20
+msgid "Start Skype minimised in the system tray"
+msgstr ""
+
+#: Options#21
+msgid "Set program language to:"
+msgstr ""
+
+#: Options#22
+msgid ""
+"Click 'Apply' and restart Skype for your language change to take effect."
+msgstr ""
+
+#: Options#23
+msgid "anybody"
+msgstr ""
+
+#: Options#24
+msgid "only people I have allowed"
+msgstr ""
+
+#: Options#25
+msgid "anybody with a visible number"
+msgstr ""
+
+#: Options#26
+msgid "only numbers of my Contacts"
+msgstr ""
+
+#: Options#28
+msgid "2 weeks"
+msgstr "2 недеље"
+
+#: Options#29
+msgid "1 month"
+msgstr "1 месец"
+
+#: Options#30
+msgid "3 months"
+msgstr "3 месеца"
+
+#: Options#31
+msgid "Disable History"
+msgstr ""
+
+#: Options#32
+msgid "Allow my status to be shown on the web."
+msgstr "Дозволи приказивање статуса моје везе на мрежи."
+
+#: Options#33
+msgid "Automatically answer incoming calls."
+msgstr ""
+
+#: Options#34
+msgid "Allow calls from..."
+msgstr "Дозволи позиве од..."
+
+#: Options#35
+msgid "Allow SkypeIn calls from..."
+msgstr "Дозволи СкајпИн позиве од..."
+
+#: Options#36
+msgid "Allow chats from..."
+msgstr "Дозволи поруке од..."
+
+#: Options#37
+msgid "Keep chat history for..."
+msgstr ""
+
+#: Options#38
+msgid "Enable Event"
+msgstr ""
+
+#: Options#40
+msgid "Restore Default"
+msgstr ""
+
+#: Options#41
+msgid "Advanced View"
+msgstr ""
+
+#: Options#42
+msgid "Execute the following script on any event:"
+msgstr ""
+
+#: Options#43
+msgid "Play sound file:"
+msgstr ""
+
+#: Options#44
+msgid "None Configured"
+msgstr ""
+
+#: Options#45
+msgid "The file is not accessible."
+msgstr ""
+
+#: Options#46
+msgid "Reset to Default Sound"
+msgstr ""
+
+#: Options#47
+msgid "Display pop-up notification"
+msgstr ""
+
+#: Options#48
+msgid "Send the other contact a message:"
+msgstr ""
+
+#: Options#49
+msgid "Execute the following script:"
+msgstr ""
+
+#: Options#50
+msgid "Sounds"
+msgstr "Звуци"
+
+#: Options#51
+msgid "When somebody starts a chat with me..."
+msgstr ""
+
+#: Options#52
+msgid "Display an event notification"
+msgstr ""
+
+#: Options#53
+msgid "Create a minimised chat window"
+msgstr ""
+
+#: Options#54
+msgid "Open a chat window in front of me"
+msgstr ""
+
+#: Options#55
+msgid "Show emoticons"
+msgstr "Показуј емотиконе"
+
+#: Options#56
+msgid "Show animated emoticons"
+msgstr "Показуј покретне смешке"
+
+#: Options#57
+msgid "Show others when I am typing"
+msgstr ""
+
+#: Options#58
+msgid ""
+"With call forwarding, you can answer your Skype calls even when you're not "
+"currently online."
+msgstr ""
+
+#: Options#59
+msgid ""
+"So you could be away from home, or perhaps traveling on the other side of "
+"the planet with no internet access, and still receive your calls."
+msgstr ""
+
+#: Options#60
+msgid ""
+"To forward calls to ordinary phones, you need Skype Credit.  Each forwarded "
+"call to a standard phone number will be charged Skype Credit at normal rates."
+msgstr ""
+
+#: Options#61
+msgid "Learn more about Call Forwarding"
+msgstr "Научите више о прослеђивању позива."
+
+#: Options#62
+msgid ""
+"Call Forwarding will re-direct any calls received when your are not on Skype "
+"to a telephone number of your choice."
+msgstr ""
+
+#: Options#63
+msgid "Forward calls when I'm not on Skype"
+msgstr "Проследи позиве када нисам на Скајпу"
+
+#: Options#64
+msgid "Forward calls if I do not answer on Skype within"
+msgstr ""
+
+#: Options#65 Voicemail#16
+msgid "seconds"
+msgstr "секунди"
+
+#: Options#66
+msgid ""
+"You need to <a href=\"buyskypecredit\">purchase Skype Credit</a> to forward "
+"calls to ordinary phones."
+msgstr ""
+
+#: Options#67
+msgid ""
+"Each forwarded call to a standard phone number will be charged Skype Credit "
+"at <a href=\"normalrates\">normal rates</a>."
+msgstr ""
+
+#: Options#68
+msgid "Sound In"
+msgstr ""
+
+#: Options#69
+msgid "Sound Out"
+msgstr ""
+
+#: Options#70
+msgid "Ringing"
+msgstr "Звоњење"
+
+#: Options#71
+msgid "Make a test sound"
+msgstr ""
+
+#: Options#72
+msgid "Make a test call"
+msgstr ""
+
+#: Options#73
+msgid "Allow Skype to automatically adjust my mixer levels"
+msgstr ""
+
+#: Options#74
+msgid "nobody"
+msgstr ""
+
+#: Options#75
+msgid "Automatically receive video from..."
+msgstr "Аутоматски прихвати видео од..."
+
+#: Options#76
+msgid "Show that I have video to..."
+msgstr "Покажи овим особама да постоји видео..."
+
+#: Options#77
+msgid "Skype"
+msgstr "Скајп"
+
+#: Options#78
+msgid "Check for updates on startup"
+msgstr ""
+
+#: Options#79
+msgid "Display technical call info"
+msgstr ""
+
+#: Options#80
+msgid "Connection"
+msgstr "Веза"
+
+#: Options#81
+msgid "Use port"
+msgstr "Користи порт"
+
+#: Options#82
+msgid "for incoming connections"
+msgstr "за долазне везе"
+
+#: Options#83
+msgid "Automatic Proxy Detection"
+msgstr ""
+
+#: Options#84
+msgid "HTTPS Proxy"
+msgstr ""
+
+#: Options#85
+msgid "SOCKS Proxy"
+msgstr ""
+
+#: Options#86
+msgid "Host"
+msgstr "Рачунар"
+
+#: Options#87
+msgid "Port"
+msgstr "Порт"
+
+#: Options#88
+msgid "User"
+msgstr ""
+
+#: Options#90
+msgid "Unblock Selected People"
+msgstr ""
+
+#: Options#91
+msgid "Add Contacts I unblock back to my Contact List"
+msgstr ""
+
+#: Quickfilter#1
+msgid "Show contact list"
+msgstr ""
+
+#: Quickfilter#2
+msgid "** Show contact list with groups"
+msgstr ""
+
+#: Quickfilter#3
+msgid "Call a contact not in your list"
+msgstr ""
+
+#: Quickfilter#4
+msgid "** Add to conference by name/number"
+msgstr ""
+
+#: Quickfilter#5
+msgid "** Send an SMS message"
+msgstr ""
+
+#: Quickfilter#6
+msgid "** Join a public chat"
+msgstr ""
+
+#: Quickfilter#7
+msgid "Search through your contacts"
+msgstr ""
+
+#: Quickfilter#8
+msgid "Search through event history"
+msgstr ""
+
+#: Quickfilter#9
+msgid "Enter a public chat blob"
+msgstr ""
+
+#: Quickfilter#10
+msgid "Enter a number or Skype name"
+msgstr ""
+
+#: Quickfilter#11
+msgid "Usage: +number message"
+msgstr ""
+
+#: Quickfilter#12
+msgid "Send an SMS message"
+msgstr "Пошаљи СМС поруку"
+
+#: Send Contacts#1
+msgid "Send Contacts"
+msgstr "Пошаљи контакте"
+
+#: Send Contacts#2
+msgid "Send contacts"
+msgstr ""
+
+#: Send Contacts#3
+msgid "Recipients list (space separated Skype names):"
+msgstr ""
+
+#: Send Contacts#4
+msgid "&Send"
+msgstr ""
+
+#: Send Contacts#6
+msgid "Send"
+msgstr "Пошаљи"
+
+#: Send Contacts#7
+msgid "Do not send"
+msgstr ""
+
+#: Send Contacts#9
+msgid "Contacts to send"
+msgstr "Познаници који се шаљу"
+
+#: Send Contacts#10
+msgid "Not sending to %1: PSTN number."
+msgstr ""
+
+#: Send Contacts#11
+msgid "Not sending to %1: contact is blocked."
+msgstr ""
+
+#: Send Contacts#12
+msgid "Not sending to myself."
+msgstr ""
+
+#: Send Contacts#13
+msgid "Not sending to %1: Internal error."
+msgstr ""
+
+#: Send Contacts#15
+msgid "cancelled"
+msgstr ""
+
+#: Send Contacts#16
+msgid "&Close"
+msgstr ""
+
+#: Send Contacts#17
+msgid "Sent contacts to %1."
+msgstr ""
+
+#: Send Contacts#18
+msgid "Contacts NOT sent to %1."
+msgstr ""
+
+#: Send Contacts#19
+msgid "Received contacts from %1 (%2)"
+msgstr ""
+
+#: Send Contacts#22
+msgid "Do not accept"
+msgstr ""
+
+#: Send Contacts#23
+msgid "Received contacts"
+msgstr ""
+
+#: Send Contacts#24
+msgid "Contacts to accept"
+msgstr ""
+
+#: SendProgress#2
+msgid "sentcontacts"
+msgstr ""
+
+#: SendProgress#3
+msgid "Sent contacts list"
+msgstr ""
+
+#: SendProgress#4
+msgid "Sending contacts..."
+msgstr ""
+
+#: Video#1
+msgid "Switch to Full-screen View"
+msgstr ""
+
+#: Video#2
+msgid "Stop My Video"
+msgstr "Заустави видео"
+
+#: Video#3
+msgid "Show Myself View"
+msgstr "Прикажи моју слику"
+
+#: Video#4
+msgid "Start My Video"
+msgstr "Покрени мој видео"
+
+#: Video#5
+msgid "Normal Size"
+msgstr ""
+
+#: Video#6
+msgid "Double Size"
+msgstr ""
+
+#: Video#7
+msgid "Full-screen"
+msgstr ""
+
+#: Video#8
+msgid "Stop receiving video"
+msgstr "Прекини пријем слике"
+
+#: Video#9
+msgid "Skype Full-Screen Video"
+msgstr ""
+
+#: Video#11
+msgid "Switch to Window View"
+msgstr ""
+
+#: Video#12
+msgid "%1 would like to start a video call with you"
+msgstr ""
+
+#: Video#13
+msgid "Enable Skype Video"
+msgstr "Укључи Скајпов видео"
+
+#: Video#14
+msgid "Start my video automaticallywhen I am in a call"
+msgstr ""
+
+#: Video#15
+msgid "Select webcam:"
+msgstr "Избор камере:"
+
+#: Video#16
+msgid "No devices found"
+msgstr ""
+
+#: Video#17
+msgid "Test"
+msgstr ""
+
+#: Video#18
+msgid "Skype Full-Screen Video Preview"
+msgstr ""
+
+#: Voicemail#1
+msgid "Voicemail account expires in %1 days"
+msgstr ""
+
+#: Voicemail#2
+msgid "Voicemail account is inactive"
+msgstr ""
+
+#: Voicemail#3
+msgid "Send Voicemail"
+msgstr "Слање гласовне поруке"
+
+#: Voicemail#4
+msgid "Listen to this Voicemail message"
+msgstr ""
+
+#: Voicemail#5
+msgid "Stop Voicemail playback"
+msgstr ""
+
+#: Voicemail#7
+msgid "Send unanswered calls to Skype Voicemail"
+msgstr "Пошаљи неодговорене позиве у говорну пошту"
+
+#: Voicemail#8
+msgid "Play Greeting"
+msgstr ""
+
+#: Voicemail#9
+msgid "Record New Greeting"
+msgstr ""
+
+#: Voicemail#10
+msgid "Restore Default Greeting"
+msgstr ""
+
+#: Voicemail#11
+msgid "Default voicemail greeting"
+msgstr "Изворна поздравна порука"
+
+#: Voicemail#12
+msgid "Custom voicemail greeting"
+msgstr ""
+
+#: Voicemail#13
+msgid "Duration: %1 seconds"
+msgstr ""
+
+#: Voicemail#14
+msgid "Send calls to voicemail if..."
+msgstr "Пошаљи позив у гласовну пошту ако..."
+
+#: Voicemail#15
+msgid "If I do not answer within"
+msgstr ""
+
+#: Voicemail#17
+msgid "I reject an incoming call"
+msgstr "Када одбијем долазећи позив"
+
+#: Voicemail#18
+msgid "I am already on a call"
+msgstr ""
+
+#: Voicemail#19
+msgid ""
+"A convenient way for not missing a call on Skype when you're busy, not "
+"available or simply offline."
+msgstr ""
+
+#: Voicemail#20
+msgid ""
+"With Skype Voicemail, it's easy to inform or update your friends, family and "
+"colleagues on Skype without bothering them.  It's like sending a chat "
+"message with the microphone turned on."
+msgstr ""
+
+#: Voicemail#21
+msgid "Learn more about Skype Voicemail"
+msgstr "Научите више о Скајповој говорној пошти"
+
+#: Voicemail#22
+msgid "Stop Greeting Playback"
+msgstr ""
+
+#: Voicemail#23
+msgid "Finish Recording"
+msgstr ""

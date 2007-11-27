@@ -8,7 +8,7 @@ GZIP=gzip
 source_objects := sr.po
 destination_objects := sr@Latn.po.gz sr.po.gz
 
-.PHONY: clean publish
+.PHONY: clean publish stats all
 
 all: $(destination_objects)
 
@@ -21,6 +21,8 @@ sr@Latn.po: sr.po
 clean:
 	$(RM) sr@Latn.po *~ *.gz
 
-publish: all
+publish: stats all
 	$(SCP) *.po filip@cobalt.et.tudelft.nl:~/public_html/files/tran/mail-notification
 
+stats: $(source_objects)
+	msgfmt -v --statistics $<

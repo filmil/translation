@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Azureus 2.5.0.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-05-12 10:58+0200\n"
-"PO-Revision-Date: 2007-05-12 11:19+0200\n"
+"POT-Creation-Date: 2007-09-26 21:03+0200\n"
+"PO-Revision-Date: 2007-09-26 21:10+0200\n"
 "Last-Translator: Филип Милетић <filmil at gmail dot com>\n"
 "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,7 @@ msgid "&View"
 msgstr "&Преглед"
 
 #: MainWindow.menu.view.show ConfigView.label.popup.show.button
+#: ConfigView.label.ui_switcher_button
 msgid "Show"
 msgstr "Приказ"
 
@@ -141,6 +142,10 @@ msgstr "&Моји торенти"
 #: MainWindow.menu.view.mytorrents.keybinding
 msgid "Meta+1"
 msgstr "Meta+1"
+
+#: MainWindow.menu.view.open_global_transfer_bar
+msgid "Transfers Bar"
+msgstr "Трака са преносима"
 
 #: MainWindow.menu.view.configuration
 msgid "&Options..."
@@ -161,6 +166,10 @@ msgstr "Meta+4"
 #: MainWindow.menu.view.irc
 msgid "&IRC"
 msgstr "&Ирц"
+
+#: MainWindow.menu.view.allpeers AllPeersView.title.full
+msgid "All Peers"
+msgstr "Сви рачунари"
 
 #: MainWindow.menu.closealldetails
 msgid "Close &All Details"
@@ -205,6 +214,10 @@ msgstr "&Помоћ"
 #: MainWindow.menu.help.about
 msgid "About Azureus"
 msgstr "О Азуреусу"
+
+#: MainWindow.menu.torrent authenticator.torrent
+msgid "Torrent"
+msgstr "Торент"
 
 #: MainWindow.about.title
 msgid "About"
@@ -413,6 +426,10 @@ msgstr "&Покажи Азуреуса"
 #: SystemTray.menu.closealldownloadbars
 msgid "Close &All Download Bars"
 msgstr "Затвори &све траке за пријем"
+
+#: SystemTray.menu.open_global_transfer_bar
+msgid "Show Transfers Bar"
+msgstr "Приказ трака са преносима"
 
 #: PeersView.ip
 msgid "IP"
@@ -656,6 +673,10 @@ msgstr "Аутоматски отвори језичак са детаљима"
 msgid "Auto open download bar"
 msgstr "Аутоматски отвори траку за пренос"
 
+#: ConfigView.label.use_old_speed_menus
+msgid "Use old style speed menus [restart required]"
+msgstr "Користи старе брзе меније [тражи поновно покретање]"
+
 #: ConfigView.label.closetotray
 msgid "Close minimizes to System Tray"
 msgstr "Затварање умањује у обавештајну зону"
@@ -664,7 +685,7 @@ msgstr "Затварање умањује у обавештајну зону"
 msgid "Minimize minimizes to System Tray"
 msgstr "Умањивање умањује у обавештајну зону"
 
-#: ConfigView.section.start iconBar.start.tooltip
+#: ConfigView.section.start iconBar.start.tooltip v3.MainWindow.button.start
 msgid "Start"
 msgstr "Покретање"
 
@@ -744,7 +765,7 @@ msgstr "Лозинка (потврда)"
 msgid "Password activated :"
 msgstr "Лозинка је активна :"
 
-#: ConfigView.label.passwordmatchnone security.certtruster.no Button.no
+#: ConfigView.label.passwordmatchnone security.certtruster.no
 msgid "No"
 msgstr "Не"
 
@@ -752,7 +773,7 @@ msgstr "Не"
 msgid "No / Passwords don't match"
 msgstr "Не / Лозинке се не поклапају"
 
-#: ConfigView.label.passwordmatchyes security.certtruster.yes Button.yes
+#: ConfigView.label.passwordmatchyes security.certtruster.yes
 msgid "Yes"
 msgstr "Да"
 
@@ -935,6 +956,10 @@ msgstr "Коментар за торент :"
 msgid "User Comment :"
 msgstr "Корисников коментар :"
 
+#: GeneralView.label.status fileDownloadWindow.status
+msgid "Status :"
+msgstr "Статус :"
+
 #: ManagerItem.waiting StartStopRules.waiting
 msgid "Waiting"
 msgstr "Чекање"
@@ -980,6 +1005,10 @@ msgstr "низак"
 msgid "Name:"
 msgstr "Име:"
 
+#: MinimizedWindow.all_transfers
+msgid "Azureus Transfers"
+msgstr "Азуреусови преноси"
+
 #: PiecesView.# MyTorrentsView.# CacheView.reads.#
 msgid "#"
 msgstr "бр."
@@ -1014,7 +1043,7 @@ msgstr "заметања: %1,"
 msgid "%1 downloading,"
 msgstr "пријема: %1,"
 
-#: DownloadManager.error.filenotfound
+#: DownloadManager.error.filenotfound v3.mb.PlayFileNotFound.title
 msgid "File Not Found"
 msgstr "Датотека није нађена"
 
@@ -1046,7 +1075,7 @@ msgstr "Грешка: недостаје алгоритам (SHA1)"
 msgid "Connection Error"
 msgstr "Грешка при повезивању"
 
-#: PeerManager.status.ok Button.ok DonationWindow.ok window.updateswt.ok
+#: PeerManager.status.ok DonationWindow.ok window.updateswt.ok
 msgid "OK"
 msgstr "У реду"
 
@@ -1130,10 +1159,9 @@ msgstr "Следећи"
 msgid "Finish"
 msgstr "Заврши"
 
-#: Button.cancel window.updateswt.cancel UpdateWindow.cancel
-#: security.certcreate.cancel sharing.progress.cancel
-msgid "Cancel"
-msgstr "Откажи"
+#: Button.cancel v3.mb.delPublished.cancel v3.mb.deletePurchased.button.cancel
+msgid "&Cancel"
+msgstr "Отка&жи"
 
 #: LocaleUtil.title
 msgid "Choose Encoding"
@@ -1224,7 +1252,7 @@ msgstr "корисника"
 msgid "To"
 msgstr "За"
 
-#: IrcView.privatefrom
+#: IrcView.privatefrom TableColumn.header.AzProduct
 msgid "From"
 msgstr "Од"
 
@@ -1267,6 +1295,10 @@ msgid ""
 "To show Azureus window, please enter your password here :"
 msgstr ""
 "Да би био приказан Азуреусов прозор, молимо да унесет овде Вашу лозинку :"
+
+#: Button.ok
+msgid "&OK"
+msgstr "&У реду"
 
 #: TrackerChangerWindow.title
 msgid "Add Tracker"
@@ -1950,6 +1982,10 @@ msgstr "сек"
 msgid "Statistics file name"
 msgstr "Име датотеке са статистиком"
 
+#: ConfigView.section.stats.graph_update_dividers
+msgid "Display vertical line every 60 updates"
+msgstr "Прикажи вертикалну линију на сваких 60 освежења"
+
 #: MyTorrentsView.menu.export
 msgid "&XML Torrent..."
 msgstr "&XML торент..."
@@ -2064,10 +2100,6 @@ msgstr "Азуреус - Пријем торента"
 #: fileDownloadWindow.downloading
 msgid "Downloading From :"
 msgstr "Пријем од :"
-
-#: fileDownloadWindow.status
-msgid "Status :"
-msgstr "Статус :"
 
 #: fileDownloadWindow.state_initializing ManagerItem.initializing
 msgid "Initializing"
@@ -2292,10 +2324,6 @@ msgstr "Сувише портова је означено за проверу (�
 msgid "Color Scheme"
 msgstr "Боје"
 
-#: PeerSocket.unknown
-msgid "Unknown"
-msgstr "Непознат"
-
 #: MyTorrentsView.menu.publish
 msgid "Pub&lish..."
 msgstr "&Објави..."
@@ -2312,7 +2340,7 @@ msgstr "Торент датотека (без подразумеваног чу�
 msgid "Meta+Opt+O"
 msgstr "Meta+Opt+O"
 
-#: wizard.comment MyTorrentsView.comment
+#: wizard.comment MyTorrentsView.comment v3.MainWindow.button.comment
 msgid "Comment"
 msgstr "Коментар"
 
@@ -2337,7 +2365,7 @@ msgid "Default torrent encoding when selection required"
 msgstr "Подразумевано кодирање торента када се тражи избор"
 
 #: ConfigView.section.file.decoder.nodecoder PeersView.uniquepiece.none
-#: ConfigView.label.seeding.rankType.none
+#: ConfigView.label.seeding.rankType.none SpeedTestWizard.name.conf.level.none
 msgid "None"
 msgstr "Ниједан"
 
@@ -2611,7 +2639,7 @@ msgid "Edit..."
 msgstr "Уреди..."
 
 #: wizard.multitracker.delete wizard.multitracker.edit.deletegroup
-#: wizard.multitracker.edit.deletetracker
+#: wizard.multitracker.edit.deletetracker v3.MainWindow.button.delete
 msgid "Delete"
 msgstr "Уклони"
 
@@ -2647,7 +2675,7 @@ msgstr "Принудна &провера"
 msgid "Show Download Bar"
 msgstr "Прикажи траку за пријем"
 
-#: iconBar.stop.tooltip
+#: iconBar.stop.tooltip v3.MainWindow.button.stop
 msgid "Stop"
 msgstr "Заустави"
 
@@ -2683,7 +2711,7 @@ msgstr "Отвори"
 msgid "Host"
 msgstr "Домаћин"
 
-#: iconBar.publish.tooltip
+#: iconBar.publish.tooltip v3.MainWindow.tab.publish
 msgid "Publish"
 msgstr "Објави"
 
@@ -4187,6 +4215,12 @@ msgstr "Пријем последњег издања SWT"
 msgid "Restarting"
 msgstr "Поновно покретање"
 
+#: window.updateswt.cancel UpdateWindow.cancel security.certcreate.cancel
+#: sharing.progress.cancel v3.MainWindow.button.cancel
+#: v3.mb.notTrusted.button.cancel v3.mb.UnknownContent.button.cancel
+msgid "Cancel"
+msgstr "Откажи"
+
 #: swt.updater.downloader.downloading
 msgid "Downloading SWT from"
 msgstr "Пријем SWTа са"
@@ -4311,6 +4345,14 @@ msgstr "Провери повезивања на почетку"
 #: dialog.associations.title
 msgid "Association Check"
 msgstr "Провера повезивања"
+
+#: Button.yes
+msgid "&Yes"
+msgstr "&Да"
+
+#: Button.no
+msgid "&No"
+msgstr "&Не"
 
 #: ConfigView.label.seeding.autoStart0Peers
 msgid "Auto Start all completed torrents with 0 peers"
@@ -4640,8 +4682,8 @@ msgstr ""
 "\tIP1-IP2   = нпр 192.168.0.1-192.168.0.255\tинклузиван опсег бројева"
 
 #: GeneralView.label.maxdownloadspeed
-msgid "Max Down"
-msgstr "Највећа брзина пријема"
+msgid "Down Limit"
+msgstr "Брз. пријема"
 
 #: Security.keystore.corrupt
 msgid ""
@@ -4835,6 +4877,7 @@ msgstr ""
 #: Button.clear plugins.basicview.clear
 #: ConfigView.section.interface.cleardecisionsbutton
 #: ConfigView.section.interface.cleartrackersbutton
+#: ConfigView.section.interface.clearsavepathsbutton
 msgid "Clear"
 msgstr "Очисти"
 
@@ -5190,10 +5233,6 @@ msgstr "Директор који садржи „tools.jar“"
 msgid "Select folder containing 'tools.jar'"
 msgstr "Изаберите директоријум који садржи „tools.jar“"
 
-#: authenticator.torrent
-msgid "Torrent"
-msgstr "Торент"
-
 #: ConfigView.section.proxy.peer.same
 msgid "Use same proxy settings for tracker and peer communications proxy"
 msgstr ""
@@ -5257,8 +5296,8 @@ msgid "slots of"
 msgstr "прореза од"
 
 #: GeneralView.label.maxuploadspeed
-msgid "Max Up"
-msgstr "Највећа брзина слања"
+msgid "Up Limit"
+msgstr "Брз. слања"
 
 #: GeneralView.label.maxuploadspeed.tooltip
 msgid "max upload speed [0 : unlimited]"
@@ -5335,18 +5374,6 @@ msgstr "Име пратиоца"
 #: MyTorrentsView.trackername.info
 msgid "Name of the tracker based on announce URL"
 msgstr "Име пратиоца засновано на УРЛу за најаву"
-
-#: ConfigView.label.announceport
-msgid "Override tracker announce port"
-msgstr "Преиначи порт за најаву"
-
-#: ConfigView.label.announceport.tooltip
-msgid ""
-"Inform the tracker of a different port than the one you're listening on. "
-"Leave blank not to use the option."
-msgstr ""
-"Обавести пратиоца да је порт различит од оног на коме слушате. Ако оставите "
-"празно, ова се могућност не користи."
 
 #: ConfigView.group.override
 msgid "Override Options"
@@ -5700,6 +5727,10 @@ msgstr "Молимо да изаберете додатке које желит�
 msgid "The file isn't a valid Azureus plugin."
 msgstr "Ова датотека није исправан додатак за Азуреус."
 
+#: installPluginsWizard.file.no_such_file
+msgid "No file exists with the given name."
+msgstr "Нема ниједне датотеке са наведеним именом."
+
 #: uninstallPluginsWizard.title
 msgid "Uninstall Plugins"
 msgstr "Уклони додатак"
@@ -5997,6 +6028,7 @@ msgid "Decentralized (Azureus clients only)"
 msgstr "Децентрализовано (само Азуреусови клијенти)"
 
 #: MyTorrentsView.menu.advancedmenu ConfigView.section.mode.advanced
+#: v3.MainWindow.tab.advanced
 msgid "Advanced"
 msgstr "Напредно"
 
@@ -6017,8 +6049,8 @@ msgid "Messaging"
 msgstr "Поруке"
 
 #: PeersView.Messaging.info
-msgid "Supports advanced messaging API."
-msgstr "Подржава напредни АПИ за поруке."
+msgid "Indicates what messaging system is in use."
+msgstr "Показује који се систем за поруке користи."
 
 #: ConfigView.label.queue.newseedsmovetop
 msgid "Move newly completed torrents to the front of the seeding list"
@@ -6721,6 +6753,10 @@ msgstr "Уклони запамћене одлуке у прозорчету"
 msgid "Clear remembered trackers"
 msgstr "Уклони запамћене пратиоце"
 
+#: ConfigView.section.interface.clearsavepaths
+msgid "Clear remembered save paths"
+msgstr "Уклони запамћене стазе за чување"
+
 #: configureWizard.welcome.usermodes
 msgid ""
 "This User Proficiency setting will determine the level of the options "
@@ -6755,7 +6791,7 @@ msgstr ""
 
 #: ManagerItem.paused
 msgid "Paused"
-msgstr "Па&узирано"
+msgstr "Паузирано"
 
 #: xmlhttp.config.group.debug
 msgid "Debug settings"
@@ -6982,6 +7018,14 @@ msgstr "Број ког сте унели није исправан или ни�
 msgid "&Manual..."
 msgstr "&Ручно..."
 
+#: MyTorrentsView.menu.manual.per_torrent
+msgid "Manual (per torrent)"
+msgstr "Ручно (по торенту)"
+
+#: MyTorrentsView.menu.manual.shared_torrents
+msgid "Manual (across torrents)"
+msgstr "Ручно (за све торенте)"
+
 #: MyTorrentsView.dialog.setSpeed.title
 msgid "Set %1 speed"
 msgstr "Постави брзину %1"
@@ -7091,7 +7135,7 @@ msgstr "Овај пратилац подржава вишеструка чишћ
 #: Tracker.tooltip.NoMultiSupport
 msgid ""
 "This tracker does not support multiple hash scrapes per request.\n"
-"This will not affect your performace, but it does put extra load on the "
+"This will not affect your performance, but it does put extra load on the "
 "tracker."
 msgstr ""
 "Овај пратилац не подржава вишеструка чишћења хешева по захтеву.\n"
@@ -7183,7 +7227,8 @@ msgid ""
 "this piece's completion priority, but don't pay too much attention to it"
 msgstr "Приоритет за завршетак овог дела; не обраћајте претерано пажњу на њега"
 
-#: PiecesView.speed
+#: PiecesView.speed MyTorrents.column.ColumnSpeed TableColumn.header.Speed
+#: TableColumn.header.SpeedGraphic
 msgid "Speed"
 msgstr "Брзина"
 
@@ -7208,6 +7253,10 @@ msgstr "Принуди на ексклузивно закључавање дат
 #: MyTorrentsView.menu.rescanfile
 msgid "Periodically Recheck Incomplete Pieces"
 msgstr "Периодично провери незавршене делове"
+
+#: MyTorrentsView.menu.clear_resume_data
+msgid "Clear Resume Data"
+msgstr "Очисти податке о поновном покретању"
 
 #: Plugin.extseed.name
 msgid "External Seeds"
@@ -7601,8 +7650,8 @@ msgid "Scan for new Plugins"
 msgstr "Потражи нове додатке"
 
 #: ConfigView.section.transfer.autospeed
-msgid "Auto-Speed"
-msgstr "Аутом. брзина"
+msgid "Auto-Speed (classic)"
+msgstr "Аутом. брзина (класична)"
 
 #: ConfigView.section.transfer.autospeed.tooltip
 msgid "Auto-speed specific settings"
@@ -7859,6 +7908,10 @@ msgstr "120% алкохол"
 msgid "iolo Personal Firewall"
 msgstr "Лични ватробран Иоло (iolo)"
 
+#: platform.win32.baddll.WSOCKHK
+msgid "Net Nanny"
+msgstr "Мрежна дадиља"
+
 #: upnp.ignorebaddevices
 msgid "Ignore devices that fail to respond correctly"
 msgstr "Занемари уређаје који не одговоре како треба"
@@ -7953,8 +8006,8 @@ msgid "Per torrent max upload speed when busy timer [sec]"
 msgstr "Највећа брзина слања када је мерач времена покренут [s]"
 
 #: MainWindow.menu.help.debug
-msgid "Generate Debug Info"
-msgstr "Запиши податке за исправљање грешака"
+msgid "Generate Debug Info (Crash Log)"
+msgstr "Запиши податке за исправљање грешака (дневник рушења)"
 
 #: DownloadManager.error.badsize
 msgid "Incorrect Size"
@@ -8017,6 +8070,14 @@ msgid "Update default directory to location last saved to"
 msgstr ""
 "Постави подразумевани директоријум за пријем на место где је последњи пут "
 "снимано"
+
+#: ConfigView.section.file.config.section
+msgid "Configuration Settings"
+msgstr "Подешавања"
+
+#: ConfigView.section.file.config.currentdir
+msgid "Current configuration directory:"
+msgstr "Тренутни директоријум за подешавања:"
 
 #: ConfigView.section.torrent.decoding
 msgid "Decoding Character Sets"
@@ -8231,7 +8292,11 @@ msgid ""
 "SWT library loaded from \"%3\" can't be automatically updated from version %"
 "1 to %2 (must be loaded from \"%4\"). Please see <A HREF=\"http://www."
 "azureuswiki.com/index.php/SWT_Cant_Auto_Update\">the wiki</A> for details."
-msgstr "SWT библиотека учитана са \"%3\" не може се аутоматски доградити са издања  %1 на %2 (мора се добавити са \"%4\"). Молимо да погледате <A HREF=\"http://www.azureuswiki.com/index.php/SWT_Cant_Auto_Update\">вики</A> за више података."
+msgstr ""
+"SWT библиотека учитана са \"%3\" не може се аутоматски доградити са издања  %"
+"1 на %2 (мора се добавити са \"%4\"). Молимо да погледате <A HREF=\"http://"
+"www.azureuswiki.com/index.php/SWT_Cant_Auto_Update\">вики</A> за више "
+"података."
 
 #: authenticator.savepassword
 msgid "Remember my password"
@@ -8336,9 +8401,17 @@ msgstr "Када је искључено, описи неће бити чува�
 msgid "%1 of %2 will be downloaded."
 msgstr "%1 од %2 ће бити преузето."
 
+#: OpenTorrentWindow.diskUsage v3.MainWindow.xofx
+msgid "%1 of %2"
+msgstr "%1 од %2"
+
 #: ConfigView.label.openmytorrents
 msgid "Open 'My Torrents' on startup"
 msgstr "Отвори „Моје торенте‟ при покретању"
+
+#: ConfigView.label.open_transfer_bar_on_start
+msgid "Open Transfer Bar on startup"
+msgstr "Отвори траку за пренос при покретању"
 
 #: ConfigView.section.style.DNDalwaysInIncomplete
 msgid ""
@@ -8348,13 +8421,16 @@ msgstr ""
 "Увек приказуј торенте означене као „Не примај‟ у одељку за незавршене торенте"
 
 #: OpenTorrentWindow.mb.noGlobalDestDir.title
+msgid "Destination Directory"
+msgstr "Одредишни директоријум"
+
+#: OpenTorrentWindow.mb.noGlobalDestDir.text
+msgid "The destination directory '%1' is invalid."
+msgstr "Одредишни директоријум „%1‟ није исправан."
+
 #: OpenTorrentWindow.mb.noDestDir.title
 msgid "Destination Directory not found"
 msgstr "Одредишни директоријум није пронађен"
-
-#: OpenTorrentWindow.mb.noGlobalDestDir.text
-msgid "The destination directory '%1' does not exist or is invalid."
-msgstr "Одредишни директоријум „%1‟ не постоји или није исправан."
 
 #: OpenTorrentWindow.mb.noDestDir.text
 msgid ""
@@ -8630,6 +8706,23 @@ msgstr "Ознаке рачунара у читљивом облику"
 msgid "Peer ID in byte form"
 msgstr "Ознаке рачунара као низ бајтова"
 
+#: Peers.column.handshake_reserved
+msgid "Handshake Reserved Bytes"
+msgstr "Бајтови резервисани за рандеву"
+
+#: Peers.column.handshake_reserved.info
+msgid "Indicates what reserved bits were set in the BT handshake"
+msgstr "Показује који резервисани битови су постављени у БТ рандевуу"
+
+#: Peers.column.client_identification
+msgid "Client Identification"
+msgstr "Идентивикација клијента"
+
+#: Peers.column.client_identification.info
+msgid ""
+"Indicates the raw client names received by Azureus - useful for debugging"
+msgstr "Показује име клијента ког је добио Азуреус - корисно за тражење грешака"
+
 #: dht.warn.user
 msgid "Warn of potential NAT/port mapping problems"
 msgstr "Упозори у случају проблема са НАТ-ом и пресликавањем портова"
@@ -8641,6 +8734,10 @@ msgstr "Траке за пријем: аутоматски отвори приј
 #: ConfigView.label.openbar.complete
 msgid "auto open seeds"
 msgstr "Аутоматски отвори заметке"
+
+#: ConfigView.label.transferbar.remember_location
+msgid "Remember last location of transfer bar"
+msgstr "Запамти последње место траке за преносе"
 
 #: ConfigView.section.transfer.autospeed.forcemin
 msgid "%1 upload speed forced when baselining connection"
@@ -8678,16 +8775,6 @@ msgstr "Провера већ ради!"
 msgid "Test request not accepted:"
 msgstr "Захтев за проверу је одбијен:"
 
-#: SpeedTestWizard.test.panel.explain
-msgid ""
-"Measure your upload and download rates using the BT protocol. Select the "
-"speed test type and the encryption mode. Then the Run button to start. While "
-"the test is running, hit Abort to stop it. The test will stop automatically "
-"if it takes longer then two minutes. Typical tests will finish in less then "
-"a minute. Once the test is finished it then recommends an max upload limit. "
-"Click Next apply the upload limit."
-msgstr "Измерите брзине слања и пријема употребом протокола БТ. Изаберите врсту провере брзине и начин шифровања. Затим притисните дугме „Покрени‟. Притисак на дугме „Откажи‟ зауставља тест. Провера ће се завршити аутоматски ако потраје дуже од два минута. Типично се провера брзине сама заврши после минут. Када се провера заврши, добићете препоруку за највећу брзину слања. Притисните „Даље‟ да примените препоруку."
-
 #: SpeedTestWizard.test.panel.abort.countdown
 msgid "abort test in:"
 msgstr "откажи проверу за:"
@@ -8716,37 +8803,13 @@ msgstr "стадардни"
 msgid "encrypted"
 msgstr "шифрован"
 
-#: SpeedTestWizard.set.upload.title
-msgid "Set Upload Limit"
-msgstr "Поставка брзине слања"
-
-#: SpeedTestWizard.set.upload.hint
-msgid "Set the upload limit to 80% of the measured value."
-msgstr "Постави брзину слања на 80% измерене вредности."
-
-#: SpeedTestWizard.set.upload.panel.explain
-msgid ""
-"To get the best performance out of Azureus, it is recommended that you set "
-"the upload limit to 80% of the achievable maximum.\n"
-"\n"
-"Note that line speeds are often quoted in \"bits per second\" - however the "
-"value below is shown in \"kilobytes per second\"."
-msgstr ""
-"За најбоље перформансе Азуреуса, препоручује се да за највећу брзину слања изаберете 80% од остваривог максимума.\n"
-"\n"
-"Брзине преноса се обично наводе у „битима у секунди‟, док су овде приказани „колобајти у секунди‟."
-
-#: SpeedTestWizard.set.upload.label
-msgid "Recommended Upload Speed Limit - %1"
-msgstr "Препоручено ограничење брзине слања је: %1"
-
 #: SpeedTestWizard.set.upload.result
 msgid "Last Test Result"
 msgstr "Резултат последње провере"
 
 #: SpeedTestWizard.set.upload.bytes.per.sec
-msgid "bytes/sec"
-msgstr "B/s"
+msgid "kBytes/sec"
+msgstr "kiB/s"
 
 #: SpeedTestWizard.set.upload.bits.per.sec
 msgid "bits/sec"
@@ -8771,14 +8834,6 @@ msgstr "Најбрже слање при заметању :"
 #: SpeedTestWizard.finish.panel.max.download
 msgid "Max download :"
 msgstr "Најбржи пријем :"
-
-#: SpeedTestWizard.finish.panel.auto.speed
-msgid "Auto speed is :"
-msgstr "Аутом. брзина је :"
-
-#: SpeedTestWizard.finish.panel.auto.speed.seeding
-msgid "Auto speed while seeding is :"
-msgstr "Aутоматска брзина при заметању је :"
 
 #: SpeedTestWizard.finish.panel.enabled
 msgid "enabled"
@@ -8818,7 +8873,9 @@ msgstr "Пробни пренос је ушао у стање: заказан/з
 
 #: SpeedTestWizard.abort.message.interrupted
 msgid "TorrentSpeedTestMonitorThread was interrupted before test completed"
-msgstr "Провера TorrentSpeedTestMonitorThread је прекинута пре него што је провера завршена"
+msgstr ""
+"Провера TorrentSpeedTestMonitorThread је прекинута пре него што је провера "
+"завршена"
 
 #: SpeedTestWizard.abort.message.execution.failed
 msgid "Test execution failed"
@@ -8830,11 +8887,14 @@ msgstr "Није могуће повезати се ни на један рач�
 
 #: SpeedTestWizard.abort.message.insufficient.slots
 msgid "Could not upload to any of the peers - insufficient upload slots?"
-msgstr "Није могуће послати ни на један удаљен рачунар - можда нема довољно прореза за слање?"
+msgstr ""
+"Није могуће послати ни на један удаљен рачунар - можда нема довољно прореза "
+"за слање?"
 
 #: SpeedTestWizard.abort.message.not.unchoked
 msgid "Could not download from any of the peers as never unchoked by them"
-msgstr "Није могуће примити ни са једног рачунара услед удаљеног ограничења брзине"
+msgstr ""
+"Није могуће примити ни са једног рачунара услед удаљеног ограничења брзине"
 
 #: SpeedTestWizard.stage.message.requesting
 msgid "requesting test..."
@@ -8852,13 +8912,15 @@ msgstr "покретање провере..."
 msgid "Connection stats: peers=%1, down_ok=%2, up_ok=%3"
 msgstr "Статистике провере: рачунара=%1, пријем_у_реду=%2, слање_у_реду=%3"
 
-#: window.uiswitcher.title
+#: window.uiswitcher.title iconBar.switch.tooltip
 msgid "Azureus UI Chooser"
 msgstr "Избор корисничког сучеља"
 
 #: window.uiswitcher.text
 msgid "Please select a user interface below that best suits your needs."
-msgstr "Молимо да испод изаберете корисничко сучеље које најбоље одговара Вашим потребама."
+msgstr ""
+"Молимо да испод изаберете корисничко сучеље које најбоље одговара Вашим "
+"потребама."
 
 #: window.uiswitcher.NewUI.title
 msgid "Vuze"
@@ -8866,13 +8928,17 @@ msgstr "Вјуз (Vuze)"
 
 #: window.uiswitcher.NewUI.text
 msgid ""
-"Provides the most polished interface.\n"
+"* Recommended for beginners and new users.\n"
 "\n"
-"Recommended for new and beginner users."
+"* Easy, intuitive graphical interface\n"
+"\n"
+"* Required interface to publish on Vuze platform"
 msgstr ""
-"Обезбеђује најприступачније сучеље.\n"
+"* Препоручује се за почетнике и нове кориснике.\n"
 "\n"
-"Препоручује се новим и почетним корисницима."
+"* Једноставно, интуитивно корисничко сучеље\n"
+"\n"
+"* Неопходно сучеље за објављивање на платформи Вјуз (Vuze)"
 
 #: window.uiswitcher.AdvancedUI.title
 msgid "Advanced Vuze"
@@ -8880,14 +8946,17 @@ msgstr "Напредни Вјуз (Vuze)"
 
 #: window.uiswitcher.AdvancedUI.text
 msgid ""
-"The new Vuze interface with the Advanced tab as the default.\n"
+"* Recommended for users who want to keep the look of the classic interface "
+"but want to search, browse and publish content on the Vuze platform\n"
 "\n"
-"Excellent choice for users who are used to and like the classic interface, "
-"but still want to see how the Vuze UI is coming along."
+"* Easy, intuitive graphical interface paired with more advanced features and "
+"functionality"
 msgstr ""
-"Ново сучеље „Вјуз‟, са језичком „Напредно‟ као подразумевним.\n"
+"* Препоручује се за кориснике који желе да задрже старо сучеље, али желе да "
+"претражују, прегледају и објављују садржај на платформи Вјуз\n"
 "\n"
-"Одличан избор за кориснике којима се допада и навикнути су на класично сучеље, али и даље желе да виде како Вјуз напредује."
+"* Једноставно, интуитивно графичко сучеље са напредним могућностима и "
+"функцијама"
 
 #: window.uiswitcher.ClassicUI.title
 msgid "Classic Interface"
@@ -8895,9 +8964,21 @@ msgstr "Класично сучеље"
 
 #: window.uiswitcher.ClassicUI.text
 msgid ""
-"For those who do not want anything to do with the new interface.  Azureus "
-"will run exactly the same way it did in the 2.x series of versions."
-msgstr "За оне који не желе да имају везе са новим сучељем.  Азуреус ће радити исто као што је радио у издањима 2.x."
+"* Retains functionality of 2.x series client\n"
+"\n"
+"* Vuze content layer will not be loaded"
+msgstr ""
+"* Задржава функционалност клијената у издању 2.x\n"
+"\n"
+"* Вјузов слој са садржајем неће бити учитан"
+
+#: window.uiswitcher.bottom.text
+msgid ""
+"Your selection can easily be changed again by selecting the Azureus UI "
+"Chooser button"
+msgstr ""
+"Ваш избор можете поново да промените избором дугмета „Избор корисничког "
+"сучеља‟"
 
 #: VivaldiView.notAvailable
 msgid "Vivaldi View not available"
@@ -8911,7 +8992,8 @@ msgid ""
 msgstr ""
 "Поново покретање није успело:\n"
 "%1\n"
-"Погледајте <A HREF=\"{restart.error.url}\">проблеме при поновном покретању</a>."
+"Погледајте <A HREF=\"{restart.error.url}\">проблеме при поновном покретању</"
+"a>."
 
 #: restart.error.url
 msgid "http://www.azureuswiki.com/index.php/Restarting_Issues"
@@ -8937,7 +9019,9 @@ msgstr "Неисправан формат датотеке за „%1‟"
 msgid ""
 "Access was denied when trying to run '%1'.  Make sure you have rights to run "
 "this program."
-msgstr "Приступ није дозвољен при покретању „%1‟. Проверите да ли смете да покрећете овај програм."
+msgstr ""
+"Приступ није дозвољен при покретању „%1‟. Проверите да ли смете да покрећете "
+"овај програм."
 
 #: MyTorrentsView.date_completed
 msgid "Completed On"
@@ -8949,11 +9033,925 @@ msgstr "Датум ресета"
 
 #: ConfigView.section.ipfilter.discardbanning
 msgid "Block peers whose discarded data/good data ratio exceeds [0: disabled]"
-msgstr "Блокирај рачунаре за које однос одбачених и добрих пакета премашује: [0: искључено]"
+msgstr ""
+"Блокирај рачунаре за које однос одбачених и добрих пакета премашује: [0: "
+"искључено]"
 
 #: ConfigView.section.ipfilter.discardminkb
 msgid "Minimum %1 discarded before applying ratio"
 msgstr "Најмање %1 одбачених пре него што се примени однос"
+
+#: ConfigView.interface.start.advanced
+msgid "Start in Advanced View (AZ 2.x)"
+msgstr "Покрени са напредним сучељем (AZ 2.x)"
+
+#: MyTorrents.column.ColumnQuality TableColumn.header.Quality
+msgid "Quality"
+msgstr "Квалитет"
+
+#: MyTorrents.column.ColumnProgressETA.2ndLine
+msgid "ETA: %1 %2"
+msgstr "ПВД: %1 %2"
+
+#: MyTorrents.column.ColumnProgressETA.StreamReady
+msgid "Streaming Ready %1"
+msgstr "Ток је спреман %1"
+
+#: MyTorrents.column.ColumnProgressETA.PlayableIn
+msgid "Playable in %1 %2"
+msgstr "Пуштање у %1 %2"
+
+#: TableColumn.header.RateIt
+msgid "Rate"
+msgstr "Однос"
+
+#: TableColumn.header.Rating
+msgid "Rating"
+msgstr "Оцена"
+
+#: TableColumn.header.MediaThumb
+msgid "Media"
+msgstr "Медијум"
+
+#: TableColumn.header.ProgressETA
+msgid "Progress"
+msgstr "Напредак"
+
+#: TableColumn.header.size
+msgid "{MyTorrentsView.size}"
+msgstr "{MyTorrentsView.size}"
+
+#: TableColumn.header.up
+msgid "{MyTorrentsView.up}"
+msgstr "{MyTorrentsView.up}"
+
+#: TableColumn.header.date_added
+msgid "{MyTorrentsView.date_added}"
+msgstr "{MyTorrentsView.date_added}"
+
+#: TableColumn.header.name
+msgid "{MyTorrentsView.name}"
+msgstr "{MyTorrentsView.name}"
+
+#: TableColumn.header.name.ext
+msgid "File Type: %1"
+msgstr "Врста: %1"
+
+#: TableColumn.header.shareRatio
+msgid "{MyTorrentsView.shareRatio}"
+msgstr "{MyTorrentsView.shareRatio}"
+
+#: TableColumn.header.DateCompleted
+msgid "{MyTorrentsView.date_completed}"
+msgstr "{MyTorrentsView.date_completed}"
+
+#: v3.MainWindow.tab.home
+msgid "Home"
+msgstr "Дом"
+
+#: v3.MainWindow.tab.browse
+msgid "Browse Content"
+msgstr "Преглед садржаја"
+
+#: v3.MainWindow.tab.library
+msgid "My Library"
+msgstr "Моја библиотека"
+
+#: v3.MainWindow.menu.home
+msgid "&Home"
+msgstr "&Дом"
+
+#: v3.MainWindow.menu.browse
+msgid "&Browse Content"
+msgstr "&Преглед садржаја"
+
+#: v3.MainWindow.menu.library
+msgid "My &Library"
+msgstr "Моја &библиотека"
+
+#: v3.MainWindow.menu.publish
+msgid "&Publish"
+msgstr "&Објави"
+
+#: v3.MainWindow.menu.advanced
+msgid "&Advanced"
+msgstr "&Напредно"
+
+#: v3.MainWindow.menu.view.searchbar
+msgid "Search Bar"
+msgstr "Трака за претрагу"
+
+#: v3.MainWindow.menu.view.tabbar
+msgid "Tab Bar"
+msgstr "Трака са језичцима"
+
+#: v3.MainWindow.currentDL
+msgid "Currently Downloading"
+msgstr "Тренутни пријем"
+
+#: v3.MainWindow.recentDL
+msgid "Last %1 Downloads"
+msgstr "Последњи преноси (ук:%1)"
+
+#: v3.MainWindow.recentDL.library
+msgid "My Library >>"
+msgstr "Моја библиотека >>"
+
+#: v3.MainWindow.myMedia.noneSelected
+msgid ""
+"You have %1 pieces of content.\n"
+"%2 of them are completed.\n"
+"\n"
+"Click on a row to see information on the content"
+msgstr ""
+"Имате оволико ставки садржаја: %1.\n"
+"Број довршених: %2.\n"
+"\n"
+"Изаберите ред да бисте видели податке о садржају"
+
+#: v3.MainWindow.button.stream
+msgid "Stream"
+msgstr "Ток"
+
+#: v3.MainWindow.button.pause
+msgid "Pause"
+msgstr "Пауза"
+
+#: v3.MainWindow.button.resume
+msgid "Resume"
+msgstr "Настави"
+
+#: v3.MainWindow.button.viewdetails
+msgid "View Details"
+msgstr "Детаљи"
+
+#: v3.MainWindow.button.play
+msgid "Play"
+msgstr "Пусти"
+
+#: v3.MainWindow.button.sendtofriend
+msgid "Share"
+msgstr "Дели"
+
+#: v3.MainWindow.view.wait
+msgid "Initializing view, please wait."
+msgstr "Поглед се учитава, молимо да сачекате..."
+
+#: v3.MainWindow.count
+msgid "(%1)"
+msgstr "(%1)"
+
+#: v3.MainWindow.Loading
+msgid "Loading.. Please Wait"
+msgstr "Учитавање, молимо да сачекате..."
+
+#: v3.filter-bar
+msgid "Title Filter:"
+msgstr "Филтер наслова:"
+
+#: v3.MainWindow.search.defaultText
+msgid "Search Vuze"
+msgstr "Претражи Вјуз"
+
+#: v3.mb.delPublished.title
+msgid "Stop Seeding Content"
+msgstr "Прекини заметање садржаја"
+
+#: v3.mb.delPublished.text
+msgid ""
+"WARNING: This action will NOT remove your published content '%1' from <A "
+"HREF=\"%2\">%3</A> .\n"
+"\n"
+"Click \"Delete\" only if you want your content to remain published and "
+"downloadable, but want to free up your bandwidth. Make sure the upload "
+"process has been completed before you do so (<A HREF=\"%4\">how</A>?).\n"
+"\n"
+"Click \"Cancel\" if you want to completely remove your published content "
+"from %3, and use the (X) button on the Published Content panel in the "
+"Publish tab.\n"
+"\n"
+"<A HREF=\"%4\">More help</A>.\n"
+"\n"
+msgstr ""
+"УПОЗОРЕЊЕ: Ово дејство НЕЋЕ уклонити објављен садржај „%1‟ са <A HREF=\"%2\">"
+"%3</A> .\n"
+"\n"
+"Притисните „Уклони‟ само ако желите да ваш садржај остане објављен и спреман "
+"за пријем, али желите да ослободите свој пропусни опсег.  Проверите да је "
+"пренос готов пре него што то урадите (<A HREF=\"%4\">како</A>?).\n"
+"\n"
+"Притисните „Откажи‟ ако желите да потпуно уклоните објављен садржај са %3, и "
+"користите дугме (X) на панелу „Објављен садржај‟ на језичку са објављеним "
+"садржајима.\n"
+"\n"
+"<A HREF=\"%4\">Више помоћи</A>.\n"
+"\n"
+
+#: v3.mb.delPublished.delete v3.mb.deletePurchased.button.delete
+msgid "&Delete"
+msgstr "&Уклони"
+
+#: v3.HomeReminder.title
+msgid "Download Added"
+msgstr "Додат пријем"
+
+#: v3.HomeReminder.text
+msgid ""
+"'%1' has been added to your download list.\n"
+"\n"
+"\\If you wish to view the progress of the download, or play it after "
+"completion, click on the Home tab."
+msgstr ""
+"Додато на списак за пријем: „%1‟.\n"
+"\n"
+"\\Ако желите да прегледате напредак пријема, или да пустите по окончању, "
+"притисните језичак „Дом‟."
+
+#: v3.HomeReminder.gohome
+msgid "Switch to Home Tab"
+msgstr "Пребаци се на језичак „Дом‟"
+
+#: v3.mb.notTrusted.title
+msgid "Content not Trusted"
+msgstr "Садржај није од поверења"
+
+#: v3.mb.notTrusted.text
+msgid ""
+"The content '%1' has been recognized as potentially dangerous.  Your "
+"operating system is reporting the content as a '%2' type."
+msgstr ""
+"Садржај „%1‟ се сматра потенцијално опасним.  Ваш оперативни систем каже да "
+"је врста садржаја: „%2‟."
+
+#: v3.mb.notTrusted.noapp.text
+msgid ""
+"The content '%1' has been recognized as potentially dangerous because your "
+"operating system reports it is a unknown format (%2)."
+msgstr ""
+"Садржај „%1‟ се сматра потенцијално опасним јер је Ваш оперативни систем "
+"пријавио да формат није препознат (%2)."
+
+#: v3.mb.notTrusted.button.run v3.mb.UnknownContent.button.run
+msgid "Run Anyway"
+msgstr "Ипак покрени"
+
+#: v3.mb.UnknownContent.title
+msgid "Content Unknown"
+msgstr "Непознат садржај"
+
+#: v3.mb.UnknownContent.text
+msgid ""
+"The content '%1' is not recognized as a known format.  Your operating system "
+"is reporting the content as a '%2' type.  The content's file extension is '%"
+"3'."
+msgstr ""
+"Садржај „%1‟ није пронађен у међу познатим форматима.  Ваш оперативни систем "
+"пријављује садржај као врсту „%2‟.  Наставак имена датотеке је „%3‟."
+
+#: v3.mb.UnknownContent.noapp.text
+msgid ""
+"The content '%1' is not recognized as a known format.  Your operating system "
+"does not have an associated program for this file type (%2)."
+msgstr ""
+"Садржај „%1‟ није у препознатом формату.  Ваш оперативни систем нема "
+"придружен програм за ову врсту датотека (%2)."
+
+#: v3.mb.PlayFileNotFound.text
+msgid "The files for '%1' are either deleted or missing."
+msgstr "Датотеке за „%1‟ су или уклоњене или недостају."
+
+#: v3.mb.PlayFileNotFound.button.remove
+msgid "Remove from Azureus"
+msgstr "Уклони из Азуреуса"
+
+#: v3.mb.PlayFileNotFound.button.redownload
+msgid "Redownload Data"
+msgstr "Поновни пријем"
+
+#: v3.mb.PlayFileNotFound.button.find
+msgid "Manually Find.."
+msgstr "Ручно тражење..."
+
+#: v3.mb.deletePurchased.title
+msgid "Remove Purchased Content"
+msgstr "Уклони купљени садржај"
+
+#: v3.mb.deletePurchased.text
+msgid ""
+"Are you sure you want to delete the content '%1'?\n"
+"\n"
+"This is content you either purchased, or you were required to login to "
+"download."
+msgstr ""
+"Да ли сигурно ђелите да уклоните садржај „%1‟?\n"
+"\n"
+"Овај сте садржај или купили или је потребна пријава да бисте га преузели."
+
+#: v3.topbar.menu.show.logo
+msgid "Logo"
+msgstr "Логотип"
+
+#: v3.topbar.menu.show.plugin
+msgid "Plugin Area"
+msgstr "Област са додацима"
+
+#: v3.topbar.menu.show.search
+msgid "Search"
+msgstr "Претрага"
+
+#: v3.topbar.menu.show.frog
+msgid "Da Blue Frog"
+msgstr "Плава жаба"
+
+#: splash.initializeCore
+msgid "Initializing Core"
+msgstr "Покретање језгра"
+
+#: splash.initializeUIElements
+msgid "Initializing UI Elements"
+msgstr "Покретање делова кор. сучеља"
+
+#: ConfigView.section.transfer.autospeedbeta
+msgid "Auto-Speed-Beta"
+msgstr "Auto-Speed-Beta"
+
+#
+#: ConfigView.section.ipfilter.peerblocking.group
+msgid "Peer Blocking"
+msgstr "Блокирање рачунара"
+
+#: ConfigView.section.ipfilter.autoload.group
+msgid "Auto Loading"
+msgstr "Аутоматско учитавање"
+
+#: ConfigView.section.ipfilter.autoload.file
+msgid "IP filter file to autoload"
+msgstr "Датотека са ИП филтрима за пријем"
+
+#: ConfigView.section.ipfilter.autoload.info
+msgid ""
+"Supports DAT (eMule), P2P (PeerGuardian, splist), and P2B v1,2,3 "
+"(PeerGuardian 2) formats.  File can be local or URL, zip'd, gzip'd or plain "
+"text.  URLs will automatically redownload after 7 days, whereas files will "
+"reload within a minute of being replaced/touched."
+msgstr ""
+"Подржава формате DAT (eMule), P2P (PeerGuardian, splist), и P2B v1,2,3 "
+"(PeerGuardian 2).  Датотека може да буде локална или дата као URL, "
+"компримована (zip, gzip) или некомпримована.  URLови ће бити аутоматски "
+"преузимани на сваких 7 дана, а датотеке ће да буду преузимане одмах по "
+"измени."
+
+#: ConfigView.section.ipfilter.autoload.loadnow
+msgid "Load Now"
+msgstr "Учитај одмах"
+
+#: splash.loadIpFilters
+msgid "Loading IP Filters.."
+msgstr "Учитавање ИП филтера..."
+
+#: SpeedTestWizard.set.upload.title
+msgid "Set Upload and Download Limits"
+msgstr "Поставка брзина пријема и слања"
+
+#: SpeedTestWizard.set.download.label
+msgid "Download Speed Limit:"
+msgstr "Брзина пријема:"
+
+#: SpeedTestWizard.set.upload.label
+msgid "Upload Speed Limit:"
+msgstr "Брзина слања:"
+
+#: SpeedTestWizard.name.conf.level.absolute
+msgid "Absolute"
+msgstr "Апсолутан"
+
+#: SpeedTestWizard.name.conf.level.high
+msgid "High"
+msgstr "Висок"
+
+#: SpeedTestWizard.name.conf.level.med
+msgid "Medium"
+msgstr "Средњи"
+
+#: SpeedTestWizard.name.conf.level.low
+msgid "Low"
+msgstr "Низак"
+
+#: ConfigView.section.transfer.select
+msgid "Auto-Speed"
+msgstr "Аутом. брзина"
+
+#: ConfigView.section.transfer.select.v2
+msgid "Auto-Speed (beta)"
+msgstr "Аутом. брзина (бета)"
+
+#: mb.azmustclose.title
+msgid "Startup Error"
+msgstr "Грешка при покретању"
+
+#: mb.azmustclose.text
+msgid ""
+"Azureus must quit due to a problem (re)starting azureus that most likely "
+"caused the program to be run as an Administrator user.\n"
+"\n"
+"After Azureus closes, please re-open manually."
+msgstr ""
+"Азуреус је морао да буде затворен услед проблема при покретању, који је "
+"највероватније узроковао да се Азуреус покрене са администраторским правима "
+"приступа.\n"
+"\n"
+"Пошто се Азуреус затвори, молимо да га ручно поново покренете."
+
+#: network.ipv6.prefer.addresses
+msgid "Prefer IPv6 addresses when both IPv6 and IPv4 are available"
+msgstr "Бирај адресу у IPv6 формату када су доступне и IPv6 и IPv4"
+
+#: DHTView.title.full_v6
+msgid "Distributed Database IPv6"
+msgstr "Дистрибуирана база података IPv6"
+
+#: network.ltep.enabled
+msgid ""
+"Enable experimental extension protocol handshake support (restart required)"
+msgstr "Укључи експериментални протокол са подршком за рандеву (тражи рестарт)"
+
+#: ConfigView.pluginlist.loadSelected
+msgid "Load Selected"
+msgstr "Учитај изабране"
+
+#: SpeedView.stats.asn
+msgid "Network:"
+msgstr "Мрежа:"
+
+#: SpeedView.stats.estupcap
+msgid "Upload limit:"
+msgstr "Брзина слања:"
+
+#: SpeedView.stats.estdowncap
+msgid "Download limit:"
+msgstr "Брзина пријема:"
+
+#: SpeedView.stats.unknown PeerSocket.unknown
+msgid "Unknown"
+msgstr "Непознат"
+
+#: SpeedView.stats.estimate
+msgid "Estimate"
+msgstr "Процена"
+
+#: SpeedView.stats.measured
+msgid "Measured"
+msgstr "Мерено"
+
+#: SpeedView.stats.measuredmin
+msgid "Measured Min"
+msgstr "Мерени мин."
+
+#: SpeedView.stats.manual
+msgid "Fixed"
+msgstr "Исправљено"
+
+#: ConfigView.section.transfer.autospeed.networks
+msgid "Network Details"
+msgstr "Детаљи о мрежи"
+
+#: ConfigView.section.transfer.autospeed.resetnetwork
+msgid "Reset network details"
+msgstr "Поново постави детаље о мрежи"
+
+#: ConfigView.section.transfer.autospeed.network.info
+msgid ""
+"The above limits are normally calculated automatically during download or "
+"are the result of a speed test. If you want to manually specify them use the "
+"options below.\n"
+"All limits other than 'fixed' will subsequently be automatically adjusted if "
+"needed. \n"
+"Enter the value and then select its type. Note that speeds are in %1."
+msgstr ""
+"Горе наведене границе се обично рачунају аутоматски током пријема или су "
+"последица провере брзине преноса.  Ако желите да их задате ручно, користите "
+"опције испод.\n"
+"Сва ограничења осим „фиксно‟ ће бити аутоматски подешавана ако је потребно.\n"
+"Унесите вредност и изаберите врсту.  Брзине су изражене у %1."
+
+#: dialog.uiswitcher.restart.title
+msgid "UI Switcher: Azureus Restart Required"
+msgstr "Промена кор. сучеља: потребан је рестарт Азуреуса"
+
+#: dialog.uiswitcher.restart.text
+msgid "Azureus needs to restart in order to switch to the new UI mode."
+msgstr ""
+"Азуреус мора да се поново покрене да би се корисничко сучеље променило."
+
+#: TrayWindow.menu.close
+msgid "Close Download Basket"
+msgstr "Затвори корпу са пријемима"
+
+#: PeerSocket.fake_client
+msgid "FAKE"
+msgstr "ЛАЖНИ"
+
+#: PeerSocket.bad_peer_id
+msgid "bad peer ID"
+msgstr "неисправан ИД рачунара"
+
+#: PeerSocket.mismatch_id
+msgid "mismatch"
+msgstr "несагласно"
+
+#: PeerSocket.unknown_az_style PeerSocket.unknown_shadow_style
+msgid "Unknown %1/%2"
+msgstr "Непознат %1/%2"
+
+#: OpenTorrentWindow.mb.askCreateDir.title
+msgid "Destination Directory does not exist"
+msgstr "Одредишни директоријум не постоји"
+
+#: OpenTorrentWindow.mb.askCreateDir.text
+msgid ""
+"The destination directory '%1' does not exist.\n"
+"\n"
+"Create now?"
+msgstr ""
+"Одредишни директоријум „%1‟ не постоји.\n"
+"\n"
+"Да ли да га направим?"
+
+#: SpeedView.stats.estimatechoke
+msgid "Estimate (choke)"
+msgstr "Процена (гас)"
+
+#: ConfigTransferAutoSpeed.upload.capacity.usage
+msgid "Upload Capacity Usage"
+msgstr "Употреба капацитета за слање"
+
+#: ConfigTransferAutoSpeed.mode
+msgid "Mode:"
+msgstr "Начин рада:"
+
+#: ConfigTransferAutoSpeed.capacity.used
+msgid "% Capacity Used"
+msgstr "% капацитета у употреби"
+
+#: ConfigTransferAutoSpeed.while.downloading
+msgid "Downloading:"
+msgstr "Пријем:"
+
+#: ConfigTransferAutoSpeed.set.dht.ping
+msgid "DHT Ping Setting:"
+msgstr "Подешавање ДХТ пинга:"
+
+#: ConfigTransferAutoSpeed.set.point
+msgid "set point (ms)"
+msgstr "постављена тачка (ms)"
+
+#: ConfigTransferAutoSpeed.set.tolerance
+msgid "tolerance (ms)"
+msgstr "толеранција (ms)"
+
+#: ConfigTransferAutoSpeed.ping.time.good
+msgid "Good:"
+msgstr "Добри:"
+
+#: ConfigTransferAutoSpeed.ping.time.bad
+msgid "Bad:"
+msgstr "Лоши:"
+
+#: ConfigTransferAutoSpeed.adjustment.interval
+msgid "Adjustment interval:"
+msgstr "Време подешавања:"
+
+#: ConfigTransferAutoSpeed.skip.after.adjust
+msgid "Skip after adjustment:"
+msgstr "Прескочи после подешавања:"
+
+#: GeneralView.label.distributedCopies
+msgid "Distributed Copies:"
+msgstr "Дистрибуирани умношци:"
+
+#: PiecesView.DistributionView.title
+msgid "Piece Distribution"
+msgstr "Расподела делова"
+
+# FIXME: Да ли је датотека у множини или једнини
+#: PiecesView.DistributionView.NoAvl
+msgid "Unavailable Pieces"
+msgstr "Недоступни делови"
+
+#: PiecesView.DistributionView.SeedAvl
+msgid "Seed Avl Contribution"
+msgstr "Прилог авл-у заметка"
+
+# FIXME Ала ми је превод
+#: PiecesView.DistributionView.PeerAvl
+msgid "Peer Avl Contribution"
+msgstr "Прилог авл-у од рачунара"
+
+#: PiecesView.DistributionView.RarestAvl
+msgid "Rarest Pieces: %1 (Avl:%2)"
+msgstr "Најређи делови: %1 (дост.:%2)"
+
+#: PiecesView.DistributionView.weHave
+msgid "Pieces you have"
+msgstr "Делови које имате"
+
+#: PiecesView.DistributionView.weDownload
+msgid "Pieces you're downloading"
+msgstr "Делови које примате"
+
+#: PeersView.gain
+msgid "Gain"
+msgstr "Појачање"
+
+#: PeersView.gain.info
+msgid "Amount of downloaded - uploaded data"
+msgstr "Количина примљених - послатих података"
+
+#: unix.script.new.title
+msgid "New Azureus Startup Script available"
+msgstr "Доступни су нови скриптови за покретање Азуреуса"
+
+#: unix.script.new.text
+msgid ""
+"A new azureus startup script is available, and has been saved to '%1'.\n"
+"\n"
+"It is highly recommended that you quit azureus now and switch to this script "
+"('%2').\n"
+"\n"
+"If you have heavily modified your azureus startup script, please see <A HREF="
+"\"{unix.script.new.manual.url}\">AzureusWiki: Unix Script</A>.\n"
+"\n"
+"If you installed azureus from a distro (yum, apt-get, etc), it's recommended "
+"you re-install azureus using the package on <A HREF=\"http://azureus."
+"sourceforge.net\">Azureus' Sourceforge Page</A> (You will still get the same "
+"UI you have now)"
+msgstr ""
+"Доступан је нови скрипт за покретање Азуреуса, а сачуван је у „%1‟.\n"
+"\n"
+"Препоручује се да одмах затворите Азуреуса и да се пребаците на овај скрипт. "
+"(„%2‟).\n"
+"\n"
+"Ако сте мењали скрипт за покретање, молимо да прочитате чланак <A HREF="
+"\"{unix.script.new.manual.url}\">AzureusWiki: Unix Script</A>.\n"
+"\n"
+"Ако сте Азуреуса инсталирали из неке дистрибуције (yum, apt-get, итд.), "
+"препоручује се да га поново инсталирате употребом пакета са адресе:  <A HREF="
+"\"http://azureus.sourceforge.net\">Азуреусова страна на Сорсфорџу</A> (и "
+"даље ћете имати исто сучеље као и сада)"
+
+#: unix.script.new.manual.url
+msgid "http://azureuswiki.com/index.php/Unix_Startup_Script"
+msgstr "http://azureuswiki.com/index.php/AdvancedNetworkSettings"
+
+#: unix.script.new.button.quit
+msgid "Quit Now"
+msgstr "Крај рада"
+
+#: unix.script.new.button.continue
+msgid "I'll Do It Later"
+msgstr "Урадићу то касније"
+
+#: unix.script.new.button.asknomore
+msgid "Don't Tell Me Again"
+msgstr "Не обавештавај ме више"
+
+#: unix.script.new.auto.title
+msgid "New Azureus Startup Script"
+msgstr "Нови скрипт за покретање Азуреуса"
+
+#: unix.script.new.auto.text
+msgid ""
+"A new Azureus Startup Script is available.\n"
+"\n"
+"It is highly recommended that you restart Azureus now."
+msgstr ""
+"Доступан је нови скрипт за покретање Азуреуса.\n"
+"\n"
+"Препоручује се да одмах поново покренете Азуреуса."
+
+#: Content.alert.notuploaded.button.stop
+msgid "&Stop"
+msgstr "&Стани"
+
+#: Content.alert.notuploaded.button.continue
+msgid "&Continue Seeding"
+msgstr "Настави &заметање"
+
+#: Content.alert.notuploaded.button.abort
+msgid "&Don't Quit"
+msgstr "&Не завршавај"
+
+#: ConfigView.label.checkOnSeeding
+msgid "Perform low resource re-check of pieces when seeding"
+msgstr "Брзо провери делове при заметању"
+
+#: ConfigView.label.ui_switcher
+msgid "Display Azureus UI Chooser"
+msgstr "Избор корисничког сучеља"
+
+#: SpeedTestWizard.test.panel.explain
+msgid ""
+"Measure your Azureus protocol speed. Select the speed test type and the "
+"encryption mode. Visit the Azureus wiki page for details about this test. "
+"The test will stop automatically if it takes longer then two minutes. "
+"Typical tests finish in less then a minute."
+msgstr ""
+"Измерите брзину Азуреусовог протокола. Изаберите врсту провере брзине и "
+"начин шифровања.  Посетите Азуреусову вики страну за детаље ове провере.  "
+"Провера ће се завршити аутоматски ако потраје дуже од два минута. Типично се "
+"провера брзине сама заврши за мање од минута."
+
+#: SpeedTestWizard.set.upload.hint
+msgid "Set the upload and download limits used by Azureus AutoSpeed algorithm."
+msgstr ""
+"Постави ограничења за пријем и слање према Азуреусовом алгоритму за "
+"аутоматску регулацију."
+
+#: SpeedTestWizard.set.upload.panel.explain
+msgid ""
+"The limits set here are used by the Azureus AutoSpeed algorithm. Set the "
+"transfer limits and the confidence limits.\n"
+"\n"
+"Note that line speeds are often quoted in \"bits per second\" - however the "
+"value below is shown in \"kilobytes per second\"."
+msgstr ""
+"Границе које се овде подешавају користе се у алгоритму за аутоматску "
+"регулацију брзине.  Поставите граничне брзине преноса и интервале поверења.\n"
+"\n"
+"Брзине преноса се обично наводе у „битима у секунди‟, док су овде приказани "
+"„килобајти у секунди‟."
+
+#: SpeedTestWizard.set.limit.conf.level
+msgid "Confidence"
+msgstr "Поверење"
+
+#: SpeedTestWizard.finish.panel.auto.speed
+msgid "AutoSpeed is :"
+msgstr "Аутом. брзина је :"
+
+#: SpeedTestWizard.finish.panel.auto.speed.seeding
+msgid "AutoSpeed while seeding is :"
+msgstr "Aутоматска брзина при заметању је :"
+
+#: ConfigTransferAutoSpeed.add.comment.to.log.group
+msgid "Add comment to debug log"
+msgstr "Додај коментар у дневник"
+
+#: ConfigTransferAutoSpeed.add.comment.to.log
+msgid "Add comment:"
+msgstr "Додај коментар:"
+
+#: ConfigTransferAutoSpeed.log.button
+msgid "Log"
+msgstr "Дневник"
+
+#: ConfigTransferAutoSpeed.algorithm.selector
+msgid "Auto-Speed selector"
+msgstr "Избор аутом. брзине"
+
+#: ConfigTransferAutoSpeed.algorithm
+msgid "Algorithm:"
+msgstr "Алгоритам:"
+
+#: ConfigTransferAutoSpeed.auto.speed.classic
+msgid "Auto-Speed(classic)"
+msgstr "Аутом. брзина (класична)"
+
+#: ConfigTransferAutoSpeed.auto.speed.beta
+msgid "Auto-Speed(beta)"
+msgstr "Аутом. брзина (бета)"
+
+#: ConfigTransferAutoSpeed.data.update.frequency
+msgid "Update Frequency"
+msgstr "Учестаност освежавања"
+
+#: Alert.failed.update
+msgid ""
+"Installation of at least one component failed. See <A HREF=\"{Alert.failed."
+"update.url}\">AzureusWiki: Failed Update</A>"
+msgstr ""
+"Бар једна компонента није исправно постављена. Видите <A HREF=\"{Alert."
+"failed.update.url}\">AzureusWiki: Failed Update</A>"
+
+#: Alert.failed.update.url
+msgid "http://azureuswiki.com/index.php/Failed_Update"
+msgstr "http://azureuswiki.com/index.php/Failed_Update"
+
+#: OpenTorrentWindow.mb.existingFiles.partialList
+msgid "(Partial list.  More files already exist)"
+msgstr "(Делимичан списак.  Већ има још датотека)"
+
+#: MyTorrentsView.bad_avail_time.info
+msgid "Last time that a full copy of the download was available"
+msgstr "Последњи пут када је цео примерак пријема био доступан"
+
+#: MyTorrentsView.bad_avail_time
+msgid "Full Copy Seen"
+msgstr "Пронађен је цео примерак"
+
+#: MyTorrentsView.menu.exporthttpseeds
+msgid "Export HTTP seed URLs to clipboard"
+msgstr "Умножи УРЛ заметка на клипборд"
+
+#: SWT.alert.erroringuithread
+msgid "An unhandled Error occured in the GUI. Consecutive faults may occur -"
+msgstr ""
+"Десила се необрађена грешка у корисничком сучељу.  Могу да се јаве друге "
+"везане грешке -"
+
+#: ConfigView.label.minannounce
+msgid "Minimum time between tracker announces in seconds"
+msgstr "Најмање време између захтева пратиоцу, у секундама"
+
+#: ConfigView.label.maxnumwant
+msgid "Limit the number of peers the tracker may return"
+msgstr "Ограничи број рачунара који пратилац може да достави"
+
+#: ConfigView.label.announceport
+msgid ""
+"Override announced TCP port for tracker announces, pex and dht\n"
+"[leave empty: no override, 0: no incoming connections]"
+msgstr ""
+"Преиначи најављени ТЦП порт за пратиоца, pex и ДХТ.\n"
+"[празно: не преиначуј, 0: нема долазних веза]"
+
+#: ConfigView.label.noportannounce
+msgid ""
+"Do not announce the listening port to the tracker (this does not affect pex, "
+"dht)"
+msgstr "Не најављуј порт за слушање пратиоцу  (ово не утиче на ДХТ и остало)"
+
+#: ConfigView.label.maxseedspertorrent
+msgid "Max seeds per torrent default [0: unlimited]"
+msgstr "Највећи број заметака по торенту [0: неограничено]"
+
+#: wizard.webseed
+msgid "Add HTTP Seeds to the torrent"
+msgstr "Додај HTTP заметке у торент"
+
+#: wizard.webseed.title
+msgid "HTTP Seeds"
+msgstr "HTTP замеци"
+
+#: wizard.webseed.configuration
+msgid "HTTP Seed Configuration"
+msgstr "Подешавање HTTP заметања"
+
+#: wizard.webseed.adding
+msgid "Adding HTTP Seeds"
+msgstr "Додавање HTTP заметака"
+
+#~ msgid "Override tracker announce port"
+#~ msgstr "Преиначи порт за најаву"
+
+#~ msgid ""
+#~ "Inform the tracker of a different port than the one you're listening on. "
+#~ "Leave blank not to use the option."
+#~ msgstr ""
+#~ "Обавести пратиоца да је порт различит од оног на коме слушате. Ако "
+#~ "оставите празно, ова се могућност не користи."
+
+#~ msgid "Supports advanced messaging API."
+#~ msgstr "Подржава напредни АПИ за поруке."
+
+#~ msgid "Max Down"
+#~ msgstr "Највећа брзина пријема"
+
+#~ msgid "Max Up"
+#~ msgstr "Највећа брзина слања"
+
+#~ msgid "Set the upload limit to 80% of the measured value."
+#~ msgstr "Постави брзину слања на 80% измерене вредности."
+
+#~ msgid "Recommended Upload Speed Limit - %1"
+#~ msgstr "Препоручено ограничење брзине слања је: %1"
+
+#~ msgid ""
+#~ "Provides the most polished interface.\n"
+#~ "\n"
+#~ "Recommended for new and beginner users."
+#~ msgstr ""
+#~ "Обезбеђује најприступачније сучеље.\n"
+#~ "\n"
+#~ "Препоручује се новим и почетним корисницима."
+
+#~ msgid ""
+#~ "The new Vuze interface with the Advanced tab as the default.\n"
+#~ "\n"
+#~ "Excellent choice for users who are used to and like the classic "
+#~ "interface, but still want to see how the Vuze UI is coming along."
+#~ msgstr ""
+#~ "Ново сучеље „Вјуз‟, са језичком „Напредно‟ као подразумевним.\n"
+#~ "\n"
+#~ "Одличан избор за кориснике којима се допада и навикнути су на класично "
+#~ "сучеље, али и даље желе да виде како Вјуз напредује."
+
+#~ msgid ""
+#~ "For those who do not want anything to do with the new interface.  Azureus "
+#~ "will run exactly the same way it did in the 2.x series of versions."
+#~ msgstr ""
+#~ "За оне који не желе да имају везе са новим сучељем.  Азуреус ће радити "
+#~ "исто као што је радио у издањима 2.x."
 
 #~ msgid "Restart Now"
 #~ msgstr "Поново покрени"
@@ -8984,9 +9982,6 @@ msgstr "Најмање %1 одбачених пре него што се при�
 
 #~ msgid "Create E-Mail"
 #~ msgstr "Направи ел. поруку"
-
-#~ msgid "I recommend you download %1"
-#~ msgstr "Препоручује се да преузмете %1"
 
 #~ msgid ""
 #~ "To download \"%1\", simply click on the link below:\n"
@@ -9085,16 +10080,6 @@ msgstr "Најмање %1 одбачених пре него што се при�
 #~ "_: MainWindow.menu.file.exit\n"
 #~ "E&xit"
 #~ msgstr "&Крај"
-
-#~ msgid ""
-#~ "_: MyTorrentsView.name\n"
-#~ "Name"
-#~ msgstr "Име"
-
-#~ msgid ""
-#~ "_: MyTorrentsView.size\n"
-#~ "Size"
-#~ msgstr "Величина"
 
 #~ msgid ""
 #~ "_: MyTorrentsView.done\n"
@@ -9482,11 +10467,6 @@ msgstr "Најмање %1 одбачених пре него што се при�
 #~ msgstr "У реду"
 
 #~ msgid ""
-#~ "_: MyTorrentsView.#\n"
-#~ "#"
-#~ msgstr "бр."
-
-#~ msgid ""
 #~ "_: ConfigView.text.peers\n"
 #~ "Peers"
 #~ msgstr "Рачунара"
@@ -9797,11 +10777,6 @@ msgstr "Најмање %1 одбачених пре него што се при�
 #~ "_: columnChooser.columndescription\n"
 #~ "Description"
 #~ msgstr "Опис"
-
-#~ msgid ""
-#~ "_: MyTorrentsView.shareRatio\n"
-#~ "Share Ratio"
-#~ msgstr "Однос дељења"
 
 #~ msgid ""
 #~ "_: authenticator.tracker\n"
@@ -10790,9 +11765,6 @@ msgstr "Најмање %1 одбачених пре него што се при�
 
 #~ msgid "Prioritize most completed files"
 #~ msgstr "Дај већи приоритет довршенијим датотекама"
-
-#~ msgid "DownloadAdded"
-#~ msgstr "DownloadAdded"
 
 #~ msgid ""
 #~ "_: ConfigView.section.hooks.group.sectionName\n"
