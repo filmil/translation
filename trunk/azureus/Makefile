@@ -40,7 +40,7 @@ final_object_2  := MessagesBundle_$(loc2).properties
 
 .PHONY: clean publish all pot merge adopt_merge
 
-all: $(final_object_1) $(final_object_2) $(whatsnew_sr_Latin_object)
+all: $(final_object_1) $(final_object_2)
 
 # Target that gets the template from the CVS and produces a new .PO file
 all_merge: get_template pot merge adopt_merge
@@ -66,20 +66,19 @@ clean:
 		$(whatsnew_sr_Latin_object) \
 		semantic.cache \
 		*~ \
+		*.mo \
 		$(pot_object)
 
 publish: $(final_object_1) $(final_object_2)
 	$(CP) $^ $(TARGETDIR)
-	$(CP) $(whatsnew_sr_object) $(whatsnew_sr_Latin_object) \
-		$(TARGETDIR)/whatsnew
-	( cd $(TARGETDIR) ; \
-          $(CVS) commit \
+	# $(CP) $(TARGETDIR)/whatsnew
+	( cd $(TARGETDIR) ; $(CVS) commit \
 		-m "Updated Serbian and Serbian Latin translations")
 
 get_template:
 	(cd $(TARGETDIR) ; $(CVS) update)
 	$(CP) $(TARGETDIR)/$(template_object) .
-	$(CP) $(TARGETDIR)/whatsnew/$(whatsnew_object) .
+	#$(CP) $(TARGETDIR)/whatsnew/$(whatsnew_object) .
 
 $(merge_object): $(pot_object) $(source_object)
 	$(MSGMERGE) $(source_object) $(pot_object) -o $@

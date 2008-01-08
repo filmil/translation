@@ -19,7 +19,7 @@ sr@Latn.po: sr.po
 	$(C2L) < $< > $@
 
 clean:
-	$(RM) sr@Latn.po *~ *.gz
+	$(RM) sr@Latn.po *~ *.gz *.mo
 
 publish: stats all
 	$(SCP) *.po filip@cobalt.et.tudelft.nl:~/public_html/files/tran/mail-notification

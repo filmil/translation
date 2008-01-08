@@ -1,4 +1,15 @@
+2008-01-08  Filip Miletic  <filmil@gmail.com>
+
+	* skype/sr.po: "Call to:" translated more naturally
+	Synchronized with the language rules.  Skype is now lowercase.
+
+2007-12-01  Filip Miletic  <filmil@gmail.com>
+
+	* azureus/Makefile (get_template): Updated for the new release
+
 2007-11-27  Filip Miletic  <filmil@gmail.com>
+
+	* mail-notification/Makefile (clean): Now it deletes the *.mo files too. 
 
 	* mail-notification/sr.po: Updated for versio 5.0
 
