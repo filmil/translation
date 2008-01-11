@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.6.0.216\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-11-20 22:03+0100\n"
-"PO-Revision-Date: 2008-01-08 04:52+0100\n"
+"PO-Revision-Date: 2008-01-11 23:02+0100\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -1334,7 +1334,7 @@ msgstr "Покретање звучних уређаја није успело, 
 
 #: source/3.6.0.216.lang:sF_OPTIONS_WINDOWS_DEFAULT_SOUNDDEVICE:309
 msgid "Windows default device"
-msgstr "Подразумевани Windows звучни уређан"
+msgstr "Подразумевани звучни уређај у виндовсу"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_PAGE_DEVICES:310
 msgid "Audio Settings"
@@ -5751,7 +5751,7 @@ msgstr "Пусти овај звук"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_LB_WHEN:1395
 msgid "Select which events play a sound"
-msgstr "Изаберите на које се догађаје чује звук"
+msgstr "Звук се чује када"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_LB_PLAY:1396
 msgid "Double click each sound to play it."
@@ -5879,11 +5879,11 @@ msgstr "доспели захтеви за Ваше детаљније пода�
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SOUNDS_LOGIN:1427
 msgid "I sign in"
-msgstr "...се пријавим"
+msgstr "се пријавим"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SOUNDS_LOGOUT:1428
 msgid "I sign out"
-msgstr "...се одјавим"
+msgstr "се одјавим"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SOUNDS_OFFLINE:1429
 msgid "my contact goes offline"
@@ -5899,7 +5899,7 @@ msgstr "шаљем говорну пошту"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SOUNDS_FT_COMPLETED:1432
 msgid "file transfer is completed"
-msgstr "се пренос датоте оконча"
+msgstr "се пренос датотеке оконча"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SOUNDS_FT_FAILED:1433
 msgid "file transfer failed"
@@ -5916,7 +5916,7 @@ msgstr "корисник напусти конференцију"
 #: source/3.6.0.216.lang:sF_OPTIONS_RC_REC_VIDEO1:1436
 #: source/3.6.0.216.lang:sF_OPTIONS_RC_AD_VIDEO1:1439
 msgid "no one"
-msgstr "нико"
+msgstr "ни од кога - ни за кога"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_RC_AD_VIDEO2:1440
 msgid "people in my Contact List"
@@ -5924,7 +5924,7 @@ msgstr "само људи са списка познаника"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_RC_AD_VIDEO3:1441
 msgid "Everyone"
-msgstr "свако"
+msgstr "свакоме"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_VIDEO_LB3:1442
 msgid "Automatically receive video from..."
@@ -11088,7 +11088,7 @@ msgstr "Дозволи само познаницима да ме зову"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_ABOUT_STATUS:2858
 msgid "Learn more about status"
-msgstr "Научите више статусу"
+msgstr "Научите више о статусу"
 
 #: source/3.6.0.216.lang:sF_OPTIONS_SKYPE_TIPS:2859
 msgid ""
