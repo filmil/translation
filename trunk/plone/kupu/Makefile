@@ -34,9 +34,7 @@ publish: all
 	  $(SVN) commit -m "Updated Kupu for Serbian and Serbian Latin")
 
 import: 
-	(pushd . ; \
-	  $(CP) $(PLONEDIR)/kupu/*-sr.po . ; )
-	make -C kupu import
+	$(CP) $(PLONEDIR)/kupu/*-sr.po .
 
 stats:
 	@for A in *-sr.po; do \
