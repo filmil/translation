@@ -1,8 +1,0 @@
-2004-11-21  Filip Miletic  <f.miletic@ewi.tudelft.nl>
-
-	* makeoutput.sh (OUTPUTDIRLAT): Added the makeoutput script
-	(OUTPUTDIRLAT): Updated the script generator
-
-	* input/sr-YU/sage.properties (get_feed_title): Translated to Serbian.
-	Preliminary.
-
