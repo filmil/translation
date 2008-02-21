@@ -1,0 +1,263 @@
+# Translation of quills.pot to Serbian
+# ----------------------------------------------------------------------
+#
+# The files quills-sr.po and quills-sr-Latn.po are respectivelly the quills
+# translations for the Serbian language in Cyrillic and the Serbian
+# language in Latin script. As the Serbian language can be written down
+# equivocally using these two different scripts, both translation files
+# are provided.
+#
+# The quills-sr-Latn.po is automatically generated from quills-sr.po and
+# should NOT be edited by hand.
+#
+# The quills-sr.po and quills-sr-Latn.po for quills domain MUST always be
+# distributed one with the other.
+#
+# If you have any questions regarding this translation, you can write to
+# the first translator, Филип Милетић (f dot miletic at ewi dot tudelft
+# dot nl).
+msgid ""
+msgstr ""
+"Project-Id-Version: Quills 1.5\n"
+"POT-Creation-Date: 2006-06-29 15:58+0000\n"
+"PO-Revision-Date: 2006-08-19 16:31+0200\n"
+"Last-Translator: Filip Miletic <f dot miletic at ewi dot tudelft dot nl>\n"
+"Language-Team: Serbian <gnu@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Language-Code: sr\n"
+"Language-Name: Serbian\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: quills\n"
+
+#. Default: "Atom"
+#: skins/Quills/portlet_quills.pt
+msgid "Atom"
+msgstr "Атом"
+
+#. Default: "Atom Enabled"
+#: skins/Quills/portlet_quills.pt
+msgid "Atom Enabled"
+msgstr "Атом је укључен"
+
+#. Default: "Atom feed"
+#: skins/Quills/quills_header_macros.pt
+msgid "Atom feed"
+msgstr "Атомов довод"
+
+#. Default: "Powered by Quills"
+#: skins/Quills/portlet_quills.pt
+msgid "Powered by Quills"
+msgstr "Покрећу нас Пера"
+
+#. Default: "Quills weblog system for Plone: by Etria"
+#: skins/Quills/portlet_quills.pt
+msgid "Quills weblog system for Plone: by Etria"
+msgstr "Систем мрежних дневника „Пера“ за Плон: Etria"
+
+#. Default: "RDF"
+#: skins/Quills/portlet_quills.pt
+msgid "RDF"
+msgstr "RDF"
+
+#. Default: "RDF 1.0 feed"
+#: skins/Quills/quills_header_macros.pt
+msgid "RDF 1.0 feed"
+msgstr "Довод за RDF 1.0"
+
+#. Default: "RDF 1.1 feed"
+#: skins/Quills/quills_header_macros.pt
+msgid "RDF 1.1 feed"
+msgstr "Довод за RDF 1.1"
+
+#. Default: "RSS 2.0"
+#: skins/Quills/portlet_quills.pt
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#. Default: "RSS 2.0 feed"
+#: skins/Quills/portlet_quills.pt skins/Quills/quills_header_macros.pt
+msgid "RSS 2.0 feed"
+msgstr "Довод за RSS 2.0"
+
+#. Default: "Semantic feed"
+#: skins/Quills/portlet_quills.pt
+msgid "Semantic feed"
+msgstr "Семантички довод"
+
+#. Default: "Recent Comments"
+#: skins/Quills/portlet_recent_comments.pt
+msgid "box_recent_comments"
+msgstr "Скорашњи коментари"
+
+#. Default: "No comments posted yet."
+#: skins/Quills/portlet_recent_comments.pt
+msgid "box_recent_no_comments"
+msgstr "Још увек нема коментара."
+
+#. Default: "No items changed yet."
+#: skins/Quills/portlet_recent_posts.pt
+msgid "box_recent_no_items"
+msgstr "Још нема промењених ставки."
+
+#. Default: "Recent Posts"
+#: skins/Quills/portlet_recent_posts.pt
+msgid "box_recent_posts"
+msgstr "Скорашњи чланци"
+
+#. Default: "Entries For:"
+#: skins/Quills/weblogarchive_view.pt
+msgid "entries_for"
+msgstr "Уноси за:"
+
+# # 2 more: Quills/trunk/skins/Quills/weblog_macros.pt, Quills/trunk/skins/Quills/weblog_macros.pt
+#. Default: "Filed Under:"
+#: skins/Quills/entry_macros.pt
+msgid "filed_under"
+msgstr "Разврстано као:"
+
+#. Default: "Archives"
+#: skins/Quills/portlet_archives.pt
+msgid "heading_archives"
+msgstr "Архиве"
+
+#. Default: "Tag cloud"
+#: skins/Quills/portlet_tag_cloud.pt
+msgid "heading_tagcloud"
+msgstr "Облак ознака"
+
+#. Default: "Topics"
+#: skins/Quills/portlet_topics.pt
+msgid "heading_topics"
+msgstr "Теме"
+
+#. Default: "Trackback"
+#: skins/Quills/entry_macros.pt
+msgid "heading_trackback"
+msgstr "Показивач уназад"
+
+# # 1 more: Quills/trunk/skins/Quills/siteplanet_view.pt
+#. Default: "No weblog entries have been posted."
+#: skins/Quills/siteplanet_view.pt skins/Quills/weblog_macros.pt
+msgid "no_weblog_entries"
+msgstr "Још увек нема уноса у дневник."
+
+#. Default: "Comments:"
+#: skins/Quills/entry_macros.pt
+msgid "number_of_comments"
+msgstr "Коментари:"
+
+#. Default: "Topics in Detail"
+#: skins/Quills/portlet_topics.pt
+msgid "topic_detail"
+msgstr "Детаљи о темама"
+
+#. Default: "The URI to TrackBack this entry is:"
+#: skins/Quills/entry_macros.pt
+msgid "trackback_uri"
+msgstr "URI за повратницу на овај унос:"
+
+#. Default: "Note: for some weblog editors you will need to provide the following string as id to edit this blog:"
+#: skins/Quills/weblog_view.pt
+msgid "weblog_edit_app_note"
+msgstr "Примедба: за неке уређиваче блогова мораћете да користите наредни идентификатор како бисте могли да мењате блог:"
+
+#~ msgid "Add Weblog Entry"
+#~ msgstr "Нови унос у дневник"
+
+#~ msgid "Add a Topic"
+#~ msgstr "Додај тему"
+
+#~ msgid "Calendar"
+#~ msgstr "Календар"
+
+#~ msgid "Cancel"
+#~ msgstr "Откажи"
+
+#~ msgid "Delete"
+#~ msgstr "Обриши"
+
+#~ msgid "Edit"
+#~ msgstr "Уреди"
+
+#~ msgid "Get Firefox"
+#~ msgstr "Преузми Лисицу"
+
+#~ msgid "Get Firefox - Take Back the Web"
+#~ msgstr "Преузмите Лисицу - преузмите Мрежу натраг"
+
+#~ msgid "Powered by Plone"
+#~ msgstr "Покреће нас Плон"
+
+#~ msgid "Save"
+#~ msgstr "Сачувај"
+
+#~ msgid ""
+#~ "This Plone site was built using the Plone Content Management System. "
+#~ "Click for more information."
+#~ msgstr ""
+#~ "Ово Плоново место је начињено употребом Плоновог система за управљање "
+#~ "садржајем. Притисните овде за више података."
+
+#~ msgid "Validate my Atom feed"
+#~ msgstr "Провери исправност Атомовог довода"
+
+#~ msgid "[Valid Atom]"
+#~ msgstr "[Исправан Атом]"
+
+#~ msgid "atom_description"
+#~ msgstr ""
+#~ "Ово је Атом довод, уређен као XML. Намењен је за преглед помоћу програма "
+#~ "за праћење група или за удруживање на другим местима. Молимо да посетите"
+
+#~ msgid "atom_enabled"
+#~ msgstr "Атом је укључен"
+
+#~ msgid "atom_more_info"
+#~ msgstr "за више података."
+
+#~ msgid "edit"
+#~ msgstr "Уреди"
+
+#~ msgid "generator"
+#~ msgstr "Плон 2.0"
+
+#~ msgid "generator_name"
+#~ msgstr "Пера"
+
+#~ msgid "heading_weblog_topics"
+#~ msgstr "Теме дневника"
+
+#~ msgid "label_allowed_sizes"
+#~ msgstr "Дозвољене величине фотографија"
+
+#~ msgid "link_up_to_plone"
+#~ msgstr "Горе на подешавање Плона"
+
+#~ msgid "on_for_a_date"
+#~ msgstr "у"
+
+# # 1 more: Quills/trunk/skins/Quills/weblogentry_view.pt
+#~ msgid "posted_by"
+#~ msgstr "Аутор"
+
+#~ msgid "quills_configuration"
+#~ msgstr "Подешавање Пера"
+
+#~ msgid "sizes_help"
+#~ msgstr ""
+#~ "Које величине слика треба да буду створене за сликовне уносе у дневник. "
+#~ "Величине треба записати као целе бројеве, један у реду. Ако назначите "
+#~ "величину „128“, слике ће бити раширене или скупљене тако да се уклопе у "
+#~ "квадрат 128x128 тачака. Ако слика није квадратног облика, величина ће "
+#~ "бити промењена према дужој ивици."
+
+#~ msgid "sizes_note_help"
+#~ msgstr ""
+#~ "Примедба: Ова подешавања треба мењати само приликом почетног постављања "
+#~ "Пера. Промене изазивају обраду свих слика, што може да оптерети систем."
+
+#~ msgid "topics"
+#~ msgstr "Теме"

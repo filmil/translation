@@ -1,0 +1,803 @@
+# gnomebaker translation to Serbian
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomebaker 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-07-31 04:17+0200\n"
+"PO-Revision-Date: 2005-10-09 22:13+0100\n"
+"Last-Translator: Филип Милетић <filmil@gmail.com>\n"
+"Language-Team: Serbian (sr) <gnu@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: src/audiocd.c:125 src/audiocd.c:254 gnomebaker.glade:1085
+msgid "0 mins 0 secs"
+msgstr "мин: 0 сек: 0"
+
+#: src/audiocd.c:136
+#, c-format
+msgid "%d mins %d secs"
+msgstr "мин: %d сек: %d"
+
+#: src/audiocd.c:144
+msgid "Track is too large to fit in the remaining space on the CD"
+msgstr "Трака је предугачка да стане на остатак места на диску"
+
+#: src/audiocd.c:319 src/filebrowser.c:619
+msgid "_Open"
+msgstr "&Отвори"
+
+#: src/audiocd.c:324
+msgid "Move selected _up"
+msgstr "Помери изабрано на_горе"
+
+#: src/audiocd.c:326
+msgid "Move selected _down"
+msgstr "Помери изабрано на_доле"
+
+#: src/audiocd.c:329 src/datacd.c:451
+msgid "_Remove selected"
+msgstr "_Уклони избор"
+
+#: src/audiocd.c:331
+msgid "_Clear"
+msgstr "_Обриши"
+
+#: src/audiocd.c:390
+#, c-format
+msgid "The plugin to handle a file of type %s is not installed."
+msgstr "Додатак за обраду датотеке врсте %s није инсталиран."
+
+#: src/audiocd.c:397
+#, c-format
+msgid "There is no known plugin to handle a file of type %s."
+msgstr "Додатак за обраду датотеке врсте %s није познат."
+
+#: src/audiocd.c:515
+msgid "Track"
+msgstr "Трака"
+
+#: src/audiocd.c:527
+msgid "Duration"
+msgstr "Трајање"
+
+#: src/audiocd.c:543
+msgid "Artist"
+msgstr "Извођач"
+
+#: src/audiocd.c:551
+msgid "Album"
+msgstr "Албум"
+
+#: src/audiocd.c:559
+msgid "Title"
+msgstr "Наслов"
+
+#: src/burn.c:106
+msgid "Completed"
+msgstr "Готово"
+
+#: src/burn.c:110
+msgid "Failed"
+msgstr "Неуспело"
+
+#: src/burn.c:234
+msgid ""
+"The file you have selected is not a cd image. Please select a cd image to "
+"burn."
+msgstr "Датотека коју сте изабрали није отисак диска. Молимо изаберите отисак диска за нарезивање."
+
+#: src/burn.c:267 src/burn.c:438
+msgid "Please select an iso file to save to..."
+msgstr "Молимо изаберите отисак за чување..."
+
+#: src/datacd.c:177
+msgid "File or directory is too large to fit in the remaining space on the CD"
+msgstr "Датотека или директоријум су превелики да би били смештени на остатак простора на диску"
+
+#: src/datacd.c:447
+msgid "_Edit name"
+msgstr "_Уреди име"
+
+#: src/datacd.c:453
+msgid "Clear"
+msgstr "Обриши"
+
+#: src/datacd.c:485 gnomebaker.glade:318
+msgid "Contents"
+msgstr "Садржај"
+
+#: src/datacd.c:508 src/datacd.c:517 src/filebrowser.c:834
+msgid "Size"
+msgstr "Величина"
+
+#: src/datacd.c:526
+msgid "Full Path"
+msgstr "Пуна стаза"
+
+#: src/datacd.c:534
+msgid "Session"
+msgstr "Сесија"
+
+#: src/datacd.c:581
+#, c-format
+msgid ""
+"Error getting session information.\n"
+"\n"
+"%s"
+msgstr ""
+"Грешка при добављању података о сесији.\n"
+"\n"
+"%s"
+
+#: src/datacd.c:582 src/devices.c:650
+msgid "unknown error"
+msgstr "непозната грешка"
+
+#: src/datacd.c:653
+#, c-format
+msgid ""
+"Error importing session from [%s]. Please check the device configuration in "
+"preferences."
+msgstr "Грешка при увозу сесије из [%s]. Молимо проверите подешавања уређаја у поставкама."
+
+#: src/devices.c:631
+msgid ""
+"The mount point (e.g. /mnt/cdrom) for the writing device could not be "
+"obtained. Please check that the writing device has an entry in /etc/fstab "
+"and then go to preferences and rescan for devices."
+msgstr "Ова тачка за монтирање (нпр. /mnt/cdrom) за уређај за упис није могла бити добављена. Молимо проверите да ли је уређај наведен као уређај за упис у датотеци /etc/fstab и затим изаберите мени поставке и поново потражите уређаје."
+
+#: src/devices.c:649
+#, c-format
+msgid ""
+"Error %s %s.\n"
+"\n"
+"%s"
+msgstr ""
+"Грешка %s %s.\n"
+"\n"
+"%s"
+
+#: src/devices.c:650
+msgid "mounting"
+msgstr "монтирање"
+
+#: src/devices.c:650
+msgid "unmounting"
+msgstr "демонтирање"
+
+#: src/filebrowser.c:67 src/filebrowser.c:721
+msgid "Filesystem"
+msgstr "Систем датотека"
+
+#: src/filebrowser.c:68
+msgid "Home"
+msgstr "Дом"
+
+#: src/filebrowser.c:69
+msgid "(empty)"
+msgstr "(празно)"
+
+#: src/filebrowser.c:70
+msgid "Folder"
+msgstr "Директоријум"
+
+#: src/filebrowser.c:610
+msgid "_Add directory"
+msgstr "_Додај директоријум"
+
+#: src/filebrowser.c:623
+msgid "_Add file(s)"
+msgstr "Додај да_тотеке"
+
+#: src/filebrowser.c:639 gnomebaker.glade:190
+msgid "_Burn CD Image"
+msgstr "_Запиши отисак диска"
+
+#: src/filebrowser.c:641
+msgid "_Burn DVD Image"
+msgstr "За_пиши отисак DVDа"
+
+#: src/filebrowser.c:752
+#, c-format
+msgid "%s's home"
+msgstr "Дом корисника %s"
+
+#: src/filebrowser.c:820
+msgid "File"
+msgstr "Датотека"
+
+#: src/filebrowser.c:852
+msgid "Type"
+msgstr "Врста"
+
+#: src/filebrowser.c:860
+msgid "Mime"
+msgstr "MIME"
+
+#: src/gbcommon.c:440
+msgid "Please select an iso file..."
+msgstr "Молимо изаберите ИСО датотеку..."
+
+#: src/gbcommon.c:448
+msgid "CD Image files"
+msgstr "Отисци компакт дискова"
+
+#: src/gbcommon.c:451
+msgid "All files"
+msgstr "Све датотеке"
+
+#: src/gnomebaker.c:87
+msgid "Loading preferences..."
+msgstr "Учитавање поставки..."
+
+#: src/gnomebaker.c:90
+msgid "Detecting devices..."
+msgstr "Проналажење уређаја..."
+
+#: src/gnomebaker.c:93
+msgid "Registering gstreamer plugins..."
+msgstr "Пријава додатака за Гстример..."
+
+#: src/gnomebaker.c:96
+msgid "Loading GUI..."
+msgstr "Учитавање сучеља..."
+
+#: src/gnomebaker.c:180
+msgid "Are you sure you want to quit?"
+msgstr "Да ли сигурно желите да завршите рад?"
+
+#: src/gnomebaker.c:273
+msgid ""
+"The file you have selected is not a DVD image. Please select a DVD image to "
+"burn."
+msgstr "Датотека коју сте изабрали није отисак DVDа. Молимо изаберите отисак DVDа за нарезивање."
+
+#: src/gnomebaker.c:346 gnomebaker.glade:12
+msgid "GnomeBaker"
+msgstr "Гномов пекар"
+
+#: src/gnomebaker.c:347
+msgid "Simple CD Burning for Gnome"
+msgstr "Једноставно нарезивање дискова за Гнома"
+
+#: src/gnomebaker.c:347 gnomebaker.glade:1750
+msgid "translator_credits"
+msgstr "Филип Милетић"
+
+#: src/gnomebaker.c:412
+msgid "Please select files to add to the disk..."
+msgstr "Молимо изаберите датотеке за додавање на диск..."
+
+#: src/prefsdlg.c:131
+msgid "Name"
+msgstr "Име"
+
+#: src/prefsdlg.c:146
+msgid "Id"
+msgstr "ИБ"
+
+#: src/prefsdlg.c:155
+msgid "Node"
+msgstr "Чвор"
+
+#: src/prefsdlg.c:164
+msgid "Mount point"
+msgstr "Окачен на"
+
+#: src/prefsdlg.c:173
+msgid "Write CD-R"
+msgstr "Упис на CD-R"
+
+#: src/prefsdlg.c:182
+msgid "Write CD-RW"
+msgstr "Упиc на CD-RW"
+
+#: src/prefsdlg.c:191
+msgid "Write DVD-R"
+msgstr "Упис на DVD-R"
+
+#: src/prefsdlg.c:200
+msgid "Write DVD-RAM"
+msgstr "Упис на DVD-RAM"
+
+#: src/startdlg.c:103
+msgid "Dummy write"
+msgstr "Симулација уписа"
+
+#: src/startdlg.c:104
+msgid "Eject disk"
+msgstr "Избаци диск"
+
+#: src/startdlg.c:105
+msgid "Fast blank"
+msgstr "Брзо брисање"
+
+#: src/startdlg.c:106
+msgid "BurnFree"
+msgstr "BurnFree"
+
+#: src/startdlg.c:107
+msgid "Create ISO only"
+msgstr "Направи само ISO"
+
+#: src/startdlg.c:109
+msgid "Force"
+msgstr "Приморај"
+
+#: src/startdlg.c:110
+msgid "Finalize"
+msgstr "Заврши"
+
+#: src/startdlg.c:111
+msgid "Fast"
+msgstr "Брзо"
+
+#: src/startdlg.c:112
+msgid "Joliet"
+msgstr "Joliet"
+
+#: src/startdlg.c:113
+msgid "Rock Ridge"
+msgstr "Rock Ridge"
+
+#: src/startdlg.c:114
+msgid "On The Fly"
+msgstr "У лету"
+
+#: src/execfunctions.c:79
+msgid "<b>Burning disk...</b>"
+msgstr "<b>Нарезивање диска...</b>"
+
+#: src/execfunctions.c:85
+msgid "Please insert the CD into the CD writer"
+msgstr "Молимо убаците CD у писач"
+
+#: src/execfunctions.c:103
+msgid "<b>Blanking disk...</b>"
+msgstr "<b>Брисање диска...</b>"
+
+#: src/execfunctions.c:110
+msgid "Please insert the CD-RW into the CD writer"
+msgstr "Молимо убаците CD-RW у писач"
+
+#: src/execfunctions.c:187
+msgid "Fixating"
+msgstr "Фиксирање"
+
+#: src/execfunctions.c:227 gnomebaker.glade:2863
+msgid "default"
+msgstr "подразумевано"
+
+#: src/execfunctions.c:393
+msgid "<b>Extracting audio tracks...</b>"
+msgstr "<b>Извлачење аудио трака...</b>"
+
+#: src/execfunctions.c:405
+msgid ""
+"Audio tracks from a previous sesion already exist on disk, do you wish to "
+"use the existing tracks?"
+msgstr "Аудио траке већ постоје на овом диску од претходних сесија. Да ли желите да користите постојеће траке?"
+
+#: src/execfunctions.c:422
+msgid "Please insert the audio CD into the CD reader"
+msgstr "Молимо убаците аудио CD у читач"
+
+#: src/execfunctions.c:567
+msgid "<b>Creating data disk image...</b>"
+msgstr "<b>Прављење отиска диска...</b>"
+
+#: src/execfunctions.c:575
+msgid ""
+"A data CD image from a previous session already exists on disk, do you wish "
+"to use the existing image?"
+msgstr "Отисак диска од претходне сесије већ постоји на диску, да ли желите да користите постојећу слику?"
+
+#: src/execfunctions.c:765
+msgid "<b>Formatting DVD...</b>"
+msgstr "<b>Форматирање DVDа...</b>"
+
+#: src/execfunctions.c:772
+msgid "Please insert a rewritable DVD into the DVD writer"
+msgstr "Молимо убаците DVD за преписивање у DVD писач"
+
+#: src/execfunctions.c:858
+msgid "<b>Burning DVD...</b>"
+msgstr "<b>Нарезивање DVDа...</b>"
+
+#: src/execfunctions.c:865
+msgid "Please insert a writable DVD into the DVD writer"
+msgstr "Молимо убаците DVD за уписивање у DVD писач"
+
+#: src/execfunctions.c:939 src/execfunctions.c:980
+msgid "Writing lead-out"
+msgstr "Записивање изводнице"
+
+#: src/execfunctions.c:1140
+msgid "<b>Reading CD image...</b>"
+msgstr "<b>Читање отиска CDа...</b>"
+
+#: src/execfunctions.c:1422
+msgid "<b>Converting files to cd audio...</b>"
+msgstr "<b>Пребацивање датотека у аудио формат...</b>"
+
+#: src/burn.h:64 gnomebaker.glade:376 gnomebaker.glade:377
+msgid "Blank CDRW"
+msgstr "Празан CDRW"
+
+#: src/burn.h:65 gnomebaker.glade:425 gnomebaker.glade:426
+msgid "Copy Data CD"
+msgstr "Умножи CD са подацима"
+
+#: src/burn.h:66 gnomebaker.glade:443 gnomebaker.glade:444
+msgid "Copy Audio CD"
+msgstr "Умножи аудио CD"
+
+#: src/burn.h:67 gnomebaker.glade:474 gnomebaker.glade:475
+msgid "Burn CD Image"
+msgstr "Запиши отисак CDa"
+
+#: src/burn.h:68 gnomebaker.glade:492 gnomebaker.glade:493
+msgid "Burn DVD Image"
+msgstr "Запиши отисак DVDа"
+
+#: src/burn.h:69
+msgid "Create Data CD"
+msgstr "Направи CD са подацима"
+
+#: src/burn.h:70
+msgid "Create Audio CD"
+msgstr "Направи аудио CD"
+
+#: src/burn.h:71
+msgid "Create Mixed CD"
+msgstr "Направи мешани CD"
+
+#: src/burn.h:72
+msgid "Create Video CD"
+msgstr "Направи видео CD"
+
+#: src/burn.h:73
+msgid "Format DVD+RW"
+msgstr "Форматирај DVD+RW"
+
+#: src/burn.h:74
+msgid "Create Data DVD"
+msgstr "Направи DVD са подацима"
+
+#: gnomebaker.glade:89
+msgid "_Actions"
+msgstr "_Дејства"
+
+#: gnomebaker.glade:98
+msgid "Bl_ank CDRW"
+msgstr "_Обриши CDRW"
+
+#: gnomebaker.glade:118
+msgid "_Format DVDRW"
+msgstr "_Форматирај DVDRW"
+
+#: gnomebaker.glade:144
+msgid "C_opy Data CD"
+msgstr "_Умножи CD са подацима"
+
+#: gnomebaker.glade:164
+msgid "Co_py Audio CD"
+msgstr "Умножи _аудио CD"
+
+#: gnomebaker.glade:210
+msgid "Burn _DVD Image"
+msgstr "Запиши отисак DVDа"
+
+#: gnomebaker.glade:236
+msgid "_Import Session"
+msgstr "_Увези сесију"
+
+#: gnomebaker.glade:260
+msgid "_View"
+msgstr "_Преглед"
+
+#: gnomebaker.glade:269
+msgid "_Refresh"
+msgstr "_Освежи"
+
+#: gnomebaker.glade:296
+msgid "_Show File Browser"
+msgstr "_Прикажи прегледач датотека"
+
+#: gnomebaker.glade:394 gnomebaker.glade:395
+msgid "Format DVDRW"
+msgstr "Форматирај DVDRW"
+
+#: gnomebaker.glade:523
+msgid "Edit GnomeBaker's preferences"
+msgstr "Уређивање подешавања Гномовог пекара"
+
+#: gnomebaker.glade:556
+msgid "Refresh the file browser file list"
+msgstr "Освежи приказ списка датотека"
+
+#: gnomebaker.glade:679
+msgid "Add the current directory to the CD"
+msgstr "Додај тренутни директоријум на CD"
+
+#: gnomebaker.glade:680
+msgid "Add directory"
+msgstr "Додај директоријум"
+
+#: gnomebaker.glade:697
+msgid "Add the selected files to the CD"
+msgstr "Додај изабране датотеке на CD"
+
+#: gnomebaker.glade:698
+msgid "Add file(s)"
+msgstr "Додај датотеке"
+
+#: gnomebaker.glade:715
+msgid "Remove the selected files from the CD"
+msgstr "Уклони изабране датотеке са CDа"
+
+#: gnomebaker.glade:716
+msgid "Remove selected"
+msgstr "Уклони изабране"
+
+#: gnomebaker.glade:733
+msgid "Clear the contents of the CD"
+msgstr "Обриши садржај CDа"
+
+#: gnomebaker.glade:762
+msgid "Import existing session"
+msgstr "Увези постојећу сесију"
+
+#: gnomebaker.glade:763
+msgid "Import"
+msgstr "Увоз"
+
+#: gnomebaker.glade:794
+msgid "Move audio tracks up"
+msgstr "Помери аудио траке нагоре"
+
+#: gnomebaker.glade:811
+msgid "Move audio tracks down"
+msgstr "Помери аудио траке надоле"
+
+#: gnomebaker.glade:891 gnomebaker.glade:1279 gnomebaker.glade:1539
+msgid "0%"
+msgstr "0%"
+
+#: gnomebaker.glade:924
+msgid "Click to begin the process of creating a data disk."
+msgstr "Притисните како бисте покренули стварање диска са подацима."
+
+#: gnomebaker.glade:967
+msgid "Create Data Disk"
+msgstr "Прављење диска са подацима"
+
+#: gnomebaker.glade:1016
+msgid "<b>Data Disk</b>"
+msgstr "<b>Диск са подацима</b>"
+
+#: gnomebaker.glade:1118
+msgid "Click to begin the process of creating an audio cd"
+msgstr "Притисните како бисте покренули стварање аудио диска."
+
+#: gnomebaker.glade:1161
+msgid "Create Audio Disk"
+msgstr "Прављење аудио диска"
+
+#: gnomebaker.glade:1210
+msgid "<b>Audio Disk</b>"
+msgstr "<b>Аудио диск</b>"
+
+#: gnomebaker.glade:1352
+msgid "Create Video Disk"
+msgstr "Прављење видео диска"
+
+#: gnomebaker.glade:1401
+msgid "<b>Video CD</b>"
+msgstr "<b>Видео CD</b>"
+
+#: gnomebaker.glade:1466
+msgid "Baking CD"
+msgstr "Припрема CD"
+
+#: gnomebaker.glade:1511
+msgid "<b>Burning</b>"
+msgstr "<b>Нарезивање</b>"
+
+#: gnomebaker.glade:1643
+msgid "View output"
+msgstr "Прегледај излаз"
+
+#: gnomebaker.glade:1747
+msgid "GPL"
+msgstr "ОЈЛ"
+
+#: gnomebaker.glade:1748
+msgid "Simple CD burning for Gnome."
+msgstr "Једноставно нарезивање дискова из Гнома."
+
+#: gnomebaker.glade:1755
+msgid "Splash window"
+msgstr "Насловни екран"
+
+#: gnomebaker.glade:1794
+msgid "Starting GnomeBaker..."
+msgstr "Покрећем Гномовог пекара..."
+
+#: gnomebaker.glade:1823
+msgid "GnomeBaker Preferences"
+msgstr "Поставке Гномовог пекара"
+
+#: gnomebaker.glade:1895
+msgid "<b>Temporary Directory</b>"
+msgstr "<b>Привремени директоријум</b>"
+
+#: gnomebaker.glade:1936
+msgid "/tmp"
+msgstr "/tmp"
+
+#: gnomebaker.glade:1957
+msgid "Clean temporary directory on exit"
+msgstr "Обриши привремени директоријум по изласку"
+
+#: gnomebaker.glade:1979
+msgid "<b>File Browser</b>"
+msgstr "<b>Прегледач датотека</b>"
+
+#: gnomebaker.glade:2008
+msgid "Show hidden files"
+msgstr "Прикажи сакривене датотеке"
+
+#: gnomebaker.glade:2031
+msgid "Show humanreadable filesizes"
+msgstr "Прикажи читљиве величине датотека"
+
+#: gnomebaker.glade:2053
+msgid "<b>GnomeBaker</b>"
+msgstr "<b>Гномов пекар</b>"
+
+#: gnomebaker.glade:2082
+msgid "Ask on quit"
+msgstr "Питај на излазу"
+
+#: gnomebaker.glade:2110
+msgid "General"
+msgstr "Опште"
+
+#: gnomebaker.glade:2143
+msgid "<b>Detected devices</b>"
+msgstr "<b>Пронађени уређаји</b>"
+
+#: gnomebaker.glade:2204
+msgid "Always scan for devices on startup"
+msgstr "Увек потражи уређаје при покретању"
+
+#: gnomebaker.glade:2276
+msgid "_Add device"
+msgstr "_Додај уређај"
+
+#: gnomebaker.glade:2351 gnomebaker.glade:2735
+msgid "Sc_an for devices"
+msgstr "_Потражи уређаје"
+
+#: gnomebaker.glade:2398
+msgid "Devices"
+msgstr "Уређаји"
+
+#: gnomebaker.glade:2430
+msgid "Start burning..."
+msgstr "Почни нарезивање..."
+
+#: gnomebaker.glade:2517
+msgid "_Start"
+msgstr "_Почни"
+
+#: gnomebaker.glade:2566
+msgid "Reader"
+msgstr "Читач"
+
+#: gnomebaker.glade:2595 gnomebaker.glade:3537
+msgid "Writer"
+msgstr "Писач"
+
+#: gnomebaker.glade:2658
+msgid "<b>Options</b>"
+msgstr "<b>Опције</b>"
+
+#: gnomebaker.glade:2776
+msgid "Speed"
+msgstr "Брзина"
+
+#: gnomebaker.glade:2826
+msgid "Mode"
+msgstr "Начин"
+
+#: gnomebaker.glade:2871
+msgid "tao"
+msgstr "tao"
+
+#: gnomebaker.glade:2879
+msgid "dao"
+msgstr "dao"
+
+#: gnomebaker.glade:2887
+msgid "raw96p"
+msgstr "raw96p"
+
+#: gnomebaker.glade:2895
+msgid "raw16"
+msgstr "raw16"
+
+#: gnomebaker.glade:2915
+msgid "<b>Devices</b>"
+msgstr "<b>Уређаји</b>"
+
+#: gnomebaker.glade:2953
+msgid "ISO filesystem details"
+msgstr "Подаци о ISO систему датотека"
+
+#: gnomebaker.glade:3026
+msgid "<b>Volume label</b>"
+msgstr "<b>Име диска</b>"
+
+#: gnomebaker.glade:3058
+msgid "GnomeBaker data cd"
+msgstr "Подаци"
+
+#: gnomebaker.glade:3076
+msgid "<b>Created by</b>"
+msgstr "<b>Направио</b>"
+
+#: gnomebaker.glade:3108
+msgid "Created by username"
+msgstr "Направио корисник"
+
+#: gnomebaker.glade:3126
+msgid "<b>Boot options</b>"
+msgstr "<b>Опције за покретање рачунара</b>"
+
+#: gnomebaker.glade:3156
+msgid "Not bootable"
+msgstr "Бутабилан"
+
+#: gnomebaker.glade:3180
+msgid "PC bootable"
+msgstr "Бутабилан на PCју"
+
+#: gnomebaker.glade:3213
+msgid "Floppy disk image"
+msgstr "Отисак дискете"
+
+#: gnomebaker.glade:3234
+msgid "Hard disk image"
+msgstr "Отисак тврдог диска"
+
+#: gnomebaker.glade:3265
+msgid "Boot catalog"
+msgstr "Каталог за подизање система"
+
+#: gnomebaker.glade:3294
+msgid "Boot Image"
+msgstr "Отисак за подизање система"
+
+#: gnomebaker.glade:3358
+msgid "Sun workstation bootable"
+msgstr "Отисак SUN радне станице"
+
+#: gnomebaker.glade:3381
+msgid "Boot Image list"
+msgstr "Списак отисака за подизање система"
+
+#: gnomebaker.glade:3463
+msgid "Select writer..."
+msgstr "Изаберите писач..."
+
+#: gnomebaker.glade:3581
+msgid ""
+"<b>Please select the writing device from the list below and insert the disk "
+"containing the existing session.</b>"
+msgstr "<b>Молимо изаберите уређај за записивање из доњег списка и убаците диск који садржи постојећу сесију.</b>"
