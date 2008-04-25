@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pootle 0.6.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2005-03-01 19:15\n"
-"PO-Revision-Date: 2005-07-09 19:15\n"
+"PO-Revision-Date: 2008-03-18 23:46+0100\n"
 "Last-Translator: Филип Милетић <filmil@gmail.com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -135,10 +135,6 @@ msgstr "Пројекти"
 #: pagelayout.py:100
 msgid "Log In"
 msgstr "Пријава"
-
-#: indexpage.py:21
-msgid "The name stands for <b>PO</b>-based <b>O</b>nline <b>T</b>ranslation / <b>L</b>ocalization <b>E</b>ngine, but you may need to read <a href=\"http://www.thechestnut.com/flumps.htm\">this</a>."
-msgstr "Име Путла долази од Pootle (<b>PO</b>-based <b>O</b>nline <b>T</b>ranslation / <b>L</b>ocalization <b>E</b>ngine), али можда желите да прочитате и <a href=\"http://www.thechestnut.com/flumps.htm\">ово</a>."
 
 #: pagelayout.py:162
 msgid "Search"
