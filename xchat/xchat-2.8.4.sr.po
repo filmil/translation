@@ -1,26 +1,25 @@
 # XChat translation file: Serbian language
-# Copyright (C) 2004,2005,2006 Free Software Foundation, Inc.
+# Copyright (C) 2004-2008 Free Software Foundation, Inc.
 #
 # Translators:
-# o Zoltan Čala <zolika@sezampro.yu>, 1999.
-# o Filip Miletić <f.miletic@ewi.tudelft.nl>, 2004, 2005, 2006, 2007.
+# o Filip Miletić <filmil@gmail.com>, 2004-2008.
 # o Aleksandar Jelenak <jelenak@verizon.net>, 2004, 2005.
+# o Zoltan Čala <zolika@sezampro.yu>, 1999.
 #
 # Note:
 # The file sr@Latn.po is automatically generated from sr.po
 msgid ""
 msgstr ""
-"Project-Id-Version: xchat 2.8.0\n"
+"Project-Id-Version: xchat 2.8.4\n"
 "Report-Msgid-Bugs-To: www.xchat.org\n"
 "POT-Creation-Date: 2007-06-24 13:05+1000\n"
-"PO-Revision-Date: 2007-02-02 22:58+0100\n"
+"PO-Revision-Date: 2008-04-26 01:12+0200\n"
 "Last-Translator: Aleksandar Jelenak <jelenak@verizon.net>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 #: src/common/cfgfiles.c:354
 msgid "Cannot create ~/.xchat2"
@@ -240,10 +239,9 @@ msgstr ""
 "CTCP <име> <порука>, шаље CTCP поруку на дато име, попут VERSION или USERINFO"
 
 #: src/common/outbound.c:3536
-#, fuzzy
 msgid ""
 "CYCLE [<channel>], parts the current or given channel and immediately rejoins"
-msgstr "CYCLE, напушта тренутни канал и одмах се враћа назад"
+msgstr "CYCLE [<канал>], напушта тренутни или задати канал и одмах се враћа назад"
 
 #: src/common/outbound.c:3538
 msgid ""
@@ -550,10 +548,8 @@ msgstr ""
 "6667"
 
 #: src/common/outbound.c:3673
-#, fuzzy
 msgid "SET [-e] [-or] [-quiet] <variable> [<value>]"
-msgstr ""
-"SET [-e] [-quiet] <променљива> [<вредност>], поставља вредност променљиве"
+msgstr "SET [-e] [-or] [-quiet] <променљива> [<вредност>], поставља вредност променљиве"
 
 #: src/common/outbound.c:3674
 msgid "SETCURSOR [-|+]<position>"
@@ -1164,7 +1160,7 @@ msgstr "%C22*%O$tПроменили сте име у $2"
 
 #: src/common/text.c:287
 msgid "Loaded log from"
-msgstr ""
+msgstr "Дневник је учитан из"
 
 #: src/common/text.c:305
 #, c-format
@@ -3295,12 +3291,11 @@ msgstr "Отвори УРЛ у постојећем Иксчету"
 
 #: src/fe-gtk/fe-gtk.c:135
 msgid "Begin minimized. Level 0=Normal 1=Iconified 2=Tray"
-msgstr ""
+msgstr "Покрени минимизован.  Ниво 0=нормалан 1=као сличица 3=обавештајна зона"
 
 #: src/fe-gtk/fe-gtk.c:135
-#, fuzzy
 msgid "level"
-msgstr "Никада"
+msgstr "ниво"
 
 #: src/fe-gtk/fe-gtk.c:136
 msgid "Show version information"
@@ -3680,34 +3675,29 @@ msgstr ""
 "све затворите?"
 
 #: src/fe-gtk/maingui.c:1304
-#, fuzzy
 msgid "Quit XChat?"
-msgstr "О Иксчету"
+msgstr "Крај рада?"
 
 #: src/fe-gtk/maingui.c:1325
 msgid "Don't ask next time."
-msgstr ""
+msgstr "Не питај наредни пут."
 
 #: src/fe-gtk/maingui.c:1331
-#, fuzzy, c-format
+#, c-format
 msgid "You are connected to %i IRC networks."
-msgstr ""
-"Повезани сте на оволико ИРЦ мрежа: <b>%u</b>.\n"
-"Да ли сигурно желите да завршите рад?"
+msgstr "Повезани сте на оволико ИРЦ мрежа: %u."
 
 #: src/fe-gtk/maingui.c:1333
-#, fuzzy
 msgid "Are you sure you want to quit?"
-msgstr "Да ли сигурно желите да уклоните све забране за канал: %s?"
+msgstr "Да ли сигурно желите да завршите рад?"
 
 #: src/fe-gtk/maingui.c:1335
-#, fuzzy
 msgid "Some file transfers are still active."
-msgstr "Још увек ради пренос датотека, да ли ипак желите крај рада?"
+msgstr "Још увек траје пренос датотека."
 
 #: src/fe-gtk/maingui.c:1353
 msgid "_Minimize to Tray"
-msgstr ""
+msgstr "_Минимизуј у обавештајну зону"
 
 #: src/fe-gtk/maingui.c:1567
 msgid "Insert Attribute or Color Code"
@@ -4099,33 +4089,28 @@ msgid "_View"
 msgstr "_Преглед"
 
 #: src/fe-gtk/menu.c:1405
-#, fuzzy
 msgid "_Menu Bar"
 msgstr "_Трака менија"
 
 #: src/fe-gtk/menu.c:1406
-#, fuzzy
 msgid "_Topic Bar"
 msgstr "_Трака за тему"
 
 #: src/fe-gtk/menu.c:1407
-#, fuzzy
 msgid "_User List"
-msgstr "Списак имена"
+msgstr "_Списак корисника"
 
 #: src/fe-gtk/menu.c:1408
-#, fuzzy
 msgid "U_serlist Buttons"
-msgstr "_Корисничка дугмета"
+msgstr "_Корисничка дугмад"
 
 #: src/fe-gtk/menu.c:1409
 msgid "M_ode Buttons"
-msgstr "_Дугмета за начин приступа"
+msgstr "_Дугмад за начин приступа"
 
 #: src/fe-gtk/menu.c:1411
-#, fuzzy
 msgid "_Channel Switcher"
-msgstr "канали са"
+msgstr "_Промена канала"
 
 #: src/fe-gtk/menu.c:1413
 msgid "_Tabs"
@@ -4349,6 +4334,8 @@ msgid ""
 "Cannot find 'notify-send' to open balloon alerts.\n"
 "Please install libnotify."
 msgstr ""
+"Није могуће пронаћи програм „notify-send‟ за отварање узбуна у прозорчићима.\n"
+"Молимо инсталирајте либнотифај (libnotify)."
 
 #: src/fe-gtk/plugin-tray.c:214
 #, c-format
@@ -4380,7 +4367,7 @@ msgid "Highlighted Message"
 msgstr "Означена порука"
 
 #: src/fe-gtk/plugin-tray.c:507 src/fe-gtk/plugin-tray.c:515
-#, fuzzy, c-format
+#, c-format
 msgid "XChat: Highlighted message from: %s (%s)"
 msgstr "Иксчет: Наглашена порука од: %s (%s)"
 
@@ -4791,19 +4778,19 @@ msgstr "Неуређено"
 
 #: src/fe-gtk/setup.c:177 src/fe-gtk/setup.c:189
 msgid "Left (Upper)"
-msgstr ""
+msgstr "Лево (горе)"
 
 #: src/fe-gtk/setup.c:178 src/fe-gtk/setup.c:190
 msgid "Left (Lower)"
-msgstr ""
+msgstr "Лево (доле)"
 
 #: src/fe-gtk/setup.c:179 src/fe-gtk/setup.c:191
 msgid "Right (Upper)"
-msgstr ""
+msgstr "Десно (горе)"
 
 #: src/fe-gtk/setup.c:180 src/fe-gtk/setup.c:192
 msgid "Right (Lower)"
-msgstr ""
+msgstr "Десно (доле)"
 
 #: src/fe-gtk/setup.c:181
 msgid "Top"
@@ -4830,9 +4817,8 @@ msgid "User list sorted by:"
 msgstr "Уреди списак корисника према:"
 
 #: src/fe-gtk/setup.c:203
-#, fuzzy
 msgid "Show user list at:"
-msgstr "Покажи/сакриј кориснике"
+msgstr "Прикажи списак корисника:"
 
 #: src/fe-gtk/setup.c:205
 msgid "Away tracking"
@@ -4871,9 +4857,8 @@ msgid "Only requested tabs"
 msgstr "Само жељени језичци"
 
 #: src/fe-gtk/setup.c:238
-#, fuzzy
 msgid "Channel Switcher"
-msgstr "канали са"
+msgstr "Мењач канала"
 
 #: src/fe-gtk/setup.c:239
 msgid "Open an extra tab for server messages"
@@ -4900,9 +4885,8 @@ msgid "Focus new tabs:"
 msgstr "Фокусирај нове језичке:"
 
 #: src/fe-gtk/setup.c:247
-#, fuzzy
 msgid "Show channel switcher at:"
-msgstr "канали са"
+msgstr "Прикажи мењач канала:"
 
 #: src/fe-gtk/setup.c:248
 msgid "Shorten tab labels to:"
@@ -5033,51 +5017,45 @@ msgid "Alerts"
 msgstr "Узбуне"
 
 #: src/fe-gtk/setup.c:322
-#, fuzzy
 msgid "Show tray balloons on:"
-msgstr "Прикажи језичке:"
+msgstr "Прикажи балончиће за обавештајну зону при:"
 
 #: src/fe-gtk/setup.c:324
-#, fuzzy
 msgid "Blink tray icon on:"
-msgstr "Затрепери обавештајну зону при поруци"
+msgstr "Затрепери сличицу при:"
 
 #: src/fe-gtk/setup.c:325
 msgid "Blink task bar on:"
-msgstr ""
+msgstr "Затрепери траку задатака при:"
 
 #: src/fe-gtk/setup.c:326
 msgid "Make a beep sound on:"
-msgstr ""
+msgstr "Пусти звук при:"
 
 #: src/fe-gtk/setup.c:328
 msgid "Enable system tray icon"
 msgstr "Укључи сличицу у обавештајној зони"
 
 #: src/fe-gtk/setup.c:330
-#, fuzzy
 msgid "Highlighted Messages"
-msgstr "Означена порука"
+msgstr "Наглашене поруке"
 
 #: src/fe-gtk/setup.c:331
 msgid ""
 "Highlighted messages are ones where your nickname is mentioned, but also:"
-msgstr ""
+msgstr "Наглашене су поруке у којима се појављује Ваш надимак, али такође и:"
 
 #: src/fe-gtk/setup.c:333
-#, fuzzy
 msgid "Extra words to highlight:"
-msgstr "Речи које треба нагласити:"
+msgstr "Додатне речи за наглашавање:"
 
 #: src/fe-gtk/setup.c:334
-#, fuzzy
 msgid "Nick names not to highlight:"
 msgstr "Имена која не треба нагласити:"
 
 #: src/fe-gtk/setup.c:335
-#, fuzzy
 msgid "Nick names to always highlight:"
-msgstr "Имена која не треба нагласити:"
+msgstr "Имена која се увек наглашавају:"
 
 #: src/fe-gtk/setup.c:336
 msgid "Separate multiple words with commas."
@@ -5421,9 +5399,8 @@ msgid "User list"
 msgstr "Списак корисника"
 
 #: src/fe-gtk/setup.c:1659
-#, fuzzy
 msgid "Channel switcher"
-msgstr "канали са"
+msgstr "Мењач канала"
 
 #: src/fe-gtk/setup.c:1660
 msgid "Colors"
