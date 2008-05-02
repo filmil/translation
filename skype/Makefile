@@ -11,7 +11,7 @@ all: sr.lang sr@Latn.lang skype_sr.qm skype_sr@Latn.qm
 	$(CP) sr.lang $(SERBIANFILE)
 	$(CP) sr@Latn.lang $(SERBIANLATINFILE)
 	$(CP) sr.po $(DISTPOFILE)
-	$(CP) $(POTFILE) $(DISTPOTFILE)
+	$(CP) pot/$(POTFILE) $(DISTPOTFILE)
 #	$(DIFF) -r $(LAST_REV) sr.po > $(DIFFILE)
 
 %.qm: %.ts 
