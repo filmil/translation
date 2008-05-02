@@ -1,5 +1,10 @@
 # Make file for the distributions
-
+#
+# Important targets:
+# 	(none): 	= all
+#	all:		makes all the targets
+#	publish		makes publishable versions
+#	merge		merges old sr.po with new .lang
 include Makefile.inc
 
 all: sr.lang sr@Latn.lang skype_sr.qm skype_sr@Latn.qm
@@ -15,35 +20,27 @@ all: sr.lang sr@Latn.lang skype_sr.qm skype_sr@Latn.qm
 %.ts: %.po 
 	po2ts -i $< -o $@
 
-skype_sr@Latn.qm: skype_sr@Latn.ts
-	lrelease $<
+%@Latn.po: %.po
+	$(C2L) < $< > $@
 
-skype_sr@Latn.ts: sr-linux@Latn.po
-	po2ts -i $< -o $@
+%.lang: %.po
+	$(PO2SKYPE) $< $@
 
-sr@Latn.po: sr.po
-	$(C2L) < sr.po > sr@Latn.po
-
-sr-linux@Latn.po: sr-linux.po
-	$(C2L) < sr-linux.po > sr-linux@Latn.po
-
-sr.lang: sr.po
-	$(PO2SKYPE) sr.po sr.lang
-
-sr@Latn.lang: sr@Latn.po
-	$(PO2SKYPE) sr@Latn.po sr@Latn.lang
 
 publish:
 	make -C distrib publish
 
 clean:
 	$(RM) sr@Latn.po sr.lang sr@Latn.lang  \
-	      semantic.cache *~ *.utf8
+	      semantic.cache *~ *.utf8 *.ts *.qm
 
-pot: source/$(VERSION).lang
-	$(SKYPE2PO) $< skype-$(VERSION).pot
+skype-$(VERSION).pot: source/$(VERSION).lang
+	$(SKYPE2PO) $< $@
+	$(MV) $@ pot/
 
-merge: sr.po skype-$(VERSION).pot
+# Ensuring that the variable VERSION is set up to point to the version 
+# number correctly, merges the file into sr.po
+merge: sr.po pot/skype-$(VERSION).pot
 	$(MSGMERGE) $^ > temp.po
 	$(CP) temp.po sr.po
 	$(RM) temp.po
@@ -54,8 +51,8 @@ linux-pot: source/$(VERSION_LINUX).ts
 	msghack --empty linux-TMP.2.pot -o skype-linux-$(VERSION_LINUX).pot
 	$(RM) linux-TMP.1.pot linux-TMP.2.pot
 
-linux-merge: sr.po sr-linux.po skype-linux-$(VERSION_LINUX).pot
-	$(MSGMERGE) -C sr.po sr-linux.po skype-linux-$(VERSION_LINUX).pot > linux-TMP.3.po
-	$(MSGMERGE) linux-TMP.3.po sr-linux.po > linux-TMP.4.po
-	$(MV) linux-TMP.4.po sr-linux.po
+linux-merge: sr.po skype_sr.po pot/skype-linux-$(VERSION_LINUX).pot
+	$(MSGMERGE) -C $^ > linux-TMP.3.po
+	$(MSGMERGE) linux-TMP.3.po skype_sr.po > linux-TMP.4.po
+	$(MV) linux-TMP.4.po skype_sr.po
 	$(RM) linux-TMP.3.po

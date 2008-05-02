@@ -1,3 +1,10 @@
+2008-05-02  Filip Miletic  <filmil@gmail.com>
+
+	* skype/Makefile: Explained the target 'merge'
+	(clean): Cleaned up the pots.  Made make more flexible.
+
+	* skype/Makefile.inc (VERSION): Bumped the version number up.
+
 2008-04-26  Filip Miletic  <filmil@gmail.com>
 
 	* xchat/xchat-2.8.4.sr.po: Updated for 2.8.4
