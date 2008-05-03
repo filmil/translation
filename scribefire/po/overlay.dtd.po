@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: performancing 2.1pre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-05-03 11:03+0200\n"
-"PO-Revision-Date: 2008-05-03 11:20+0200\n"
+"PO-Revision-Date: 2008-05-03 11:37+0200\n"
 "Last-Translator: Filip Miletic <filmil@gmail.com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -685,590 +685,590 @@ msgstr "б"
 
 #: performancing.settings.remember
 msgid "Save editor tabs and content on close"
-msgstr ""
+msgstr "Сачувај језичке уређивача при затварању"
 
 #: performancing.settings.onbottom
 msgid "Show Editor on Bottom of split screen"
-msgstr ""
+msgstr "Прикажи уређивач на дну подељеног екрана"
 
 #: performancing.settings.hidepffcm
 msgid "Hide the ScribeFire Context Menu"
-msgstr ""
+msgstr "Сакриј контекстни мени скрајбфајера"
 
 #: performancing.settings.sortcats
 msgid "Sort Tags"
-msgstr ""
+msgstr "Поређај ознаке"
 
 #: performancing.settings.usecssmsg
 msgid "Use CSS for content style (other uses HTML)"
-msgstr ""
+msgstr "Користи ЦСС (CSS) за стил садржаја (у супротном, ХТМЛ)"
 
 #: performancing.settings.makertl
 msgid "Make text &apos;Right-to-left&apos;"
-msgstr ""
+msgstr "Текст иде здесна налево"
 
 #: performancing.settings.defaultdraft
 msgid "Enable draft as default"
-msgstr ""
+msgstr "Изворно свака порука је нацрт"
 
 #: performancing.settings.autoinserttech
 msgid "Automatically insert Technorati links on publish?"
-msgstr ""
+msgstr "Аутоматско убацивање веза на технорати при објави?"
 
 #: performancing.settings.insertpoweredbypff
 msgid "Automatically insert &apos;Powered by ScribeFire&apos;?"
-msgstr ""
+msgstr "Аутоматско убацивање текста „Powered by ScribeFire‟?"
 
 #: performancing.settings.statusbar
 msgid "Show status-bar icon"
-msgstr ""
+msgstr "Прикажи сличицу на статусној страци"
 
 #: performancing.settings.disableQuickblogging
 msgid "Disable Quickblogging toolbar"
-msgstr ""
+msgstr "Искључи алатну траку за брзо блоговање (Quickblogging)"
 
 #: performancing.technorati.loadinginfo
 msgid "Loading Technorati Information..."
-msgstr ""
+msgstr "Учитавање података са техноратија..."
 
 #: performancing.technorati.loading
 msgid "Loading..."
-msgstr ""
+msgstr "Учитавање..."
 
 #: performancing.technorati.search
 msgid "Search Technorati"
-msgstr ""
+msgstr "Претрага техноратија"
 
 #: performancing.technorati.pageinfo
 msgid "Information about the page"
-msgstr ""
+msgstr "Подаци о страни"
 
 #: performancing.technorati.thereare
 msgid "There are"
-msgstr ""
+msgstr "Има оволико: "
 
 #: performancing.technorati.linkstopage
 msgid "links to this page, and"
-msgstr ""
+msgstr "веза на ову страну и оволико: "
 
 #: performancing.technorati.blogslinking
 msgid "blogs linking to this page in Technorati."
-msgstr ""
+msgstr "блогова који увезују ову страну на техноратију."
 
 #: performancing.technorati.loadingpageinfo
 msgid "Loading Page information..."
-msgstr ""
+msgstr "Учитавање података о страни..."
 
 #: performancing.technorati.moreresults
 msgid "More results..."
-msgstr ""
+msgstr "Још резултата..."
 
 #: performancing.technorati.refreshpageinfo
 msgid "(Refresh Page Info)"
-msgstr ""
+msgstr "(освежи податке о страни)"
 
 #: performancing.delicious.login
 msgid "Del.Icio.Us Login"
-msgstr ""
+msgstr "Пријава на Del.Icio.Us"
 
 #: performancing.delicious.loggedout
 msgid "You are not logged in, please log in now"
-msgstr ""
+msgstr "Нисте пријављени, молим да се сада пријавите"
 
 #: performancing.delicious.username
 msgctxt "performancing.delicious.username"
 msgid "Username:"
-msgstr ""
+msgstr "Корисничко име:"
 
 #: performancing.delicious.password
 msgctxt "performancing.delicious.password"
 msgid "Password:"
-msgstr ""
+msgstr "Лозинка:"
 
 #: performancing.delicious.loggingin
 msgid "Logging into Del.icio.us..."
-msgstr ""
+msgstr "Пријава на del.icio.us..."
 
 #: performancing.delicious.service
 msgid "Del.icio.us Service"
-msgstr ""
+msgstr "Услуга Del.icio.us"
 
 #: performancing.delicious.reloadpage
 msgid "(Reload current page)"
-msgstr ""
+msgstr "(поново учитај ову страну)"
 
 #: performancing.delicious.savingpost
 msgid "Saving post to Del.icio.us..."
-msgstr ""
+msgstr "Чување чланка на Del.icio.us..."
 
 #: performancing.delicious.clear
 msgid "Clear"
-msgstr ""
+msgstr "Очисти"
 
 #: performancing.delicious.save
 msgid "Save"
-msgstr ""
+msgstr "Сачувај"
 
 #: performancing.delicious.mytagsearch
 msgid "My Tag Search:"
-msgstr ""
+msgstr "Моја претрага ознака:"
 
 #: performancing.delicious.searchtype
 msgid "Search Type"
-msgstr ""
+msgstr "Врста претраге"
 
 #: performancing.delicious.loadingtags
 msgid "- Loading tags..."
-msgstr ""
+msgstr "- Учитавање ознака..."
 
 #: performancing.delicious.autologin
 msgid "Auto-login"
-msgstr ""
+msgstr "Аутоматска пријава"
 
 #: performancing.delicious.url
 msgid "url"
-msgstr ""
+msgstr "урл"
 
 #: performancing.delicious.description
 msgid "description"
-msgstr ""
+msgstr "опис"
 
 #: performancing.delicious.tags
 msgid "tags"
-msgstr ""
+msgstr "ознаке"
 
 #: performancing.delicious.notes
 msgid "notes"
-msgstr ""
+msgstr "белешке"
 
 #: performancing.delicious.posts
 msgid "posts"
-msgstr ""
+msgstr "чланци"
 
 #: performancing.delicious.all
 msgid "all"
-msgstr ""
+msgstr "све"
 
 #: performancing.about.description
 msgid ""
 "Using ScribeFire is the easiest way to post to your blog.  You can subscribe "
 "to the ScribeFire.com RSS feed using the buttons below."
-msgstr ""
+msgstr "Употреба скрајбфајера је најлакши начин за објаву чланака на блогу.  Можете да пратите РСС (RSS) довод са сајта ScribeFire.com употребом доле датих дугмади."
 
 #: performancing.about.latestposts
 msgid "Latest Posts:"
-msgstr ""
+msgstr "Скорашњи чланци:"
 
 #: performancing.about.refreshlist
 msgid "(Refresh List)"
-msgstr ""
+msgstr "(освежи списак)"
 
 #: performancing.about.loadingfeeds
 msgid "Loading Feeds..."
-msgstr ""
+msgstr "Учитавање довода..."
 
 #: performancing.about.gethelp
 msgid "Get Help:"
-msgstr ""
+msgstr "Добави помоћ:"
 
 #: performancing.about.getrss
 msgid "Get the RSS"
-msgstr ""
+msgstr "Добави РСС"
 
 #: performancing.sidebar.blogs
 msgid "Blogs"
-msgstr ""
+msgstr "Блогови"
 
 #: performancing.sidebar.categories
 msgid "Categories"
-msgstr ""
+msgstr "Категорије"
 
 #: performancing.sidebar.history
 msgid "Entries"
-msgstr ""
+msgstr "Уноси"
 
 #: performancing.sidebar.pages
 msgid "Pages"
-msgstr ""
+msgstr "Стране"
 
 #: performancing.sidebar.notes
 msgid "Notes"
-msgstr ""
+msgstr "Белешке"
 
 #: performancing.sidebar.options
 msgid "Options"
-msgstr ""
+msgstr "Опције"
 
 #: performancing.sidebar.blogs.tt
 msgid "My Blogs"
-msgstr ""
+msgstr "Моји блогови"
 
 #: performancing.sidebar.add
 msgid "Add"
-msgstr ""
+msgstr "Додај"
 
 #: performancing.sidebar.edit
 msgid "Edit"
-msgstr ""
+msgstr "Уреди"
 
 #: performancing.sidebar.addcats
 msgid "Add Category"
-msgstr ""
+msgstr "Додај категорију"
 
 #: performancing.sidebar.accountwizard
 msgid "Launch Account Wizard"
-msgstr ""
+msgstr "Покрени чаробњака за налоге"
 
 #: performancing.sidebar.refresh
 msgid "Reload"
-msgstr ""
+msgstr "Поново учитај"
 
 #: performancing.sidebar.loadingcats
 msgid "Loading categories..."
-msgstr ""
+msgstr "Учитавање категорија..."
 
 #: performancing.sidebar.loadinghist
 msgid "Loading Post History..."
-msgstr ""
+msgstr "Учитавање историјата чланка..."
 
 #: performancing.sidebar.loadingpages
 msgid "Loading pages..."
-msgstr ""
+msgstr "Учитавање страна..."
 
 #: performancing.sidebar.deletepost
 msgctxt "performancing.sidebar.deletepost"
 msgid "Delete"
-msgstr ""
+msgstr "Уклони"
 
 #: performancing.sidebar.search
 msgid "Search:"
-msgstr ""
+msgstr "Тражи:"
 
 #: performancing.sidebar.loadingnotes
 msgid "Loading Notes..."
-msgstr ""
+msgstr "Учитавање белешки:"
 
 #: performancing.sidebar.deletenote
 msgid "Delete Note"
-msgstr ""
+msgstr "Уклони белешку"
 
 #: performancing.draft
 msgid "Draft"
-msgstr ""
+msgstr "Нацрт"
 
 #: performancing.sidebar.technoratitags
 msgid "Technorati tags:"
-msgstr ""
+msgstr "Ознаке за технорати:"
 
 #: performancing.sidebar.commaseperated
 msgid "(Comma separated list)"
-msgstr ""
+msgstr "(раздвајање запетама)"
 
 #: performancing.sidebar.autoaddmsg
 msgid "Will be auto added"
-msgstr ""
+msgstr "Биће додато аутоматски"
 
 #: performancing.sidebar.addtagsbutton
 msgid "Add Tags to post"
-msgstr ""
+msgstr "Додај ознаке чланку"
 
 #: performancing.sidebar.bookmarkposts
 msgid "bookmark post at del.icio.us using same tags"
-msgstr ""
+msgstr "забележи чланак на del.icio.us са истим ознакама"
 
 #: performancing.sidebar.trackbackurl
 msgid "TrackBack URLs:"
-msgstr ""
+msgstr "УРЛ за праћење (trackback):"
 
 #: performancing.sidebar.delete
 msgctxt "performancing.sidebar.delete"
 msgid "Delete"
-msgstr ""
+msgstr "Уклони"
 
 #: performancing.sidebar.enablepings
 msgid "Enable pings"
-msgstr ""
+msgstr "Дозволи пинг"
 
 #: performancing.sidebar.custom
 msgid "Custom"
-msgstr ""
+msgstr "Прилагођено"
 
 #: key_logout.key
 msgid "q"
-msgstr ""
+msgstr "q"
 
 #: key_help.key
 msgid "VK_F1"
-msgstr ""
+msgstr "VK_F1"
 
 #: key_bold.key
 msgid "b"
-msgstr ""
+msgstr "b"
 
 #: key_italic.key
 msgid "i"
-msgstr ""
+msgstr "i"
 
 #: key_underline.key
 msgid "u"
-msgstr ""
+msgstr "u"
 
 #: key_link.key
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: key_spell.key
 msgid "VK_F7"
-msgstr ""
+msgstr "VK_F7"
 
 #: openCmd.key
 msgctxt "openCmd.key"
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #: saveCmd.key
 msgctxt "saveCmd.key"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: undoCmd.label
 msgid "Undo"
-msgstr ""
+msgstr "Опозови"
 
 #: undoCmd.key
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #: redoCmd.label
 msgid "Redo"
-msgstr ""
+msgstr "Понови"
 
 #: redoCmd.key
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: cutCmd.label
 msgid "Cut"
-msgstr ""
+msgstr "Исеци"
 
 #: cutCmd.key
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: copyCmd.label
 msgid "Copy"
-msgstr ""
+msgstr "Умножи"
 
 #: copyCmd.key
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: pasteCmd.label
 msgid "Paste"
-msgstr ""
+msgstr "Убаци"
 
 #: pasteCmd.key
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: pasteNoFormattingCmd.label
 msgid "Paste No Formatting"
-msgstr ""
+msgstr "Убаци без форматирања"
 
 #: deleteCmd.label
 msgctxt "deleteCmd.label"
 msgid "Delete"
-msgstr ""
+msgstr "Уклони"
 
 #: deleteCmd.key
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: selectAllCmd.label
 msgid "Select All"
-msgstr ""
+msgstr "Изабери све"
 
 #: selectAllCmd.key
 msgctxt "selectAllCmd.key"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: printCmd.key
 msgctxt "printCmd.key"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: pff-spellAddToDictionary.label
 #: pff-spellAddToDictionary.accesskey
 msgid "Add &to dictionary"
-msgstr ""
+msgstr "Додај у &речник"
 
 #: pff-spellEnable.label
 #: pff-spellEnable.accesskey
 msgid "&Spell check this field"
-msgstr ""
+msgstr "&Провера правописа за ово поље"
 
 #: pff-spellNoSuggestions.label
 msgid "(No spelling suggestions)"
-msgstr ""
+msgstr "(нема предлога)"
 
 #: pff-spellDictionaries.label
 #: pff-spellDictionaries.accesskey
 msgid "&Languages"
-msgstr ""
+msgstr "&Језици"
 
 #: pff-spellAddDictionaries.label
 #: pff-spellAddDictionaries.accesskey
 msgid "&Add dictionaries..."
-msgstr ""
+msgstr "&Додај речнике..."
 
 #: performancing.liveSpacesHelp.line1
 msgid ""
 "Notice: In order to use ScribeFire with MSN/Live Spaces, you must take the "
 "following steps:"
-msgstr ""
+msgstr "Примедба: да бисте користили скрајбфајер са МСН и Живим просторима (MSN/Live Spaces) морате да предузмете следеће кораке:"
 
 #: performancing.liveSpacesHelp.line2
 msgid ""
 "1. Enable e-mail publishing: In your Spaces account, click on "
 "&apos;Options&apos; and then &apos;E-mail publishing.&apos;"
-msgstr ""
+msgstr "1.  Дозволите објаву кроз ел. пошту: у вашем налогу за Просторе, притисните „Options‟ а затим „E-mail publishing.‟"
 
 #: performancing.liveSpacesHelp.line3
 msgid ""
 "2. For your username in the form above, use your Spaces account name.  For "
 "example, if your blog is at http://bob123.spaces.live.com/, use bob123 as "
 "your username."
-msgstr ""
+msgstr "2.  Као корисничко име у горњем формулару користите име налога са мајспејса.  На пример, ако Вам се блог налази на адреси http://bob123.spaces.live.com/, користите „bob123‟ као корисничко име."
 
 #: performancing.liveSpacesHelp.line4
 msgid ""
 "3. For your password in the form above, use your &apos;secret word&apos; "
 "that you chose for e-mail publishing."
-msgstr ""
+msgstr "3.  За лозинку у формулару изнад користите Вашу „тајну реч‟ (secret word) коју сте изабрали за објаву путем ел. поште."
 
 #: performancing.toolbarName
 msgid "ScribeFire Toolbar"
-msgstr ""
+msgstr "Скрајбфајерова алатна трака"
 
 #: performancing.addImage
 msgid "Add Image"
-msgstr ""
+msgstr "Додај слику"
 
 #: performancing.addVideo
 msgid "Add Video"
-msgstr ""
+msgstr "Додај видео"
 
 #: performancing.addLink
 msgid "Add Link"
-msgstr ""
+msgstr "Додај везу"
 
 #: performancing.addQuote
 msgid "Add Quote"
-msgstr ""
+msgstr "Додај цитат"
 
 #: performancing.uploadImage
 msgid "Upload Image"
-msgstr ""
+msgstr "Пошаљи слику"
 
 #: performancing.help
 msgid "Help"
-msgstr ""
+msgstr "Помоћ"
 
 #: performancing.posts
 msgid "Posts"
-msgstr ""
+msgstr "Чланци"
 
 #: performancing.tags
 msgid "Tags"
-msgstr ""
+msgstr "Ознаке"
 
 #: performancing.qb.positionVideo
 msgid "Position the video in your post"
-msgstr ""
+msgstr "Уметни видео у чланак"
 
 #: performancing.qb.positionImage
 msgid "Position the image in your post"
-msgstr ""
+msgstr "Уметни слику у чланак"
 
 #: performancing.qb.positionOther
 msgid "Confirm Post Appearance"
-msgstr ""
+msgstr "Провери изглед чланка"
 
 #: performancing.qb.addToPostDesc
 msgid ""
 "Use the buttons below to make changes to the formatting of the modified "
 "post.  When you are finished, click OK.  If you do not want to make these "
 "changes to your post, click Cancel."
-msgstr ""
+msgstr "Користите дугмад испод да промените форматирање чланка.  Када завршите, притисните „У реду‟.  Ако не желите да правите измене у чланку, притисните „Откажи‟."
 
 #: performancing.qb.addFromYouTube
 msgid "Add a video from YouTube"
-msgstr ""
+msgstr "Додај видео са јутјуба (YouTube)"
 
 #: performancing.qb.addFromFlickr
 msgid "Add an image from Flickr"
-msgstr ""
+msgstr "Додај слику са фликера (Flickr)"
 
 #: performancing.searchFor
 msgid "Search for:"
-msgstr ""
+msgstr "Тражи:"
 
 #: performancing.search
 msgid "Search"
-msgstr ""
+msgstr "Претрага"
 
 #: performancing.caption
 msgid "[Caption]"
-msgstr ""
+msgstr "[Наслов]"
 
 #: performancing.prev
 msgid "Prev."
-msgstr ""
+msgstr "Претх."
 
 #: performancing.next
 msgid "Next"
-msgstr ""
+msgstr "Даље"
 
 #: performancing.settings.confirmTabClose
 msgid "Confirm when closing a tab"
-msgstr ""
+msgstr "Потврди затварање језичка"
 
 #: performancing.otherPings
 msgid "Other: (separate with commas or spaces)"
-msgstr ""
+msgstr "Остало: (раздвојите запетама или размацима)"
 
 #: performancing.displayModeText
 msgid "By default, open ScribeFire in..."
-msgstr ""
+msgstr "Отвори скрајбфајер у"
 
 #: performancing.displayModeSplit
 msgid "split-screen mode"
-msgstr ""
+msgstr "подељеном екрану"
 
 #: performancing.displayModeWindow
 msgid "a new window"
-msgstr ""
+msgstr "новом прозору"
 
 #: performancing.displayModeTab
 msgid "a new tab"
-msgstr ""
+msgstr "новом језичку"
 
 #: performancing.share
 msgid "Share"
-msgstr ""
+msgstr "Дељење"
 
 #: performancing.shareThisPage
 msgid "Share this page"
-msgstr ""
+msgstr "Дели ову страну"
 
 #: performancing.shareThisPageDescription
 msgid "Click any of the buttons below to share this page."
-msgstr ""
+msgstr "Притисните ма које дугме испод да поделите страну."
 
 #: performancing.modifyTimestamp
 msgid "Modify Timestamp"
-msgstr ""
+msgstr "Измена времена објаве"
 
 #: performancing.editBlog
 msgid "Edit Blog"
