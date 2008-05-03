@@ -1,0 +1,1284 @@
+#. extracted from original/overlay.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: performancing 2.1pre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-03 11:03+0200\n"
+"PO-Revision-Date: 2008-05-03 11:20+0200\n"
+"Last-Translator: Filip Miletic <filmil@gmail.com>\n"
+"Language-Team: Serbian <gnu@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: performancing.accountWizardTitle
+msgid "ScribeFire Account Wizard"
+msgstr "Скрајбфајеров чаробњак за налоге"
+
+#: performancing.accountwizard.intro
+msgid "This wizard will help you setup ScribeFire to work with your blog."
+msgstr "Овај чаробњак ће Вам помоћи да скрајбфајер ради са Вашим блогом."
+
+#: performancing.accountwizard.enterblogurl
+msgid "Please enter your blog&apos;s url"
+msgstr "Унесите УРЛ Вашег блога"
+
+#: performancing.accountwizard.enterblogurl.example
+msgid "http://mywebsite.com/blog/"
+msgstr "http://mywebsite.com/blog/"
+
+#: performancing.accountwizard.manualconfigure
+msgid "Configure Manually"
+msgstr "Ручно подешавање"
+
+#: performancing.accountwizard.checkingblogsettings
+msgid "Checking blog settings..."
+msgstr "Провера подешавања блога..."
+
+#: performancing.accountwizard.blogfoundcont
+msgid "Succesfully found blog, please continue.."
+msgstr "Блог је успешно пронађен, молимо да наставите."
+
+#: performancing.accountwizard.couldnotautodetect
+msgid "Sorry, could not auto-detect your blog&apos;s settings."
+msgstr "Жао нам је, нисмо могли да аутоматски утврдимо подешавања Вашег блога."
+
+#: performancing.accountwizard.tryagain
+msgid "Try Again"
+msgstr "Пробај опет"
+
+#: performancing.accountwizard.choosebloggingserv
+msgid "What Blogging Service do you want to add?"
+msgstr "Коју блогерску услугу желите да додате?"
+
+#: performancing.accountwizard.customblog
+msgid "Custom Blog"
+msgstr "Произвољан блог"
+
+#: performancing.loginDetails
+msgid "Login Details"
+msgstr "Детаљи о корисничком имену"
+
+#: performancing.accountwizard.wordpressex
+msgid "Example: myblog.wordpress.com"
+msgstr "Пример: myblog.wordpress.com"
+
+#: performancing.accountwizard.typepadex
+msgid "Example: myblog.typepad.com"
+msgstr "Пример: myblog.typepad.com"
+
+#: performancing.accountwizard.livejournalex
+msgid "Example: livejournal.com/users/YourName"
+msgstr "Пример: livejournal.com/users/ВашеИме"
+
+#: performancing.accountwizard.msnspacesex
+msgid "Example: spaces.msn.com/YourNick"
+msgstr "Пример: spaces.msn.com/ВашНадимак"
+
+#: performancing.accountwizard.performancingex
+msgid "Example: performancing.com/blog/689"
+msgstr "Пример: performancing.com/blog/689"
+
+#: performancing.accountwizard.jeeranex
+msgid "Example: myname.jeeran.com"
+msgstr "Пример: mojeime.jeeran.com"
+
+#: performancing.accountwizard.drupal
+msgid "Example: myserver.com/"
+msgstr "Пример: myserver.com/"
+
+#: performancing.accountwizard.customex
+msgid "Example: myserver.com/blog"
+msgstr "Пример: myserver.com/blog"
+
+#: performancing.accountwizard.customlogindetails
+msgid "Custom Login Details"
+msgstr "Прилагођени детаљи о пријави"
+
+#: performancing.accountwizard.selectblogsystem
+msgid "Pease select your blog system type from the list below:"
+msgstr "Молимо да изаберете систем за блоговање из списка датог испод:"
+
+#: performancing.accountwizard.addorchangeapiurl
+msgid "Please add (or change) your API URL:"
+msgstr "Молимо додајте (или измените) УРЛ за АПИ блога:"
+
+#: performancing.accountwizard.serverapiurl
+msgid "API URL:"
+msgstr "УРЛ за АПИ:"
+
+#: performancing.accountwizard.advancedsettings
+msgid "Advanced Settings"
+msgstr "Напредна подешавања"
+
+#: performancing.accountwizard.usebooleanpublish
+msgid "Use Boolean for Publish"
+msgstr "Користи булов тип за објаву"
+
+#: performancing.accountwizard.apikey
+msgid "API Key:"
+msgstr "Кључ за АПИ:"
+
+#: performancing.accountwizard.apikeyignored
+msgid "(normally ignored)"
+msgstr "(обично се занемарује)"
+
+#: performancing.accountwizard.addusrnpasstoblog
+msgid "Please add your username and password for this blog:"
+msgstr "Молимо да унесете корисничко име и лозинку за овај блог:"
+
+#: performancing.accountwizard.username
+msgctxt "performancing.accountwizard.username"
+msgid "Username:"
+msgstr "Корисничко име:"
+
+#: performancing.accountwizard.password
+msgctxt "performancing.accountwizard.password"
+msgid "Password:"
+msgstr "Лозинка:"
+
+#: performancing.accountwizard.errorusrnpass
+msgid "Error: Please enter a Username and Password"
+msgstr "Грешка: молимо да унесете корисничко име и лозинку"
+
+#: performancing.accountwizard.loggingin
+msgid "Logging in"
+msgstr "Пријава је у току"
+
+#: performancing.accountwizard.logginginplswait
+msgid "Logging in.. please wait."
+msgstr "Пријава... молимо да сачеката."
+
+#: performancing.accountwizard.loginerror
+msgid "Login Error"
+msgstr "Грешка при пријави"
+
+#: performancing.accountwizard.errorcheckusrnpass
+msgid "Please check your username and password for errors and try again."
+msgstr "Молимо да проверите корисничко име и лозинку на грешке и пробате поново."
+
+#: performancing.accountwizard.succesfulllogin
+msgid "Successful Login"
+msgstr "Пријава је успела"
+
+#: performancing.accountwizard.succesfulllogindesc
+msgid "You have successfully logged into your account."
+msgstr "Успешно сте се пријавили на Ваш налог."
+
+#: performancing.accountwizard.confirminfobelow
+msgid "Please confirm the information below and continue"
+msgstr "Молимо да проверите доле дате податке и да наставите"
+
+#: performancing.accountwizard.blogstobeadded
+msgid "Blogs to be added:"
+msgstr "Блогови за додавање:"
+
+#: performancing.accountwizard.blogname
+msgid "Blog Name"
+msgstr "Име блога"
+
+#: performancing.accountwizard.url
+msgid "URL:"
+msgstr "УРЛ:"
+
+#: performancing.accountwizard.accountaddeddesc
+msgid "Account successfully added"
+msgstr "Налог је успешно додат"
+
+#: performancing.accountwizard.accountadded
+msgid "Account Added"
+msgstr "Налог је додат"
+
+#: performancing.imageupload.title
+msgid "ScribeFire Image Upload"
+msgstr "Скрајбфајерово слање слика"
+
+#: performancing.imageupload.uploadandinsert
+msgid "Insert Image"
+msgstr "Уметни слику"
+
+#: performancing.imageupload.apply
+msgid "Apply"
+msgstr "Примени"
+
+#: performancing.imageupload.saveerr
+msgid "Error saving FTP settings"
+msgstr "Грешка при чувању подешавања за ФТП"
+
+#: performancing.imageupload.url
+msgid "URL"
+msgstr "УРЛ"
+
+#: performancing.imageupload.copyurltoclp
+msgid "Copy URL to Clipboard"
+msgstr "Умножи УРЛ на клипборд"
+
+#: performancing.imageupload.file
+msgid "File"
+msgstr "Датотека"
+
+#: performancing.imageupload.browse
+msgid "Browse"
+msgstr "Преглед"
+
+#: performancing.imageupload.uploadimage
+msgid "From your computer:"
+msgstr "Са Вашег рачунара:"
+
+#: performancing.imageupload.linkimage
+msgid "From the Web:"
+msgstr "Са мреже:"
+
+#: performancing.imageupload.uploading
+msgid "Uploading...."
+msgstr "Слање..."
+
+#: performancing.imageupload.cancelupload
+msgid "Cancel Upload"
+msgstr "Откажи слање"
+
+#: performancing.imageupload.host
+msgid "Host"
+msgstr "Рачунар"
+
+#: performancing.imageupload.host.key
+msgid "H"
+msgstr "Р"
+
+#: performancing.imageupload.hostexample
+msgid "i.e. myserver.com"
+msgstr "нпр. myserver.com"
+
+#: performancing.imageupload.ftp
+msgid "FTP"
+msgstr "ФТП"
+
+#: performancing.imageupload.ftp.key
+msgctxt "performancing.imageupload.ftp.key"
+msgid "F"
+msgstr "Ф"
+
+#: performancing.imageupload.http
+msgid "HTTP"
+msgstr "ХТТП"
+
+#: performancing.imageupload.http.key
+msgctxt "performancing.imageupload.http.key"
+msgid "T"
+msgstr "Х"
+
+#: performancing.imageupload.https
+msgid "HTTPS"
+msgstr "ХТТПС"
+
+#: performancing.imageupload.https.key
+msgctxt "performancing.imageupload.https.key"
+msgid "S"
+msgstr "С"
+
+#: performancing.imageupload.username
+msgid "Username"
+msgstr "Корисничко име"
+
+#: performancing.imageupload.username.key
+msgctxt "performancing.imageupload.username.key"
+msgid "U"
+msgstr "К"
+
+#: performancing.imageupload.password
+msgid "Password"
+msgstr "Лозинка"
+
+#: performancing.imageupload.password.key
+msgctxt "performancing.imageupload.password.key"
+msgid "P"
+msgstr "Л"
+
+#: performancing.imageupload.serverpath
+msgid "Server Path"
+msgstr "Стаза до сервера"
+
+#: performancing.imageupload.serverpath.key
+msgctxt "performancing.imageupload.serverpath.key"
+msgid "S"
+msgstr "з"
+
+#: performancing.imageupload.serverpathexample
+msgid "i.e. user/images/"
+msgstr "нпр. user/images/"
+
+#: performancing.imageupload.urltopath
+msgid "URL to path"
+msgstr "УРЛ до стазе"
+
+#: performancing.imageupload.urltopath.key
+msgctxt "performancing.imageupload.urltopath.key"
+msgid "U"
+msgstr "Р"
+
+#: performancing.imageupload.urltopathexample
+msgid "i.e. http://mydomain.com/images/"
+msgstr "нпр. http://mydomain.com/images/"
+
+#: performancing.imageupload.savesettings
+msgid "Save Settings"
+msgstr "Сачувај подешавања"
+
+#: performancing.imageupload.fileupload
+msgctxt "performancing.imageupload.fileupload"
+msgid "File Upload"
+msgstr "Слање датотеке"
+
+#: performancing.imageupload.fileupload.key
+msgctxt "performancing.imageupload.fileupload.key"
+msgid "F"
+msgstr "д"
+
+#: performancing.fileupload.title
+msgid "ScribeFire File Upload"
+msgstr "Скрајбфајерово слање датотеке"
+
+#: performancing.overlay.blogthis
+msgctxt "performancing.overlay.blogthis"
+msgid "Blog this page"
+msgstr "Блогуј о овој страни"
+
+#: performancing.overlay.blogthis.key
+msgctxt "performancing.overlay.blogthis.key"
+msgid "B"
+msgstr "Б"
+
+#: performancing.overlay.openintab
+msgid "Open in Tab"
+msgstr "Отвори у језичку"
+
+#: performancing.overlay.openintab.key
+msgctxt "performancing.overlay.openintab.key"
+msgid "T"
+msgstr "ј"
+
+#: performancing.overlay.openinwindow
+msgid "Open in Window"
+msgstr "Отвори у прозору"
+
+#: performancing.overlay.openinwindow.key
+msgid "W"
+msgstr "п"
+
+#: performancing.overlay.openinbrowser
+msgid "Open in Browser"
+msgstr "Отвори у читачу"
+
+#: performancing.overlay.openinbrowser.key
+msgctxt "performancing.overlay.openinbrowser.key"
+msgid "O"
+msgstr "ч"
+
+#: performancing.overlay.blogthispage
+msgctxt "performancing.overlay.blogthispage"
+msgid "Blog this page"
+msgstr "Блогуј о овој страни"
+
+#: performancing.overlay.blogthispage.key
+msgctxt "performancing.overlay.blogthispage.key"
+msgid "B"
+msgstr "о"
+
+#: performancing.overlay.bookmark
+msgid "Bookmark"
+msgstr "Забележи"
+
+#: performancing.overlay.bookmark.key
+msgid "M"
+msgstr "б"
+
+#: performancing.overlay.pagetools
+msgid "Page Tools"
+msgstr "Алати за страну"
+
+#: performancing.overlay.pagetools.key
+msgctxt "performancing.overlay.pagetools.key"
+msgid "P"
+msgstr "А"
+
+#: performancing.overlay.ftpupload
+msgctxt "performancing.overlay.ftpupload"
+msgid "File Upload"
+msgstr "Слање датотеке"
+
+#: performancing.overlay.ftpupload.key
+msgctxt "performancing.overlay.ftpupload.key"
+msgid "F"
+msgstr "л"
+
+#: performancing.overlay.closeperformancing
+msgid "Close ScribeFire"
+msgstr "Затвори скрајбфајер"
+
+#: performancing.overlay.showtoolbar
+msgid "Show the ScribeFire Toolbar"
+msgstr "Покажи скрајбфајерову алатну траку"
+
+#: performancing.main.sb.cm.about
+msgid "About..."
+msgstr "О програму..."
+
+#: performancing.main.sb.cm.about.key
+msgctxt "performancing.main.sb.cm.about.key"
+msgid "A"
+msgstr "О"
+
+#: performancing.title
+msgctxt "performancing.title"
+msgid "ScribeFire"
+msgstr "Скрајбфајер (ScribeFire)"
+
+#: performancing.cmaccesskey
+msgid "c"
+msgstr "С"
+
+#: performancing.editor.title
+msgctxt "performancing.editor.title"
+msgid "ScribeFire"
+msgstr "Скрајбфајер"
+
+#: performancing.editor.bar.spelling
+msgid "Check Spelling"
+msgstr "Провера правописа"
+
+#: performancing.editor.bar.bold.tt
+msgid "Bold"
+msgstr "Подебљано"
+
+#: performancing.editor.bar.italic.tt
+msgid "Italic"
+msgstr "Искошено"
+
+#: performancing.editor.bar.underline.tt
+msgid "Underline"
+msgstr "Подвучено"
+
+#: performancing.editor.bar.strikethrough.tt
+msgid "Strikethrough"
+msgstr "Прецртано"
+
+#: performancing.editor.bar.quote.tt
+msgid "Quote"
+msgstr "Цитат"
+
+#: performancing.editor.bar.strong.tt
+msgid "Strong"
+msgstr "Појачано"
+
+#: performancing.editor.bar.em.tt
+msgid "Emphasis"
+msgstr "Истакнуто"
+
+#: performancing.editor.bar.incfont.tt
+msgid "Increase Font Size"
+msgstr "Увећај слова"
+
+#: performancing.editor.bar.decfont.tt
+msgid "Decrease Font Size"
+msgstr "Умањи слова"
+
+#: performancing.editor.bar.link.tt
+msgid "Add a Link"
+msgstr "Додај везу"
+
+#: performancing.editor.bar.image.tt
+msgid "Add an Image"
+msgstr "Додај слику"
+
+#: performancing.editor.bar.color.tt
+msgid "Set the Font Color"
+msgstr "Подеси боју писма"
+
+#: performancing.editor.bar.olist.tt
+msgid "Ordered List"
+msgstr "Уређен списак"
+
+#: performancing.editor.bar.ulist.tt
+msgid "Unordered List"
+msgstr "Неуређен списак"
+
+#: performancing.editor.bar.leftjust.tt
+msgid "Justify Left"
+msgstr "Уравнај лево"
+
+#: performancing.editor.bar.centjust.tt
+msgid "Justify Center"
+msgstr "Уравнај у средину"
+
+#: performancing.editor.bar.rightjust.tt
+msgid "Justify Right"
+msgstr "Уравнај десно"
+
+#: performancing.left
+msgid "Left"
+msgstr "Лево"
+
+#: performancing.right
+msgid "Right"
+msgstr "Десно"
+
+#: performancing.none
+msgid "None"
+msgstr "Без"
+
+#: performancing.align
+msgid "Align..."
+msgstr "Уравнање..."
+
+#: performancing.alignLeft
+msgid "Align Left"
+msgstr "Уравнај лево"
+
+#: performancing.alignRight
+msgid "Align Right"
+msgstr "Уравнај десно"
+
+#: performancing.alignNone
+msgid "Don&apos;t Align"
+msgstr "Без уравњавања"
+
+#: performancing.defaultFont
+msgid "Default Font"
+msgstr "Изворно писмо"
+
+#: performancing.editor.bar.just.tt
+msgid "Justify"
+msgstr "Уравнај"
+
+#: performancing.editor.bar.customtag.tt
+msgid "Insert a custom HTML tag"
+msgstr "Унеси произвољну ознаку из ХТМЛа"
+
+#: performancing.editor.bar.customtaglabel.tt
+msgid "Custom HTML"
+msgstr "Произвољни ХТМЛ"
+
+#: performancing.editor.bar.postsplitter
+msgid "(more)"
+msgstr "(више)"
+
+#: performancing.editor.bar.postsplitter.tt
+msgid "Add a post splitter"
+msgstr "Додај раздвајач"
+
+#: performancing.editor.bar.overflowmenu
+msgid "More..."
+msgstr "Више..."
+
+#: performancing.navbar.editor
+msgid "Editor"
+msgstr "Уређивач"
+
+#: performancing.navbar.settings
+msgid "Settings"
+msgstr "Подешавања"
+
+#: performancing.navbar.bookmarks
+msgid "del.icio.us Bookmarks"
+msgstr "Забелешке са del.icio.us"
+
+#: performancing.navbar.about
+msgid "About"
+msgstr "О програму"
+
+#: performancing.editor.tabs.rich
+msgid "Rich Editing"
+msgstr "Богато уређивање"
+
+#: performancing.editor.tabs.source
+msgid "Source Editing"
+msgstr "Уређивање изворног кода"
+
+#: performancing.editor.tabs.preview
+msgid "Live Preview"
+msgstr "Живи преглед"
+
+#: performancing.editor.thetitle
+msgctxt "performancing.editor.thetitle"
+msgid "Title:"
+msgstr "Наслов:"
+
+#: performancing.message.postsuccess
+msgid "Post Successful!"
+msgstr "Објава је успела!"
+
+#: performancing.message.postsuccess.button
+msgid "Click OK to clear the editor."
+msgstr "Притисните „У реду‟ да затворите уређивач."
+
+#: performancing.message.publishingtoblog
+msgid "Publishing to your blog..."
+msgstr "Објава на Ваш блог..."
+
+#: performancing.message.publishing
+msgid "Publishing...."
+msgstr "Објављивање..."
+
+#: performancing.link.viewblog
+msgid "View this Blog"
+msgstr "Погледајте овај блог"
+
+#: performancing.button.ok
+msgid "OK"
+msgstr "У реду"
+
+#: performancing.button.cancelkeep
+msgid "Keep content"
+msgstr "Сачувај садржај"
+
+#: performancing.button.saveasnote
+msgid "Save as Note"
+msgstr "Сачувај као белешку"
+
+#: performancing.button.savenote
+msgid "Save Note"
+msgstr "Сачувај белешку"
+
+#: performancing.button.clearcontent
+msgid "Clear Content"
+msgstr "Очисти садржај"
+
+#: performancing.button.republish
+msgid "Publish as Edit"
+msgstr "Објави измену"
+
+#: performancing.publish
+msgid "Publish"
+msgstr "Објави"
+
+#: performancing.button.publishAsPage
+msgid "Publish as a page"
+msgstr "Објави као страну"
+
+#: performancing.settings.tab.general
+msgid "General"
+msgstr "Опште"
+
+#: performancing.settings.tab.general.key
+msgid "G"
+msgstr "п"
+
+#: performancing.settings.tab.formatting
+msgid "Formatting"
+msgstr "Форматирање"
+
+#: performancing.settings.tab.formatting.key
+msgctxt "performancing.settings.tab.formatting.key"
+msgid "F"
+msgstr "Ф"
+
+#: performancing.settings.tab.publishing
+msgid "Publishing"
+msgstr "Објава"
+
+#: performancing.settings.tab.publishing.key
+msgctxt "performancing.settings.tab.publishing.key"
+msgid "P"
+msgstr "б"
+
+#: performancing.settings.remember
+msgid "Save editor tabs and content on close"
+msgstr ""
+
+#: performancing.settings.onbottom
+msgid "Show Editor on Bottom of split screen"
+msgstr ""
+
+#: performancing.settings.hidepffcm
+msgid "Hide the ScribeFire Context Menu"
+msgstr ""
+
+#: performancing.settings.sortcats
+msgid "Sort Tags"
+msgstr ""
+
+#: performancing.settings.usecssmsg
+msgid "Use CSS for content style (other uses HTML)"
+msgstr ""
+
+#: performancing.settings.makertl
+msgid "Make text &apos;Right-to-left&apos;"
+msgstr ""
+
+#: performancing.settings.defaultdraft
+msgid "Enable draft as default"
+msgstr ""
+
+#: performancing.settings.autoinserttech
+msgid "Automatically insert Technorati links on publish?"
+msgstr ""
+
+#: performancing.settings.insertpoweredbypff
+msgid "Automatically insert &apos;Powered by ScribeFire&apos;?"
+msgstr ""
+
+#: performancing.settings.statusbar
+msgid "Show status-bar icon"
+msgstr ""
+
+#: performancing.settings.disableQuickblogging
+msgid "Disable Quickblogging toolbar"
+msgstr ""
+
+#: performancing.technorati.loadinginfo
+msgid "Loading Technorati Information..."
+msgstr ""
+
+#: performancing.technorati.loading
+msgid "Loading..."
+msgstr ""
+
+#: performancing.technorati.search
+msgid "Search Technorati"
+msgstr ""
+
+#: performancing.technorati.pageinfo
+msgid "Information about the page"
+msgstr ""
+
+#: performancing.technorati.thereare
+msgid "There are"
+msgstr ""
+
+#: performancing.technorati.linkstopage
+msgid "links to this page, and"
+msgstr ""
+
+#: performancing.technorati.blogslinking
+msgid "blogs linking to this page in Technorati."
+msgstr ""
+
+#: performancing.technorati.loadingpageinfo
+msgid "Loading Page information..."
+msgstr ""
+
+#: performancing.technorati.moreresults
+msgid "More results..."
+msgstr ""
+
+#: performancing.technorati.refreshpageinfo
+msgid "(Refresh Page Info)"
+msgstr ""
+
+#: performancing.delicious.login
+msgid "Del.Icio.Us Login"
+msgstr ""
+
+#: performancing.delicious.loggedout
+msgid "You are not logged in, please log in now"
+msgstr ""
+
+#: performancing.delicious.username
+msgctxt "performancing.delicious.username"
+msgid "Username:"
+msgstr ""
+
+#: performancing.delicious.password
+msgctxt "performancing.delicious.password"
+msgid "Password:"
+msgstr ""
+
+#: performancing.delicious.loggingin
+msgid "Logging into Del.icio.us..."
+msgstr ""
+
+#: performancing.delicious.service
+msgid "Del.icio.us Service"
+msgstr ""
+
+#: performancing.delicious.reloadpage
+msgid "(Reload current page)"
+msgstr ""
+
+#: performancing.delicious.savingpost
+msgid "Saving post to Del.icio.us..."
+msgstr ""
+
+#: performancing.delicious.clear
+msgid "Clear"
+msgstr ""
+
+#: performancing.delicious.save
+msgid "Save"
+msgstr ""
+
+#: performancing.delicious.mytagsearch
+msgid "My Tag Search:"
+msgstr ""
+
+#: performancing.delicious.searchtype
+msgid "Search Type"
+msgstr ""
+
+#: performancing.delicious.loadingtags
+msgid "- Loading tags..."
+msgstr ""
+
+#: performancing.delicious.autologin
+msgid "Auto-login"
+msgstr ""
+
+#: performancing.delicious.url
+msgid "url"
+msgstr ""
+
+#: performancing.delicious.description
+msgid "description"
+msgstr ""
+
+#: performancing.delicious.tags
+msgid "tags"
+msgstr ""
+
+#: performancing.delicious.notes
+msgid "notes"
+msgstr ""
+
+#: performancing.delicious.posts
+msgid "posts"
+msgstr ""
+
+#: performancing.delicious.all
+msgid "all"
+msgstr ""
+
+#: performancing.about.description
+msgid ""
+"Using ScribeFire is the easiest way to post to your blog.  You can subscribe "
+"to the ScribeFire.com RSS feed using the buttons below."
+msgstr ""
+
+#: performancing.about.latestposts
+msgid "Latest Posts:"
+msgstr ""
+
+#: performancing.about.refreshlist
+msgid "(Refresh List)"
+msgstr ""
+
+#: performancing.about.loadingfeeds
+msgid "Loading Feeds..."
+msgstr ""
+
+#: performancing.about.gethelp
+msgid "Get Help:"
+msgstr ""
+
+#: performancing.about.getrss
+msgid "Get the RSS"
+msgstr ""
+
+#: performancing.sidebar.blogs
+msgid "Blogs"
+msgstr ""
+
+#: performancing.sidebar.categories
+msgid "Categories"
+msgstr ""
+
+#: performancing.sidebar.history
+msgid "Entries"
+msgstr ""
+
+#: performancing.sidebar.pages
+msgid "Pages"
+msgstr ""
+
+#: performancing.sidebar.notes
+msgid "Notes"
+msgstr ""
+
+#: performancing.sidebar.options
+msgid "Options"
+msgstr ""
+
+#: performancing.sidebar.blogs.tt
+msgid "My Blogs"
+msgstr ""
+
+#: performancing.sidebar.add
+msgid "Add"
+msgstr ""
+
+#: performancing.sidebar.edit
+msgid "Edit"
+msgstr ""
+
+#: performancing.sidebar.addcats
+msgid "Add Category"
+msgstr ""
+
+#: performancing.sidebar.accountwizard
+msgid "Launch Account Wizard"
+msgstr ""
+
+#: performancing.sidebar.refresh
+msgid "Reload"
+msgstr ""
+
+#: performancing.sidebar.loadingcats
+msgid "Loading categories..."
+msgstr ""
+
+#: performancing.sidebar.loadinghist
+msgid "Loading Post History..."
+msgstr ""
+
+#: performancing.sidebar.loadingpages
+msgid "Loading pages..."
+msgstr ""
+
+#: performancing.sidebar.deletepost
+msgctxt "performancing.sidebar.deletepost"
+msgid "Delete"
+msgstr ""
+
+#: performancing.sidebar.search
+msgid "Search:"
+msgstr ""
+
+#: performancing.sidebar.loadingnotes
+msgid "Loading Notes..."
+msgstr ""
+
+#: performancing.sidebar.deletenote
+msgid "Delete Note"
+msgstr ""
+
+#: performancing.draft
+msgid "Draft"
+msgstr ""
+
+#: performancing.sidebar.technoratitags
+msgid "Technorati tags:"
+msgstr ""
+
+#: performancing.sidebar.commaseperated
+msgid "(Comma separated list)"
+msgstr ""
+
+#: performancing.sidebar.autoaddmsg
+msgid "Will be auto added"
+msgstr ""
+
+#: performancing.sidebar.addtagsbutton
+msgid "Add Tags to post"
+msgstr ""
+
+#: performancing.sidebar.bookmarkposts
+msgid "bookmark post at del.icio.us using same tags"
+msgstr ""
+
+#: performancing.sidebar.trackbackurl
+msgid "TrackBack URLs:"
+msgstr ""
+
+#: performancing.sidebar.delete
+msgctxt "performancing.sidebar.delete"
+msgid "Delete"
+msgstr ""
+
+#: performancing.sidebar.enablepings
+msgid "Enable pings"
+msgstr ""
+
+#: performancing.sidebar.custom
+msgid "Custom"
+msgstr ""
+
+#: key_logout.key
+msgid "q"
+msgstr ""
+
+#: key_help.key
+msgid "VK_F1"
+msgstr ""
+
+#: key_bold.key
+msgid "b"
+msgstr ""
+
+#: key_italic.key
+msgid "i"
+msgstr ""
+
+#: key_underline.key
+msgid "u"
+msgstr ""
+
+#: key_link.key
+msgid "m"
+msgstr ""
+
+#: key_spell.key
+msgid "VK_F7"
+msgstr ""
+
+#: openCmd.key
+msgctxt "openCmd.key"
+msgid "O"
+msgstr ""
+
+#: saveCmd.key
+msgctxt "saveCmd.key"
+msgid "S"
+msgstr ""
+
+#: undoCmd.label
+msgid "Undo"
+msgstr ""
+
+#: undoCmd.key
+msgid "Z"
+msgstr ""
+
+#: redoCmd.label
+msgid "Redo"
+msgstr ""
+
+#: redoCmd.key
+msgid "Y"
+msgstr ""
+
+#: cutCmd.label
+msgid "Cut"
+msgstr ""
+
+#: cutCmd.key
+msgid "X"
+msgstr ""
+
+#: copyCmd.label
+msgid "Copy"
+msgstr ""
+
+#: copyCmd.key
+msgid "C"
+msgstr ""
+
+#: pasteCmd.label
+msgid "Paste"
+msgstr ""
+
+#: pasteCmd.key
+msgid "V"
+msgstr ""
+
+#: pasteNoFormattingCmd.label
+msgid "Paste No Formatting"
+msgstr ""
+
+#: deleteCmd.label
+msgctxt "deleteCmd.label"
+msgid "Delete"
+msgstr ""
+
+#: deleteCmd.key
+msgid "D"
+msgstr ""
+
+#: selectAllCmd.label
+msgid "Select All"
+msgstr ""
+
+#: selectAllCmd.key
+msgctxt "selectAllCmd.key"
+msgid "A"
+msgstr ""
+
+#: printCmd.key
+msgctxt "printCmd.key"
+msgid "P"
+msgstr ""
+
+#: pff-spellAddToDictionary.label
+#: pff-spellAddToDictionary.accesskey
+msgid "Add &to dictionary"
+msgstr ""
+
+#: pff-spellEnable.label
+#: pff-spellEnable.accesskey
+msgid "&Spell check this field"
+msgstr ""
+
+#: pff-spellNoSuggestions.label
+msgid "(No spelling suggestions)"
+msgstr ""
+
+#: pff-spellDictionaries.label
+#: pff-spellDictionaries.accesskey
+msgid "&Languages"
+msgstr ""
+
+#: pff-spellAddDictionaries.label
+#: pff-spellAddDictionaries.accesskey
+msgid "&Add dictionaries..."
+msgstr ""
+
+#: performancing.liveSpacesHelp.line1
+msgid ""
+"Notice: In order to use ScribeFire with MSN/Live Spaces, you must take the "
+"following steps:"
+msgstr ""
+
+#: performancing.liveSpacesHelp.line2
+msgid ""
+"1. Enable e-mail publishing: In your Spaces account, click on "
+"&apos;Options&apos; and then &apos;E-mail publishing.&apos;"
+msgstr ""
+
+#: performancing.liveSpacesHelp.line3
+msgid ""
+"2. For your username in the form above, use your Spaces account name.  For "
+"example, if your blog is at http://bob123.spaces.live.com/, use bob123 as "
+"your username."
+msgstr ""
+
+#: performancing.liveSpacesHelp.line4
+msgid ""
+"3. For your password in the form above, use your &apos;secret word&apos; "
+"that you chose for e-mail publishing."
+msgstr ""
+
+#: performancing.toolbarName
+msgid "ScribeFire Toolbar"
+msgstr ""
+
+#: performancing.addImage
+msgid "Add Image"
+msgstr ""
+
+#: performancing.addVideo
+msgid "Add Video"
+msgstr ""
+
+#: performancing.addLink
+msgid "Add Link"
+msgstr ""
+
+#: performancing.addQuote
+msgid "Add Quote"
+msgstr ""
+
+#: performancing.uploadImage
+msgid "Upload Image"
+msgstr ""
+
+#: performancing.help
+msgid "Help"
+msgstr ""
+
+#: performancing.posts
+msgid "Posts"
+msgstr ""
+
+#: performancing.tags
+msgid "Tags"
+msgstr ""
+
+#: performancing.qb.positionVideo
+msgid "Position the video in your post"
+msgstr ""
+
+#: performancing.qb.positionImage
+msgid "Position the image in your post"
+msgstr ""
+
+#: performancing.qb.positionOther
+msgid "Confirm Post Appearance"
+msgstr ""
+
+#: performancing.qb.addToPostDesc
+msgid ""
+"Use the buttons below to make changes to the formatting of the modified "
+"post.  When you are finished, click OK.  If you do not want to make these "
+"changes to your post, click Cancel."
+msgstr ""
+
+#: performancing.qb.addFromYouTube
+msgid "Add a video from YouTube"
+msgstr ""
+
+#: performancing.qb.addFromFlickr
+msgid "Add an image from Flickr"
+msgstr ""
+
+#: performancing.searchFor
+msgid "Search for:"
+msgstr ""
+
+#: performancing.search
+msgid "Search"
+msgstr ""
+
+#: performancing.caption
+msgid "[Caption]"
+msgstr ""
+
+#: performancing.prev
+msgid "Prev."
+msgstr ""
+
+#: performancing.next
+msgid "Next"
+msgstr ""
+
+#: performancing.settings.confirmTabClose
+msgid "Confirm when closing a tab"
+msgstr ""
+
+#: performancing.otherPings
+msgid "Other: (separate with commas or spaces)"
+msgstr ""
+
+#: performancing.displayModeText
+msgid "By default, open ScribeFire in..."
+msgstr ""
+
+#: performancing.displayModeSplit
+msgid "split-screen mode"
+msgstr ""
+
+#: performancing.displayModeWindow
+msgid "a new window"
+msgstr ""
+
+#: performancing.displayModeTab
+msgid "a new tab"
+msgstr ""
+
+#: performancing.share
+msgid "Share"
+msgstr ""
+
+#: performancing.shareThisPage
+msgid "Share this page"
+msgstr ""
+
+#: performancing.shareThisPageDescription
+msgid "Click any of the buttons below to share this page."
+msgstr ""
+
+#: performancing.modifyTimestamp
+msgid "Modify Timestamp"
+msgstr ""
+
+#: performancing.editBlog
+msgid "Edit Blog"
+msgstr "Уреди блог"
+
+#: performancing.editBlog.dialogTitle
+msgid "Edit Blog Settings"
+msgstr "Уреди подешавања блога"
+
+#: performancing.editBlog.blogTitle
+msgctxt "performancing.editBlog.blogTitle"
+msgid "Title:"
+msgstr "Наслов:"

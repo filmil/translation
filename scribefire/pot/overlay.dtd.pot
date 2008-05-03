@@ -1,0 +1,1285 @@
+#. extracted from original/overlay.dtd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-03 11:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
+"X-Accelerator-Marker: &\n"
+
+#: performancing.accountWizardTitle
+msgid "ScribeFire Account Wizard"
+msgstr ""
+
+#: performancing.accountwizard.intro
+msgid "This wizard will help you setup ScribeFire to work with your blog."
+msgstr ""
+
+#: performancing.accountwizard.enterblogurl
+msgid "Please enter your blog&apos;s url"
+msgstr ""
+
+#: performancing.accountwizard.enterblogurl.example
+msgid "http://mywebsite.com/blog/"
+msgstr ""
+
+#: performancing.accountwizard.manualconfigure
+msgid "Configure Manually"
+msgstr ""
+
+#: performancing.accountwizard.checkingblogsettings
+msgid "Checking blog settings..."
+msgstr ""
+
+#: performancing.accountwizard.blogfoundcont
+msgid "Succesfully found blog, please continue.."
+msgstr ""
+
+#: performancing.accountwizard.couldnotautodetect
+msgid "Sorry, could not auto-detect your blog&apos;s settings."
+msgstr ""
+
+#: performancing.accountwizard.tryagain
+msgid "Try Again"
+msgstr ""
+
+#: performancing.accountwizard.choosebloggingserv
+msgid "What Blogging Service do you want to add?"
+msgstr ""
+
+#: performancing.accountwizard.customblog
+msgid "Custom Blog"
+msgstr ""
+
+#: performancing.loginDetails
+msgid "Login Details"
+msgstr ""
+
+#: performancing.accountwizard.wordpressex
+msgid "Example: myblog.wordpress.com"
+msgstr ""
+
+#: performancing.accountwizard.typepadex
+msgid "Example: myblog.typepad.com"
+msgstr ""
+
+#: performancing.accountwizard.livejournalex
+msgid "Example: livejournal.com/users/YourName"
+msgstr ""
+
+#: performancing.accountwizard.msnspacesex
+msgid "Example: spaces.msn.com/YourNick"
+msgstr ""
+
+#: performancing.accountwizard.performancingex
+msgid "Example: performancing.com/blog/689"
+msgstr ""
+
+#: performancing.accountwizard.jeeranex
+msgid "Example: myname.jeeran.com"
+msgstr ""
+
+#: performancing.accountwizard.drupal
+msgid "Example: myserver.com/"
+msgstr ""
+
+#: performancing.accountwizard.customex
+msgid "Example: myserver.com/blog"
+msgstr ""
+
+#: performancing.accountwizard.customlogindetails
+msgid "Custom Login Details"
+msgstr ""
+
+#: performancing.accountwizard.selectblogsystem
+msgid "Pease select your blog system type from the list below:"
+msgstr ""
+
+#: performancing.accountwizard.addorchangeapiurl
+msgid "Please add (or change) your API URL:"
+msgstr ""
+
+#: performancing.accountwizard.serverapiurl
+msgid "API URL:"
+msgstr ""
+
+#: performancing.accountwizard.advancedsettings
+msgid "Advanced Settings"
+msgstr ""
+
+#: performancing.accountwizard.usebooleanpublish
+msgid "Use Boolean for Publish"
+msgstr ""
+
+#: performancing.accountwizard.apikey
+msgid "API Key:"
+msgstr ""
+
+#: performancing.accountwizard.apikeyignored
+msgid "(normally ignored)"
+msgstr ""
+
+#: performancing.accountwizard.addusrnpasstoblog
+msgid "Please add your username and password for this blog:"
+msgstr ""
+
+#: performancing.accountwizard.username
+msgctxt "performancing.accountwizard.username"
+msgid "Username:"
+msgstr ""
+
+#: performancing.accountwizard.password
+msgctxt "performancing.accountwizard.password"
+msgid "Password:"
+msgstr ""
+
+#: performancing.accountwizard.errorusrnpass
+msgid "Error: Please enter a Username and Password"
+msgstr ""
+
+#: performancing.accountwizard.loggingin
+msgid "Logging in"
+msgstr ""
+
+#: performancing.accountwizard.logginginplswait
+msgid "Logging in.. please wait."
+msgstr ""
+
+#: performancing.accountwizard.loginerror
+msgid "Login Error"
+msgstr ""
+
+#: performancing.accountwizard.errorcheckusrnpass
+msgid "Please check your username and password for errors and try again."
+msgstr ""
+
+#: performancing.accountwizard.succesfulllogin
+msgid "Successful Login"
+msgstr ""
+
+#: performancing.accountwizard.succesfulllogindesc
+msgid "You have successfully logged into your account."
+msgstr ""
+
+#: performancing.accountwizard.confirminfobelow
+msgid "Please confirm the information below and continue"
+msgstr ""
+
+#: performancing.accountwizard.blogstobeadded
+msgid "Blogs to be added:"
+msgstr ""
+
+#: performancing.accountwizard.blogname
+msgid "Blog Name"
+msgstr ""
+
+#: performancing.accountwizard.url
+msgid "URL:"
+msgstr ""
+
+#: performancing.accountwizard.accountaddeddesc
+msgid "Account successfully added"
+msgstr ""
+
+#: performancing.accountwizard.accountadded
+msgid "Account Added"
+msgstr ""
+
+#: performancing.imageupload.title
+msgid "ScribeFire Image Upload"
+msgstr ""
+
+#: performancing.imageupload.uploadandinsert
+msgid "Insert Image"
+msgstr ""
+
+#: performancing.imageupload.apply
+msgid "Apply"
+msgstr ""
+
+#: performancing.imageupload.saveerr
+msgid "Error saving FTP settings"
+msgstr ""
+
+#: performancing.imageupload.url
+msgid "URL"
+msgstr ""
+
+#: performancing.imageupload.copyurltoclp
+msgid "Copy URL to Clipboard"
+msgstr ""
+
+#: performancing.imageupload.file
+msgid "File"
+msgstr ""
+
+#: performancing.imageupload.browse
+msgid "Browse"
+msgstr ""
+
+#: performancing.imageupload.uploadimage
+msgid "From your computer:"
+msgstr ""
+
+#: performancing.imageupload.linkimage
+msgid "From the Web:"
+msgstr ""
+
+#: performancing.imageupload.uploading
+msgid "Uploading...."
+msgstr ""
+
+#: performancing.imageupload.cancelupload
+msgid "Cancel Upload"
+msgstr ""
+
+#: performancing.imageupload.host
+msgid "Host"
+msgstr ""
+
+#: performancing.imageupload.host.key
+msgid "H"
+msgstr ""
+
+#: performancing.imageupload.hostexample
+msgid "i.e. myserver.com"
+msgstr ""
+
+#: performancing.imageupload.ftp
+msgid "FTP"
+msgstr ""
+
+#: performancing.imageupload.ftp.key
+msgctxt "performancing.imageupload.ftp.key"
+msgid "F"
+msgstr ""
+
+#: performancing.imageupload.http
+msgid "HTTP"
+msgstr ""
+
+#: performancing.imageupload.http.key
+msgctxt "performancing.imageupload.http.key"
+msgid "T"
+msgstr ""
+
+#: performancing.imageupload.https
+msgid "HTTPS"
+msgstr ""
+
+#: performancing.imageupload.https.key
+msgctxt "performancing.imageupload.https.key"
+msgid "S"
+msgstr ""
+
+#: performancing.imageupload.username
+msgid "Username"
+msgstr ""
+
+#: performancing.imageupload.username.key
+msgctxt "performancing.imageupload.username.key"
+msgid "U"
+msgstr ""
+
+#: performancing.imageupload.password
+msgid "Password"
+msgstr ""
+
+#: performancing.imageupload.password.key
+msgctxt "performancing.imageupload.password.key"
+msgid "P"
+msgstr ""
+
+#: performancing.imageupload.serverpath
+msgid "Server Path"
+msgstr ""
+
+#: performancing.imageupload.serverpath.key
+msgctxt "performancing.imageupload.serverpath.key"
+msgid "S"
+msgstr ""
+
+#: performancing.imageupload.serverpathexample
+msgid "i.e. user/images/"
+msgstr ""
+
+#: performancing.imageupload.urltopath
+msgid "URL to path"
+msgstr ""
+
+#: performancing.imageupload.urltopath.key
+msgctxt "performancing.imageupload.urltopath.key"
+msgid "U"
+msgstr ""
+
+#: performancing.imageupload.urltopathexample
+msgid "i.e. http://mydomain.com/images/"
+msgstr ""
+
+#: performancing.imageupload.savesettings
+msgid "Save Settings"
+msgstr ""
+
+#: performancing.imageupload.fileupload
+msgctxt "performancing.imageupload.fileupload"
+msgid "File Upload"
+msgstr ""
+
+#: performancing.imageupload.fileupload.key
+msgctxt "performancing.imageupload.fileupload.key"
+msgid "F"
+msgstr ""
+
+#: performancing.fileupload.title
+msgid "ScribeFire File Upload"
+msgstr ""
+
+#: performancing.overlay.blogthis
+msgctxt "performancing.overlay.blogthis"
+msgid "Blog this page"
+msgstr ""
+
+#: performancing.overlay.blogthis.key
+msgctxt "performancing.overlay.blogthis.key"
+msgid "B"
+msgstr ""
+
+#: performancing.overlay.openintab
+msgid "Open in Tab"
+msgstr ""
+
+#: performancing.overlay.openintab.key
+msgctxt "performancing.overlay.openintab.key"
+msgid "T"
+msgstr ""
+
+#: performancing.overlay.openinwindow
+msgid "Open in Window"
+msgstr ""
+
+#: performancing.overlay.openinwindow.key
+msgid "W"
+msgstr ""
+
+#: performancing.overlay.openinbrowser
+msgid "Open in Browser"
+msgstr ""
+
+#: performancing.overlay.openinbrowser.key
+msgctxt "performancing.overlay.openinbrowser.key"
+msgid "O"
+msgstr ""
+
+#: performancing.overlay.blogthispage
+msgctxt "performancing.overlay.blogthispage"
+msgid "Blog this page"
+msgstr ""
+
+#: performancing.overlay.blogthispage.key
+msgctxt "performancing.overlay.blogthispage.key"
+msgid "B"
+msgstr ""
+
+#: performancing.overlay.bookmark
+msgid "Bookmark"
+msgstr ""
+
+#: performancing.overlay.bookmark.key
+msgid "M"
+msgstr ""
+
+#: performancing.overlay.pagetools
+msgid "Page Tools"
+msgstr ""
+
+#: performancing.overlay.pagetools.key
+msgctxt "performancing.overlay.pagetools.key"
+msgid "P"
+msgstr ""
+
+#: performancing.overlay.ftpupload
+msgctxt "performancing.overlay.ftpupload"
+msgid "File Upload"
+msgstr ""
+
+#: performancing.overlay.ftpupload.key
+msgctxt "performancing.overlay.ftpupload.key"
+msgid "F"
+msgstr ""
+
+#: performancing.overlay.closeperformancing
+msgid "Close ScribeFire"
+msgstr ""
+
+#: performancing.overlay.showtoolbar
+msgid "Show the ScribeFire Toolbar"
+msgstr ""
+
+#: performancing.main.sb.cm.about
+msgid "About..."
+msgstr ""
+
+#: performancing.main.sb.cm.about.key
+msgctxt "performancing.main.sb.cm.about.key"
+msgid "A"
+msgstr ""
+
+#: performancing.title
+msgctxt "performancing.title"
+msgid "ScribeFire"
+msgstr ""
+
+#: performancing.cmaccesskey
+msgid "c"
+msgstr ""
+
+#: performancing.editor.title
+msgctxt "performancing.editor.title"
+msgid "ScribeFire"
+msgstr ""
+
+#: performancing.editor.bar.spelling
+msgid "Check Spelling"
+msgstr ""
+
+#: performancing.editor.bar.bold.tt
+msgid "Bold"
+msgstr ""
+
+#: performancing.editor.bar.italic.tt
+msgid "Italic"
+msgstr ""
+
+#: performancing.editor.bar.underline.tt
+msgid "Underline"
+msgstr ""
+
+#: performancing.editor.bar.strikethrough.tt
+msgid "Strikethrough"
+msgstr ""
+
+#: performancing.editor.bar.quote.tt
+msgid "Quote"
+msgstr ""
+
+#: performancing.editor.bar.strong.tt
+msgid "Strong"
+msgstr ""
+
+#: performancing.editor.bar.em.tt
+msgid "Emphasis"
+msgstr ""
+
+#: performancing.editor.bar.incfont.tt
+msgid "Increase Font Size"
+msgstr ""
+
+#: performancing.editor.bar.decfont.tt
+msgid "Decrease Font Size"
+msgstr ""
+
+#: performancing.editor.bar.link.tt
+msgid "Add a Link"
+msgstr ""
+
+#: performancing.editor.bar.image.tt
+msgid "Add an Image"
+msgstr ""
+
+#: performancing.editor.bar.color.tt
+msgid "Set the Font Color"
+msgstr ""
+
+#: performancing.editor.bar.olist.tt
+msgid "Ordered List"
+msgstr ""
+
+#: performancing.editor.bar.ulist.tt
+msgid "Unordered List"
+msgstr ""
+
+#: performancing.editor.bar.leftjust.tt
+msgid "Justify Left"
+msgstr ""
+
+#: performancing.editor.bar.centjust.tt
+msgid "Justify Center"
+msgstr ""
+
+#: performancing.editor.bar.rightjust.tt
+msgid "Justify Right"
+msgstr ""
+
+#: performancing.left
+msgid "Left"
+msgstr ""
+
+#: performancing.right
+msgid "Right"
+msgstr ""
+
+#: performancing.none
+msgid "None"
+msgstr ""
+
+#: performancing.align
+msgid "Align..."
+msgstr ""
+
+#: performancing.alignLeft
+msgid "Align Left"
+msgstr ""
+
+#: performancing.alignRight
+msgid "Align Right"
+msgstr ""
+
+#: performancing.alignNone
+msgid "Don&apos;t Align"
+msgstr ""
+
+#: performancing.defaultFont
+msgid "Default Font"
+msgstr ""
+
+#: performancing.editor.bar.just.tt
+msgid "Justify"
+msgstr ""
+
+#: performancing.editor.bar.customtag.tt
+msgid "Insert a custom HTML tag"
+msgstr ""
+
+#: performancing.editor.bar.customtaglabel.tt
+msgid "Custom HTML"
+msgstr ""
+
+#: performancing.editor.bar.postsplitter
+msgid "(more)"
+msgstr ""
+
+#: performancing.editor.bar.postsplitter.tt
+msgid "Add a post splitter"
+msgstr ""
+
+#: performancing.editor.bar.overflowmenu
+msgid "More..."
+msgstr ""
+
+#: performancing.navbar.editor
+msgid "Editor"
+msgstr ""
+
+#: performancing.navbar.settings
+msgid "Settings"
+msgstr ""
+
+#: performancing.navbar.bookmarks
+msgid "del.icio.us Bookmarks"
+msgstr ""
+
+#: performancing.navbar.about
+msgid "About"
+msgstr ""
+
+#: performancing.editor.tabs.rich
+msgid "Rich Editing"
+msgstr ""
+
+#: performancing.editor.tabs.source
+msgid "Source Editing"
+msgstr ""
+
+#: performancing.editor.tabs.preview
+msgid "Live Preview"
+msgstr ""
+
+#: performancing.editor.thetitle
+msgctxt "performancing.editor.thetitle"
+msgid "Title:"
+msgstr ""
+
+#: performancing.message.postsuccess
+msgid "Post Successful!"
+msgstr ""
+
+#: performancing.message.postsuccess.button
+msgid "Click OK to clear the editor."
+msgstr ""
+
+#: performancing.message.publishingtoblog
+msgid "Publishing to your blog..."
+msgstr ""
+
+#: performancing.message.publishing
+msgid "Publishing...."
+msgstr ""
+
+#: performancing.link.viewblog
+msgid "View this Blog"
+msgstr ""
+
+#: performancing.button.ok
+msgid "OK"
+msgstr ""
+
+#: performancing.button.cancelkeep
+msgid "Keep content"
+msgstr ""
+
+#: performancing.button.saveasnote
+msgid "Save as Note"
+msgstr ""
+
+#: performancing.button.savenote
+msgid "Save Note"
+msgstr ""
+
+#: performancing.button.clearcontent
+msgid "Clear Content"
+msgstr ""
+
+#: performancing.button.republish
+msgid "Publish as Edit"
+msgstr ""
+
+#: performancing.publish
+msgid "Publish"
+msgstr ""
+
+#: performancing.button.publishAsPage
+msgid "Publish as a page"
+msgstr ""
+
+#: performancing.settings.tab.general
+msgid "General"
+msgstr ""
+
+#: performancing.settings.tab.general.key
+msgid "G"
+msgstr ""
+
+#: performancing.settings.tab.formatting
+msgid "Formatting"
+msgstr ""
+
+#: performancing.settings.tab.formatting.key
+msgctxt "performancing.settings.tab.formatting.key"
+msgid "F"
+msgstr ""
+
+#: performancing.settings.tab.publishing
+msgid "Publishing"
+msgstr ""
+
+#: performancing.settings.tab.publishing.key
+msgctxt "performancing.settings.tab.publishing.key"
+msgid "P"
+msgstr ""
+
+#: performancing.settings.remember
+msgid "Save editor tabs and content on close"
+msgstr ""
+
+#: performancing.settings.onbottom
+msgid "Show Editor on Bottom of split screen"
+msgstr ""
+
+#: performancing.settings.hidepffcm
+msgid "Hide the ScribeFire Context Menu"
+msgstr ""
+
+#: performancing.settings.sortcats
+msgid "Sort Tags"
+msgstr ""
+
+#: performancing.settings.usecssmsg
+msgid "Use CSS for content style (other uses HTML)"
+msgstr ""
+
+#: performancing.settings.makertl
+msgid "Make text &apos;Right-to-left&apos;"
+msgstr ""
+
+#: performancing.settings.defaultdraft
+msgid "Enable draft as default"
+msgstr ""
+
+#: performancing.settings.autoinserttech
+msgid "Automatically insert Technorati links on publish?"
+msgstr ""
+
+#: performancing.settings.insertpoweredbypff
+msgid "Automatically insert &apos;Powered by ScribeFire&apos;?"
+msgstr ""
+
+#: performancing.settings.statusbar
+msgid "Show status-bar icon"
+msgstr ""
+
+#: performancing.settings.disableQuickblogging
+msgid "Disable Quickblogging toolbar"
+msgstr ""
+
+#: performancing.technorati.loadinginfo
+msgid "Loading Technorati Information..."
+msgstr ""
+
+#: performancing.technorati.loading
+msgid "Loading..."
+msgstr ""
+
+#: performancing.technorati.search
+msgid "Search Technorati"
+msgstr ""
+
+#: performancing.technorati.pageinfo
+msgid "Information about the page"
+msgstr ""
+
+#: performancing.technorati.thereare
+msgid "There are"
+msgstr ""
+
+#: performancing.technorati.linkstopage
+msgid "links to this page, and"
+msgstr ""
+
+#: performancing.technorati.blogslinking
+msgid "blogs linking to this page in Technorati."
+msgstr ""
+
+#: performancing.technorati.loadingpageinfo
+msgid "Loading Page information..."
+msgstr ""
+
+#: performancing.technorati.moreresults
+msgid "More results..."
+msgstr ""
+
+#: performancing.technorati.refreshpageinfo
+msgid "(Refresh Page Info)"
+msgstr ""
+
+#: performancing.delicious.login
+msgid "Del.Icio.Us Login"
+msgstr ""
+
+#: performancing.delicious.loggedout
+msgid "You are not logged in, please log in now"
+msgstr ""
+
+#: performancing.delicious.username
+msgctxt "performancing.delicious.username"
+msgid "Username:"
+msgstr ""
+
+#: performancing.delicious.password
+msgctxt "performancing.delicious.password"
+msgid "Password:"
+msgstr ""
+
+#: performancing.delicious.loggingin
+msgid "Logging into Del.icio.us..."
+msgstr ""
+
+#: performancing.delicious.service
+msgid "Del.icio.us Service"
+msgstr ""
+
+#: performancing.delicious.reloadpage
+msgid "(Reload current page)"
+msgstr ""
+
+#: performancing.delicious.savingpost
+msgid "Saving post to Del.icio.us..."
+msgstr ""
+
+#: performancing.delicious.clear
+msgid "Clear"
+msgstr ""
+
+#: performancing.delicious.save
+msgid "Save"
+msgstr ""
+
+#: performancing.delicious.mytagsearch
+msgid "My Tag Search:"
+msgstr ""
+
+#: performancing.delicious.searchtype
+msgid "Search Type"
+msgstr ""
+
+#: performancing.delicious.loadingtags
+msgid "- Loading tags..."
+msgstr ""
+
+#: performancing.delicious.autologin
+msgid "Auto-login"
+msgstr ""
+
+#: performancing.delicious.url
+msgid "url"
+msgstr ""
+
+#: performancing.delicious.description
+msgid "description"
+msgstr ""
+
+#: performancing.delicious.tags
+msgid "tags"
+msgstr ""
+
+#: performancing.delicious.notes
+msgid "notes"
+msgstr ""
+
+#: performancing.delicious.posts
+msgid "posts"
+msgstr ""
+
+#: performancing.delicious.all
+msgid "all"
+msgstr ""
+
+#: performancing.about.description
+msgid ""
+"Using ScribeFire is the easiest way to post to your blog.  You can subscribe "
+"to the ScribeFire.com RSS feed using the buttons below."
+msgstr ""
+
+#: performancing.about.latestposts
+msgid "Latest Posts:"
+msgstr ""
+
+#: performancing.about.refreshlist
+msgid "(Refresh List)"
+msgstr ""
+
+#: performancing.about.loadingfeeds
+msgid "Loading Feeds..."
+msgstr ""
+
+#: performancing.about.gethelp
+msgid "Get Help:"
+msgstr ""
+
+#: performancing.about.getrss
+msgid "Get the RSS"
+msgstr ""
+
+#: performancing.sidebar.blogs
+msgid "Blogs"
+msgstr ""
+
+#: performancing.sidebar.categories
+msgid "Categories"
+msgstr ""
+
+#: performancing.sidebar.history
+msgid "Entries"
+msgstr ""
+
+#: performancing.sidebar.pages
+msgid "Pages"
+msgstr ""
+
+#: performancing.sidebar.notes
+msgid "Notes"
+msgstr ""
+
+#: performancing.sidebar.options
+msgid "Options"
+msgstr ""
+
+#: performancing.sidebar.blogs.tt
+msgid "My Blogs"
+msgstr ""
+
+#: performancing.sidebar.add
+msgid "Add"
+msgstr ""
+
+#: performancing.sidebar.edit
+msgid "Edit"
+msgstr ""
+
+#: performancing.sidebar.addcats
+msgid "Add Category"
+msgstr ""
+
+#: performancing.sidebar.accountwizard
+msgid "Launch Account Wizard"
+msgstr ""
+
+#: performancing.sidebar.refresh
+msgid "Reload"
+msgstr ""
+
+#: performancing.sidebar.loadingcats
+msgid "Loading categories..."
+msgstr ""
+
+#: performancing.sidebar.loadinghist
+msgid "Loading Post History..."
+msgstr ""
+
+#: performancing.sidebar.loadingpages
+msgid "Loading pages..."
+msgstr ""
+
+#: performancing.sidebar.deletepost
+msgctxt "performancing.sidebar.deletepost"
+msgid "Delete"
+msgstr ""
+
+#: performancing.sidebar.search
+msgid "Search:"
+msgstr ""
+
+#: performancing.sidebar.loadingnotes
+msgid "Loading Notes..."
+msgstr ""
+
+#: performancing.sidebar.deletenote
+msgid "Delete Note"
+msgstr ""
+
+#: performancing.draft
+msgid "Draft"
+msgstr ""
+
+#: performancing.sidebar.technoratitags
+msgid "Technorati tags:"
+msgstr ""
+
+#: performancing.sidebar.commaseperated
+msgid "(Comma separated list)"
+msgstr ""
+
+#: performancing.sidebar.autoaddmsg
+msgid "Will be auto added"
+msgstr ""
+
+#: performancing.sidebar.addtagsbutton
+msgid "Add Tags to post"
+msgstr ""
+
+#: performancing.sidebar.bookmarkposts
+msgid "bookmark post at del.icio.us using same tags"
+msgstr ""
+
+#: performancing.sidebar.trackbackurl
+msgid "TrackBack URLs:"
+msgstr ""
+
+#: performancing.sidebar.delete
+msgctxt "performancing.sidebar.delete"
+msgid "Delete"
+msgstr ""
+
+#: performancing.sidebar.enablepings
+msgid "Enable pings"
+msgstr ""
+
+#: performancing.sidebar.custom
+msgid "Custom"
+msgstr ""
+
+#: key_logout.key
+msgid "q"
+msgstr ""
+
+#: key_help.key
+msgid "VK_F1"
+msgstr ""
+
+#: key_bold.key
+msgid "b"
+msgstr ""
+
+#: key_italic.key
+msgid "i"
+msgstr ""
+
+#: key_underline.key
+msgid "u"
+msgstr ""
+
+#: key_link.key
+msgid "m"
+msgstr ""
+
+#: key_spell.key
+msgid "VK_F7"
+msgstr ""
+
+#: openCmd.key
+msgctxt "openCmd.key"
+msgid "O"
+msgstr ""
+
+#: saveCmd.key
+msgctxt "saveCmd.key"
+msgid "S"
+msgstr ""
+
+#: undoCmd.label
+msgid "Undo"
+msgstr ""
+
+#: undoCmd.key
+msgid "Z"
+msgstr ""
+
+#: redoCmd.label
+msgid "Redo"
+msgstr ""
+
+#: redoCmd.key
+msgid "Y"
+msgstr ""
+
+#: cutCmd.label
+msgid "Cut"
+msgstr ""
+
+#: cutCmd.key
+msgid "X"
+msgstr ""
+
+#: copyCmd.label
+msgid "Copy"
+msgstr ""
+
+#: copyCmd.key
+msgid "C"
+msgstr ""
+
+#: pasteCmd.label
+msgid "Paste"
+msgstr ""
+
+#: pasteCmd.key
+msgid "V"
+msgstr ""
+
+#: pasteNoFormattingCmd.label
+msgid "Paste No Formatting"
+msgstr ""
+
+#: deleteCmd.label
+msgctxt "deleteCmd.label"
+msgid "Delete"
+msgstr ""
+
+#: deleteCmd.key
+msgid "D"
+msgstr ""
+
+#: selectAllCmd.label
+msgid "Select All"
+msgstr ""
+
+#: selectAllCmd.key
+msgctxt "selectAllCmd.key"
+msgid "A"
+msgstr ""
+
+#: printCmd.key
+msgctxt "printCmd.key"
+msgid "P"
+msgstr ""
+
+#: pff-spellAddToDictionary.label
+#: pff-spellAddToDictionary.accesskey
+msgid "Add &to dictionary"
+msgstr ""
+
+#: pff-spellEnable.label
+#: pff-spellEnable.accesskey
+msgid "&Spell check this field"
+msgstr ""
+
+#: pff-spellNoSuggestions.label
+msgid "(No spelling suggestions)"
+msgstr ""
+
+#: pff-spellDictionaries.label
+#: pff-spellDictionaries.accesskey
+msgid "&Languages"
+msgstr ""
+
+#: pff-spellAddDictionaries.label
+#: pff-spellAddDictionaries.accesskey
+msgid "&Add dictionaries..."
+msgstr ""
+
+#: performancing.liveSpacesHelp.line1
+msgid ""
+"Notice: In order to use ScribeFire with MSN/Live Spaces, you must take the "
+"following steps:"
+msgstr ""
+
+#: performancing.liveSpacesHelp.line2
+msgid ""
+"1. Enable e-mail publishing: In your Spaces account, click on "
+"&apos;Options&apos; and then &apos;E-mail publishing.&apos;"
+msgstr ""
+
+#: performancing.liveSpacesHelp.line3
+msgid ""
+"2. For your username in the form above, use your Spaces account name.  For "
+"example, if your blog is at http://bob123.spaces.live.com/, use bob123 as "
+"your username."
+msgstr ""
+
+#: performancing.liveSpacesHelp.line4
+msgid ""
+"3. For your password in the form above, use your &apos;secret word&apos; "
+"that you chose for e-mail publishing."
+msgstr ""
+
+#: performancing.toolbarName
+msgid "ScribeFire Toolbar"
+msgstr ""
+
+#: performancing.addImage
+msgid "Add Image"
+msgstr ""
+
+#: performancing.addVideo
+msgid "Add Video"
+msgstr ""
+
+#: performancing.addLink
+msgid "Add Link"
+msgstr ""
+
+#: performancing.addQuote
+msgid "Add Quote"
+msgstr ""
+
+#: performancing.uploadImage
+msgid "Upload Image"
+msgstr ""
+
+#: performancing.help
+msgid "Help"
+msgstr ""
+
+#: performancing.posts
+msgid "Posts"
+msgstr ""
+
+#: performancing.tags
+msgid "Tags"
+msgstr ""
+
+#: performancing.qb.positionVideo
+msgid "Position the video in your post"
+msgstr ""
+
+#: performancing.qb.positionImage
+msgid "Position the image in your post"
+msgstr ""
+
+#: performancing.qb.positionOther
+msgid "Confirm Post Appearance"
+msgstr ""
+
+#: performancing.qb.addToPostDesc
+msgid ""
+"Use the buttons below to make changes to the formatting of the modified "
+"post.  When you are finished, click OK.  If you do not want to make these "
+"changes to your post, click Cancel."
+msgstr ""
+
+#: performancing.qb.addFromYouTube
+msgid "Add a video from YouTube"
+msgstr ""
+
+#: performancing.qb.addFromFlickr
+msgid "Add an image from Flickr"
+msgstr ""
+
+#: performancing.searchFor
+msgid "Search for:"
+msgstr ""
+
+#: performancing.search
+msgid "Search"
+msgstr ""
+
+#: performancing.caption
+msgid "[Caption]"
+msgstr ""
+
+#: performancing.prev
+msgid "Prev."
+msgstr ""
+
+#: performancing.next
+msgid "Next"
+msgstr ""
+
+#: performancing.settings.confirmTabClose
+msgid "Confirm when closing a tab"
+msgstr ""
+
+#: performancing.otherPings
+msgid "Other: (separate with commas or spaces)"
+msgstr ""
+
+#: performancing.displayModeText
+msgid "By default, open ScribeFire in..."
+msgstr ""
+
+#: performancing.displayModeSplit
+msgid "split-screen mode"
+msgstr ""
+
+#: performancing.displayModeWindow
+msgid "a new window"
+msgstr ""
+
+#: performancing.displayModeTab
+msgid "a new tab"
+msgstr ""
+
+#: performancing.share
+msgid "Share"
+msgstr ""
+
+#: performancing.shareThisPage
+msgid "Share this page"
+msgstr ""
+
+#: performancing.shareThisPageDescription
+msgid "Click any of the buttons below to share this page."
+msgstr ""
+
+#: performancing.modifyTimestamp
+msgid "Modify Timestamp"
+msgstr ""
+
+#: performancing.editBlog
+msgid "Edit Blog"
+msgstr ""
+
+#: performancing.editBlog.dialogTitle
+msgid "Edit Blog Settings"
+msgstr ""
+
+#: performancing.editBlog.blogTitle
+msgctxt "performancing.editBlog.blogTitle"
+msgid "Title:"
+msgstr ""
