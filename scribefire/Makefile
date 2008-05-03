@@ -14,7 +14,7 @@ include Makefile.inc
 
 .PHONY: all clean pot cleanpot stats  initpo match populate output tryconv copytocvs fixme pofilter pomerge
 
-all: clean tryconv stats 
+all: output
 
 pofilter:
 	$(POFILTER) $(PO_TRANSLATIONS) $(FAIL_DIR)
@@ -61,10 +61,3 @@ cleanpot:
 
 merge:
 	$(POMIGRATE) $(PO_SOURCE_DIR) $(MERGED_PO_OUTPUT_DIR) $(POT_DIR)
-
-
-
-
-
-
-
