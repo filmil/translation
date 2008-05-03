@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: performancing 2.1pre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-05-03 11:03+0200\n"
-"PO-Revision-Date: 2008-05-03 11:38+0200\n"
+"PO-Revision-Date: 2008-05-03 12:05+0200\n"
 "Last-Translator: Filip Miletic <filmil@gmail.com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,131 +17,133 @@ msgstr ""
 msgid ""
 "A full-featured blog editor that integrates with your browser and lets you "
 "easily post to your blog."
-msgstr ""
+msgstr "Потпуни уређивач блогова који се стапа са Вашим читачем и омогућава Вам лако слање чланака на Ваш блог."
 
 #: performancing.notavailable
 msgid "Not Available"
-msgstr ""
+msgstr "Недоступан"
 
 #: performancing.loading
 msgid "Loading..."
-msgstr ""
+msgstr "Учитавање..."
 
 #: performancing.cannotwritetofile
 msgid "Can not write to file, you may not have the correct permissions"
-msgstr ""
+msgstr "Упис у датотеку није могућ, можда немате довољна права приступа"
 
 #: performancing.delicioususererror
 msgid "Please make sure you have entered a Username and Password"
-msgstr ""
+msgstr "Молимо да проверите да сте унели корисничко име и лозинку"
 
 #: performancing.enabled
 msgid "Enabled"
-msgstr ""
+msgstr "Укључено"
 
 #: performancing.disabled
 msgid "Disabled"
-msgstr ""
+msgstr "Искључено"
 
 #: performancing.technoratitags
 msgid "Technorati Tags:"
-msgstr ""
+msgstr "Ознаке за технорати:"
 
 #: performancing.technoratitimeout
 msgid ""
 "Sorry, Technorati has timed out. Their service might be down or unstable, "
 "please try again."
-msgstr ""
+msgstr "Жао нам је, технорати се не одазива.  Услуга је можда оборена или нестабилна.  Молимо да пробате поново."
 
 #: performancing.deliciousloginerror
 msgid ""
 "Error logging into Del.Icio.Us, please check your username and password, and "
 "try again."
-msgstr ""
+msgstr "Грешка при пирјави на Del.Icio.Us, молимо да проверите корисничко име и лозинку и да пробате поново."
 
 #: performancing.subjectisblank
 msgid "Continue even though the subject is blank?"
-msgstr ""
+msgstr "Да ли да наставим иако није унета тема?"
 
 #: performancing.noblogselected
 msgid "No Blog Selected"
-msgstr ""
+msgstr "Ниједан блог није изабран"
 
 #: performancing.mustselectblog
 msgid "You must select a blog."
-msgstr ""
+msgstr "Морате да изаберете блог."
 
 #: performancing.errorcontactingserver
 msgid "Error contacting server, please try again"
-msgstr ""
+msgstr "Грешка при повезивању на сервер, молимо да пробате поново"
 
 #: performancing.imageinsertwindowtitle
 msgid "Peformancing Image Insert"
-msgstr ""
+msgstr "Уметање слике са перформансинга"
 
 #: performancing.fileinsertwindowtitle
 msgid "Peformancing File Insert"
-msgstr ""
+msgstr "Уметање датотеке са перформансинга"
 
 #: performancing.addcategories
 msgid "List the categories you want to add (separated by commas):"
-msgstr ""
+msgstr "Унесите категорије које желите да додате (раздвајање запетама):"
 
 #: performancing.confirmtabdelete
 msgid "Are you sure you want to close this tab?"
-msgstr ""
+msgstr "Да ли сигурно желите да затворите овај језичак?"
 
 #: performancing.errordeletingblog
 msgid ""
 "Error deleting the selected Blog entry\n"
 " Please try again."
 msgstr ""
+"Грешка при уклањању изабраног уноса у блог.\n"
+" Молимо да пробате опет."
 
 #: performancing.fetchingcategories
 msgid "Fetching categories.."
-msgstr ""
+msgstr "Добављање категорија..."
 
 #: performancing.nocategoriesavailable
 msgid "No categories available"
-msgstr ""
+msgstr "Нема доступних категорија"
 
 #: performancing.pleaseselectablogs
 msgid "Please select a blog before trying to publish!"
-msgstr ""
+msgstr "Молимо да изаберете блог пре објављивања!"
 
 #: performancing.selectitemtodelete
 msgid "Please select an Item to delete! Error: %S"
-msgstr ""
+msgstr "Молимо да изаберете ставку за уклањање! Грешка: %S"
 
 #: performancing.deletepostconfirm
 msgid ""
 "Are you sure? This will permanently delete the selected post from your blog."
-msgstr ""
+msgstr "Да ли сте сигурни?  Ово ће трајно да уклони изабрани чланак са блога."
 
 #: performancing.deletepageconfirm
 msgid ""
 "Are you sure? This will permanently delete the selected page from your blog."
-msgstr ""
+msgstr "Да ли сте сигурни?  Ово ће трајно да уклони изабрану страну са блога."
 
 #: performancing.getcategorieserror
 msgid "Error retrieving categories"
-msgstr ""
+msgstr "Грешка при добављању категорија"
 
 #: performancing.midaseenterurl
 msgid "Please enter a URL:"
-msgstr ""
+msgstr "Молимо да унесете УРЛ:"
 
 #: performancing.openinnewwindow
 msgid "Link should open in new window"
-msgstr ""
+msgstr "Веза треба да се отвори у новом прозору"
 
 #: performancing.noteerror
 msgid "Note error: %S"
-msgstr ""
+msgstr "Грешка са белешкама: %S"
 
 #: performancing.deletenote
 msgid "Are you sure you want to delete this note?"
-msgstr ""
+msgstr "Да ли сигурно желите да уклоните ову белешку?"
 
 #: performancing.cantdeletenote
 msgid ""
@@ -149,116 +151,121 @@ msgid ""
 "\n"
 "Error: %S"
 msgstr ""
+"Белешка није могла да буде уклоњена.\n"
+"\n"
+"Грешка: %S"
 
 #: performancing.atomservererror
 msgid "There was a possible error posting to the Blogger server"
-msgstr ""
+msgstr "Дошло је до грешке при слању на блогеров сервер"
 
 #: performancing.atomerrormessage
 msgid "The server might be down or unresponsive: Error: %S"
-msgstr ""
+msgstr "Сервер је можда оборен или се не одазива: грешка: %S"
 
 #: performancing.proccessingposterror
 msgid ""
 "There was an error processing the posts, please check the performancing "
 "webpage for help"
-msgstr ""
+msgstr "Дошло је до грешке при обради чланака, молимо да погледате веб страну перформансинга за помоћ"
 
 #: performancing.pleaseenterpassword
 msgid "Please enter the password for %S"
-msgstr ""
+msgstr "Молимо да унесете лозинку за %S"
 
 #: performancing.pleaseenterpasswordtitle
 msgid "Password Required"
-msgstr ""
+msgstr "Неопходна је лозинка"
 
 #: performancing.errorsavingftp
 msgid "Error saving FTP details %S"
-msgstr ""
+msgstr "Грешка при чувању детаља о ФТПу %S"
 
 #: performancing.selectimagefile
 msgid "Select an Image File"
-msgstr ""
+msgstr "Изаберите слику"
 
 #: performancing.selectafile
 msgid "Please make sure you have a file selected."
-msgstr ""
+msgstr "Молимо да проверите да сте изабрали датотеку."
 
 #: performancing.setupftp
 msgid "Please setup your FTP settings first!"
-msgstr ""
+msgstr "Молимо да прво подесите ФТП!"
 
 #: performancing.uploading
 msgid "Uploading...."
-msgstr ""
+msgstr "Слање..."
 
 #: performancing.uploadcanceled
 msgid "Upload Successful"
-msgstr ""
+msgstr "Слање је успело"
 
 #: performancing.addurltoinsert
 msgid "Please add a URL to be inserted."
-msgstr ""
+msgstr "Молимо да додате УРЛ за убацивање."
 
 #: performancing.uploaderror
 msgid "Error Encountered..."
-msgstr ""
+msgstr "Дошло је до грешке..."
 
 #: performancing.theerror
 msgid "Error: %S"
-msgstr ""
+msgstr "Грешка: %S"
 
 #: performancing.cantsaveurltoclip
 msgid "Couldn't save URL into clipboard"
-msgstr ""
+msgstr "УРЛ није могуће сачувати на клипборд"
 
 #: performancing.upload.error.authTokenRequest
 msgid "Could not contact Google to request an authorization token."
-msgstr ""
+msgstr "Гугл се није одазвао на захтев за новчић за ауторизацију."
 
 #: performancing.upload.error.authTokenAcquire
 msgid "Could not acquire an authentication token."
-msgstr ""
+msgstr "Није могуће добавити новчић за ауторизацију."
 
 #: performancing.upload.error.authTokenAcquireContact
 msgid "Could not contact Google to acquire an authorization token."
-msgstr ""
+msgstr "Контакт са Гуглом није могућ за добављаје новчића за ауторизацију."
 
 #: performancing.upload.error.googleError
 msgid "Google returned an error: %S"
-msgstr ""
+msgstr "Гугл је вратио грешку: %S"
 
 #: performancing.upload.error.noLogin
 msgid "Could not log you in."
-msgstr ""
+msgstr "Нисте могли да будете пријаљени."
 
 #: performancing.upload.error.noApi
 msgid "Could not contact the image upload API."
-msgstr ""
+msgstr "Није могуће успоставити контакт са АПИјем за слање слика."
 
 #: performancing.upload.error.picasaTerms
 msgid ""
 "You must agree to the Picasa Web Albums TOS before uploading images to "
 "Blogger."
-msgstr ""
+msgstr "Морате да се сагласита са условима употребе пикасиних мрежних албума пре слања слика на Блогер."
 
 #: performancing.noImageUpload
 msgid "An error occurred while trying to upload this file."
-msgstr ""
+msgstr "Дошло је до грешке при слању ове датотеке."
 
 #: performancing.noImageUpload2
 msgid "You might want to use FTP uploading instead."
-msgstr ""
+msgstr "Можда желите да уместо тога користите слање кроз ФТП."
 
 #: performancing.apiurlnonexistant
 msgid ""
 "The API at the URL you entered appears to not exist.\n"
 " Please make sure that you have the correct url and try again."
 msgstr ""
+"АПИ на УРЛу ког сте унели изгледа не постоји.\n"
+" Молимо да проверите да сте унели исправан УРЛ и да пробате опет."
 
 #: performancing.apiurl
 msgid "URL: %S"
-msgstr ""
+msgstr "УРЛ: %S"
 
 #: performancing.requesterror
 msgid ""
@@ -266,14 +273,17 @@ msgid ""
 "\n"
 "\"%S\""
 msgstr ""
+"Грешка у захтеву, сервер је вратио наведени одговор:\n"
+"\n"
+"„%S‟"
 
 #: performancing.postdeleted
 msgid "Post successfully deleted"
-msgstr ""
+msgstr "Чланак је успешно уклоњен"
 
 #: performancing.pagedeleted
 msgid "Page successfully deleted"
-msgstr ""
+msgstr "Страна је успешно уклоњена"
 
 #: performancing.deletePostError
 msgid ""
@@ -281,6 +291,9 @@ msgid ""
 "\n"
 "%S"
 msgstr ""
+"Дошло је до грешке при уклањању чланка.\n"
+"\n"
+"%S"
 
 #: performancing.deletePageError
 msgid ""
@@ -288,64 +301,67 @@ msgid ""
 "\n"
 "%S"
 msgstr ""
+"Дошло је до грешке при уклањању стране\n"
+"\n"
+"%S"
 
 #: performancing.awnoservicechosen
 msgid "Error: no service was chosen"
-msgstr ""
+msgstr "Грешка: није изабран сервис"
 
 #: performancing.awerrorsavingbloginfo
 msgid ""
 "Could not save blog information, please make sure you have write permissions"
-msgstr ""
+msgstr "Није могуће сачувати податке о блогу, молимо да проверите да ли имате права приступа"
 
 #: performancing.awerrorsavinglogininfo
 msgid ""
 "ScribeFire Error: Could not store username and password, please contact the "
 "author."
-msgstr ""
+msgstr "Грешка у скрајбфајеру: није могуће сачувати корисничко име и лозинку, молимо да се обратите аутору."
 
 #: performancing.awrollersupport
 msgid "Please note Roller support is experimental, not all features will work."
-msgstr ""
+msgstr "Имајте на уму да је подршка за ролер (Roller) експериментална и да нису све могућности доступне."
 
 #: performancing.selectablog
 msgid "Please select one or more blogs to add."
-msgstr ""
+msgstr "Молимо да изаберете један или више блогова за додавање."
 
 #: performancing.errors.blogger.badauthentication
 msgid "Your username or password was not recognized."
-msgstr ""
+msgstr "Ваше корисничко име или лозинка нису препознати."
 
 #: performancing.errors.blogger.notverified
 msgid ""
 "Your Google account has not yet been verified.  Please check your e-mail for "
 "verification instructions."
-msgstr ""
+msgstr "Ваш налог на Гуглу (Google) није проверен.  Молимо да проверите ел. адресу за упутство о проверавању."
 
 #: performancing.errors.blogger.termsnotagreed
 msgid ""
 "You have not yet agreed to the Blogger Terms of Service.  Please access your "
 "Google account to resolve this issue."
-msgstr ""
+msgstr "Нисте се сагласили са блогеровим условима употребе.  Молимо да приступите Вашем налогу на Гуглу да бисте решили овај проблем."
 
 #: performancing.errors.blogger.unknown
 msgid "The Blogger service responded with an unknown error."
-msgstr ""
+msgstr "Блогерова услуга је дојавила непознату грешку."
 
 #: performancing.errors.blogger.accountdeleted
 msgid ""
 "Your account no longer exists; please contact Blogger for more assistance."
-msgstr ""
+msgstr "Ваш налог више не постоји; молим да се обратите Блогеру за помоћ."
 
 #: performancing.errors.blogger.servicedisabled
 msgid ""
 "Your account's access to Blogger has been disabled; please contact Blogger "
 "for more assistance."
-msgstr ""
+msgstr "Приступ Блогерз са Вашег налога је искључен; молимо да се обратите Блогеру за помоћ."
 
 #: performancing.errors.blogger.serviceunavailable
 msgid "The Blogger service is currently unavailable; please try again later."
-msgstr ""
+msgstr "Блогерове услуге тренутно нису доступне; молимо да пробате касније."
 
 #: performancing.bloggerFailed
 msgid ""
@@ -353,14 +369,17 @@ msgid ""
 "\n"
 "%S"
 msgstr ""
+"Серве на адреси blogger.com се срушио уз наведену поруку:\n"
+"\n"
+"%S"
 
 #: performancing.publishToBlog
 msgid "Publish to \"%S\""
-msgstr ""
+msgstr "Објави на „%S‟"
 
 #: performancing.blankTabLabel
 msgid "[blank]"
-msgstr ""
+msgstr "[празно]"
 
 #: performancing.cannotAutoDetect
 msgid ""
@@ -370,33 +389,38 @@ msgid ""
 "\n"
 "http://www.scribefire.com/support/"
 msgstr ""
+"Грешка, ХТМЛ није исправан, аутоматско откривање блога није могуће.\n"
+"\n"
+"Молимо да посетите форум за подршку скрајбфајеру на адреси:\n"
+"\n"
+"http://www.scribefire.com/support/"
 
 #: performancing.customTag
 msgid "Please enter an HTML tag without the angle brackets (< or >)."
-msgstr ""
+msgstr "Молимо да унесете ХТМЛ ознаку без угластих заграда (< или >)."
 
 #: performancing.untitledNote
 msgid "Untitled"
-msgstr ""
+msgstr "Без наслова"
 
 #: performancing.noteExample1Title
 msgid "Example Note 1"
-msgstr ""
+msgstr "Пример белешке 1"
 
 #: performancing.noteExample2Title
 msgid "Example Note 2"
-msgstr ""
+msgstr "Пример белешке 2"
 
 #: performancing.noteExample1Text
 msgid ""
 "This is an <span style=\"font-weight: bold; color: #000;\">example</span> of a "
 "<span style=\"font-weight: bold;\">formatted <span style=\"color: "
 "blue;\">note</span></span> note."
-msgstr ""
+msgstr "Ово је  <span style=\"font-weight: bold; color: #000;\">пример</span> једне <span style=\"font-weight: bold;\">форматиране<span style=\"color: blue;\">белешке</span></span>."
 
 #: performancing.noteExample2Text
 msgid "This is an example of a normal text note."
-msgstr ""
+msgstr "Ово је пример белешке у нормалном тексту"
 
 #: performancing.reAddBlogger
 msgid ""
@@ -407,6 +431,11 @@ msgid ""
 "\n"
 "If you have problems, please visit http://www.scribefire.com/support/"
 msgstr ""
+"Услед промене у Блогеровом АПИју, морате да овај налог поново додате у скрајбфајер.\n"
+"\n"
+"Притисните дугме „Додај‟ да поново додате налог.\n"
+"\n"
+"Ако имате проблема, посетите адресу http://www.scribefire.com/support/"
 
 #: performancing.bloggerProgrammingError
 msgid ""
@@ -416,79 +445,84 @@ msgid ""
 "\n"
 "%S %s"
 msgstr ""
+"Пронашли сте грешку у Блогеру.\n"
+"\n"
+"Молимо да се обратите аутору на адресу cfinke@gmail.com и проследите ове податке: \n"
+"\n"
+"%S %s"
 
 #: performancing.uploadMethodChoice
 msgid "Should ScribeFire upload this file via FTP or via your blog's API?"
-msgstr ""
+msgstr "Да ли да скрајбфајер шаље ову датотеку кроз ФТП или кроз блогов АПИ?"
 
 #: performancing.API
 msgid "API"
-msgstr ""
+msgstr "АПИ"
 
 #: performancing.FTP
 msgid "FTP"
-msgstr ""
+msgstr "ФТП"
 
 #: performancing.cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 #: performancing.qb.clickOnTitle
 msgid "Click on the title of blog post you want to modify."
-msgstr ""
+msgstr "Притисните наслов чланка који желите да измените."
 
 #: performancing.qb.parsePostsError
 msgid ""
 "ScribeFire couldn't determine which post you clicked on. This feature may "
 "not be compatible with your blog."
-msgstr ""
+msgstr "Скрајбфајер не може да одреди који сте чланак изабрали.  Ова могућност можда није сагласна са Вашим блогом."
 
 #: performancing.qb.selectForLink
 msgid "Select the text that should be linked."
-msgstr ""
+msgstr "Изаберите текст који треба да се увеже."
 
 #: performancing.qb.selectTextError
 msgid ""
 "An error occurred.  Make sure you're not selecting text that is already "
 "linked."
-msgstr ""
+msgstr "Дошло је до грешке.  Проверите да нисте изабрали већ увезан текст."
 
 #: performancing.quotePrompt
 msgid "Enter the text you'd like to quote."
-msgstr ""
+msgstr "Унесите текст који желите да цитирате."
 
 #: performancing.myspaceLoginFailed
 msgid "Could not login to MySpace."
-msgstr ""
+msgstr "Пријава на мајспејс није успела."
 
 #: performancing.tumblrLoginFailed
 msgid "Could not login to Tumblr."
-msgstr ""
+msgstr "Пријава на тамблер није успела."
 
 #: performancing.accountWizardLoginTimeout
 msgid "The request to the server timed out.  Try again later."
-msgstr ""
+msgstr "Захтев серверу је истекао.  Пробајте касније опет."
 
 #: performancing.malformedXML
 msgid ""
 "The server returned a malformed response.  Please check that your blog and "
 "API URLs are correct."
-msgstr ""
+msgstr "Сервер је вратио неисправан одговор.  Молимо да проверите да су УРЛови за блог и АПИ исправни."
 
 #: performancing.status.403
 msgid "The server returned a '403 Not Authorized' response."
-msgstr ""
+msgstr "Сервер је вратио одговор „403 Not Authorized‟."
 
 #: performancing.status.404
 msgid "The server returned a '404 Not Found' response."
-msgstr ""
+msgstr "Сервер је вратио одговор „404 Not Found‟."
 
 #: performancing.status.default
 msgid "Error: The server returned an HTTP %S status code."
-msgstr ""
+msgstr "ГрешкаЧ сервер је вратио статусни код за ХТТП: %S."
 
 #: performancing.notesCorrupted
 msgid ""
 "Your notes file has become corrupted.  Should ScribeFire delete it and "
 "create a new notes file?"
-msgstr ""
+msgstr "Ваша датотека са белешкама је поремећена.  Да ли желите да је скрајбфајер уклони и направи нову?"
