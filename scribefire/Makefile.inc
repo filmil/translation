@@ -1,6 +1,7 @@
 # -*- Makefile -*-
+LOCALE_NAME:=sr
 MOZ2PO:=moz2po --progress=names -x *~
-PO2MOZ:=po2moz --progress=names -x *~
+PO2MOZ:=po2moz --progress=names -x *~ -l $(LOCALE_NAME)
 POMERGE:=pomerge --progress=names --errorlevel=traceback -x *~
 MSGMERGE:=msgmerge
 RM:=rm -f
@@ -18,7 +19,6 @@ XARGS:=xargs
 POFILTER:=pofilter -t unchanged
 
 # # Directory configuration
-LOCALE_NAME:=sr
 ROOT_DIR:=.
 PO_TRANSLATIONS:=po
 OUTPUT_DIR:=output

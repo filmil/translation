@@ -1,3 +1,7 @@
+2008-05-03  Filip Miletic  <filmil@gmail.com>
+
+	* scribefire/Makefile.inc (PO2MOZ): Instructed po2moz to include the locale name when generating output.
+
 2008-05-02  Filip Miletic  <filmil@gmail.com>
 
 	* skype/Makefile: Explained the target 'merge'
