@@ -1,0 +1,24 @@
+What's Inside?
+---------------
+
+This is a translator's workplace for translating Skype into Serbian.
+
+It is based on the Translation Toolkit and my scripts, skype2po and
+po2skype that convert between Skype's language files ("lang") and GNU
+gettext and back.
+
+Please examine the Makefile in this directory to find out more about 
+the automated translation process.
+
+I use several tools, as follows:
+
+o GNU Make for build automation
+o Qt Translator, for the Skype translation generator for Linux
+o python as the script interpreter
+o skype2po and po2skype for the lang-to-PO-to-lang conversion
+o the "vucko" utility to convert Cyrillic to Latin
+o GNU Gettext and friends for translation maintenance
+
+If you want to make your own translation system based on what you see
+here, you may need only a fraction of all the tools.
+
