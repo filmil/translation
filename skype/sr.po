@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-02-04 22:47-0800\n"
+"PO-Revision-Date: 2009-02-04 22:51-0800\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -1090,7 +1090,6 @@ msgid "(user-defined)"
 msgstr " (кориснички)"
 
 #: skype:s_MAINMENU_TOOLS_LOADLANG:262
-#, fuzzy
 msgid "Load Skype Language File…"
 msgstr "Учитај скајпову језичку датотеку..."
 
@@ -1150,7 +1149,7 @@ msgstr "Одблокирај ову особу"
 
 #: skype:sF_OPTIONS_TCB10:275
 msgid "Automatically pause Winamp during calls"
-msgstr "Аутоматски заустави Winamp током позива"
+msgstr "Аутоматски заустави винамп (Winamp) током позива"
 
 #: skype:sF_OPTIONS_CB21:276
 msgid "Ring PC speaker"
@@ -1173,10 +1172,8 @@ msgid "Not signed in"
 msgstr "Нисте на вези"
 
 #: skype:sCONFIRM_OFFLINE:283
-#, fuzzy
 msgid "All calls will be disconnected. Are you sure you want to go offline?"
-msgstr ""
-"Сви позиви који трају биће затворени. Да ли сигурно желите да се искључите?"
+msgstr "Сви позиви који трају биће прекинуто. Да ли сигурно желите да се искључите?"
 
 #: skype:sCALL_LB2_FAILED_NOT_FRIEND:284
 #, fuzzy
@@ -1203,7 +1200,7 @@ msgstr "Позови на конференцију"
 
 #: skype:sCALLING_BLOCKED:289
 msgid "Sorry, you have blocked this person so you can't call them."
-msgstr ""
+msgstr "Жао нам је, блокирали сте ову особу па је зато не можете звати."
 
 #: skype:sF_OPTIONS_RADIOGROUP1:290
 msgid "Allow calls from..."
@@ -1606,7 +1603,7 @@ msgstr "Величина датотеке:"
 
 #: skype:sFILETRANSFER_STATUS_TEXT_RECEIVED:396
 msgid "File received."
-msgstr ""
+msgstr "Датотека је примљена."
 
 #: skype:sFILETRANSFER_STATUS_TEXT_FAILED:397
 #: skype:sFILETRANSFER_STATUS_TEXT_FAILED_2:408
@@ -1647,7 +1644,7 @@ msgstr ""
 
 #: skype:sFILETRANSFER_HINT1_RELAYED:404
 msgid "You have a relayed connection. This means that sending will be slow."
-msgstr ""
+msgstr "Имате одашиљач.  То значи да ће слање бити споро."
 
 #: skype:sF_USERENTRY_USERNAME_EXPLAIN_1:405
 msgid "From 6 to 32 characters (%d used)"
@@ -1699,7 +1696,7 @@ msgstr "Прихвати пренос датотеке"
 
 #: skype:sPSTN_RES_10403:414
 msgid "Currently can't call this number on Skype."
-msgstr ""
+msgstr "Овај број тренутно није могуће звати путем скајпа."
 
 #: skype:sPSTN_RES_10408:415
 #, fuzzy
@@ -1894,14 +1891,12 @@ msgid "Allow this program to use Skype, but ask again in the future."
 msgstr "Дозволи овом програму да користи скајп, али питај убудуће"
 
 #: skype:sACL_ALLOW:465
-#, fuzzy
 msgid "Allow this program to use Skype."
-msgstr "Дозволи овом програму да користи скајп"
+msgstr "Дозволи овом програму да користи скајп."
 
 #: skype:sACL_FORBID:466
-#, fuzzy
 msgid "Do not allow this program to use Skype."
-msgstr "Не дозволи овом програму да користи скајп"
+msgstr "Не дозволи овом програму да користи скајп."
 
 #: skype:sACL_MANAGE:467
 msgid "Manage API Access Control"
