@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-02-16 01:59-0800\n"
+"PO-Revision-Date: 2009-02-16 02:02-0800\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -9971,9 +9971,8 @@ msgid ""
 msgstr "Немате сачуван број мобилног за корисника %s . <a href=\"%s\">Унесите број мобилног сада</a>."
 
 #: skype:sSMS_NO_TARGET:2395
-#, fuzzy
 msgid "No number available."
-msgstr "Није расположив"
+msgstr "Ниједан број није доступан."
 
 #: skype:sOPTIONS_RECEIVED_FILE:2396
 #, fuzzy
@@ -9982,7 +9981,7 @@ msgstr "Вам шаље датотеку"
 
 #: skype:sOPTIONS_SAVE_FILE_TO_DIR:2397
 msgid "Choose a folder where to save the file every time"
-msgstr ""
+msgstr "Изаберите директоријум за чување датотеке"
 
 #: skype:sOPTIONS_AUTO_SAVE_FILE:2398
 #, fuzzy
