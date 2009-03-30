@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-02-16 02:02-0800\n"
+"PO-Revision-Date: 2009-03-29 19:59-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -9843,15 +9843,15 @@ msgstr "Промените <a href=\"skype:?options#sounddevices\">подеша�
 msgid ""
 "Skype couldn't find a webcam. With a webcam, you can make free video calls "
 "to anyone else on Skype, anywere in the world."
-msgstr ""
+msgstr "Скајп није успео да пронађе мрежну камеру.  Помоћу камере можете да водите видео разговоре са било киме на скајпу, широм света."
 
 #: skype:sF_OPTIONS_ABOUT_VIDEO_CALL:2366
 msgid "Find out more about video calls"
-msgstr ""
+msgstr "Сазнајте више о видео позивима"
 
 #: skype:sF_OPTIONS_FULL_SCREEN_VIDEO:2367
 msgid "Switch to full-screen for incoming video calls"
-msgstr ""
+msgstr "Пребаците се на приказ преко целог екрана за долазне видео позиве"
 
 #: skype:sOPTIONS_UNMUTE_SPEAKERS:2369
 msgid "Automatically adjust speaker settings"
@@ -10000,11 +10000,11 @@ msgstr "Превише учесника"
 
 #: skype:sPARTICIPANT_ACTION_HANGUP:2403
 msgid "Only host can hang up."
-msgstr ""
+msgstr "Само домаћин може да прекине везу."
 
 #: skype:sCALL_TOO_MUCH_PARTICIPANTS:2404
 msgid "This conference is full and can't include anyone new."
-msgstr ""
+msgstr "Ова конференција не може да прими нове учеснике."
 
 #: skype:sCALL_LB2_STARTING_VIDEO:2405
 #, fuzzy
@@ -10018,7 +10018,7 @@ msgstr "Ви сте домаћин овог скајпкаста"
 
 #: skype:sPHONE_EDIT_STOP_VIDEO:2409
 msgid "Turn video off"
-msgstr ""
+msgstr "Искључи видео"
 
 #: skype:sPROFILE_UNDISCLOSED_PSTN:2410
 #, fuzzy
@@ -10027,7 +10027,7 @@ msgstr "Непознат разлог"
 
 #: skype:sDEVICES_SPEAKER_MUTED:2411
 msgid "Your speaker is on mute."
-msgstr ""
+msgstr "Звучник је ућуткан."
 
 #: skype:sDEVICES_MICROPHONE_MUTED:2412
 #, fuzzy
@@ -10045,7 +10045,7 @@ msgstr "Нема скајпових кредита"
 
 #: skype:sSMS_HELP:2416
 msgid "Need help sending SMS?"
-msgstr ""
+msgstr "Да ли Вам треба помоћ око слања СМС поруке?"
 
 #: skype:sMESSAGE_NOT_DELIVERED:2417
 #, fuzzy
@@ -10078,17 +10078,16 @@ msgid "Video call with %s."
 msgstr "Видео разговор са"
 
 #: skype:sOPTIONS_AUDIO_MOVEUP:2425
-#, fuzzy
 msgid "Move up"
-msgstr "Уклони групу"
+msgstr "Навише"
 
 #: skype:sOPTIONS_AUDIO_MOVEDOWN:2426
 msgid "Move down"
-msgstr ""
+msgstr "Наниже"
 
 #: skype:sOPTIONS_MEGABYTES:2428
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #: skype:sUPGRADE_NOTIFY_DOWNLOAD:2430
 #, fuzzy
@@ -10097,7 +10096,7 @@ msgstr "Када је доступно ново велико издање ска
 
 #: skype:sUPGRADE_NOTIFY_UPDATE:2432
 msgid "New version of Skype downloaded."
-msgstr ""
+msgstr "Примљено је ново издање скајпа."
 
 #: skype:sAUTHORIZE_REQUEST_CAPTION:2434
 #, fuzzy
@@ -10109,7 +10108,7 @@ msgid ""
 "Clicking Add to Contacts means this person can see when you are online. You "
 "can control who can contact you in your <a href=\"skype:?options#privacy"
 "\">privacy settings</a>."
-msgstr ""
+msgstr "Притисак на „Додај у познанике‟ значи да ће та особа моћи да види када сте на вези.  Можете да подесите коме је дозвољено да Вас контактира у <a href=\"skype:?options#privacy\">подешавањима приватности</a>."
 
 #: skype:sAUTHORIZE_NOT_BUDDY:2436
 #, fuzzy
@@ -10133,7 +10132,7 @@ msgstr "Одблокирај корисника"
 msgid ""
 "List your audio devices in order of preference. Skype will use the first "
 "available one on each list."
-msgstr ""
+msgstr "Набраја Ваше аудио уређаје од најомиљенијег према мање омиљенима.  Скајп ће користити први који је доступан на сваком списку."
 
 #: skype:sF_MANDALAY_LB_SIGN_UP:2443
 #, fuzzy
@@ -10156,19 +10155,19 @@ msgstr "Увежи мој профил са Мајспејса (MySpace)..."
 msgid ""
 "You need a <a href=\"skype:?tip_mic\">microphone</a> (internal or plug in), "
 "or a headset."
-msgstr ""
+msgstr "Потребан вам је <a href=\"skype:?tip_mic\">микрофон</a> (било уграђени или прикључни), или слушалице с микрофоном."
 
 #: skype:sGSW_SOUNDOUT_TEXT:2450
 msgid ""
 "You need <a href=\"skype:?tip_speakers\">speakers</a>, <a href=\"skype:?"
 "gswtip_headphones\">headphones</a> or a <a href=\"skype:?gswtip_headset"
 "\">headset</a>."
-msgstr ""
+msgstr "Потребни су Вам <a href=\"skype:?tip_speakers\">звучници</a>, <a href=\"skype:?gswtip_headphones\">слушалице</a> или <a href=\"skype:?gswtip_headset\">слушалице с микрофоном</a>."
 
 #: skype:sGSW_VIDEO_TEXT:2451
 msgid ""
 "You need a <a href=\"skype:?tip_webcam\">webcam</a> (internal or plug in)."
-msgstr ""
+msgstr "Потребна Вам је <a href=\"skype:?tip_webcam\">камера</a> (уграђена или прикључна)."
 
 #: skype:sGSW_TEST_SOUNDIN:2452
 #, fuzzy
@@ -10187,11 +10186,11 @@ msgstr "Видео на целом екрану"
 
 #: skype:sGSW_NEED_AUDIO:2455
 msgid "To make calls, check:"
-msgstr ""
+msgstr "Да бисте могли да зовете, проверите:"
 
 #: skype:sGSW_NEED_VIDEO:2456
 msgid "...And video calls:"
-msgstr ""
+msgstr "...и видео позиве:"
 
 #: skype:sGSW_DEVICES_PAGE_CAPTION:2457
 #, fuzzy
@@ -10215,7 +10214,7 @@ msgstr "Ништа се не чује?"
 
 #: skype:sGSW_SUCCESS:2463
 msgid "Success"
-msgstr ""
+msgstr "Успело је"
 
 #: skype:sGSW_SOUNDOUT_OK:2464
 #, fuzzy
@@ -10224,18 +10223,18 @@ msgstr "Провера везе"
 
 #: skype:sGSW_PRESSME_BUTTON:2465
 msgid "Press me!"
-msgstr ""
+msgstr "Притисните овде!"
 
 #: skype:sGSW_YAIKES:2466
 msgid "Let's fix it"
-msgstr ""
+msgstr "Хајде да поправимо"
 
 #: skype:sGSW_SOUNDOUT_ERROR:2467
 msgid ""
 "Something's not right. Do you have more than one set of speakers? Choose the "
 "speakers or headset you're using from the dropdown list on the right and "
 "turn up the volume. Now press the button again."
-msgstr ""
+msgstr "Нешто није у реду.  Да ли имате више од једног сета звучника?  Изаберите звучнике или слушалице које користите из списка с десне стране и појачајте звук.  Затим поново притисните дугме."
 
 #: skype:sGSW_SOUNDOUT_OPTIONS:2468 skype:sGSW_SOUND_IN_OPTIONS:2533
 #, fuzzy
@@ -10244,11 +10243,11 @@ msgstr "Тренутно на вези"
 
 #: skype:sGSW_DID_THAT_WORK:2471 skype:sGSW_SOUND_IN_WORKED:2534
 msgid "Did that work?"
-msgstr ""
+msgstr "Да ли сада ради?"
 
 #: skype:sGSW_SORRY:2472
 msgid "Sorry."
-msgstr ""
+msgstr "Жао нам је."
 
 #: skype:sGSW_SOUNDOUT_PROBLEM:2473
 msgid ""
@@ -10256,21 +10255,21 @@ msgid ""
 "can buy some great headsets from our online shop.<br /><br />In the "
 "meantime, you won't be able to make calls if you can't hear who you're "
 "talking to, but you can still use instant messaging to talk to your friends."
-msgstr ""
+msgstr "Изгледа да не можемо да отклонимо проблем са звуком.  Ако Вам је потребна звучна опрема, можете да купите веома квалитетне слушалице у нашој радњи на Интернету.<br /><br />У међувремену, нећете моћи да зовете ако не чујете са киме разговарате, али и даље можете да користите брзе поруке за разговор са пријатељима."
 
 #: skype:sCALLALERT_CALLEXISTS:2475
 msgid "Answering this call will put your active call on hold, or"
-msgstr ""
+msgstr "Пријем овог позива ће ставити активни разговор на чекање, или"
 
 #: skype:sCALLALERT_CALLEXISTS_NO_OR:2476
 msgid "Answering this call will put your active call on hold."
-msgstr ""
+msgstr "Пријем овог позива ће ставити активни разговор на чекање."
 
 #: skype:sCALLALERT_CANCEL_VOICEMAIL:2477
 msgid ""
 "Answering this call will stop you recording and sending your voicemail "
 "message."
-msgstr ""
+msgstr "Пријем овог позива ће зауставити снимање и слање говорне поште."
 
 #: skype:sCALLALERT_VIDEOCALL:2479
 #, fuzzy
@@ -10289,29 +10288,29 @@ msgstr "...или"
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY1:2482
 msgid "Find a specific person"
-msgstr ""
+msgstr "Пронађите особу"
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY2:2483
 msgid "<b>Search for someone you know</b>."
-msgstr ""
+msgstr "<b>Потражите неког познатог</b>."
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY3:2484
 msgid "Enter a name, Skype Name or email address."
-msgstr ""
+msgstr "Унесите име, скајпово име или електронску адресу."
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY4:2485
 msgid "Your search results will be opened in a separate window."
-msgstr ""
+msgstr "Резултати претраге биће приказани у посебном прозору."
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY5:2486
 msgid ""
 "You added <b>%s</b> as a contact. Search the <b>Skype Directory</b> again "
 "below:"
-msgstr ""
+msgstr "Додали сте познаника: <b>%s</b>. Можете поново да претражите <b>скајпов именик</b> испод:"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING1:2487
 msgid "Who's on Skype? Check your email contacts"
-msgstr ""
+msgstr "Ко је на скајпу? Проверите електронске адресе Ваших познаника"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING2:2488
 msgid "Searching..."
@@ -10319,7 +10318,7 @@ msgstr "Тражење..."
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING3:2489
 msgid "Search complete - %s matches found"
-msgstr ""
+msgstr "Претрага је завршена - пронађено резултата: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING4:2490
 #, fuzzy
@@ -10328,7 +10327,7 @@ msgstr "Број људи на скајпу: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING6:2492
 msgid "No contacts added - search again"
-msgstr ""
+msgstr "Ниједан познаник није додат - потражите поново"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING7:2493
 #, fuzzy
@@ -10342,32 +10341,32 @@ msgstr "Ниједан заступник није нађен"
 
 #: skype:sF_IMPORTCONTACTS_USR_HINT:2495
 msgid "%s ID"
-msgstr ""
+msgstr "ИД: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_START1:2497
 msgid ""
 "Skype will check names in your email address books to see who's on Skype."
-msgstr ""
+msgstr "Скајп ће проверити имена у Вашим адресарима како би утврдио које од особа су на скајпу."
 
 #: skype:sF_IMPORTCONTACTS_LB_START2:2498
 msgid ""
 "<b>Choose the email account(s) you use. If you use Yahoo email, type in your "
 "user ID and password.</b>"
-msgstr ""
+msgstr "<b>Изаберите налог електронске поште којег користите.  Ако користите Јахуову (Yahoo!) пошту, унесите корисничко име и лозинку.</b>"
 
 #: skype:sF_IMPORTCONTACTS_LB_START3:2499
 msgid "We never keep your email login details - ever."
-msgstr ""
+msgstr "Апсолутно никада нећемо чувати Ваше корисничко име и лозинку."
 
 #: skype:sF_IMPORTCONTACTS_LB_SEARCHING1:2500
 msgid "<center>%s matches found</center>"
-msgstr ""
+msgstr "<center>погодака: %s</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_SEARCHING2:2501
 msgid ""
 "<center>We're searching your email contacts. This might take a few minutes.</"
 "center>"
-msgstr ""
+msgstr "<center>Тражимо Ваше познанике према електронским адресама.  Ово може да потраје неколико минута.</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADD1:2502
 #, fuzzy
@@ -10388,7 +10387,7 @@ msgstr "Ако да, можете их додати у списак Ваших S
 msgid ""
 "Or if the list is empty, type in some email addresses and click Add people "
 "first."
-msgstr ""
+msgstr "Или ако је списак празан, унесите неке електронске адресе и притисните „Додај познанике‟"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADDED1:2506
 #, fuzzy
@@ -10399,23 +10398,23 @@ msgstr ""
 
 #: skype:sF_IMPORTCONTACTS_LB_ADDED2:2507
 msgid "<center>Until they OK you as a contact, they look like this.</center>"
-msgstr ""
+msgstr "<center>Док не потврде да Вас познају, изгледаће овако.</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADDED3:2508
 msgid ""
 "<center>When they OK you, see when they're online and call them for free.</"
 "center>"
-msgstr ""
+msgstr "<center>Када Вас потврде, видећете када су на вези и моћи ћете да их бесплатно позовете.</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS1:2509
 msgid "<b>Send an email to let your contacts know you're on Skype now.</b>"
-msgstr ""
+msgstr "<b>Пошаљите електронску пошту како бисте обавестили познанике да сте на скајпу.</b>"
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS2:2510
 msgid ""
 "Click in the box beside each contact we've found, check or edit the message "
 "and click Send."
-msgstr ""
+msgstr "Притисните на кутију поред сваког познаника ког смо пронашли, проверите и уредите поруке, а затим притисните „Пошаљи‟."
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS4:2512
 #, fuzzy
@@ -10434,13 +10433,13 @@ msgstr "Ваша ел. адреса"
 
 #: skype:sF_IMPORTCONTACTS_LB_NOTFOUND1:2515
 msgid "We didn't find any people on Skype who matched your email contacts."
-msgstr ""
+msgstr "Нисмо нашли никога на скајпу чија адреса одговара некој из Вашег адресара."
 
 #: skype:sF_IMPORTCONTACTS_LB_ERROR1:2516
 msgid ""
 "We couldn't check your email contacts - we think your sign in details might "
 "be wrong. Can you try again and double check?"
-msgstr ""
+msgstr "Нисмо моглои да претражимо Ваше познанике.  Изгледа да су Ваше име и лозинка погрешно унети.  Да ли бисте могли да проверите и пробате опет?"
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH1:2517
 #, fuzzy
@@ -10454,13 +10453,13 @@ msgstr "Позивнице су послате!"
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH3:2519
 msgid "You didn't add any contacts or invite anyone to join you on Skype."
-msgstr ""
+msgstr "Нисте додали ниједног познаника нити сте икога позвали да се прикључи на скајп."
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH4:2520
 msgid ""
 "Skype is built for talking, so click Search again to find people you know, "
 "or click Done to go back to the welcome screen."
-msgstr ""
+msgstr "Скајп је направљен за разговор, зато притисните поново дугме за претрагу и пронађите људе које познајете, или притисните „Крај‟ да бисте се вратили на почетни екран."
 
 #: skype:sF_IMPORTCONTACTS_LB_DESELECT_ALL:2522
 #, fuzzy
@@ -10482,33 +10481,33 @@ msgid ""
 "Headphones with a microphone attached. Just plug into your computer and "
 "boom! You can talk and listen and get the best sound quality. That's why we "
 "sell them in the Skype shop."
-msgstr ""
+msgstr "Слушалице са прикљученим микрофоном.  Просто укључите у рачунар и бум!  Моћи ћете да разговарате и чујете звук врхунског квалитета.  Зато их и продајемо у скајповој продавници."
 
 #: skype:sGSW_WHAT_IS_HEADSET2:2529
 msgid ""
 "You can buy a wide range of headsets in the Skype shop. Why not have a look "
 "when you have a spare moment."
-msgstr ""
+msgstr "Можете да набавите широк спектар слушалица у скајповој радњи.  Зашто не бисте погледали шта се нуди ако имате времена?"
 
 #: skype:sGSW_MAKE_NOISE:2530
 msgid "Make some noise"
-msgstr ""
+msgstr "Реците нешто"
 
 #: skype:sGSW_SOUND_IN_BAR_MOVING:2531
 msgid "Do you see the green bar below moving when you make some noise?"
-msgstr ""
+msgstr "Да ли сте приметили како се зелени стубац испод помера како нешто кажете?"
 
 #: skype:sGSW_SOUND_IN_ERROR:2532
 msgid ""
 "Something's not right. Do you have more than one microphone? Choose the one "
 "you're using from the dropdown list on the right and speak really loudly."
-msgstr ""
+msgstr "Нешто није у реду. Да ли можда имате више од једног микрофона?  Изаберите онај ког тренутно користите из списка здесна и говорите гласно."
 
 #: skype:sGSW_SOUNDIN_OK:2535
 msgid ""
 "Brilliant - your sound in is working. People should be able to hear you on "
 "calls now."
-msgstr ""
+msgstr "Изванредно - звук сада ради.  Саговорници ће моћи да Вас чују."
 
 #: skype:sGSW_SOUNDIN_PROBLEM:2536
 msgid ""
