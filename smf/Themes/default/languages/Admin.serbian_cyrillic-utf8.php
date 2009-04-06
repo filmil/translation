@@ -503,7 +503,7 @@ $txt['generate_reports'] = 'Направи извештаје';
 
 $txt['permission_mode_normal'] = 'нормално';
 $txt['permission_mode_no_polls'] = 'без гласања';
-$txt['permission_mode_reply_only'] = 'само одговорање';
+$txt['permission_mode_reply_only'] = 'само одговарање';
 $txt['permission_mode_read_only'] = 'само читање';
 
 $txt['update_available'] = 'Ажурирање је доступно!';
