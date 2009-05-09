@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-03-29 19:59-0700\n"
+"PO-Revision-Date: 2009-05-08 22:49-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -10515,94 +10515,92 @@ msgid ""
 "can buy some great headsets from our online shop.<br /><br />In the "
 "meantime, you won't be able to make calls if you can't make your voice "
 "heard, but you can still use instant messaging talk to your friends."
-msgstr ""
+msgstr "Изгледа да не можемо да поправимо звук.  Ако Вам је потребна звучна опрема, можете купити одличне слушалице у нашој продавници на Интернету.<br /><br />У међувремену, нећете моћи да зовете ако Вас није могуће чути; али још увек можете да шаљете брзе поруке и да се дописујете са пријатељима."
 
 #: skype:sGSW_OH_DEAR:2537
-#, fuzzy
 msgid "Oh dear!"
-msgstr "Остало"
+msgstr "О, забога!"
 
 #: skype:sGSW_CHECK_AND_TRY_MIC:2538
 msgid "<b>Hmm - one more try</b>"
-msgstr ""
+msgstr "<b>Хмм, да пробамо још једном</b>"
 
 #: skype:sGSW_CHECK_MIC_PLUGGED:2539
 msgid "Using a microphone? Make sure it's switched on."
-msgstr ""
+msgstr "Да ли користите микрофон?  Постарајте се да је укључен."
 
 #: skype:sGSW_CHECK_WEBCAM_MIC:2540
 msgid "Check it isn't on mute."
-msgstr ""
+msgstr "Проверите да није сасвим утишан."
 
 #: skype:sGSW_CHECK_NOT_MUTED:2541
 msgid "Now try making more noise!"
-msgstr ""
+msgstr "Сада пробајте поново да кажете нешто"
 
 #: skype:sGSW_CHECK_VOLUME:2542
 msgid "Check your volume is turned up"
-msgstr ""
+msgstr "Проверите да ли је звук појачан"
 
 #: skype:sGSW_CHECK_HEADSET:2543
 msgid ""
 "Check your speakers or headset are plugged in<br />Now press the button "
 "again."
-msgstr ""
+msgstr "Проверите да су звучници укључени<br />Затим поново притисните дугме"
 
 #: skype:sGSW_SOUND_WORKS:2544
 msgid "Don't have a webcam? Make a test call instead."
-msgstr ""
+msgstr "Немате камеру?  Направите онда пробни позив."
 
 #: skype:sGSW_MAKE_DEMO_CALL_BUTTON:2545
 #: skype:sGSW_TEST_CALL_PAGE_CAPTION:2663
-#, fuzzy
 msgid "Make a test call"
-msgstr "Направи пробни позив"
+msgstr "Пробни позив"
 
 #: skype:sGSW_TRY_VIDEO:2546
 msgid "Your sound works, so you should try making a video call now."
-msgstr ""
+msgstr "Звук ради, можете да пробате да направите видео позив."
 
 #: skype:sGSW_TAKE_SNAPSHOT:2547
 msgid ""
 "Seeing as you're looking so good, why not take a snapshot to use in your "
 "profile?"
-msgstr ""
+msgstr "Пошто смо утврдили да камера ради, зашто се не бисте сликали и слику користили у свом профилу?"
 
 #: skype:sGSW_VIDEO_OK:2548
 msgid "You're all set up to make video calls."
-msgstr ""
+msgstr "Све је подешено за видео позиве."
 
 #: skype:sGSW_ALL_DEVICES_SETUP:2549
 msgid "Fantastic! You're all set up. You can make calls now."
-msgstr ""
+msgstr "Изванредно!  Све је подешено.  Сада можете да зовете."
 
 #: skype:sGSW_OOPS:2550
 msgid "Oops!"
-msgstr ""
+msgstr "Упс!"
 
 #: skype:sGSW_NO_WEBCAM_FOUND:2551
 msgid "We can't find a webcam connected to your computer."
-msgstr ""
+msgstr "Нисмо успели да утврдимо да је камера повезана на рачунар."
 
 #: skype:sGSW_PLUGIN_WEBCAM:2552
 msgid "Check you've plugged in your webcam."
-msgstr ""
+msgstr "Проверите да ли сте укључили камеру."
 
 #: skype:sGSW_SWITCH_ON_WEBCAM:2553
 msgid "Check it's switched on."
-msgstr ""
+msgstr "Проверите да ли је укључена."
 
 #: skype:sGSW_WEBCAM_SOFTWARE:2554
 msgid ""
 "Check you've installed the software that came with your webcam.<br /><br /"
 ">Fixed the problem or don't have a webcam? Click Continue."
-msgstr ""
+msgstr "Проверите да ли је инсталиран софтвер који је испоручен са камером.<br /><br />Да ли сте отклонили проблем, или немате камеру?  Притисните „Наставак‟."
 
 #: skype:sGSW_WEBCAM_USED:2555
 msgid ""
 "Your webcam is being used by another application. Close it then come back to "
 "this screen to see if that worked."
-msgstr ""
+msgstr "Камеру тренутно користи неки други програм.  Пробајте да га искључите, а затим се вратите на овај екран и проверите да ли све ради."
 
 #: skype:sGSW_WEBCAMS:2556
 #, fuzzy
@@ -10617,19 +10615,19 @@ msgstr "Наставак"
 msgid ""
 "Something's not right. Go through the checks below and stay on this screen "
 "to see if they worked."
-msgstr ""
+msgstr "Нешто није како треба.  Прођите поново кроз горе наведене кораке и останите на овом екрану да бисте видели да ли је све прошло како треба."
 
 #: skype:sGSW_VIDEO_PROBLEM:2560
 msgid "We can't seem to help you fix your video problems."
-msgstr ""
+msgstr "Нисмо у стању да решимо проблеме са видеом."
 
 #: skype:sGSW_CLOSE_BUTTON:2562
 msgid "Close this welcome screen and start using Skype"
-msgstr ""
+msgstr "Затворите овај поздравни прозор и почните да користите скајп"
 
 #: skype:sGSW_SHOW_AT_START:2563
 msgid "Show welcome screen at startup"
-msgstr ""
+msgstr "Прикажи поздравни екран на почетку рада"
 
 #: skype:sGSW_WHAT_YOU_NEED:2564
 #, fuzzy
@@ -10659,7 +10657,7 @@ msgstr "Добродошли у скајп"
 
 #: skype:sGSW_GET_STARTED:2569
 msgid "Take a minute to get set up..."
-msgstr ""
+msgstr "Одвојте мало времена за подешавања..."
 
 #: skype:sMAINMENU_SKYPE_ACCOUNT:2574
 #, fuzzy
@@ -10786,7 +10784,7 @@ msgstr "Видео у прозору"
 
 #: skype:sMAINMENU_CONVERSATION_RECENT:2618
 msgid "Recently Closed Conversations"
-msgstr ""
+msgstr "Недавно затворени разговори"
 
 #: skype:sMAINMENU_CALL_START_VIDEO:2621
 #, fuzzy
@@ -10885,15 +10883,15 @@ msgstr "Позови техничку подршку"
 
 #: skype:sAUTHORIZE_BLOCKED_CAPTION:2661
 msgid "%s (%s) is on your blocked list."
-msgstr ""
+msgstr "%s (%s) је на списку блокираних."
 
 #: skype:sAUTHORIZE_BLOCKED_TEXT:2662
 msgid "Do you want to unblock this person so you can contact them?"
-msgstr ""
+msgstr "Да ли желите да склоните блокаду са ове особе?"
 
 #: skype:sCHAT_MENU_MOVE_BOOKMARK:2664
 msgid "Move Bookmark Here"
-msgstr ""
+msgstr "Помери забелешку овде"
 
 #: skype:sCHAT_GRANTED_AUTH:2665
 #, fuzzy
@@ -10902,7 +10900,7 @@ msgstr "Не дозволи дељење детаљних података о м
 
 #: skype:sWHATSNEW_NEW_TITLE:2666
 msgid "Welcome to the wonderful world of Skype"
-msgstr ""
+msgstr "Добродошли у чудесни свет скајпа"
 
 #: skype:sWHATSNEW_EXISTING_TITLE:2667
 #, fuzzy
@@ -10920,7 +10918,7 @@ msgid ""
 "over the world and save money.<br/><br/>See how easy it is to call, instant "
 "message, make video calls and send texts, too.<br/><br/> First up, let's "
 "learn about what's free. Click on the first blue box below."
-msgstr ""
+msgstr "У овом водичи, показаћемо Вам како можете да останете у контакту са људима широм света и истовремено уштедите новац.<br/><br/>Видећете како је једноставно звати, слати брзе поруке, разговарати помоћу видеа и слати текстове<br/><br/>Али најпре, научићете шта је бесплатно.  Притисните прву плаву кутијицу испод."
 
 #: skype:sWHATSNEW_NEW_P3_B2:2671
 #, fuzzy
@@ -10933,14 +10931,12 @@ msgid "Save number to your contact list"
 msgstr "Молим да ме додате у списак познаника"
 
 #: skype:sWHATSNEW_NEW_P4_B1:2673
-#, fuzzy
 msgid "Send instant messages"
-msgstr "Пошаљи једну поруку"
+msgstr "Слање брзих порука"
 
 #: skype:sWHATSNEW_NEW_P4_B2:2674
-#, fuzzy
 msgid "Send files"
-msgstr "Пошаљи датотеку"
+msgstr "Слање датотека"
 
 #: skype:sWHATSNEW_NEW_P2_TEXT:2676
 msgid ""
@@ -10951,11 +10947,11 @@ msgid ""
 "Contact list. Then it's as simple as clicking on their name then clicking "
 "the button to Call, Video call or Send a message.<br/><br/>You’ll need a "
 "webcam to see the video call button."
-msgstr ""
+msgstr "Разговарајте бесплатно са било којим корисником скајпа.  Скајп-на-скајп укључује:<br/>* позиве<br/>* видео позиве<br/>* брзе поруке<br/>Бесплатан је у било које доба дана и ноћи, гдегод се налазили на свету.<br/><br/><b>Ево како:</b><br/>Користите претрагу да пронађете Ваше пријатеље и додајте их на списак познаника.  Све што треба је да притиснете дугме на мишу када је стрелица изнад њиховог имена, а затим изаберете слање поруке, или аудио одн. видео позив.<br/><br/>За видео позив биће Вам потребна камера."
 
 #: skype:sWHATSNEW_NEW_P2_TITLE:2677
 msgid "<b>What's free</b>"
-msgstr ""
+msgstr "<b>Шта је бесплатно</b>"
 
 #: skype:sWHATSNEW_NEW_P3_TEXT:2678
 msgid ""
@@ -10966,11 +10962,11 @@ msgid ""
 "Go credit or a monthly subscription from the Shop tab. Then click the Call "
 "phones tab and type in the phone number you want to call. Click the big "
 "green Call button or the SMS button."
-msgstr ""
+msgstr "Зовите телефонске бројеве и шаљите текстове из скајпа.<br/><br/>То није бесплатно, али наше изванредне ниске тарифе ће Вам уштедети пуно новца – поготово ако зовете или се дописујете са неким у иностранству или желите да се чујете са познаником који тренутно није на вези.<br/><br/><b>Ево како:</b><br/>Потребан Вам је рачун који ћете било да допуњавате, било да будете претплаћени, што се може урадити у језичку „Продавница‟.  Притисните језичак „Звање телефона‟ и унесите број телефона који желите да позовете.  Притисните велико зелено дугме са натписом „Позов‟ или дугме СМС."
 
 #: skype:sWHATSNEW_NEW_P3_TITLE:2679
 msgid "<b>What costs a little</b>"
-msgstr ""
+msgstr "<b>Шта је јефтино</b>"
 
 #: skype:sWHATSNEW_NEW_P4_TEXT:2680
 msgid ""
@@ -10984,7 +10980,7 @@ msgstr ""
 
 #: skype:sWHATSNEW_NEW_P4_TITLE:2681
 msgid "<b>Security and privacy</b>"
-msgstr ""
+msgstr "<b>Безбедност и приватност</b>"
 
 #: skype:sWHATSNEW_EXISTING_P2_TEXT:2682
 msgid ""
@@ -10995,11 +10991,11 @@ msgid ""
 "choose how you want to talk. You can also save different phone numbers for "
 "each contact and keep in touch when they're offline – plus save phone "
 "numbers you regularly call in your Contact list.<br/>"
-msgstr ""
+msgstr "Постоје многи бесплатни начини за комункацију са скајпа на скајп:<br/>* Позиви<br/>* Видео позиви<br/>* Брзе поруке<br/>* Слање датотека<br/><br/>И они који се добију по јефтиној цени:<br/>* Звање мобилних и фиксних телефона<br/>* Слање текстуалних порука<br/><br/>Све ове могућности су Вам доступне са једног приступачног екрана.  Просто притисните име познаника и изаберите начин на који желите да се повежете.  Можете такође да сачувате више телефонских бројева за истог познаника како бисте били у вези и када нису повезани на мрежу – сачувајте бројеве познаника које често зовете у списку познаника.<br/>"
 
 #: skype:sWHATSNEW_EXISTING_P2_TITLE:2683
 msgid "More ways to <b>start conversations</b>"
-msgstr ""
+msgstr "Још начина да <b>започнете разгово</b>"
 
 #: skype:sWHATSNEW_EXISTING_P3_TEXT:2684
 msgid ""
@@ -11013,22 +11009,22 @@ msgid ""
 "up each conversation in its own mini-window.<br/><br/>Set it up to suit "
 "yourself – simply resize your windows and play around with different areas "
 "inside the screens."
-msgstr ""
+msgstr "Пратите разговоре и наставите их било када. <br/><br/>Списак нових разговора показује имена познаника које сте недавно контактирали и све брзе поруке које су тренутно важеће, са најновијима на врху.  Притисните ма који разговор како бисте наставили где сте прекинули последњи пут, или сачувајте групу у списак познаника како бисте могли да шаљете поруке на који год начин желите.  Изаберите било изворни поглед са једним главним прозором, или мањи и компактнији поглед који сваки разговор ставља у засебан прозор.<br/><br/>Подесите све онако како Вама одговара – просто промените величину прозора и пробајте различите размештаје."
 
 #: skype:sWHATSNEW_EXISTING_P3_TITLE:2685
 msgid "Pick up conversations where you left off"
-msgstr ""
+msgstr "Наставите разговоре тамо где су прекинути"
 
 #: skype:sWHATSNEW_EXISTING_P4_TEXT:2686
 msgid ""
 "Get closer than ever with the new, bigger video screen. Face-to-face calls "
 "will never be the same.<br/><br/>Making video calls is easy. Plug in your "
 "webcam and a video call button appears when you click on a contact."
-msgstr ""
+msgstr "Будите ближи него икада са новим, већим видео екраном.  Позиви очи у очи више никад неће бити исти.<br/><br/>Видео позивање је лако.  Укључите веб камеру и дугме за звање се појављује када притиснете име познаника."
 
 #: skype:sWHATSNEW_EXISTING_P4_TITLE:2687
 msgid "Bigger, better video"
-msgstr ""
+msgstr "Боља и већа слика"
 
 #: skype:sWHATSNEW_EXISTING_P1_T1:2688
 msgid ""
@@ -11037,11 +11033,11 @@ msgid ""
 "touch are in one handy place.<br/>* Pick up conversations where you left off."
 "<br/>* Switch between views at the click of a button.<br/><br/>Click  on a "
 "section to find out more."
-msgstr ""
+msgstr "Добродошли у најновији скајп.<br/><br/>Новости у овом издању:<br/>* Видео позиви имају већу слику, бољи су и приснији.<br/>* Сви начини за контактирање су сада на једном месту.<br/>* Наставите разговоре тамо где су прекинути.<br/>* Пребацујте се између различитих погледа на притисак дугмета.<br/><br/>Притисните  одељак да сазнате више."
 
 #: skype:sWHATSNEW_EXISTING_P2_T1:2689
 msgid "Start all your conversations from one place"
-msgstr ""
+msgstr "Започните све разговоре на једном месту"
 
 #: skype:sWHATSNEW_EXISTING_P2_B1:2690
 #, fuzzy
@@ -11078,7 +11074,7 @@ msgid ""
 "You haven't added a contact yet. Search the <a href=\"skype:?directory"
 "\">Directory</a> or <a href=\"skype:?importcontacts\">your email contacts</"
 "a> to see who's already on Skype."
-msgstr ""
+msgstr "Још увек нисте додали ниједног познаника.  Претражите <a href=\"skype:?directory\">именик</a> или  <a href=\"skype:?importcontacts\">ваш електронски адресар</a> да бисте утврдили ко од ваших познаника је већ на скајпу."
 
 #: skype:sEMPTYCANVAS_CONTACTS_BODY:2701
 #, fuzzy
@@ -11089,11 +11085,11 @@ msgstr "Избор контаката"
 msgid ""
 "New and active conversations are shown here. You don't have any "
 "conversations open at the moment."
-msgstr ""
+msgstr "Овде се приказују нови и активни разговори.  Тренутно нема ниједног активног разговора."
 
 #: skype:sEMPTYCANVAS_CONVERSATIONS_BODY:2703
 msgid "Choose a conversation to pick up again."
-msgstr ""
+msgstr "Изаберите разговор који желите да наставите."
 
 #: skype:sEMPTYCANVAS_CALLPHONES_BODY:2704
 #, fuzzy
@@ -11109,15 +11105,15 @@ msgstr "Тражење %s контаката"
 msgid ""
 "Make a test call to Skype. Let's make sure you can make a call before you "
 "try it with a friend."
-msgstr ""
+msgstr "Направите пробни позив како бисте проверили скајп.  Најпре треба да утврдимо да можете да зовете пре него што пробате позив са пријатељем."
 
 #: skype:sGSW_CLICK_TEST_CALL:2708
 msgid "Click the %s on the list on the left."
-msgstr ""
+msgstr "Притисните %s са списка слева."
 
 #: skype:sGSW_CLICK_TEST_CALL_TIP:2709
 msgid "Tip: to find it faster, type 'test' into the Search contacts box."
-msgstr ""
+msgstr "Савет: за бржу претрагу, укуцајте „test‟ у поље за претрагу."
 
 #: skype:sGSW_CLICK_CALL:2710
 #, fuzzy
@@ -11128,17 +11124,17 @@ msgstr "Притисните овде да дозволите %s да вас з�
 msgid ""
 "Tip: This is %s's profile. When you click on a contact, you will see "
 "information about them."
-msgstr ""
+msgstr "Савет:  Ово је профил за корисника %s.  Када притиснете име познаника, добићете податке о том познанику."
 
 #: skype:sGSW_LIVE_TEST_CALL:2712
 msgid ""
 "Listen to it - it will ask you to talk back. Then stay on the line to hear "
 "your voice played back."
-msgstr ""
+msgstr "Послушајте поруку - глас ће Вас замолити да одговорите.  Затим останите на вези како бисте чули како је друга страна чула Ваш глас и снимила га."
 
 #: skype:sGSW_HOW_WAS_TEST_CALL:2713
 msgid "How did that go?"
-msgstr ""
+msgstr "Да ли је успело?"
 
 #: skype:sCALL_LB2_CANNOT_CONNECT:2714
 msgid "Unable to connect"
@@ -11170,19 +11166,19 @@ msgstr "Морате бити на вези како бисте преслуша
 
 #: skype:sGSW_START_USING_SKYPE:2720
 msgid "If everything went OK, <a href=\"\">start using Skype</a>."
-msgstr ""
+msgstr "Ако је све прошло без проблема, <a href=\"\">почните да користите скајп</a>."
 
 #: skype:sGSW_TEST_SOUND:2721
 msgid ""
 "If you had problems, try <a href=\"skype:?gsw_devices\">testing your sound "
 "setup</a>."
-msgstr ""
+msgstr "Ако сте наишли на проблем, пробајте да <a href=\"skype:?gsw_devices\">проверите поставке звука</a>."
 
 #: skype:sGSW_START_FIND_FRIENDS:2722
 msgid ""
 "If everything went OK, try <a href=\"skype:?gsw_ic\">finding people you know "
 "on Skype</a>."
-msgstr ""
+msgstr "Ако је све прошло без проблема, пробајте <a href=\"skype:?gsw_ic\">да пронађете познанике на скајпу</a>."
 
 #: skype:sCONFIRM_BLOCK_USER_CAP2:2723 skype:sCONFIRM_BLOCK_USERS_CAP:3037
 #, fuzzy
@@ -11193,11 +11189,11 @@ msgstr "Блокирај корисника"
 msgid ""
 "Blocking %s means that this person will not be able to contact you on Skype. "
 "Are you sure?"
-msgstr ""
+msgstr "Блокирање корисника %s значи да ова особа неће моћи да Вас контактира путем скајпа.  Да ли сте сигурни?"
 
 #: skype:sCONFIRM_BLOCK_USER3:2725 skype:sCONFIRM_BLOCK_USERS2:3039
 msgid "To unblock someone, go to your Privacy settings under Options."
-msgstr ""
+msgstr "Како бисте са некога скинули блокаду, изаберите подешавања приватности из менија „Опције‟."
 
 #: skype:sGSW_USER_LEFT_GSW:2726
 #, fuzzy
@@ -11207,7 +11203,7 @@ msgstr "Напустили сте разговор"
 #: skype:sGSW_RETURN_TO_GSW:2727
 msgid ""
 "Click Return to go back to the Welcome guide, or click Close to leave it."
-msgstr ""
+msgstr "Притисните овде како бисте се вратили на водича за добродошлицу или притисните „Затвори‟ да га напустите."
 
 #: skype:sEMPTY_GROUP:2728
 #, fuzzy
@@ -11247,11 +11243,11 @@ msgstr ""
 
 #: skype:sVOICEMAIL_NEW:2734
 msgid "New voicemail, duration <span class=\"RegularDisabled\">%s</span>"
-msgstr ""
+msgstr "Нова говорна пошта, трајање: <span class=\"RegularDisabled\">%s</span>"
 
 #: skype:sVOICEMAIL:2735
 msgid "Voicemail, duration<span class=\"RegularDisabled\"> %s</span>"
-msgstr ""
+msgstr "Говорна пошта, трајање:<span class=\"RegularDisabled\"> %s</span>"
 
 #: skype:sCOMPLETED_GROUP_CALL:2736
 #, fuzzy
@@ -11294,15 +11290,15 @@ msgstr ""
 
 #: skype:sCHAT_HISTORY_7DAYS:2744
 msgid "7 days"
-msgstr ""
+msgstr "7 дана"
 
 #: skype:sCHAT_HISTORY_30DAYS:2745
 msgid "30 days"
-msgstr ""
+msgstr "30 дана"
 
 #: skype:sCHAT_HISTORY_BEGINNING:2746
 msgid "From Beginning"
-msgstr ""
+msgstr "Од самог почетка"
 
 #: skype:sCHAT_HISTORY_MESSAGE:2747
 #, fuzzy
@@ -11338,25 +11334,25 @@ msgstr "&Нађи..."
 msgid ""
 "A device either built-in or plugged into your computer that you talk into "
 "when you call someone on Skype."
-msgstr ""
+msgstr "Уређај који је или уграђен или се укључује у рачнар и омогућава Вам да у њега говорите када с неким разговарате преко скајпа."
 
 #: skype:sGSW_WHAT_IS_SPEAKERS:2756
 msgid ""
 "Little loudspeakers either built-in or plugged into a computer. They let you "
 "hear sound coming out of your computer."
-msgstr ""
+msgstr "Мали звучници који су или уграђени или укључени у рачунар.  Омогућавају Вам да чујете звук који долази из рачунара."
 
 #: skype:sGSW_WHAT_IS_HEADPHONE:2757
 msgid ""
 "Earphones you plug into your computer. They make sound a lot clearer than "
 "speakers."
-msgstr ""
+msgstr "Слушалице које се укључују у рачунар.  Звук је помоћу њих много јаснији него на звучницима."
 
 #: skype:sGSW_WHAT_IS_WEBCAM:2758
 msgid ""
 "A little camera you plug into your computer. It shows your smiling, talking "
 "face to the people you call. We sell webcams in our online shop, too."
-msgstr ""
+msgstr "Мала камера која се укључује у рачунар.  Она Вас снима како се смејете, разговарате лицем у лице са људима које разговарате.  Камере су на продају и у нашој продавници на Интернету."
 
 #: skype:sGSW_CLOSE_HINT:2759
 msgid "You can find it again under the Help menu"
