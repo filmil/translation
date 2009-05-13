@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-05-08 22:49-0700\n"
+"PO-Revision-Date: 2009-05-08 23:10-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -11356,7 +11356,7 @@ msgstr "Мала камера која се укључује у рачунар. 
 
 #: skype:sGSW_CLOSE_HINT:2759
 msgid "You can find it again under the Help menu"
-msgstr ""
+msgstr "Можете га пронаћи опет у менију „Помоћ‟"
 
 #: skype:sGSW_TEST_CALL_SUCCESSED:2760
 #, fuzzy
@@ -11365,11 +11365,11 @@ msgstr "Није могуће читати датотеку."
 
 #: skype:sGSW_TEST_CALL_FAILED:2761
 msgid "I had a few problems and would like more help."
-msgstr ""
+msgstr "Било је неких проблема и желим више помоћи."
 
 #: skype:sGSW_TIPS_TRICKS_BUTTON:2763
 msgid "Get help"
-msgstr ""
+msgstr "Помоћ"
 
 #: skype:sGSW_WNG_BUTTON:2765
 #, fuzzy
@@ -11383,11 +11383,11 @@ msgstr "Добродошли!"
 
 #: skype:sGSW_FAILED_CALL_TIPS:2767
 msgid "We're sorry to hear you had some problems"
-msgstr ""
+msgstr "Жао нам је што сте наишли на проблеме"
 
 #: skype:sGSW_TEST_CALL_CHECK_OPTIONS:2768
 msgid "These things might help:"
-msgstr ""
+msgstr "Следећи савети Вам можда могу помоћи:"
 
 #: skype:sGSW_TEST_CALL_CHECK1:2769
 #, fuzzy
@@ -11396,23 +11396,23 @@ msgstr "Имате сувише отворених преноса датотек
 
 #: skype:sGSW_TEST_CALL_CHECK2:2770
 msgid "move your microphone closer to you mouth and away from your speakers."
-msgstr ""
+msgstr "примакните микрофон ближе устима и даље од звучника."
 
 #: skype:sGSW_TEST_CALL_CHECK3:2771
 msgid "Using a headset is the easiest way to get great sound."
-msgstr ""
+msgstr "Слушалице су најлакши начин за добијање изванредног звука."
 
 #: skype:sGSW_TEST_CALL_CANT_HELP1:2772
 msgid "We're sorry that didn't seem to work out. Why not try again later?"
-msgstr ""
+msgstr "Жао нам је што то изгледа није радило.  Зашто не бисте пробали касније?"
 
 #: skype:sGSW_TEST_CALL_CANT_HELP2:2773
 msgid "Select %s at anytime, or find this welcome guide under the Help menu."
-msgstr ""
+msgstr "Можете изабрати „%s‟ било када, или можете наћи овај водич за добродошлицу у менију „Помоћ‟."
 
 #: skype:sCONVERSATIONS_QF_HINT:2775
 msgid "Search Contacts, Groups and Conversation Topics"
-msgstr ""
+msgstr "Претрага познаника, група и тема разговора"
 
 #: skype:sCONVERSATIONS_ONE:2777
 #, fuzzy
@@ -11423,7 +11423,7 @@ msgstr "Потврда"
 msgid ""
 "None of the intended recipients has a mobile phone number saved in their "
 "profile. Please view profiles individually to add a number."
-msgstr ""
+msgstr "Ниједан од прималаца нема број мобилног телефона сачуван у профилу.  молимо да прегледате профиле и додате бројеве."
 
 #: skype:sTRANSFER_FAILED_CAPTION:2780
 msgid "File transfer failed"
@@ -11438,7 +11438,7 @@ msgstr "%s није исправан формат за слику"
 msgid ""
 "Sending failed. You can only send files that aren't being used by other "
 "programs, and you can't send folders."
-msgstr ""
+msgstr "Слање није успело.  Можете да шаљете само датотеке које тренутно не користи ниједан други програм, и не можете слати директоријуме."
 
 #: skype:sTRANSFERFAILURE_TOO_MANY_PARALLEL:2783
 #, fuzzy
@@ -11462,9 +11462,8 @@ msgstr ""
 "<a href=\"skype:?go#help.faq.password\">Помоћ у вези пријаве на скајп</a>"
 
 #: skype:sCALL_SAVE_CONTACT2:2788
-#, fuzzy
 msgid "Save this number"
-msgstr "Слање СМСа са овог броја"
+msgstr "Сачувај овај број"
 
 #: skype:GSW_CALL_DROPPED:2789
 #, fuzzy
