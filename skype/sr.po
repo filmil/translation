@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-05-18 00:46-0700\n"
+"PO-Revision-Date: 2009-05-18 01:10-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -4460,17 +4460,14 @@ msgid "Cool"
 msgstr "Све равно"
 
 #: skype:sSURPRISED_SMILEY:1167
-#, fuzzy
 msgid "Surprised"
 msgstr "Изненађен"
 
 #: skype:sWINK_SMILEY:1168
-#, fuzzy
 msgid "Wink"
-msgstr "пиће"
+msgstr "Миг"
 
 #: skype:sWINK_FROWNEY_SMILEY:1169
-#, fuzzy
 msgid "Crying"
 msgstr "Плачко"
 
@@ -4479,7 +4476,6 @@ msgid "Sweating"
 msgstr "Знојење"
 
 #: skype:sSPEECHLESS_SMILEY:1171
-#, fuzzy
 msgid "Speechless"
 msgstr "Без текста"
 
@@ -4492,24 +4488,20 @@ msgid "Cheeky"
 msgstr "Плажење"
 
 #: skype:sBLUSH_SMILEY:1174
-#, fuzzy
 msgid "Blushing"
 msgstr "Поцрвенео"
 
 #: skype:sWONDERING_SMILEY:1175
-#, fuzzy
 msgid "Wondering"
-msgstr "зачуђен"
+msgstr "Зачуђен"
 
 #: skype:sSLEEPY_SMILEY:1176
-#, fuzzy
 msgid "Sleepy"
-msgstr "поспан"
+msgstr "Поспан"
 
 #: skype:sDULL_SMILEY:1177
-#, fuzzy
 msgid "Dull"
-msgstr "досадан"
+msgstr "Досадан"
 
 #: skype:sINLOVE_SMILEY:1178
 msgid "In love"
@@ -4532,42 +4524,36 @@ msgid "Puking"
 msgstr "Повраћа"
 
 #: skype:sDOH_SMILEY:1183
-#, fuzzy
 msgid "Doh!"
-msgstr "јој!"
+msgstr "Јој!"
 
 #: skype:sANGRY_SMILEY:1184
-#, fuzzy
 msgid "Angry"
-msgstr "љут"
+msgstr "Љут"
 
 #: skype:sWASNTME_SMILEY:1185
-#, fuzzy
 msgid "It wasn't me!"
-msgstr "нисам ја!"
+msgstr "Нисам ја!"
 
 #: skype:sPARTY_SMILEY:1186
 msgid "Party"
 msgstr "Журка"
 
 #: skype:sWORRIED_SMILEY:1187
-#, fuzzy
 msgid "Worried"
-msgstr "забринут"
+msgstr "Забринут"
 
 #: skype:sMMM_SMILEY:1188
 msgid "mmmmm..."
 msgstr "мммм..."
 
 #: skype:sNERDY_SMILEY:1189
-#, fuzzy
 msgid "Nerdy"
-msgstr "тутубан"
+msgstr "Тутубан"
 
 #: skype:sLIPSSEALED_SMILEY:1190
-#, fuzzy
 msgid "My lips are sealed"
-msgstr "ништа нисам рекао"
+msgstr "Ништа нисам рекао"
 
 #: skype:sHI_SMILEY:1191
 msgid "Hi"
@@ -4650,24 +4636,20 @@ msgid "Handshake"
 msgstr "Руковање"
 
 #: skype:sHEART_SMILEY:1215
-#, fuzzy
 msgid "Heart"
-msgstr "срце"
+msgstr "Срце"
 
 #: skype:sBROKENHEART_SMILEY:1216
-#, fuzzy
 msgid "Broken heart"
-msgstr "сломљено срце"
+msgstr "Сломљено срце"
 
 #: skype:sMAIL_SMILEY:1217
-#, fuzzy
 msgid "You have mail"
-msgstr "имате пошту"
+msgstr "Стигла је пошта"
 
 #: skype:sFLOWER_SMILEY:1218
-#, fuzzy
 msgid "Flower"
-msgstr "цвет"
+msgstr "Цвет"
 
 #: skype:sRAINING_SMILEY:1219
 msgid "Raining"
@@ -4678,30 +4660,25 @@ msgid "Sun"
 msgstr "Сунце"
 
 #: skype:sTIME_SMILEY:1221
-#, fuzzy
 msgid "Time"
-msgstr "време"
+msgstr "Време"
 
 #: skype:sMUSIC_SMILEY:1222
-#, fuzzy
 msgid "Music"
-msgstr "музика"
+msgstr "Музика"
 
 #: skype:sMOVIE_SMILEY:1223
-#, fuzzy
 msgid "Movie"
-msgstr "филм"
+msgstr "Филм"
 
 #: skype:sPHONE_SMILEY:1224 skype:sZAPBUTTON_CONVERSATIONSPHONE:1930
 #: skype:sZAPCONTACT_PHONE:2116 skype:sCONTACT_PROFILE_SAVE_PHONE:3220
-#, fuzzy
 msgid "Phone"
-msgstr "телефон"
+msgstr "Телефон"
 
 #: skype:sCOFFEE_SMILEY:1225
-#, fuzzy
 msgid "Coffee"
-msgstr "кафа"
+msgstr "Кафа"
 
 #: skype:sPIZZA_SMILEY:1226
 msgid "Pizza"
@@ -4716,19 +4693,16 @@ msgid "Muscle"
 msgstr "Мишићи"
 
 #: skype:sCAKE_SMILEY:1229
-#, fuzzy
 msgid "Cake"
-msgstr "колач"
+msgstr "Колач"
 
 #: skype:sBEER_SMILEY:1230
-#, fuzzy
 msgid "Beer"
-msgstr "пиво"
+msgstr "Пиво"
 
 #: skype:sDRINK_SMILEY:1231
-#, fuzzy
 msgid "Drink"
-msgstr "пиће"
+msgstr "Пиће"
 
 #: skype:sDANCING_SMILEY:1232
 msgid "Dancing"
@@ -4739,9 +4713,8 @@ msgid "Ninja"
 msgstr "Нинџа"
 
 #: skype:sSTAR_SMILEY:1234
-#, fuzzy
 msgid "Star"
-msgstr "Старт"
+msgstr "Звезда"
 
 #: skype:sMOONING_SMILEY:1235
 msgid "Mooning"
@@ -4800,7 +4773,6 @@ msgid "Another program is trying to put Skype in Silent Mode."
 msgstr "Други програм покушава да ућутка скајп."
 
 #: skype:sSILENT_GUI_WARNING2:1249
-#, fuzzy
 msgid ""
 "While this application is running you won't see any notifications of calls, "
 "IMs or other Skype events, although you will still hear your ringtone when "
@@ -4820,42 +4792,34 @@ msgstr ""
 "захтев."
 
 #: skype:sSILENT_GUI_CAPTION:1251 skype:sSILENT_GUI_TITLE:1252
-#, fuzzy
 msgid "Confirm silent mode"
 msgstr "Потврди тихи начин рада"
 
 #: skype:sF_STARTCOMCHAT_TITLE:1253
-#, fuzzy
 msgid "Public IM wizard"
 msgstr "Чаробњак за јавне разговоре"
 
 #: skype:sF_STARTCOMCHAT_CAPTION1:1254
-#, fuzzy
 msgid "IM description"
 msgstr "Опис разговора"
 
 #: skype:sF_STARTCOMCHAT_CAPTION2:1255
-#, fuzzy
 msgid "Moderation rules"
-msgstr "Правила модерације:"
+msgstr "Правила модерације"
 
 #: skype:sF_STARTCOMCHAT_CAPTION3:1256
-#, fuzzy
 msgid "IM promotion"
 msgstr "Објаве"
 
 #: skype:sF_STARTCOMCHAT_FRONT_TEXT1:1257
-#, fuzzy
 msgid "Welcome. This wizard will help you set up a public IM."
 msgstr "Добродошли.  Овај чаробњак ће Вам помоћи да поставите јавни разговор."
 
 #: skype:sF_STARTCOMCHAT_FRONT_TEXT2:1258
-#, fuzzy
 msgid "Public IMs let you keep in touch with the world."
 msgstr "Јавни разговори служе да одржите везу са светом."
 
 #: skype:sF_STARTCOMCHAT_FRONT_TEXT3:1259
-#, fuzzy
 msgid ""
 "Give your conversation a topic and picture, set moderation rules and then "
 "promote the IM on your blog or website so anyone can click to join."
@@ -4864,7 +4828,6 @@ msgstr ""
 "разговор на Вашем блогу или вебсајту, како би свако могао да Вам се придружи."
 
 #: skype:sF_STARTCOMCHAT_RICH_LABEL1:1260
-#, fuzzy
 msgid ""
 "<b>Enter a topic and add a picture to tell others what your conversation is "
 "all about</b>."
@@ -4876,7 +4839,6 @@ msgid "<b>Host controls</b>"
 msgstr "<b>Контрола хоста</b>"
 
 #: skype:sF_STARTCOMCHAT_RICH_LABEL3:1262 skype:sF_CHAT_PROMOTE_RLB1:1305
-#, fuzzy
 msgid ""
 "<b>As well as adding contacts to the conversation yourself, you can invite "
 "people to join this public IM in the following ways:</b>"
@@ -4886,18 +4848,16 @@ msgstr ""
 
 # Интерпункција
 #: skype:sF_STARTCOMCHAT_LB_TOPIC:1263
-#, fuzzy
 msgid "Conversation topic"
-msgstr "Тема конференције:"
+msgstr "Тема разговора"
 
 #: skype:sF_STARTCOMCHAT_LB_PICTURE:1264
 msgid "Picture"
 msgstr "слика"
 
 #: skype:sF_STARTCOMCHAT_LB_REQUIRED:1265
-#, fuzzy
 msgid "Fields marked with red asterisk are required."
-msgstr "Поља означена црвеном звездицом су обавезна"
+msgstr "Поља означена црвеном звездицом су обавезна."
 
 #: skype:sF_STARTCOMCHAT_LB_GUIDELINES:1266
 msgid "<b>Community guidelines</b>"
@@ -4905,54 +4865,43 @@ msgstr "<b>Упутства за заједницу</b>"
 
 #: skype:sF_STARTCOMCHAT_LB_GUIDELINES2:1267
 #: skype:sF_CHAT_SETTINGS_LB_GUIDELINES2:1316
-#, fuzzy
 msgid "This message will be shown to people when they join this IM."
-msgstr "Ова порука ће бити приказана људима када се придруже разговору"
+msgstr "Ова порука ће бити приказана људима када се придруже разговору."
 
 #: skype:sF_STARTCOMCHAT_CB_LOCK:1268
-#, fuzzy
 msgid "Lock topic and picture (conversation participants can't change them)."
-msgstr "Закључај тему и слику (учесници не могу да их мењају)"
+msgstr "Закључај тему и слику (учесници не могу да их мењају)."
 
 #: skype:sF_STARTCOMCHAT_BTN_PICTURE:1269
-#, fuzzy
 msgid "Choose picture"
 msgstr "Изаберите слику"
 
 #: skype:sF_STARTCOMCHAT_BTN_START:1270
-#, fuzzy
 msgid "Start IM"
-msgstr "Старт"
+msgstr "Покрени брзе поруке"
 
 #: skype:sF_STARTCOMCHAT_RBTN1:1271
-#, fuzzy
 msgid "Anyone can post messages."
-msgstr "Свако може да шаље поруке"
+msgstr "Свако може да шаље поруке."
 
 #: skype:sF_STARTCOMCHAT_RBTN2:1272
-#, fuzzy
 msgid "Participants need permission to start posting."
-msgstr "Учесници морају да добију одобрење да шаљу поруке"
+msgstr "Учесници морају да добију одобрење да шаљу поруке."
 
 #: skype:sF_STARTCOMCHAT_RBTN3:1273
-#, fuzzy
 msgid "Participants need permission to start reading and posting."
-msgstr "Учесницима треба одбрење да читају и одговарају"
+msgstr "Учесницима треба одбрење да читају и одговарају."
 
 #: skype:sF_STARTCOMCHAT_DEFAULT_GUIDELINES:1274
-#, fuzzy
 msgid "Enter a message explaining how you expect people to behave in this IM."
-msgstr ""
-"Унесите поруку која објашњава каква су правила понашања у овом разговору"
+msgstr "Унесите поруку која објашњава каква су правила понашања у овом разговору."
 
 #: skype:sMAINMENU_TOOLS_START_PUBLIC_CHAT:1275
 #: skype:sMAINMENU_STARTPUBLICCHAT:1551
-#, fuzzy
 msgid "Start Public IM"
 msgstr "Покрени јавни разговор"
 
 #: skype:sF_CHAT_NOTIFY_CAPTION:1277
-#, fuzzy
 msgid "IM notification settings"
 msgstr "Подешавање дојава"
 
@@ -4965,72 +4914,57 @@ msgid "Notify me only if these words are mentioned:"
 msgstr "Обавести ме ако се спомену следеће речи:"
 
 #: skype:sF_CHAT_NOTIFY_LB_HEADER1:1283
-#, fuzzy
 msgid "IM notifications will alert you when something new happens in this IM."
 msgstr ""
 "Обавештења о разговору ће Вас упозорити када се нешто ново догоди у овом "
 "разговору."
 
 #: skype:sF_CHAT_NOTIFY_LB_HEADER2:1284
-#, fuzzy
 msgid ""
 "The conversation window will blink in the taskbar or reopen if you have "
 "closed it."
-msgstr ""
-"Прозор за разговор ће да затрепери, или се поново отвори ако сте га "
-"затворили."
+msgstr "Прозор за разговор ће да затрепери, или се поново отвори ако сте га затворили."
 
 #: skype:sF_CHAT_NOTIFY_LB_FOOTER:1285
-#, fuzzy
 msgid "Enter single words separated by spaces."
-msgstr "Унесите речи раздвојене размацима"
+msgstr "Унесите речи раздвојене размацима."
 
 #: skype:sF_CHAT_SETTINGS_TITLE:1286 skype:sF_CHAT_SETTINGS_CAPTION:1287
-#, fuzzy
 msgid "Public IM settings"
 msgstr "Подешавања јавних разговора"
 
 #: skype:sF_CHAT_SETTINGS_RB1:1290
-#, fuzzy
 msgid "Anyone can post messages in this conversation"
 msgstr "Свако може да шаље поруке у разговор"
 
 #: skype:sF_CHAT_SETTINGS_RB2:1291
-#, fuzzy
 msgid "Participants need my permission to start posting messages."
-msgstr "Учесницима треба моја дозвола да почну са слањем порука"
+msgstr "Учесницима треба моја дозвола да почну са слањем порука."
 
 #: skype:sF_CHAT_SETTINGS_RB3:1292
-#, fuzzy
 msgid "Participants need my permission to start reading and posting messages."
-msgstr "Учесницима треба моја дозвола да почну да читају и шаљу поруке"
+msgstr "Учесницима треба моја дозвола да почну да читају и шаљу поруке."
 
 #: skype:sF_CHAT_SETTINGS_CB_LOCK:1293
-#, fuzzy
 msgid ""
 "Lock topic and picture (so people in the conversation can't change them)."
-msgstr "Закључај тему и слику (учесници не могу да их мењају)"
+msgstr "Закључај тему и слику (учесници не могу да их мењају)."
 
 #: skype:sF_CHAT_SETTINGS_LB_HEADER2:1294
-#, fuzzy
 msgid "<b>Moderation rules</b>"
 msgstr "<b>Правила модерације</b>"
 
 #: skype:sF_CHAT_SETTINGS_LB_GUIDELINES:1295
-#, fuzzy
 msgid "Community guidelines"
 msgstr "Правила понашања"
 
 #: skype:sF_CHAT_SETTINGS_DEFAULT_GUIDELINES:1296
-#, fuzzy
 msgid ""
 "Enter a message explaining how you expect people to behave in this "
 "conversation."
-msgstr ""
-"Унесите поруку која објашњава каква су правила понашања у овом разговору"
+msgstr "Унесите поруку која објашњава каква су правила понашања у овом разговору."
 
 #: skype:sCHAT_STATUSMESSAGE_APPLICANT:1297
-#, fuzzy
 msgid ""
 "Waiting to join.<br/>You can't post messages in this conversation until the "
 "host has accepted you."
@@ -5039,33 +4973,27 @@ msgstr ""
 "Вас домаћин не прихвати."
 
 #: skype:sCHAT_STATUSMESSAGE_LISTENER:1298
-#, fuzzy
 msgid "You are currently not allowed to post messages."
-msgstr "Тренутно Вам није дозвољено да шаљете поруке"
+msgstr "Тренутно Вам није дозвољено да шаљете поруке."
 
 #: skype:sCHAT_MENU_SETTINGS:1299
-#, fuzzy
 msgid "Public IM Settings"
 msgstr "Подешавања јавних разговора"
 
 #: skype:sCHAT_MENU_NOTIFICATIONS:1300
-#, fuzzy
 msgid "IM Notification Settings"
 msgstr "Подешавање дојава"
 
 #: skype:sCHAT_MEMBER_KICKED:1301
-#, fuzzy
 msgid "%s ejected %s from this conversation."
-msgstr "%s избацује %s из разговора"
+msgstr "%s избацује %s из разговора."
 
 #: skype:sF_CHAT_PROMOTE_TITLE:1302 skype:sF_CHAT_PROMOTE_CAPTION:1303
 #: skype:sCHAT_MENU_PROMOTE_CHAT:1328
-#, fuzzy
 msgid "Promote IM"
 msgstr "Објави разговор"
 
 #: skype:sF_CHAT_PROMOTE_LB_COPY:1306 skype:sF_STARTCOMCHAT_LB_COPY:1310
-#, fuzzy
 msgid ""
 "Copy and paste the following link into emails or IMs to your friends so they "
 "can click to join."
@@ -5074,32 +5002,24 @@ msgstr ""
 "би могли да се придруже једним притиском на дугме."
 
 #: skype:sF_CHAT_PROMOTE_LB_LINK1:1307 skype:sF_STARTCOMCHAT_LB_LINK1:1311
-#, fuzzy
 msgid ""
 "Create a link to this public IM on MySpace, Live Journal, your blog or "
 "website and allow people from all over the world to join in."
-msgstr ""
-"Направите везу на овај јавни разговор на Мајспејсу (MySpace), Лајв журналу "
-"(Live Journal), Вашем блогу или вебсајту и дозволите људима широм света да "
-"се укључе"
+msgstr "Направите везу на овај јавни разговор на Мајспејсу (MySpace), Лајв журналу (Live Journal), Вашем блогу или вебсајту и дозволите људима широм света да се укључе."
 
 #: skype:sF_CHAT_PROMOTE_LB_LINK2:1308 skype:sF_STARTCOMCHAT_LB_LINK2:1312
-#, fuzzy
 msgid "<a href=\"skype:?go#somewhere\">Get HTML code from skype.com</a>."
-msgstr ""
-"<a href=\"skype:?go#somewhere\">Набави HTML код са адресе skype.com.</a>"
+msgstr "<a href=\"skype:?go#somewhere\">Набави HTML код са адресе skype.com</a>."
 
 #: skype:sF_CHAT_PROMOTE_LB_EXAMPLE:1309 skype:sTRAYALERT_EXAMPLE:2945
 msgid "Example"
 msgstr "Пример"
 
 #: skype:sF_CHAT_PIC_CAPTION:1313 skype:sF_CHAT_PIC_LB_CAPTION:1314
-#, fuzzy
 msgid "Conversation picture"
-msgstr "Уклањање слике?"
+msgstr "Слика за разговор"
 
 #: skype:sF_PRIVACY_CHANGE_TITLE:1317
-#, fuzzy
 msgid "Privacy protection"
 msgstr "Заштита приватности"
 
@@ -5108,73 +5028,58 @@ msgid "Do you receive unwanted calls?"
 msgstr "Брину вас нежељени позиви?"
 
 #: skype:sF_PRIVACY_CHANGE_HEADER2:1319
-#, fuzzy
 msgid "Do you receive unwanted IM messages?"
 msgstr "Да ли примате нежељене поруке у разговорима?"
 
 #: skype:sF_PRIVACY_CHANGE_RB_ANYONE1:1322
-#, fuzzy
 msgid "Allow calls from everyone."
-msgstr "Дозволи позиве од свих"
+msgstr "Дозволи позиве од свих."
 
 #: skype:sF_PRIVACY_CHANGE_RB_ANYONE2:1323
-#, fuzzy
 msgid "Allow IMs from everyone."
-msgstr "Дозволи позиве од свих"
+msgstr "Дозволи позиве од свих."
 
 #: skype:sF_PRIVACY_CHANGE_RB_CONTACTS1:1324
-#, fuzzy
 msgid "Allow calls only from my contacts."
-msgstr "Дозволи само позиве од мојих познаника"
+msgstr "Дозволи само позиве од мојих познаника."
 
 #: skype:sF_PRIVACY_CHANGE_RB_CONTACTS2:1325
-#, fuzzy
 msgid "Allow IM from my contacts only."
-msgstr "Дозволи само позиве од мојих познаника"
+msgstr "Дозволи само позиве од мојих познаника."
 
 #: skype:sF_PRIVACY_CHANGE_LB_OPTIONS:1326
-#, fuzzy
 msgid "<a href=\"skype:?options#privacy\">Advanced privacy options</a>"
-msgstr ""
-"<a href=\"skype:?options#privacy\">Напредна подешавања приватности.</a>"
+msgstr "<a href=\"skype:?options#privacy\">Напредна подешавања приватности</a>"
 
 #: skype:sCL_TB_CONFERENCE_LONG:1327
-#, fuzzy
 msgid "Call the Group"
-msgstr "Позив ка"
+msgstr "Позови групу"
 
 #: skype:sCHAT_MEMBER_KICKBANNED:1329
-#, fuzzy
 msgid "%s ejected and banned %s."
-msgstr "%s избацује и протерује %s са разговора"
+msgstr "%s избацује и протерује %s."
 
 #: skype:sCHAT_MEMBER_JOINED:1330
-#, fuzzy
 msgid "%s joined."
-msgstr "%s је укључен у овај разговор"
+msgstr "%s се придружује."
 
 #: skype:sCHAT_MEMBER_PROMOTED_TO_ADMIN:1331
-#, fuzzy
 msgid "%s has been promoted to conversation host."
-msgstr "Корисник: %s је унапређен у домаћина разговора"
+msgstr "Корисник: %s је унапређен у домаћина разговора."
 
 #: skype:sCHAT_MEMBER_APPLIED:1332
-#, fuzzy
 msgid "%s is waiting to join."
-msgstr "%s чека да се прикључи разговору"
+msgstr "%s чека да се придружи."
 
 #: skype:sCALL_TRANSFERRING:1333
-#, fuzzy
 msgid "Call transfer in progress."
-msgstr "Преусмерење позива је у току"
+msgstr "Преусмерење позива је у току."
 
 #: skype:sCALL_TRANSFERRED:1334
-#, fuzzy
 msgid "Call transferred."
-msgstr "Позив је преусмерен"
+msgstr "Позив је преусмерен."
 
 #: skype:sCONFIRM_CHAT_DISBAND:1335
-#, fuzzy
 msgid ""
 "Are you sure you want to end this public IM? The conversation will be "
 "closed, no new messages can be posted and no new participants can join."
@@ -5183,61 +5088,48 @@ msgstr ""
 "затворен, неће више бити нових порука нити нових учесника."
 
 #: skype:sCONFIRM_CHAT_DISBAND_TITLE:1336
-#, fuzzy
 msgid "End public IM?"
 msgstr "Крај јавног разговора?"
 
 #: skype:sF_CONFIRM_DISBAND:1337
-#, fuzzy
 msgid "End IM"
-msgstr "Крај %s"
+msgstr "Крај разговора"
 
 #: skype:sCHAT_MEMBER_KICKBAN:1338
-#, fuzzy
 msgid "Eject and ban"
-msgstr "Избаци и забрани"
+msgstr "Избаци и протерај"
 
 #: skype:sCHAT_SETPICTURE:1339
-#, fuzzy
 msgid "%s has changed the conversation picture."
-msgstr "%s мења слику разговора"
+msgstr "%s мења слику разговора."
 
 #: skype:sCHAT_SETGUIDELINES:1340
-#, fuzzy
 msgid "%s has updated the conversation guidelines."
-msgstr "%s мења правила разговора"
+msgstr "%s мења правила разговора."
 
 #: skype:sCHAT_APPLICANT_WAITING:1341
-#, fuzzy
 msgid "1 new participant is waiting to join."
-msgstr "1 нови учесник чека на прикључење"
+msgstr "1 нови учесник чека да се придружи."
 
 #: skype:sCHAT_APPLICANTS_WAITING:1342
-#, fuzzy
 msgid "%d new participants are waiting to join."
-msgstr "Више нових учесника (ук. %d) чека на прикључење"
+msgstr "Више нових учесника (ук. %d) чека да се придружи."
 
 #: skype:sCONFIRM_CHAT_CREATOR_LEAVE:1343
-#, fuzzy
 msgid ""
 "You are the only host in this public IM. Before you can leave, you must "
 "promote another person to host. Choose a participant, click Menu and choose "
 "Promote to Host."
-msgstr ""
-"Ви сте једини домаћин на овом јавном разговору.  Пре него што одете, морате "
-"да унапредите другу особу у домаћина.  Изаберите учесника, притисните „Мени‟ "
-"и изаберите „Унапреди у домаћина‟"
+msgstr "Ви сте једини домаћин на овом јавном разговору.  Пре него што одете, морате да унапредите другу особу у домаћина.  Изаберите учесника, притисните „Мени‟ и изаберите „Унапреди у домаћина‟."
 
 #: skype:sCONFIRM_CHAT_CREATOR_LEAVE_TITLE:1344
 #: skype:sCONFIRM_CHAT_CREATOR_END_TITLE:1370
-#, fuzzy
 msgid "Creator can't leave public IM"
 msgstr "Аутор разговора не може да напусти јавни разговор"
 
 #: skype:sCHAT_STATUSMESSAGE_CONNECTING:1345
-#, fuzzy
 msgid "Connecting to host, please wait."
-msgstr "Повезивање је у току, молимо да сачекате"
+msgstr "Повезивање је у току, молимо да сачекате."
 
 #: skype:sF_STARTCOMCHAT_BTN_GETSNIPPET:1346
 #: skype:sF_CHAT_PROMOTE_BTN_GETSNIPPET:1347
@@ -5246,49 +5138,36 @@ msgid "Get code snippets online"
 msgstr "Добави исечке кода са мреже"
 
 #: skype:sF_CHAT_JOIN_CAPTION:1348
-#, fuzzy
 msgid "Join public IM?"
 msgstr "Прикључење јавном разговору?"
 
 #: skype:sF_CHAT_JOIN_LB1:1349
-#, fuzzy
 msgid "Are you sure you want to join this public IM?"
 msgstr "Да ли сигурно желите да се укључите у овај јавни разговор?"
 
 #: skype:sF_CANNOT_HEAR_TITLE:1350
-#, fuzzy
 msgid "Skype can't hear you talking"
-msgstr "скајпАут Вас не чује"
+msgstr "Скајп вас не чује како причате"
 
 #: skype:sF_CANNOT_HEAR_CAPTION:1351
-#, fuzzy
 msgid "Skype can't hear you talking."
-msgstr "скајпАут Вас не чује"
+msgstr "Скајп вас не чује како причате."
 
 #: skype:sF_CANNOT_HEAR_LB1:1353
-#, fuzzy
 msgid "<b>You need a headset or phone to make calls with Skype</b>."
-msgstr ""
-"<b>Потребне су Вам слушалице или телефон да бисте разговарали путем скајпа</"
-"b>"
+msgstr "<b>Потребне су Вам слушалице или телефон да бисте разговарали путем скајпа</b>."
 
 #: skype:sF_CANNOT_HEAR_LB2:1354
-#, fuzzy
 msgid ""
 "Don't have a headset? Visit the <a href=\"skype:?go#shop.accessories\">Skype "
 "shop</a>."
-msgstr ""
-"Немате микрофон и слушалице? Посетите <a href=\"skype:?go#shop.accessories"
-"\">скајпову радњу</a>"
+msgstr "Немате микрофон и слушалице? Посетите <a href=\"skype:?go#shop.accessories\">скајпову продавницу</a>."
 
 #: skype:sF_CANNOT_HEAR_LB3:1355
-#, fuzzy
 msgid ""
 "If you already have a headset or similar device check our <a href=\"skype:?"
 "go#help.guides.soundsetupguide\">sound setup guide</a>."
-msgstr ""
-"Ако већ имате слушалице или сличан уређај, погледајте <a href=\"skype:?"
-"go#help.guides.soundsetupguide\">водич за подешавање звука</a>"
+msgstr "Ако већ имате слушалице или сличан уређај, погледајте <a href=\"skype:?go#help.guides.soundsetupguide\">водич за подешавање звука</a>."
 
 #: skype:sCONFIRM_SP_BLOCK_USER:1356
 msgid "Would you like to block %s from contacting you in the future?"
@@ -5299,9 +5178,8 @@ msgid "Did you receive unwanted communication?"
 msgstr "Да ли сте добили нежељену поруку?"
 
 #: skype:sCONFIRM_SP_BLOCK_USER_CAP:1358
-#, fuzzy
 msgid "Block unwanted communication."
-msgstr "Блокирајте нежељене позиве..."
+msgstr "Блокирајте нежељене позиве."
 
 # This type of sentence composition does not work in languages other
 # than English. May work in several other 'like' languages, but does not
@@ -5309,7 +5187,6 @@ msgstr "Блокирајте нежељене позиве..."
 # get the effect of right sentence composition. It just happened to work
 # _this time_; in general it is just broken.
 #: skype:sCONFIRM_SP_ADD_USER:1359
-#, fuzzy
 msgid ""
 "Would you like to add %s to your Contact list? This makes calling him/her "
 "easier in the future."
@@ -5318,14 +5195,12 @@ msgstr ""
 "звање у будућности."
 
 #: skype:sCONFIRM_SP_ADD_USER_CAP:1361
-#, fuzzy
 msgid "Add a contact."
-msgstr "Додај познаника"
+msgstr "Додај познаника."
 
 #: skype:sCHAT_MESSAGE_REMOVED:1362
-#, fuzzy
 msgid "This message has been removed."
-msgstr "Ова порука је уклоњена"
+msgstr "Ова порука је уклоњена."
 
 #: skype:sCHAT_REMOVED_MESSAGE_TITLE:1363
 msgid "Removed by %s, %s"
@@ -5344,17 +5219,14 @@ msgid "Remove message?"
 msgstr "Уклањање поруке?"
 
 #: skype:sCHAT_ACCEPTBUTTON_HINT:1367
-#, fuzzy
 msgid "Accept %s into this IM"
 msgstr "Додај %s у овај разговор"
 
 #: skype:sCHAT_REJECTBUTTON_HINT:1368
-#, fuzzy
 msgid "Reject %s from this IM"
 msgstr "Одбиј %s од овог разговора"
 
 #: skype:sCONFIRM_CHAT_CREATOR_END:1369
-#, fuzzy
 msgid ""
 "As the creator of this public IM, it is not possible to leave. You must "
 "either end the conversation so no more messages can be posted by anyone, or "
@@ -5365,7 +5237,6 @@ msgstr ""
 "пошаље ниједну поруку, или притисните „Откажи‟ да останете у разговору"
 
 #: skype:sCONFIRM_CHAT_CREATOR_END_CAPTION:1371
-#, fuzzy
 msgid "Creator can't leave public IM."
 msgstr "Аутор разговора не може да напусти јавни разговор"
 
@@ -5378,32 +5249,24 @@ msgid "SMS destinations and rates"
 msgstr "СМС одредишта и цене"
 
 #: skype:sF_STARTCONF_INFO_LABEL:1374
-#, fuzzy
 msgid ""
 "Skype conference calls can include both Skype contacts and phone numbers."
-msgstr ""
-"скајпови конференцијски позиви укључују и познанике и обичне телефонске "
-"бројеве."
+msgstr "Скајпови конференцијски позиви укључују и познанике и обичне телефонске бројеве."
 
 #: skype:sF_STARTCONF_ENTER_PHONE_LABEL:1375
-#, fuzzy
 msgid "Or enter a phone number."
-msgstr "Или унесите број телефона"
+msgstr "Или унесите број телефона."
 
 #: skype:sF_STARTCONF_PHONE_HINT_TEXT:1376
-#, fuzzy
 msgid "Enter the local number in %s."
-msgstr "Унесите локални број у %s"
+msgstr "Унесите локални број у %s."
 
 #: skype:sF_STARTCONF_ADD_NR_INVALID:1378
-#, fuzzy
 msgid ""
 "The phone number you tried to add was not entered correctly. You must select "
 "the country and then enter the number you wish to add. Example: Select "
 "United Kingdom and enter 020 5555 1212"
-msgstr ""
-"Број ког желите да позовете није исправно унет. Морате да изаберете државу а "
-"затим број ког желите да позовете. Пример: 0207 555 1212"
+msgstr "Број ког желите да позовете није исправно унет. Морате да изаберете државу а затим број ког желите да позовете. Пример: изаберите Енглеску и унесите број 0207 555 1212"
 
 # 20050406 Доследно у односу на коришћење речи Contacts на другим местима у преводу
 #: skype:sF_USERINFO_FRIENDS:1379
@@ -5411,7 +5274,6 @@ msgid "Contacts:"
 msgstr "Познаници:"
 
 #: skype:sNEW_EVENTS_MENU:1380
-#, fuzzy
 msgid "Missed Events (%d)"
 msgstr "Пропуштени догађаји (%d)"
 
@@ -5428,25 +5290,19 @@ msgid "Password required"
 msgstr "Тражи се лозинка"
 
 #: skype:sCHAT_STATUSMESSAGE_QUEUED:1384
-#, fuzzy
 msgid "This public IM is full. Please try joining again later."
 msgstr "Овај јавни разговор је пун.  Пробајте да се придружите касније."
 
 #: skype:sCHAT_STATUSMESSAGE_DENIED:1385
-#, fuzzy
 msgid ""
 "You have been rejected from this conversation and will not be able to join."
-msgstr ""
-"Избачени сте са овог разговора и неће Вам бити дозвољено да се поново "
-"прикључите"
+msgstr "Протерани сте са овог разговора и неће Вам бити дозвољено да се поново прикључите."
 
 #: skype:sCHAT_STATUSMESSAGE_KICKED:1386
-#, fuzzy
 msgid "You have been ejected from this IM."
-msgstr "Избачени сте из овог разговора"
+msgstr "Избачени сте из овог разговора."
 
 #: skype:sDOMORE_PLUGINMANAGER_MYEXTRAS:1387
-#, fuzzy
 msgid "Organize Your Extras"
 msgstr "Уредите ваше додатке"
 
@@ -5461,59 +5317,46 @@ msgid "Copy link to clipboard"
 msgstr "Умножи везу на клипборд"
 
 #: skype:sF_CHAT_PROMOTE_LB_COPY2:1390 skype:sF_STARTCOMCHAT_LB_COPY2:1392
-#, fuzzy
 msgid "Link to this IM:"
 msgstr "Веза на овај разговор:"
 
 #: skype:sCHAT_SETOPTIONS:1394
-#, fuzzy
 msgid "%s has updated the moderation rules of this conversation %s"
-msgstr "%s мења правила модерације за овај разговор. %s"
+msgstr "%s мења правила модерације за овај разговор %s"
 
 #: skype:sF_ADDFRIEND_ADD_CONTACT2:1395
-#, fuzzy
 msgid "<a name=\"add\">Add a contact</a>"
-msgstr "<a name=\"add\">Додај скајповог познаника</a>"
+msgstr "<a name=\"add\">Додај познаника</a>"
 
 #: skype:sF_ADDFRIEND_ADD_CONTACT1:1396
-#, fuzzy
 msgid "<b>Add a contact</b>"
-msgstr "<b>Додај скајповог познаника</b>"
+msgstr "<b>Додај познаника</b>"
 
 #: skype:sF_ADDFRIEND_FIND_LABEL:1397
-#, fuzzy
 msgid ""
 "Find people on Skype and add them to your Contact list. Enter their <b>Skype "
 "Name</b>, <b>full name</b> or <b>email address</b> and click Find."
-msgstr ""
-"Нађи људе који користе скајп и додај их на списак познаника.  Унесите било "
-"њихово <b>име на скајпу, пуно име</b> or <b>ел. адресу</b> и притисните "
-"„Нађи‟."
+msgstr "Нађите људе који користе скајп и додајте их на списак познаника.  Унесите било њихово <b>име на скајпу, пуно име</b> or <b>ел. адресу</b> и притисните „Нађи‟."
 
 #: skype:sF_ADDFRIEND_ADD_PHONE1:1398
-#, fuzzy
 msgid "<a name=\"phone\">Add a phone or mobile number</a>"
-msgstr ""
-"<a name=\"phone\">Додај обичан телефон у скајпАут (SkypeOut) познанике</a>"
+msgstr "<a name=\"phone\">Додај мобилни или фиксни телефон</a>"
 
 #: skype:sF_ADDFRIEND_ADD_PHONE2:1399
-#, fuzzy
 msgid "<b>Add a phone or mobile number</b>"
-msgstr "Слање са Вашег мобилног телефона"
+msgstr "<b>Додај мобилни или фиксни телефон</b>"
 
 #: skype:sF_ADDFRIEND_FIND_BTN:1400
 msgid "Find"
 msgstr "Нађи"
 
 #: skype:sF_ADDFRIEND_ADD_SKYPEOUT_BTN:1402 skype:sPHONE_EDIT_SAVE:2165
-#, fuzzy
 msgid "Save phone number"
-msgstr "Унесите број телефона"
+msgstr "Сачувај број телефона"
 
 #: skype:sF_CONNWIZ_CANT_CONNECT_CAPTION:1404
-#, fuzzy
 msgid "Skype can't connect."
-msgstr "скајп не може да се повеже"
+msgstr "Скајп не може да се повеже."
 
 #: skype:sF_CONNWIZ_NO_CONNECTION_CAPTION:1405
 msgid "No network connection"
@@ -6023,9 +5866,8 @@ msgstr "%s дозвољава учесницима слање порука у о
 #: skype:sPREMIUMCALL_WEBWINDOW_TITLE:1507
 #: skype:sMAINMENU_TOOLS_PREMIUM_CALLS_REGISTERED:1524
 #: skype:sDIRECTORY_SKYPEPRIME:2144 skype:sPREMIUMCALL_TITLE:3122
-#, fuzzy
 msgid "Skype Prime"
-msgstr "скајп Прајм Бета"
+msgstr "скајп прајм (Skype Prime)"
 
 #: skype:sF_OPTIONS_LBC_MESSAGES:1508
 #, fuzzy
