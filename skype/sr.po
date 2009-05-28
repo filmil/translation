@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-05-27 23:00-0700\n"
+"PO-Revision-Date: 2009-05-27 23:11-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -5425,7 +5425,6 @@ msgstr ""
 "</a>"
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION24:1417
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.bullguard\">See the step-by-step guide</a>."
@@ -5439,7 +5438,6 @@ msgid "Restart Skype and wait 2 minutes for it reconnect automatically."
 msgstr "Поново покрените скајп и сачекајте 2 минута да се поново повеже."
 
 #: skype:sF_CONNWIZ_PROBLEM2_SOLUTION1:1419
-#, fuzzy
 msgid "Contact your network administrator."
 msgstr "Обратите се администратору мреже."
 
@@ -5452,12 +5450,10 @@ msgid "Make sure your proxy works with Skype."
 msgstr "Проверите да ли Ваш заступник ради са скајпом."
 
 #: skype:sF_CONNWIZ_PROBLEM4_SOLUTION1:1422
-#, fuzzy
 msgid "Open your firewall."
 msgstr "Отворите ватробран."
 
 #: skype:sF_CONNWIZ_PROBLEM4_SOLUTION2:1423
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception. <a href=\"skype:?go#help.guide."
 "firewall\">Learn more about setting up your firewall</a>."
@@ -5490,12 +5486,10 @@ msgid "%s alerts"
 msgstr "узбуна: %s"
 
 #: skype:sF_CHAT_INFO_CAPTION1:1430
-#, fuzzy
 msgid "Profile for IM:"
-msgstr "Профил за %s"
+msgstr "Профил за брзе поруке:"
 
 #: skype:sF_CHAT_INFO_CAPTION2:1431
-#, fuzzy
 msgid "Profile for public IM:"
 msgstr "Профил за јавни разговор:"
 
@@ -5508,38 +5502,31 @@ msgid "Moderation rules:"
 msgstr "Правила модерације:"
 
 #: skype:sF_CHAT_INFO_LB_LINK1:1437
-#, fuzzy
 msgid "IM link:"
 msgstr "Веза на разговор:"
 
 #: skype:sF_CHAT_INFO_LB_LINK2:1438
-#, fuzzy
 msgid "Paste this link into emails or IMs so your friends can click to join."
 msgstr ""
 "Налепите ову везу у ел. пошту или разговоре како би Ваши пријатељи могли да "
 "се прикључе једним притиском."
 
 #: skype:sF_CHAT_INFO_LB_LINK3:1439
-#, fuzzy
 msgid "Or create a link to this public IM on your blog or webpage."
-msgstr ""
-"Или направите везу на овај јавни разговор на Вашем блогу или мрежној страни."
+msgstr "Или направите везу на овај јавни разговор на Вашем блогу или веб страни."
 
 #: skype:sF_CHAT_INFO_RULES1:1440
-#, fuzzy
 msgid "Everyone can read and post messages."
-msgstr "Свако може да чита и шаље поруке"
+msgstr "Свако може да чита и шаље поруке."
 
 #: skype:sF_CHAT_INFO_RULES2:1441
-#, fuzzy
 msgid "Participants need host's permission to start posting messages."
-msgstr "Учесницима треба дозвола домаћина да почну да шаљу поруке"
+msgstr "Учесницима треба дозвола домаћина да почну да шаљу поруке."
 
 #: skype:sF_CHAT_INFO_RULES3:1442
-#, fuzzy
 msgid ""
 "Participants need host's permission to start reading and posting messages."
-msgstr "Учесницима треба дозвола домаћуна да читају и шаљу поруке"
+msgstr "Учесницима треба дозвола домаћуна да читају и шаљу поруке."
 
 #: skype:sF_CHAT_INFO_LB_COUNT:1443
 msgid "Participant count:"
@@ -5550,27 +5537,21 @@ msgid "Show link in your mood"
 msgstr "Покажи везу у расположењу"
 
 #: skype:sF_CHAT_PROMOTE_LB_MOOD:1445
-#, fuzzy
 msgid ""
 "Display a link to this conversation in your mood to your contacts to see."
-msgstr "Покажи везу на овај разговор у расположењу да сви виде"
+msgstr "Покажи везу на овај разговор у расположењу да сви виде."
 
 #: skype:sF_CHAT_PROMOTE_JOIN:1446
-#, fuzzy
 msgid "Join this public IM:"
 msgstr "Укључи се у овај јавни разговор:"
 
 #: skype:sF_STARTCOMCHAT_LB_MOOD:1447
-#, fuzzy
 msgid "Display a link to this IM in your mood for your contacts to see."
-msgstr ""
-"Прикажи везу на овај разговор у расположењу да би ваши познаници могли да "
-"виде"
+msgstr "Прикажи везу на ову поруку у расположењу да би ваши познаници могли да виде"
 
 #: skype:sCALL_LB2_TRANSFERRING_TO:1449
-#, fuzzy
 msgid "Your call is being transferred."
-msgstr "Ваш позив је преусмерен"
+msgstr "Ваш позив је преусмерен."
 
 #: skype:sF_CONNWIZ_ZONE_ALARM:1450
 msgid "ZoneAlarm"
@@ -5597,27 +5578,18 @@ msgid "McAfee"
 msgstr "McAfee"
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION25:1456
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.windowsxp\">See the step-by-step guide</a>."
-msgstr ""
-"Проверите да је скајп наведен као изузетак у вашем ватробрану.<a href="
-"\"skype:?go#help.guides.firewall.windowsxp\">Погледајте упутство корак по "
-"корак.</a>"
+msgstr "Проверите да је скајп наведен као изузетак у вашем ватробрану.<a href=\"skype:?go#help.guides.firewall.windowsxp\">Погледајте упутство корак по корак</a>."
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION26:1457
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.sygate\">See the step-by-step guide</a>."
-msgstr ""
-"Проверите да је скајп наведен као изузетак у вашем ватробрану.<a href="
-"\"skype:?go#help.guides.firewall.sygate\">Погледајте упутство корак по корак."
-"</a>"
+msgstr "Проверите да је скајп наведен као изузетак у вашем ватробрану.<a href=\"skype:?go#help.guides.firewall.sygate\">Погледајте упутство корак по корак</a>."
 
 #: skype:sCHAT_STATUSMESSAGE_RETRYING:1458
-#, fuzzy
 msgid ""
 "The host of this conversation is currently offline. You can close this "
 "window and when the host is next online you will be added to the IM."
@@ -5630,7 +5602,6 @@ msgid "Remove Message"
 msgstr "Уклони поруку"
 
 #: skype:sF_NOTIFY_CHAT_JOIN:1460
-#, fuzzy
 msgid "has joined the IM:"
 msgstr "се придружи разговору:"
 
@@ -5798,25 +5769,21 @@ msgstr "Уреди расположење и профил"
 
 #: skype:sMYSELF_SERVICES_OK:1495
 msgid "%s Skype Credit"
-msgstr "%s скајпов кредит"
+msgstr "скајпов кредит: %s"
 
 #: skype:sMYSELF_SHOW_ACCOUNT_LONG:1496
-#, fuzzy
 msgid "View account"
 msgstr "Преглед налога"
 
 #: skype:sMYSELF_CLOSE_ACCOUNT:1497
-#, fuzzy
 msgid "Close account"
 msgstr "Затвори налог"
 
 #: skype:sCALL_TOOLBAR_HOLD:1498
-#, fuzzy
 msgid "Put this call on hold"
 msgstr "Стави први позив на чекање"
 
 #: skype:sCALL_TOOLBAR_MUTE:1499
-#, fuzzy
 msgid "Mute your microphone"
 msgstr "Утишај микрофон"
 
