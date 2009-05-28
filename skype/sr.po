@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-05-27 22:24-0700\n"
+"PO-Revision-Date: 2009-05-27 23:00-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -5371,7 +5371,6 @@ msgid "Skype may be blocked on your network."
 msgstr "скајп је можда блокиран на Вашој мрежи."
 
 #: skype:sF_CONNWIZ_PROBLEM_3:1408
-#, fuzzy
 msgid ""
 "The proxy settings on your computer are preventing it from connecting to "
 "Skype."
@@ -5380,19 +5379,16 @@ msgstr ""
 "мрежу."
 
 #: skype:sF_CONNWIZ_PROBLEM_4:1409
-#, fuzzy
 msgid ""
 "A firewall or proxy is running and may be preventing Skype from connecting."
 msgstr ""
 "Користите ватробран или заступник који можда спречавају скајп да се повеже."
 
 #: skype:sF_CONNWIZ_PROBLEM_5:1410
-#, fuzzy
 msgid "Your computer is unable to connect to the internet."
 msgstr "Ваш рачунар не може да се повеже са Интернетом."
 
 #: skype:sF_CONNWIZ_PROBLEM_7:1411
-#, fuzzy
 msgid "A firewall may be preventing Skype from connecting."
 msgstr "Ватробран спречава скајп да се повеже."
 
@@ -5401,22 +5397,16 @@ msgid "<b>Try the following:</b>"
 msgstr "<b>Пробајте следеће:</b>"
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION1:1413
-#, fuzzy
 msgid "Open %s firewall."
 msgstr "Отварање ватробрана: %s. "
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION21:1414
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.zonealarm\">See the step-by-step guide</a>."
-msgstr ""
-"Проверите да је скајп наведен као изузетак у вашем ватробрану.Make sure "
-"Skype is listed as an exception to your firewall.firewall <a href=\"skype:?"
-"go#help.guides.firewall.zonealarm\">Погледајте упутство корак по корак.</a>"
+msgstr "Проверите да је скајп наведен као изузетак у вашем ватробрану. <a href=\"skype:?go#help.guides.firewall.zonealarm\">Погледајте упутство корак по корак.</a>"
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION22:1415
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.norton\">See the step-by-step guide</a>."
@@ -5426,7 +5416,6 @@ msgstr ""
 "</a>"
 
 #: skype:sF_CONNWIZ_PROBLEM1_SOLUTION23:1416
-#, fuzzy
 msgid ""
 "Make sure Skype is listed as an exception to your firewall. <a href=\"skype:?"
 "go#help.guides.firewall.mcafee\">See the step-by-step guide</a>."
@@ -7691,9 +7680,8 @@ msgstr "Неважећи телефонски број"
 
 #: skype:sZAPBUTTON_DIRECTORY:1954 skype:sMAINMENU_VIEW_DIRECTORY:2644
 #: skype:sDIRECTORY_CAPTION:3003
-#, fuzzy
 msgid "Directory"
-msgstr "Смер"
+msgstr "Именик"
 
 #: skype:sZAPBUTTON_DOWN:1955
 #, fuzzy
@@ -11990,7 +11978,7 @@ msgstr "Овај групни разговор нема учеснике."
 msgid ""
 "Drag contacts here from the Contact list to add them to the group or use the "
 "Add people button."
-msgstr "Превуците познанике из списка како бисте додали у групу, или користите дугме „Додај познанике‟<."
+msgstr "Превуците познанике из списка како бисте додали у групу, или користите дугме „Додај познанике‟."
 
 #: skype:sUNSAVED_GROUP_LABEL:3070
 msgid ""
@@ -12452,16 +12440,15 @@ msgstr "<b>Солидно</b><br/>Било је неколико проблем�
 
 #: skype:sF_CALL_QLT_LBL2_BAD:3187
 msgid "<b>Poor</b><br/>Had several problems; really affected the call"
-msgstr "<b>Лоше</b><br>Наишли смо на неколико проблема који су утицали на квалитет разговора"
+msgstr "<b>Лоше</b><br/>Наишли смо на неколико проблема који су утицали на квалитет разговора"
 
 #: skype:sF_CALL_QLT_LBL2_VERY_BAD:3188
 msgid "<b>Very bad</b><br/>Problems so bad the call was impossible"
 msgstr "<b>Јако лоше</b><br/>Проблеми су учинили разговор немогућим."
 
 #: skype:sCONVERSATION_MODE_IM:3189
-#, fuzzy
 msgid "Send IM to group"
-msgstr "Пошаљи датотеку целој групи"
+msgstr "Пошаљи поруку целој групи"
 
 #: skype:sCONVERSATION_MODE_SMS:3190
 #, fuzzy
