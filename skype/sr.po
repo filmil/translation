@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 3.8.0.115\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-04 22:40-0700\n"
-"PO-Revision-Date: 2009-05-18 01:10-0700\n"
+"PO-Revision-Date: 2009-05-27 22:24-0700\n"
 "Last-Translator: Filip Miletic <filmil at NO-SPAM ewi dot tudelft dot nl>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -8817,7 +8817,7 @@ msgstr "Направи пробни позив"
 msgid ""
 "Select a friend from your Contacts, click the <b>Start video</b> button, "
 "wave, smile and say Hi!."
-msgstr "Изаберите познаника са списка, затим притисните дугме <b>Пусти видео<b/>, насмешите се и кажите: „Здраво!‟"
+msgstr "Изаберите познаника са списка, затим притисните дугме <b>Пусти видео</b>, насмешите се и кажите: „Здраво!‟"
 
 #: skype:sVIDEO_FULLSCREEN_CAPTION:2278
 #, fuzzy
