@@ -1,5 +1,5 @@
 # -*- Makefile -*-
-VERSION=4.0.0.206
+VERSION=4.1.0.179
 VERSION_LINUX=2.0.0.12-beta
 DISTRIB=distrib
 SKYPE2PO=skype2po.py
