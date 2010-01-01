@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 14:49+0100\n"
+"PO-Revision-Date: 2010-01-01 15:20+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -6661,31 +6661,24 @@ msgid ""
 msgstr "<b>Жао нам је, дошло је до проблема на мрежи.</b><br/><a href=\"skype:?options#callforward\">Отворите опције</a> и пробајте поново."
 
 #: skype:sCF_BANNER_FOOTER:1695
-#, fuzzy
 msgid ""
 "Forwarded calls are charged at <a href=\"skype:?go#rates\">our rates for "
 "calling phones and mobiles</a>."
-msgstr ""
-"Прослеђивање позива наплаћује се по <a href=\"skype:?go#rates\">скајпАут "
-"тарифи</a>."
+msgstr "Прослеђивање позива наплаћује се по <a href=\"skype:?go#rates\">тарифи за фиксне и мобилне телефоне</a>."
 
 #: skype:sPERSONALISE_MENU_ADD_MEDIA:1698
 msgid "Add Video to Your Mood…"
 msgstr "Додај видео у расположење…"
 
 #: skype:sMYSELF_HINT_EMPTY_MOOD_AREA:1699
-#, fuzzy
 msgid ""
 "Add <a href=\"skype:?multimedia_mood\">video</a> or write a message here for "
 "your friends to see."
-msgstr ""
-"Додајте <a href=\"skype:?multimedia_mood\">видео</a> или напишите поруку "
-"овде како би сви Ваши пријатељи могли да виде"
+msgstr "Додајте <a href=\"skype:?multimedia_mood\">видео</a> или напишите поруку овде како би сви Ваши пријатељи могли да виде."
 
 #: skype:sTOOLTIP_MYSELF_THUMB:1700
-#, fuzzy
 msgid "Click to change video."
-msgstr "Притисните да бисте променили видео"
+msgstr "Притисните да бисте променили видео."
 
 #: skype:sTOOLTIP_CHAT_THUMB:1701 skype:sTOOLTIP_CONTACT_THUMB:1702
 #: skype:sAX_MOODPREVIEW_PLAY_HINT:1781
@@ -6693,14 +6686,12 @@ msgid "Play video %s"
 msgstr "Пусти видео %s"
 
 #: skype:sVIDEO_SNAPSHOT_TITLE:1703 skype:sVIDEO_SNAPSHOT_CAPTION:1704
-#, fuzzy
 msgid "Video snapshots"
-msgstr "Видео инсерти"
+msgstr "Фотографије"
 
 #: skype:sVIDEO_SNAPSHOT_LABEL:1705
-#, fuzzy
 msgid "Pictures are saved in your Skype Pictures folder."
-msgstr "Слике се чувају у вашим скајповим сликама (Skype Pictures)"
+msgstr "Слике се чувају међу скајповим сликама (Skype Pictures)."
 
 #: skype:sF_CT_NO_PRIVILEGE:1707
 msgid ""
@@ -6715,7 +6706,6 @@ msgid "Take a Snapshot"
 msgstr "Направи снимак"
 
 #: skype:sF_USERINFO_IMG_SERTIFIED:1710 skype:sF_ADDFRIEND_IMG_SERTIFIED:1711
-#, fuzzy
 msgid "Business contact"
 msgstr "Пословни познаник"
 
@@ -6736,14 +6726,12 @@ msgid "Continue redialing"
 msgstr "Настави звање"
 
 #: skype:sCALL_LB2_REDIAL1:1717
-#, fuzzy
 msgid "Redialing in %s minutes."
-msgstr "Звање за оволико минута: %s"
+msgstr "Звање за оволико минута: %s."
 
 #: skype:sCALL_LB2_REDIAL2:1718
-#, fuzzy
 msgid "Redialing in %s seconds."
-msgstr "Звање за оволико секунди: %s"
+msgstr "Звање за оволико секунди: %s."
 
 #: skype:sREDIAL_NOTIF_CANCEL:1721
 msgid "Cancel redialing"
@@ -6758,32 +6746,26 @@ msgid "%s - %s"
 msgstr "%s - %s"
 
 #: skype:sREDIAL_NOTIF_LB_BUSY:1725
-#, fuzzy
 msgid "%s - phone number still busy."
-msgstr "%s - број је још увек заузет"
+msgstr "%s - број је још увек заузет."
 
 #: skype:sCALL_LB2_FAILED_COMMERCIAL_CONTACT:1726
-#, fuzzy
 msgid "Contact can only receive IMs."
-msgstr "Познаник може само да прима разговоре"
+msgstr "Познаник може само да прима разговоре."
 
 #: skype:sGREENBUTTON_HINT_COMMERCIAL_CONTACT:1727
-#, fuzzy
 msgid "Cannot call this business contact."
-msgstr "Није могуће позвати овог пословног познаника"
+msgstr "Није могуће позвати овог пословног познаника."
 
 #: skype:sPANELBUTTON_CALL_PHONES:1728
-#, fuzzy
 msgid "<b>Call phones</b> or send SMS messages"
 msgstr "<b>Зовите телефоне</b> или шаљите СМС поруке"
 
 #: skype:sPANELBUTTON_DIRECTORY:1729
-#, fuzzy
 msgid "<b>Directory</b> Find people, businesses or learn something new"
 msgstr "<b>Именик</b> Пронађите бројеве телефона и записнике разговора"
 
 #: skype:sPANELBUTTON_SHOP:1730
-#, fuzzy
 msgid "<b>Shop</b> Buy a headset, phone and more"
 msgstr "<b>Продавница</b> Купите слушалице, телефон и друго"
 
@@ -6792,9 +6774,8 @@ msgid "New Contact"
 msgstr "Нови познаник"
 
 #: skype:sCONVLIST_NEW_GROUP:1732 skype:sCONTEXTMENU_CREATE_GROUP:2798
-#, fuzzy
 msgid "New Group Conversation"
-msgstr "Позивница за дељену групу"
+msgstr "Позивница за групни разговор"
 
 #: skype:sCHAT_EDITED_BY_SELF_MESSAGE_TITLE:1733
 msgid "Edited %s"
@@ -6813,17 +6794,14 @@ msgid "Add all to my Contacts"
 msgstr "Додај све у списак познаника"
 
 #: skype:sCHAT_CONTACTS_ONE:1737
-#, fuzzy
 msgid "sent a contact card to everyone"
-msgstr "пошаљи по визиткарту учесницима овог разговора"
+msgstr "слање визиткарте свим учесницима овог разговора"
 
 #: skype:sCHAT_CONTACTS_MULTIPLE:1738
-#, fuzzy
 msgid "sent %d contact cards to everyone"
 msgstr " слање визиткарти (ук. %d) учесницима овог разговора"
 
 #: skype:sCHAT_CONTACTS_TOOMANY:1739
-#, fuzzy
 msgid ""
 "sent %d contacts to everyone. <a href=\"chat:contacts_%d\">Click here</a> to "
 "select who to add to your Contact list."
@@ -6833,7 +6811,6 @@ msgstr ""
 "познаника."
 
 #: skype:sCALL_ALERT_EXAMPLE:1740
-#, fuzzy
 msgid "This is an example of a call alert"
 msgstr "Ово је пример узбуне у обавештајној зони"
 
@@ -6842,14 +6819,12 @@ msgid "at"
 msgstr "у"
 
 #: skype:sVIDEO_SNAPSHOT_ANOTHER_CONTACT:1742
-#, fuzzy
 msgid "Another contact"
-msgstr "Још један скајпов познаник…"
+msgstr "Још познаника"
 
 #: skype:sVIDEO_SNAPSHOT_SAVE_AS:1743 skype:sZAPBUTTON_SAVEAS:2061
-#, fuzzy
 msgid "Save as"
-msgstr "Сачувај као…"
+msgstr "Сачувај као"
 
 #: skype:sVIDEO_SNAPSHOT_EDIT:1744 skype:sZAPBUTTON_EDIT:1966
 #: skype:sPHONE_EDIT:2198 skype:sF_IMAGE_CONTENT_EDIT:3295
@@ -6863,14 +6838,12 @@ msgid "Send snapshot"
 msgstr "Пошаљи инсерт"
 
 #: skype:sVIDEO_SNAPSHOT_SET_AVATAR:1747
-#, fuzzy
 msgid "Set as my picture"
 msgstr "Постави као моју слику"
 
 #: skype:sVIDEO_SNAPSHOT_SET_WALLPAPER:1748
-#, fuzzy
 msgid "Set as desktop background"
-msgstr "Постави на радну површ…"
+msgstr "Постави као позадину"
 
 #: skype:sZAP_ACTIONBUTTON_HANGUP:1750
 msgid "End Call"
@@ -6883,23 +6856,18 @@ msgid "SMS"
 msgstr "СМС"
 
 #: skype:sDEVICE_INDICATOR_HINT:1753
-#, fuzzy
 msgid "<img id=\"4146\"/> %s is using Skype <br/> without a computer."
-msgstr "Користи скајп без рачунара"
+msgstr "<img id=\"4146\"/> %s користи скајп <br/> без рачунара."
 
 #: skype:sMOBILE_RICH_MOOD:1754
-#, fuzzy
 msgid ""
 "Using Skype without my computer. <a href=\"skype:?go#deviceindicator\">Find "
 "out more</a>."
-msgstr ""
-"Користите скајп без рачунара. <a href=\"skype:?go#deviceindicator\">Сазнајте "
-"како.</a>"
+msgstr "Користите скајп без рачунара. <a href=\"skype:?go#deviceindicator\">Сазнајте више</a>."
 
 #: skype:sMOBILE_MOOD:1755
-#, fuzzy
 msgid "Using Skype without my computer."
-msgstr "Користи скајп без рачунара"
+msgstr "Како користити скајп без рачунара."
 
 #: skype:sCHAT_ADD_MEDIA:1756 skype:sCHAT_ADD_MEDIA_SHORT:1757
 #: skype:sCHAT_ADD_MEDIA_HINT:1758
@@ -6924,9 +6892,8 @@ msgid "Number still busy"
 msgstr "Број је и даље заузет"
 
 #: skype:sMAINMENU_TOOLS_VIDEOSNAPSHOTS:1765
-#, fuzzy
 msgid "Video Snapshots…"
-msgstr "Видео инсерти"
+msgstr "Видео снимци…"
 
 #: skype:sFILETRANSFER_PROGRESS:1766
 msgid "%s of %s"
@@ -6937,9 +6904,8 @@ msgid ", %d %s remaining"
 msgstr ", %d %s преостаје"
 
 #: skype:sFILETRANSFER_MULTI_FAILED:1768 skype:sSMS_STATUS_FAILED_SINGLE:2397
-#, fuzzy
 msgid "Failed"
-msgstr "Датотека"
+msgstr "Неуспело"
 
 #: skype:sCALL_LB2_REDIAL3:1769
 msgid "Redialing in %s minute"
@@ -6967,32 +6933,26 @@ msgstr "датотека: %d"
 
 #: skype:sFILETRANSFER_SAVEALL_BTN:1775 skype:sZAPBUTTON_SAVEALL:2057
 #: skype:sZAPBUTTON_SAVEALLAS:2058
-#, fuzzy
 msgid "Save all"
 msgstr "Сачувај све"
 
 #: skype:sFILETRANSFER_CANCELALL_BTN:1776 skype:sZAPBUTTON_CANCELALL:2060
-#, fuzzy
 msgid "Cancel all"
-msgstr "Обустави позив"
+msgstr "Обустави све"
 
 #: skype:sCHAT_FT_SINGLE:1777
-#, fuzzy
 msgid "%s is sending everyone a file."
-msgstr "%s шаље учесницима датотеку"
+msgstr "%s шаље свима датотеку."
 
 #: skype:sCHAT_FT_MULTIPLE:1778
-#, fuzzy
 msgid "%s is sending everyone %d files."
-msgstr "%s шаље учесницима више датотека (ук: %d)"
+msgstr "%s шаље свима више датотека (ук: %d)."
 
 #: skype:sSTATUSMENU_CAPTION_CF_OPTIONS1:1779
-#, fuzzy
 msgid "Call Forwarding Options"
-msgstr "Подешавања за прослеђивање позива"
+msgstr "Опције за прослеђивање позива"
 
 #: skype:sSTATUSMENU_CAPTION_CF_OPTIONS2:1780
-#, fuzzy
 msgid "Set up Call Forwarding…"
 msgstr "Подеси прослеђивање позива…"
 
@@ -7001,56 +6961,41 @@ msgid "Remove video '%s' from my mood"
 msgstr "Уклони видео „%s‟ из мог расположења"
 
 #: skype:sWNGUIDE_WEBWINDOW_TITLE:1783
-#, fuzzy
 msgid "What's new?"
 msgstr "Шта има ново?"
 
 #: skype:sF_AUTH_UNDER16:1785
-#, fuzzy
 msgid ""
 "Do you know this person? If not, do you really want them to contact you?"
-msgstr ""
-"Да ли познајете ову особу? Ако је не познајете, добро размислите да ли "
-"желите да допустите да Вас контактира."
+msgstr "Да ли познајете ову особу? Ако је не познајете, добро размислите да ли желите да допустите да Вас контактира."
 
 #: skype:sF_STARTCHAT_CHAT_ABOUT_MEDIA:1787
-#, fuzzy
 msgid "%s video will be added to the conversation for everyone to watch."
-msgstr ""
-"Видео (кор.: %s) ће бити додат у разговор како би сви учесници могли да га "
-"виде."
+msgstr "Видео (кор.: %s) ће бити додат у разговор како би сви могли да га виде."
 
 #: skype:sREDBUTTON_HINT_CANCEL_VOICEMAIL:1788
 #: skype:sZAPBUTTON_CANCELVOICEMAIL:1921
-#, fuzzy
 msgid "Cancel voicemail"
 msgstr "Откажи снимање говорне поруке"
 
 #: skype:sDRAGONFLY_ADD_VIDEO_TITLE:1789
-#, fuzzy
 msgid "Add video to conversation - %s"
 msgstr "Додај видео у разговор - %s"
 
 #: skype:sTEXT_ILLFORMED_XML:1790
-#, fuzzy
 msgid "The language string %s is invalid. Cannot load the language file."
 msgstr "Језичка ниска „%s‟ је неважећа.  Није могуће учитати језичку датотеку."
 
 #: skype:sF_USERPROFILE_BUTTON_MOOD:1791
-#, fuzzy
 msgid "Change your mood"
 msgstr "Промена расположења"
 
 #: skype:sFLASH_CONTROL_GETFLASH:1792
-#, fuzzy
 msgid ""
 "<center><a href=\"#\">Get Adobe Flash player</a><br/>to view video.</center>"
-msgstr ""
-"<center><a href=\"#\">Набавите Адобијев Флеш Плејер (Adobe Flash Player)</"
-"a><br/> да бисте гледали видео</center>"
+msgstr "<center><a href=\"#\">Набавите Адобијев флеш плејер (Adobe Flash Player)</a><br/> да бисте гледали видео</center>"
 
 #: skype:sDLG_MESSAGE_GETFLASH:1793
-#, fuzzy
 msgid ""
 "You need to install or upgrade your Flash player ActiveX component.<br/>Do "
 "you want to install it now?"
@@ -7060,23 +7005,20 @@ msgstr ""
 "желите да је одмах инсталирате?"
 
 #: skype:sVIDEO_SNAPSHOT_LOCATION:1795
-#, fuzzy
 msgid ""
 "Your video snapshots are saved <a href=\"skype:?video_snapshots_dir\">here</"
 "a>."
-msgstr "Ваши видео снимци су сачувани <a href=\"\">овде</a>"
+msgstr "Ваши видео снимци су сачувани <a href=\"skype:?video_snapshots_dir\">овде</a>."
 
 #: skype:sVIDEO_SNAPSHOT_SEND_TO_USER:1796
 msgid "Send to %s"
 msgstr "Пошаљи за %s"
 
 #: skype:sCALL_LB2_REDIAL_DELAYED:1797
-#, fuzzy
 msgid "Redial delayed by other call(s)."
-msgstr "Поновно звање је обустављено због других позива"
+msgstr "Поновно звање је обустављено због других позива."
 
 #: skype:s_OPTIONS_UNDER_16_WARNING:1798
-#, fuzzy
 msgid ""
 "If you are under 16 years of age Skype stops people you do not know from "
 "contacting you"
@@ -7094,17 +7036,14 @@ msgstr ""
 "Дошло је до грешке при повезивању на видео сервер. Молимо покушајте касније."
 
 #: skype:sFILETRANSFER_INFORM_COM_CONTACT:1802
-#, fuzzy
 msgid "This commercial contact can't receive files."
 msgstr "Овај пословни познаник не може да прима датотеке."
 
 #: skype:s_OPTIONS_ACCEPT_COOKIES:1803
-#, fuzzy
 msgid "Accept Skype browser cookies"
-msgstr "Прихвати скајпове колачиће за интернет читач"
+msgstr "Прихвати скајпове колачиће"
 
 #: skype:s_OPTIONS_CLEAR_COOKIES:1804
-#, fuzzy
 msgid "Clear Skype cookies"
 msgstr "Уклони скајпове колачиће"
 
@@ -7129,7 +7068,6 @@ msgid "> 24 hours"
 msgstr "> 24 сата"
 
 #: skype:sSENDMONEY_IE_VERSION_ERROR:1810
-#, fuzzy
 msgid ""
 "Unfortunately this service requires a later version of Internet Explorer "
 "(IE) than the one you are using.  If you would like to continue, you will "
@@ -7144,7 +7082,6 @@ msgstr ""
 "ново издање, поново покрените услугу из скајпа и пробајте поново."
 
 #: skype:sCONFIRM_HQVIDEO:1811
-#, fuzzy
 msgid ""
 "Your webcam is set up for Skype. Next time you're in a call click "
 "<strong>Start My Video</strong> to have a video call.<br/>Try it out - watch "
@@ -7155,37 +7092,30 @@ msgstr ""
 ">Пробајте одмах и видите преглед."
 
 #: skype:sCONFIRM_HQVIDEO_TITLE:1812
-#, fuzzy
 msgid "Skype™ - all set for High Quality Video"
-msgstr "скајп (Skype™) - Висококвалитетна слика са камере"
+msgstr "скајп (Skype™) - висококвалитетна слика са камере"
 
 #: skype:sCONFIRM_HQVIDEO_CAPTION:1813
-#, fuzzy
 msgid "You've got a High Quality Video webcam."
-msgstr "Имате висококвалитетну камеру"
+msgstr "Имате камеру која снима висококвалитетан видео."
 
 #: skype:sCONFIRM_HQVIDEO_BTN_PREVIEW:1814 skype:sZAPBUTTON_PREVIEW:2028
 msgid "Preview"
 msgstr "Преглед"
 
 #: skype:sHQVIDEO_LOGO_RECEIVER_HINT:1816
-#, fuzzy
 msgid "You are watching High Quality Video"
-msgstr "Примате висококвалитетни видео"
+msgstr "Гледате висококвалитетни видео"
 
 #: skype:sHQVIDEO_LOGO_RECEIVER_PROMO_HINT:1817
-#, fuzzy
 msgid ""
 "You are watching High Quality Video.<br/><a href=\"skype:?go#highqualityvideo"
 "\">Find out more</a>."
-msgstr ""
-"Примате висококвалитетни видео.<br/><a href=\"skype:?go#highqualityvideo"
-"\">Сазнајте више</a>"
+msgstr "Гледате висококвалитетни видео.<br/><a href=\"skype:?go#highqualityvideo\">Сазнајте више</a>."
 
 #: skype:sHQVIDEO_LOGO_SENDER_HINT:1818
-#, fuzzy
 msgid "You are sending High Quality Video."
-msgstr "Шаљете висококвалитетни видео"
+msgstr "Шаљете висококвалитетни видео."
 
 #: skype:sF_SEARCH_LB_FOUND:1819
 msgid "%s people on Skype"
@@ -7196,9 +7126,8 @@ msgid "Get started"
 msgstr "Први кораци"
 
 #: skype:sGSW_SHOW_WIZARD_CHECKBOX:1821
-#, fuzzy
 msgid "Show this guide when I start Skype"
-msgstr "Не приказуј овај водич на почетку"
+msgstr "Не приказуј овај водич када покренем скајп"
 
 #: skype:sGSW_WELCOME_LABEL:1822
 msgid "Welcome to Skype"
@@ -7209,19 +7138,16 @@ msgid "Get set up in three easy steps."
 msgstr "Подесите све што треба у три лака корака."
 
 #: skype:sGSW_FIRST_CAPTION:1824
-#, fuzzy
 msgid "Make a test call to check your sound"
-msgstr "Направи пробни позив и провери"
+msgstr "Направите први пробни позив и проверите звук"
 
 #: skype:sGSW_SECOND_CAPTION:1825
-#, fuzzy
 msgid "Find people you know"
-msgstr "Тражите ли људе које већ познајете?"
+msgstr "Тражите ли познанике?"
 
 #: skype:sGSW_THIRD_CAPTION_2:1827
-#, fuzzy
 msgid "That's it! Enjoy using Skype"
-msgstr "жели да користи скајп"
+msgstr "То је све!  Уживајте уз скајп"
 
 #: skype:sGSW_SOUND_PROBLEM_CAPTION:1828
 msgid "There seems to be a problem."
@@ -7232,27 +7158,22 @@ msgid "Have fun using Skype"
 msgstr "Уживајте уз скајп"
 
 #: skype:sGSW_CONTINUE_BUTTON:1834
-#, fuzzy
 msgid "Continue getting started"
-msgstr "Први кораци"
+msgstr "Наставите са првим корацима"
 
 #: skype:sGSW_FIRST_LABEL1:1836
-#, fuzzy
 msgid ""
 "In the Contact list on the left, click the contact called <b>Skype Test "
 "Call</b>."
-msgstr ""
-"<b>Корак 1.</b> У језичку Познаници, пронађите и притисните „скајпов пробни "
-"позив“."
+msgstr "У списку познаника с леве стране, пронађите и притисните скајпов пробни позив („Skype Test Call“)."
 
 #: skype:sGSW_FIRST_LABEL2:1837
 msgid "Then click the <b>green Start call button</b>"
 msgstr "Затим притисните <b>зелено дугме за звање</b>"
 
 #: skype:sGSW_SHOW_BUTTON:1838
-#, fuzzy
 msgid "Show me"
-msgstr "кућни"
+msgstr "Покажи ми"
 
 #: skype:sGSW_FIRST_LABEL3:1839
 msgid ""
@@ -7295,9 +7216,8 @@ msgstr ""
 "познаника."
 
 #: skype:sGSW_SECOND_LABEL2:1847
-#, fuzzy
 msgid "Search your address books to see who's on Skype"
-msgstr "Потражи људе који су на скајпу"
+msgstr "Претрага адресара у потрази за људима који користе скајп"
 
 #: skype:sGSW_SECOND_LABEL3:1848
 msgid ""
@@ -7317,31 +7237,26 @@ msgid ""
 msgstr "Скајп упарује имена из адресара са именима на скајповој мрежи."
 
 #: skype:sGSW_SECOND_LABEL6:1851
-#, fuzzy
 msgid ""
 "It is completely safe - Skype won't send them emails or add them to your "
 "Skype contacts without your OK."
-msgstr ""
-"Потпуно је безбедно притиснути „Да“, пошто ће скајп само претраживати "
-"познанике из Аутлука који користе скајп."
+msgstr "Ово је сасвим безбедно - скајп им неће слати ел. пошту нити их додати у списак познаника без Вашег одобрења."
 
 #: skype:sGSW_SEARCH_EDIT_HINT:1852
 msgid "Enter your friend's name, Skype Name or email address"
 msgstr "Унесите пријатељево име, скајпово име, или електронску адресу"
 
 #: skype:sGSW_HOTMAIL:1853
-#, fuzzy
 msgid "Hotmail"
-msgstr "Гласовна пошта"
+msgstr "Хотмејл (Hotmail)"
 
 #: skype:sGSW_YAHOO:1854
 msgid "Yahoo"
-msgstr "Јаху (Yahoo!)"
+msgstr "Јаху (Yahoo)"
 
 #: skype:sGSW_GMAIL:1855
-#, fuzzy
 msgid "Gmail"
-msgstr "Ел. адреса"
+msgstr "Гмејл (Gmail)"
 
 #: skype:sGSW_OUTLOOK:1856
 msgid "Outlook"
@@ -7352,14 +7267,12 @@ msgid "Outlook Express"
 msgstr "Аутлук експрес (Outlook Express)"
 
 #: skype:sGSW_VIEW_RESULTS_BUTTON:1861
-#, fuzzy
 msgid "View results"
-msgstr "Резултати претраге"
+msgstr "Преглед резултата"
 
 #: skype:sGSW_SEARCH_ARAIN_LINK:1862
-#, fuzzy
 msgid "<a href=\"\">Search again</a>"
-msgstr "Тражи поново"
+msgstr "<a href=\"\">Тражи поново</a>"
 
 #: skype:sGSW_IMPORT_CONTACTS_LABEL1:1863
 msgid ""
@@ -7372,9 +7285,8 @@ msgstr ""
 "подешавањима док претрага траје."
 
 #: skype:sGSW_IMPORT_CONTACTS_LABEL2:1864
-#, fuzzy
 msgid "We've found %d of your friends who might be on Skype"
-msgstr "Пронађи моје пријатеље који користе скајп"
+msgstr "Пронашли смо Ваше пријатеље (укупно: %d) који можда користе скајп"
 
 #: skype:sGSW_IMPORT_CONTACTS_LABEL3:1865
 msgid ""
@@ -7387,9 +7299,8 @@ msgstr ""
 "воље.  Потпуно је бесплатно!  Притисните „Даље‟ да наставите."
 
 #: skype:sGSW_IMPORT_CONTACTS_LABEL4:1866
-#, fuzzy
 msgid "Import of contacts was cancelled."
-msgstr "Увези познанике"
+msgstr "Увоз познаника је отказан."
 
 #: skype:sGSW_THIRD_LABEL1:1867
 msgid "Go to Call phones to find out more."
