@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 16:44+0100\n"
+"PO-Revision-Date: 2010-01-01 17:27+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -8690,7 +8690,6 @@ msgid "Call %0:s"
 msgstr "Зови: %0:s"
 
 #: skype:sQF_ADD_TO_CONTACTLIST:2327
-#, fuzzy
 msgid "Add %0:s to your Contact list."
 msgstr "Додај %0:s у списак познаника."
 
@@ -8699,79 +8698,68 @@ msgid "Search for %0:s in the Skype Directory."
 msgstr "Тражи %0:s у скајповом именику."
 
 #: skype:sQF_CALL_SO_NO_CREDIT:2330
-#, fuzzy
 msgid "Buy Skype Credit to call phones and mobiles."
-msgstr "Купите скајпов кредит да бисте слали СМС поруке на мобилне телефоне"
+msgstr "Купите скајпов кредит да бисте звали фиксне и мобилне телефоне"
 
 #: skype:sCALL_RESUME_OTHERS_LIVE:2331
 msgid "Resuming this call will put other calls on hold."
 msgstr "Настављање овог позива ће ставити друге позиве на чекање."
 
 #: skype:sCALL_TOOLBAR_RESUME:2332
-#, fuzzy
 msgid "Resume this call"
-msgstr "Наставите везу"
+msgstr "Наставите овај позив"
 
 #: skype:sVIDEOMENU_VIDEOSIZE_FITTOWINDOW:2334
-#, fuzzy
 msgid "Fit Video to Window"
-msgstr "Видео у прозору"
+msgstr "Уклопи видео у прозор"
 
 #: skype:sVIDEOMENU_VIDEOSIZE_SMALL:2335
 msgid "Video Size: Small"
 msgstr "Величина слике: мала"
 
 #: skype:sVIDEOMENU_VIDEOSIZE_BIG:2336
-#, fuzzy
 msgid "Video Size: Big"
-msgstr "Поставке видеа"
+msgstr "Велика слика"
 
 #: skype:sVIDEOMENU_EXIT_FULLSCREEN:2337
-#, fuzzy
 msgid "Exit Full Screen"
-msgstr "Видео на целом екрану"
+msgstr "Искључи видео на целом екрану"
 
 #: skype:sCHATHISTORY_INSTRUCTIONS:2338
 msgid "Drag the bar to load conversation history."
 msgstr "Превуците траку да бисте учитали историјат разговора."
 
 #: skype:sCHATHISTORY_THISWEEK:2340
-#, fuzzy
 msgid "This week"
-msgstr "2 недеље"
+msgstr "Ове недеље"
 
 #: skype:sCHATHISTORY_SIXMONTH:2342
-#, fuzzy
 msgid "6 months"
-msgstr "3 месеца"
+msgstr "6 месеци"
 
 #: skype:sCALL_TOOLBAR_SOUND_SETTINGS:2343
-#, fuzzy
 msgid "Sound Settings"
-msgstr "Прилагоди звучне уређаје"
+msgstr "Подешавање звука"
 
 #: skype:sCALL_TOOLBAR_CALL_QUALITY:2345
 msgid "Call Quality Feedback"
 msgstr "Позови техничку подршку"
 
 #: skype:sCONVERSATION_REMOVE_FROM_INBOX:2346
-#, fuzzy
 msgid "Remove from &Conversations."
-msgstr "Уклони из списка познаника"
+msgstr "Уклони из &разговора."
 
 #: skype:sCONVERSATION_MISSING_ITEM:2347
 msgid "Item has been deleted from conversation history."
 msgstr "Ставка је уклоњена из историјата разговора."
 
 #: skype:sCONVERSATIONSEARCH_TEXT:2348
-#, fuzzy
 msgid "Text"
-msgstr "Даље"
+msgstr "Текст"
 
 #: skype:sCONVERSATIONSEARCH_FILES:2349
-#, fuzzy
 msgid "Files"
-msgstr "Датотека"
+msgstr "Датотеке"
 
 #: skype:sCONVERSATIONSEARCH_VOICEMAILS:2351
 #: skype:sHISTORY_FILTER_VOICEMAILS:3105
@@ -8799,19 +8787,16 @@ msgid "Turn off your video"
 msgstr "Искључи видео"
 
 #: skype:sCONTACT_START_VIDEO_CALL_BUTTON_HINT:2359
-#, fuzzy
 msgid "Start a video call"
-msgstr "Позови"
+msgstr "Видео позив"
 
 #: skype:sCALL_VM_RERECORD:2361 skype:sCALL_TOOLBAR_VM_RECORD:2362
-#, fuzzy
 msgid "Re-record the voicemail"
-msgstr "Брисање говорне поште"
+msgstr "Сними говорну поруку"
 
 #: skype:sCALL_TOOLBAR_VM_CANCEL:2363
-#, fuzzy
 msgid "Cancel recording."
-msgstr "Откажи звање"
+msgstr "Откажи снимање."
 
 #: skype:sACL_PROGRAM_BLACKLISTED:2364
 msgid ""
@@ -8830,14 +8815,12 @@ msgstr ""
 "рачунар и подаци нису угрожени."
 
 #: skype:sACL_PROGRAM_UNLISTED:2366
-#, fuzzy
 msgid ""
 "This program is not known to Skype and may be a potential security risk."
 msgstr ""
 "Овај програм није познат скајпу и зато може да буде ризик за безбедност."
 
 #: skype:sACL_PROGRAM_UNLISTED_NEW:2367
-#, fuzzy
 msgid ""
 "Another program is trying to access Skype. This program is not known to "
 "Skype and may be a potential security risk."
@@ -8850,9 +8833,8 @@ msgid "wants to use Skype"
 msgstr "жели да користи скајп"
 
 #: skype:sCONVERSATION_MISSING_MESSAGES:2369
-#, fuzzy
 msgid "Messages"
-msgstr "СМС поруке"
+msgstr "Поруке"
 
 #: skype:sCONVERSATION_MARK_UNREAD:2370
 #: skype:sMAINMENU_CONVERSATION_MARK_AS_UNREAD:2640
@@ -8896,19 +8878,16 @@ msgid "New audio device found."
 msgstr "Пронађен је нови звучни уређај."
 
 #: skype:sDEVICES_NEW_DETECTED2:2379
-#, fuzzy
 msgid "Skype has detected %s."
-msgstr "скајп је повезан"
+msgstr "Скајп је препознао: %s."
 
 #: skype:sDEVICES_NEW_DETECTED3:2380
-#, fuzzy
 msgid "Skype has found %s and will use it for calls."
-msgstr "скајп је пронашао и додао горе наведене познанике."
+msgstr "Скајп је пронашао уређај: %s.  Биће коришћен за позиве."
 
 #: skype:sDEVICES_NEW_DETECTED4:2381
-#, fuzzy
 msgid "New audio devices available."
-msgstr "Услуга није доступна"
+msgstr "Доступни су нови аудио уређаји."
 
 #: skype:sDEVICES_NEW_DETECTED5:2382
 msgid ""
@@ -8919,19 +8898,16 @@ msgstr ""
 "који желите да користите."
 
 #: skype:sDEVICES_CURRENTLY_USING:2383
-#, fuzzy
 msgid "Skype is currently using %s."
-msgstr "скајп је већ покренут."
+msgstr "Скајп тренутно користи %s."
 
 #: skype:sDEVICES_USE_FOR_CALLS:2384
-#, fuzzy
 msgid "Do you want to use this device for calls?"
-msgstr "Да ли сигурно желите да обуставите овај конференцијски разговор?"
+msgstr "Да ли сигурно желите да користите овај уређај за разговоре?"
 
 #: skype:sDEVICES_NEW_MIC1:2385
-#, fuzzy
 msgid "Your webcam has a microphone"
-msgstr "Говорите у утишан микрофон."
+msgstr "Ваша камера има и микрофон"
 
 #: skype:sDEVICES_NEW_MIC2:2386
 msgid "It will be useful if you don't have a headset or a microphone."
@@ -8962,58 +8938,47 @@ msgid "Switch to full-screen for incoming video calls"
 msgstr "Пребаците се на приказ преко целог екрана за долазне видео позиве"
 
 #: skype:sOPTIONS_NO_AUDIO_DEVICE:2392 skype:sOPTIONS_AUDIO_DEVICE_NONE:2453
-#, fuzzy
 msgid "None"
-msgstr "било кога"
+msgstr "Ниједан"
 
 #: skype:sOPTIONS_UNMUTE_SPEAKERS:2393
 msgid "Automatically adjust speaker settings"
 msgstr "Аутоматски подеси звучнике"
 
 #: skype:sSMS_RECIPIENTS:2394
-#, fuzzy
 msgid "%d Recipients"
-msgstr "Догађаја: %d"
+msgstr "Прималаца: %d"
 
 #: skype:sSMS_STATUS_PENDING_SINGLE:2395
-#, fuzzy
 msgid "Sent"
-msgstr "Постави"
+msgstr "Послато"
 
 #: skype:sSMS_STATUS_SENT_SINGLE:2396
-#, fuzzy
 msgid "Delivered"
-msgstr "С олакшањем"
+msgstr "Испоручено"
 
 #: skype:sSMS_STATUS_PENDING_MULTIPLE:2398
-#, fuzzy
 msgid "%d sent"
-msgstr "Догађаја: %d"
+msgstr "Послато: %d"
 
 #: skype:sSMS_STATUS_SENT_MULTIPLE:2399
-#, fuzzy
 msgid "%d delivered"
-msgstr "С олакшањем"
+msgstr "Испоручено: %d"
 
 #: skype:sSMS_STATUS_FAILED_MULTIPLE:2400
 #: skype:sFILETRANSFER_SUMMARY_FAILED:2414
-#, fuzzy
 msgid "%d failed"
-msgstr "%s неуспело"
+msgstr "Неуспело: %d"
 
 #: skype:sSMS_NO_CREDIT:2402
-#, fuzzy
 msgid ""
 "You need Skype credit to send SMS. <a href=\"skype:?payments\">Buy Skype "
 "Credit now</a>"
-msgstr ""
-"Потребан је скајпов кредит за позивање обичних телефона. <a href=\"skype:?"
-"go#store\">Купите скајпов кредит</a>"
+msgstr "Потребан је скајпов кредит за слање СМС порука. <a href=\"skype:?go#store\">Купите скајпов кредит</a>"
 
 #: skype:sFILETRANSFER_STATUS_TEXT_TOO_MANY:2403
-#, fuzzy
 msgid "Sending too many files at once."
-msgstr "Слање датотеке. Готово!"
+msgstr "Шаљете сувише датотека истовремено."
 
 #: skype:sINTERVAL_TIME_UNITS:2404
 msgid ""
@@ -9024,48 +8989,38 @@ msgstr ""
 "\\седмице\\\\месец\\месеци\\\\година\\година"
 
 #: skype:sFILETRANSFER_OPEN_FOLDER:2405
-#, fuzzy
 msgid "Show in folder"
-msgstr "Покажи пример"
+msgstr "Покажи директоријум"
 
 #: skype:sFILETRANSFER_REMAINING_TIME:2406
-#, fuzzy
 msgid "%s remaining"
-msgstr ", %d %s преостаје"
+msgstr "преостаје: %s"
 
 #: skype:sFILETRANSFER_MULTI_COMPLETED:2407
-#, fuzzy
 msgid "Completed"
-msgstr "завршено"
+msgstr "Готово"
 
 #: skype:sFILETRANSFER_CANCEL_MULTIPLE:2409
-#, fuzzy
 msgid ""
 "Are you sure you want to stop sending this file? If you cancel now then no "
 "one will receive it."
-msgstr ""
-"Да ли сте сигурни да желите да откажете пренос датотека? Ако откажете сада, "
-"корисник %s неће примити ову датотеку."
+msgstr "Да ли сте сигурни да желите да откажете пренос датотеке? Ако откажете сада, нико неће примити ову датотеку."
 
 #: skype:sFILETRANSFER_SUMMARY_WAITING:2410
-#, fuzzy
 msgid "%d waiting"
-msgstr "Чекање"
+msgstr "чекање: %d"
 
 #: skype:sFILETRANSFER_SUMMARY_TRANSFERRING:2411
-#, fuzzy
 msgid "%d in progress"
-msgstr "У току"
+msgstr "У току: %d"
 
 #: skype:sFILETRANSFER_SUMMARY_COMPLETED:2412
-#, fuzzy
 msgid "%d completed"
-msgstr "% готово"
+msgstr "Готово: %d"
 
 #: skype:sFILETRANSFER_SUMMARY_CANCELLED:2413
-#, fuzzy
 msgid "%d cancelled"
-msgstr "Отказано"
+msgstr "Отказано: %d"
 
 #: skype:sTRANSFER_CHOOSE_FOLDER:2415
 msgid "Choose destination folder."
@@ -9092,28 +9047,24 @@ msgid "No number available."
 msgstr "Ниједан број није доступан."
 
 #: skype:sOPTIONS_RECEIVED_FILE:2420
-#, fuzzy
 msgid "When I receive a file"
-msgstr "Вам шаље датотеку"
+msgstr "Када је датотека примљена"
 
 #: skype:sOPTIONS_SAVE_FILE_TO_DIR:2421
 msgid "Choose a folder where to save the file every time"
 msgstr "Изаберите директоријум за чување датотеке"
 
 #: skype:sOPTIONS_AUTO_SAVE_FILE:2422
-#, fuzzy
 msgid "Save all files to:"
-msgstr "Пошаљи датотеку до %s"
+msgstr "Сачувај све датотеке у:"
 
 #: skype:sOPTIONS_CHANGE_DIR:2423
-#, fuzzy
 msgid "Change folder"
-msgstr "Промени брзи тастер"
+msgstr "Промени директоријум"
 
 #: skype:sPARTICIPANT_ACTION_CALL:2426
-#, fuzzy
 msgid "Only host can call participants."
-msgstr "Превише учесника"
+msgstr "Само домаћин може да зове учеснике."
 
 #: skype:sPARTICIPANT_ACTION_HANGUP:2427
 msgid "Only host can hang up."
@@ -9124,37 +9075,32 @@ msgid "This conference is full and can't include anyone new."
 msgstr "Ова конференција не може да прими нове учеснике."
 
 #: skype:sCALL_LB2_STARTING_VIDEO:2429
-#, fuzzy
 msgid "Starting video"
-msgstr "Покрени видео…"
+msgstr "Покретање видеа…"
 
 #: skype:sCONVERSATION_I_AM_HOST:2430 skype:sPFOFILE_HEADER_HOST:3230
-#, fuzzy
 msgid "You are hosting this call"
-msgstr "Ви сте домаћин овог скајпкаста"
+msgstr "Ви сте домаћин овог разговора"
 
 #: skype:sPHONE_EDIT_STOP_VIDEO:2433
 msgid "Turn video off"
 msgstr "Искључи видео"
 
 #: skype:sPROFILE_UNDISCLOSED_PSTN:2434
-#, fuzzy
 msgid "unknown"
-msgstr "Непознат разлог"
+msgstr "непознат"
 
 #: skype:sDEVICES_SPEAKER_MUTED:2435
 msgid "Your speaker is on mute."
 msgstr "Звучник је ућуткан."
 
 #: skype:sDEVICES_MICROPHONE_MUTED:2436
-#, fuzzy
 msgid "Your microphone is on mute."
-msgstr "Микрофон је утишан"
+msgstr "Микрофон је утишан."
 
 #: skype:sDEVICES_AUDIO_SETTINGS:2437
-#, fuzzy
 msgid "Please check your audio settings."
-msgstr "Провера подешавања заступника"
+msgstr "Молимо да проверите подешавања звука."
 
 #: skype:sCALL_LB2_NO_FUNDS:2438
 msgid "No Skype Credit"
@@ -9165,34 +9111,28 @@ msgid "Need help sending SMS?"
 msgstr "Да ли Вам треба помоћ око слања СМС поруке?"
 
 #: skype:sMESSAGE_NOT_DELIVERED:2441
-#, fuzzy
 msgid "Not delivered yet."
-msgstr "Порука „%s‟ још није испоручена"
+msgstr "Још није испоручена."
 
 #: skype:sFLOW_CALL_MISSED_IN:2442
-#, fuzzy
 msgid "Missed call from %s."
-msgstr "Пропуштен позив од"
+msgstr "Пропуштен позив: %s."
 
 #: skype:sFLOW_CALL_MISSED_OUT:2443
-#, fuzzy
 msgid "Attempted call by %s."
-msgstr "Наставак разговора са %s"
+msgstr "Покушај разговора: %s."
 
 #: skype:sFLOW_CALL_WITH_IN:2444
-#, fuzzy
 msgid "Call from %s, duration %s."
-msgstr "Пропуштен позив од %s у %s"
+msgstr "Позив: %s, трајање: %s."
 
 #: skype:sFLOW_CALL_WITH_OUT:2445
-#, fuzzy
 msgid "Call to %s, duration %s."
-msgstr "Дужина позива "
+msgstr "Позив %s, трајање %s."
 
 #: skype:sVIDEOCALL_WINDOW_CAPTION:2446
-#, fuzzy
 msgid "Video call with %s."
-msgstr "Видео разговор са"
+msgstr "Видео разговор: %s."
 
 #: skype:sOPTIONS_AUDIO_MOVEUP:2449
 msgid "Move up"
@@ -9207,18 +9147,16 @@ msgid "MB"
 msgstr "MB"
 
 #: skype:sUPGRADE_NOTIFY_DOWNLOAD:2454
-#, fuzzy
 msgid "New version of Skype available."
-msgstr "Када је доступно ново велико издање скајпа…"
+msgstr "Доступно је ново издање скајпа."
 
 #: skype:sUPGRADE_NOTIFY_UPDATE:2456
 msgid "New version of Skype downloaded."
 msgstr "Примљено је ново издање скајпа."
 
 #: skype:sAUTHORIZE_REQUEST_CAPTION:2458
-#, fuzzy
 msgid "%s has added you as a contact."
-msgstr "%s је додат у списак познаника!"
+msgstr "%s вас додаје у списак познаника."
 
 #: skype:sAUTHORIZE_REQUEST_TEXT:2459
 msgid ""
@@ -9231,9 +9169,8 @@ msgstr ""
 "\"skype:?options#privacy\">подешавањима приватности</a>."
 
 #: skype:sAUTHORIZE_NOT_BUDDY:2460
-#, fuzzy
 msgid "%s is not in your Contact list."
-msgstr "%s је додат у списак познаника!"
+msgstr "%s није у списку познаника."
 
 #: skype:sAUTHORIZE_SHOW_PICTURE:2461
 msgid "Show picture"
@@ -9244,9 +9181,8 @@ msgid "Hide picture"
 msgstr "Сакриј слику"
 
 #: skype:sF_AUTH_BTN_UNBLOCK:2464 skype:sMAINMENU_CONVERSATION_UNBLOCK:2637
-#, fuzzy
 msgid "Unblock"
-msgstr "Одблокирај корисника"
+msgstr "Одблокирај"
 
 #: skype:sOPTIONS_AUDIO_ADVANCED_LBL:2466
 msgid ""
@@ -9257,21 +9193,16 @@ msgstr ""
 "користити први који је доступан на сваком списку."
 
 #: skype:sF_MANDALAY_LB_SIGN_UP:2467
-#, fuzzy
 msgid "<a href=\"skype:?go#mandalay.join\">Need a MySpace account</a>?"
-msgstr ""
-"<a href=\"skype:?go#mandalay.join\">Да ли Вам је потребан налог на Мајспејсу "
-"(MySpace)?</a>"
+msgstr "<a href=\"skype:?go#mandalay.join\">Да ли вам треба налог на Мајспејсу (MySpace)</a>?"
 
 #: skype:sOPEN_MANDALAY:2468
-#, fuzzy
 msgid "Link Your MySpace Profile"
-msgstr "Увежи мој профил са Мајспејса (MySpace)…"
+msgstr "Увежите свој профил са Мајспејса (MySpace)"
 
 #: skype:sMAINMENU_MANDALAY:2469
-#, fuzzy
 msgid "Link Your MySpace Profile…"
-msgstr "Увежи мој профил са Мајспејса (MySpace)…"
+msgstr "Увежите профил са Мајспејса (MySpace)…"
 
 #: skype:sGSW_SOUNDIN_TEXT:2473
 msgid ""
@@ -9299,19 +9230,16 @@ msgstr ""
 "прикључна)."
 
 #: skype:sGSW_TEST_SOUNDIN:2476
-#, fuzzy
 msgid "Test microphone"
-msgstr "Утишај микрофон"
+msgstr "Провери микрофон"
 
 #: skype:sGSW_TEST_SOUNDOUT:2477
-#, fuzzy
 msgid "Test speakers"
-msgstr "Звучници"
+msgstr "Провери звучнике"
 
 #: skype:sGSW_TEST_VIDEO:2478
-#, fuzzy
 msgid "Test video"
-msgstr "Видео на целом екрану"
+msgstr "Провери видео"
 
 #: skype:sGSW_NEED_AUDIO:2479
 msgid "To make calls, check:"
@@ -9322,33 +9250,28 @@ msgid "…And video calls:"
 msgstr "…и видео позиве:"
 
 #: skype:sGSW_DEVICES_PAGE_CAPTION:2481
-#, fuzzy
 msgid "Check your sound works"
-msgstr "Провера звука у скајпу"
+msgstr "Провера звука"
 
 #: skype:sGSW_BACK_TO_START:2482
-#, fuzzy
 msgid "Return to welcome screen"
-msgstr "Брисање поздравне поруке"
+msgstr "Назад на поздравни екран"
 
 #: skype:sGSW_PRESS_LABEL:2483
-#, fuzzy
 msgid "Press the button to check your speakers"
-msgstr "Пусти звук за проверу звучника"
+msgstr "Притисните дугме да бисте проверили звучнике"
 
 #: skype:sGSW_HEAR_SOUND_OUT:2484
-#, fuzzy
 msgid "Did you hear anything?"
-msgstr "Ништа се не чује?"
+msgstr "Да ли се нешто чује?"
 
 #: skype:sGSW_SUCCESS:2487
 msgid "Success"
 msgstr "Успело је"
 
 #: skype:sGSW_SOUNDOUT_OK:2488
-#, fuzzy
 msgid "Now check your microphone"
-msgstr "Провера везе"
+msgstr "Сада проверите микрофон"
 
 #: skype:sGSW_PRESSME_BUTTON:2489
 msgid "Press me!"
@@ -9369,9 +9292,8 @@ msgstr ""
 "звук.  Затим поново притисните дугме."
 
 #: skype:sGSW_SOUNDOUT_OPTIONS:2492 skype:sGSW_SOUND_IN_OPTIONS:2557
-#, fuzzy
 msgid "Currently using:"
-msgstr "Тренутно на вези"
+msgstr "Тренутно се користи:"
 
 #: skype:sGSW_DID_THAT_WORK:2495 skype:sGSW_SOUND_IN_WORKED:2558
 msgid "Did that work?"
@@ -9409,19 +9331,16 @@ msgid ""
 msgstr "Пријем овог позива ће зауставити снимање и слање говорне поште."
 
 #: skype:sCALLALERT_VIDEOCALL:2503
-#, fuzzy
 msgid "%s video calling"
-msgstr "%s зове"
+msgstr "Видео позив: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_TITLE:2504
-#, fuzzy
 msgid "Find your friends"
-msgstr "Нађи пријатеље који користе скајп"
+msgstr "Нађи пријатеље"
 
 #: skype:sF_IMPORTCONTACTS_LB_OR:2505
-#, fuzzy
 msgid "or…"
-msgstr "…или"
+msgstr "или…"
 
 #: skype:sF_IMPORTCONTACTS_LB_DIRECTORY1:2506
 msgid "Find a specific person"
@@ -9460,23 +9379,20 @@ msgid "Search complete - %s matches found"
 msgstr "Претрага је завршена - пронађено резултата: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING4:2514
-#, fuzzy
 msgid "Tell people you're on Skype"
-msgstr "Број људи на скајпу: %s"
+msgstr "Реците људима да користите скајп"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING6:2516
 msgid "No contacts added - search again"
 msgstr "Ниједан познаник није додат - потражите поново"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING7:2517
-#, fuzzy
 msgid "%s new contacts added"
-msgstr "%s контаката"
+msgstr "Нових контаката: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_HEADING8:2518
-#, fuzzy
 msgid "No matches found"
-msgstr "Ниједан заступник није нађен"
+msgstr "Нема погодака"
 
 #: skype:sF_IMPORTCONTACTS_USR_HINT:2519
 msgid "%s ID"
@@ -9514,18 +9430,16 @@ msgstr ""
 "потраје неколико минута.</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADD1:2526
-#, fuzzy
 msgid "Are these your friends?"
-msgstr "Поделите скајп са пријатељима!"
+msgstr "Да ли су ово Ваши познаници?"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADD2:2527
 msgid "%s of your friends are already using Skype."
 msgstr "Оволико Ваших пријатеља већ користе скајп: %s."
 
 #: skype:sF_IMPORTCONTACTS_LB_ADD3:2528
-#, fuzzy
 msgid "Add them to your Skype contacts."
-msgstr "Ако да, можете их додати у списак Ваших Skype познаника."
+msgstr "Додајте их у списак познаника."
 
 #: skype:sF_IMPORTCONTACTS_LB_ADD4:2529
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS3:2535
@@ -9537,11 +9451,8 @@ msgstr ""
 "„Додај познанике‟"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADDED1:2530
-#, fuzzy
 msgid "<center>Find them in your Contact list and send them messages.</center>"
-msgstr ""
-"<center>Корисник није у Вашем списку познаника.<br/><br/>Да бисте потражили "
-"<b>%s</b> на скајповој мрежи, притисните сличицу изнад.</center>"
+msgstr "<center>Пронађите их у списку познаника и шаљите им поруке.</center>"
 
 #: skype:sF_IMPORTCONTACTS_LB_ADDED2:2531
 msgid "<center>Until they OK you as a contact, they look like this.</center>"
@@ -9570,19 +9481,16 @@ msgstr ""
 "уредите поруке, а затим притисните „Пошаљи‟."
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS4:2536
-#, fuzzy
 msgid "Edit your note"
-msgstr "Уреди мој профил"
+msgstr "Уредите белешку"
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS5:2537
-#, fuzzy
 msgid "Your name:"
-msgstr "Ваше име"
+msgstr "Ваше име:"
 
 #: skype:sF_IMPORTCONTACTS_LB_INVITATIONS6:2538
-#, fuzzy
 msgid "Your email address:"
-msgstr "Ваша ел. адреса"
+msgstr "Ваша ел. адреса:"
 
 #: skype:sF_IMPORTCONTACTS_LB_NOTFOUND1:2539
 msgid "We didn't find any people on Skype who matched your email contacts."
@@ -9598,14 +9506,12 @@ msgstr ""
 "погрешно унети.  Да ли бисте могли да проверите и пробате опет?"
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH1:2541
-#, fuzzy
 msgid "%s contacts added"
-msgstr "%s контаката"
+msgstr "Додатих познаника: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH2:2542
-#, fuzzy
 msgid "%s invitations sent"
-msgstr "Позивнице су послате!"
+msgstr "Послатих позивница: %s"
 
 #: skype:sF_IMPORTCONTACTS_LB_FINISH3:2543
 msgid "You didn't add any contacts or invite anyone to join you on Skype."
@@ -9623,19 +9529,16 @@ msgstr ""
 "почетни екран."
 
 #: skype:sF_IMPORTCONTACTS_LB_DESELECT_ALL:2546
-#, fuzzy
 msgid "Deselect all"
-msgstr "Поништи избор свих"
+msgstr "Одбележи све"
 
 #: skype:sF_IMPORTCONTACTS_ADDEMAILS_HINT:2550
-#, fuzzy
 msgid "Add an email address to this list."
-msgstr "Додај више ел. адреса."
+msgstr "Додај више адреса у списак."
 
 #: skype:sF_IMPORTCONTACTS_EMAIL_ERROR:2551
-#, fuzzy
 msgid "Please enter a valid email address."
-msgstr "Неважећа ел. адреса"
+msgstr "Молимо да унесете важећу ел. адресу."
 
 #: skype:sGSW_WHAT_IS_HEADSET1:2552
 msgid ""
