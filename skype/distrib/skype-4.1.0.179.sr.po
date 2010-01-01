@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 19:41+0100\n"
+"PO-Revision-Date: 2010-01-01 19:54+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -10858,7 +10858,7 @@ msgstr "Унесите пријатељево име и ел. адресу.  П�
 msgid ""
 "<b>Oops! The email addresses marked * don't appear to be valid. Please check "
 "them for mistakes and try again.</b>"
-msgstr "<b>Упс! Адресе означене звездицом (*) нису исправне.  Молимо проверите какве грешке су у питању и пробајте поново."
+msgstr "<b>Упс! Адресе означене звездицом (*) нису исправне.  Молимо проверите какве грешке су у питању и пробајте поново.</b>"
 
 #: skype:sAC_SHARE_EMAIL:2900
 msgid "<b>Friend's email</b>"
