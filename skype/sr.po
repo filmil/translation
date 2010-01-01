@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2009-12-27 14:21+0100\n"
+"PO-Revision-Date: 2010-01-01 14:49+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -6113,17 +6113,14 @@ msgid "Voicemail expires on %s <a href=\"skype:?go#myaccount\">Extend</a>"
 msgstr "Говорна пошта истиче  %s <a href=\"skype:?go#myaccount\">Продужи</a>"
 
 #: skype:sSTATUSPAGE_SKYPEIN_EXPIRES:1566
-#, fuzzy
 msgid "Online number expires on %s <a href=\"skype:?go#myaccount\">Extend</a>"
-msgstr "Говорна пошта истиче  %s <a href=\"skype:?go#myaccount\">Продужи</a>"
+msgstr "Говорна пошта истиче %s <a href=\"skype:?go#myaccount\">Продужи</a>"
 
 #: skype:sSTATUSPAGE_ACCOUNT_IS_ACTIVE:1567
-#, fuzzy
 msgid "Your account is active."
-msgstr "Ваш налог је активан"
+msgstr "Ваш налог је активан."
 
 #: skype:sF_IMPORTCONTACTS_LB_CREDENTIALS:1568
-#, fuzzy
 msgid "Enter your %s username and password."
 msgstr "Унесите име и лозинку (%s)"
 
@@ -6140,16 +6137,14 @@ msgid "Take another snapshot"
 msgstr "Направи још један снимак"
 
 #: skype:sF_MYSELF_CAPTURE_HINT_SMALL:1574
-#, fuzzy
 msgid "Make the frame smaller."
-msgstr "Направи пробни позив"
+msgstr "Смањи оквир."
 
 #: skype:sF_MYSELF_CAPTURE_HINT_BIG:1575
 msgid "Make the frame bigger."
-msgstr "Увећан оквир."
+msgstr "Увећај оквир."
 
 #: skype:sCALLHISTORY_DELETE_PROMPT:1578
-#, fuzzy
 msgid ""
 "Are you sure you want to delete the selected items from history along with "
 "their content?"
@@ -6178,9 +6173,8 @@ msgid "SkypeMe!™ (on a mobile device)"
 msgstr "SkypeMe!™ (Мобилни уређај)"
 
 #: skype:sCHAT_CONTINUE_CONVERSATION:1584
-#, fuzzy
 msgid "<a href=\"chat:uselast\">Continue last conversation with %s</a>."
-msgstr "<a href=\"chat:uselast\">Наставак последњег разговора (%s)</a>"
+msgstr "<a href=\"chat:uselast\">Наставак последњег разговора (%s)</a>."
 
 #: skype:sCHAT_HISTORY_BYTIME:1585
 msgid ""
@@ -6203,7 +6197,6 @@ msgid ""
 msgstr "Сувише дуго нисте били на вези.  Неке су поруке за то време изгубљене."
 
 #: skype:sERROR_HINT_VIDEO_13:1588
-#, fuzzy
 msgid ""
 "You need newer version of <a href=\"http://www.microsoft.com/directx/"
 "\">DirectX</a> to use video."
@@ -6212,12 +6205,10 @@ msgstr ""
 "\">ДиректИкса (DirectX)</a> да бисте користили скајпов видео."
 
 #: skype:sERROR_HINT_VIDEO_14:1589
-#, fuzzy
 msgid "Cannot capture video. The camera may already be in use."
 msgstr "Није могућ преглед слике.  Камера се можда већ користи."
 
 #: skype:sERROR_HINT_9502:1591
-#, fuzzy
 msgid ""
 "You must <a href=\"skype:?payments\">purchase Skype Credit</a> to call "
 "landlines or mobiles."
@@ -6226,59 +6217,48 @@ msgstr ""
 "звали фиксне и мобилне телефоне"
 
 #: skype:sPSTN_RES_9502:1593 skype:sCAST_RES_9502:1594
-#, fuzzy
 msgid "You need Skype Credit."
-msgstr "Треба Вам скајпов кредит"
+msgstr "Треба Вам скајпов кредит."
 
 #: skype:sF_OPTIONS_PRIVACY_SETTINGS:1595
-#, fuzzy
 msgid "Privacy settings"
 msgstr "Подешавања приватности"
 
 #: skype:sF_OPTIONS_CHAT_APPEARANCE:1597
-#, fuzzy
 msgid "IM appearance"
 msgstr "Изглед разговора"
 
 #: skype:sF_OPTIONS_CHATS_SMS:1598
-#, fuzzy
 msgid "IM & SMS"
 msgstr "Разговори и СМС"
 
 #: skype:SF_OPTIONS_GENERAL_CAPTION:1599
-#, fuzzy
 msgid "Set up all the basics you need to use Skype"
-msgstr "Не сме да користи скајп"
+msgstr "Направите основна подешавања за употребу скајпа."
 
 #: skype:sF_OPTIONS_AUDIO_CAPTION:1600
-#, fuzzy
 msgid "Set up sound on your computer"
-msgstr "подешавање звука на рачунару"
+msgstr "Подешавање звука на рачунару"
 
 #: skype:sF_OPTIONS_SOUNDS_CAPTION:1601
-#, fuzzy
 msgid "Customize sounds for calls, IMs, alerts and notifications"
-msgstr "подешавање звука за позиве, разговоре, узбуне и обавештења"
+msgstr "Подешавање звука за позиве, разговоре, узбуне и обавештења"
 
 #: skype:sF_OPTIONS_BLOCKED_USERS_CAPTION:1602
-#, fuzzy
 msgid "Prevent certain people from contacting you"
-msgstr "спречавање одређених људи да Вас контактирају"
+msgstr "Спречавање одређених људи да Вас контактирају"
 
 #: skype:sF_OPTIONS_NOTIFICATIONS_CAPTION:1603
-#, fuzzy
 msgid "Choose what Skype alerts you to"
-msgstr "Изаберите скајпово име"
+msgstr "Изаберите које дојаве ће Вам скајп слати"
 
 #: skype:SF_OPTIONS_VOICEMAIL_CAPTION:1605
-#, fuzzy
 msgid "Never miss a call again"
-msgstr "Не пропустите више ниједан позив"
+msgstr "Никад више не пропустите ниједан позив"
 
 #: skype:sF_OPTIONS_CHAT_APPERANCE_CAPTION:1607
-#, fuzzy
 msgid "Set up how IMs look"
-msgstr "подешавање изгледа разговора"
+msgstr "Подешавање изгледа разговора"
 
 #: skype:sF_OPTIONS_LB_LANGUAGE:1608
 msgid "Set program language to"
@@ -6293,12 +6273,10 @@ msgid "High"
 msgstr "Висок"
 
 #: skype:sF_OPTIONS_TEST_SPEAKERS:1611
-#, fuzzy
 msgid "Make a noise to test your speakers"
 msgstr "Пусти звук за проверу звучника"
 
 #: skype:sF_OPTIONS_LINK_BUY_HEADSET:1612
-#, fuzzy
 msgid "Buy a headset or Skype phone from the Skype shop"
 msgstr ""
 "Купите слушалице, микрофон или скајпове телефоне у скајповој продавници"
@@ -6308,7 +6286,6 @@ msgid "Didn't hear anything?"
 msgstr "Ништа се не чује?"
 
 #: skype:sF_OPTIONS_SHOW_ADVANCED_OPTIONS:1614
-#, fuzzy
 msgid "Show advanced options"
 msgstr "Покажи напредне опције"
 
@@ -6317,7 +6294,6 @@ msgid "Allow anyone to contact me"
 msgstr "Дозволи свима да ме контактирају"
 
 #: skype:sF_OPTIONS_ONLY_CONTACT_LIST:1616
-#, fuzzy
 msgid "Only allow people in my Contact list to contact me"
 msgstr "Само дозволи познаницима да ме зову"
 
@@ -6326,12 +6302,10 @@ msgid "Learn more about privacy and security in Skype"
 msgstr "Научите више о приватности и сигурности у скајпу"
 
 #: skype:sF_OPTIONS_SHOW_BASIC_OPTIONS:1618
-#, fuzzy
 msgid "Show basic options"
 msgstr "Покажи основне опције"
 
 #: skype:sF_OPTIONS_RESET_DEFAULT:1619
-#, fuzzy
 msgid "Reset to defaults"
 msgstr "Постави изворно"
 
@@ -6344,17 +6318,14 @@ msgid "Allow anyone to call me"
 msgstr "Дозволи свима да ме зову"
 
 #: skype:sF_OPTIONS_CALL_BUDDY:1622
-#, fuzzy
 msgid "Only allow people in my Contact list to call me"
 msgstr "Дозволи само познаницима да ме зову"
 
 #: skype:sF_OPTIONS_ABOUT_STATUS:1623
-#, fuzzy
 msgid "Learn more about presence"
-msgstr "Научите више о СМСу"
+msgstr "Научите више о присутности (presence)"
 
 #: skype:sF_OPTIONS_SKYPE_TIPS:1624
-#, fuzzy
 msgid ""
 "Help, Skype tips and promotions appear in a small area like this at the "
 "bottom of your Contacts or Call phones tabs"
@@ -6363,17 +6334,14 @@ msgstr ""
 "језичка „Познаници‟ или „Зови телефоне‟"
 
 #: skype:sF_OPTIONS_ANYONE_CAN_CHAT:1625
-#, fuzzy
 msgid "Allow anyone to send IMs to me"
 msgstr "Дозволи свима да ми шаљу поруке"
 
 #: skype:sF_OPTIONS_BUDDY_CAN_CHAT:1626
-#, fuzzy
 msgid "Only allow people in my Contact list to send me instant messages"
 msgstr "Дозволи само познаницима да ми шаљу поруке"
 
 #: skype:sF_OPTIONS_CHAT_LOOKS:1627
-#, fuzzy
 msgid "Set up how IM looks"
 msgstr "подешавање изгледа разговора"
 
@@ -6382,7 +6350,6 @@ msgid "Calls"
 msgstr "Позиви"
 
 #: skype:sF_OPTIONS_LINK_BUY_WEBCAM:1629
-#, fuzzy
 msgid "Buy a webcam from the Skype shop"
 msgstr "Купите веб камеру у скајповој продавници"
 
@@ -6402,21 +6369,16 @@ msgid "Take a video snapshot"
 msgstr "Направите видео снимак"
 
 #: skype:sF_OPTIONS_EXTRAS:1632
-#, fuzzy
 msgid "Automatically start Extras"
-msgstr "Аутоматски покрени управника додацима"
+msgstr "Аутоматски покрени додатке"
 
 #: skype:sF_OPTIONS_SMS_INFO:1633
-#, fuzzy
 msgid ""
 "The hassle-free way to send text messages to friends when they are offline "
 "or on the move"
-msgstr ""
-"Једноставан начин за слање текстуалних порука пријатељима када нису на вези "
-"или су у покрету."
+msgstr "Једноставан начин за слање текстуалних порука пријатељима када нису на вези или су у покрету"
 
 #: skype:sF_OPTIONS_START_SMS:1634
-#, fuzzy
 msgid ""
 "Sending an SMS from the comfort of your keyboard is simple, plus it’s great "
 "value – all you need is a little Skype Credit. You can even set your "
@@ -6433,20 +6395,15 @@ msgid "Buy Skype Credit to send SMS to mobile phone"
 msgstr "Купите скајпов кредит да бисте слали СМС поруке на мобилне телефоне"
 
 #: skype:sF_OPTIONS_CALL_FORWARD1:1636
-#, fuzzy
 msgid "Answer your Skype calls no matter where you are with call forwarding"
-msgstr ""
-"Одговорите на позиве са скајпа без обзира где сте помоћу прослеђивања позива."
+msgstr "Одговорите на позиве са скајпа без обзира где сте помоћу прослеђивања позива"
 
 #: skype:sF_OPTIONS_CALL_FORWARD2:1637
-#, fuzzy
 msgid ""
 "You will need Skype Credit or a calling subscription to forward calls from "
 "Skype. Forwarding calls is charged at our rates for calling phones and "
 "mobiles."
-msgstr ""
-"Потребан Вам је скајпов кредит да бисте прослеђивали позиве из скајпа.   "
-"Прослеђивање позива се тарифира по стандардном ценовнику за скајпАут."
+msgstr "Потребан Вам је скајпов кредит да бисте прослеђивали позиве из скајпа.   Прослеђивање позива се тарифира по стандардном ценовнику за фиксне и мобилне телефоне."
 
 #: skype:sF_OPTIONS_CALL_FORWARD3:1638
 msgid ""
@@ -6457,38 +6414,30 @@ msgstr ""
 "\">претплата</a> како бисте могли да прослеђујете позиве помоћу скајпа."
 
 #: skype:sF_OPTIONS_CALL_FORWARD4:1639
-#, fuzzy
 msgid "Rates for calling phones and mobiles"
-msgstr " како бисте звали фиксне или мобилне телефоне"
+msgstr "Тарифе за звање фиксних и мобилних телефона"
 
 #: skype:sF_OPTIONS_ABOUT_CALL_FORWARD:1640
-#, fuzzy
 msgid "Learn more about call forwarding"
-msgstr "Научите више о прослеђивању позива."
+msgstr "Научите више о прослеђивању позива"
 
 #: skype:SF_OPTIONS_BUY_CREDIT_CALL_FRW:1641
-#, fuzzy
 msgid "Buy Skype Credit to forward calls to phones and mobiles"
-msgstr ""
-"Потребан вам је скајпов кредит за прослеђивање позива на обичне телефоне"
+msgstr "Купите скајпов кредит за прослеђивање позива на обичне телефоне"
 
 #: skype:sF_OPTIONS_CALL_FRW_OPTIONS:1642
 msgid "Call forwarding options"
 msgstr "Подешавања за прослеђивање позива"
 
 #: skype:sF_OPTIONS_ABOUT_VOICEMAIL:1643
-#, fuzzy
 msgid "Learn more about voicemail"
-msgstr "Научите више о скајповој говорној пошти"
+msgstr "Научите више о говорној пошти"
 
 #: skype:sF_OPTIONS_CALL_FORWARDING:1644
-#, fuzzy
 msgid ""
 "When you are away from Skype, calls can either be forwarded to another phone "
 "or sent to voicemail"
-msgstr ""
-"Када сте удаљени од скајпа, позиви се могу прослеђивати на други телефон или "
-"чувати као говорна пошта."
+msgstr "Када сте удаљени од скајпа, позиви се могу прослеђивати на други телефон или чувати као говорна пошта"
 
 #: skype:sF_OPTIONS_FORWARD_HINT8b:1646
 msgid "or a subscription to forward calls"
@@ -6499,30 +6448,22 @@ msgid "Forward calls if I do not answer within"
 msgstr "Проследи позив ако не одговорим за"
 
 #: skype:sF_OPTIONS_VOICEMAIL_LABEL:1648
-#, fuzzy
 msgid ""
 "When you are away from Skype, calls can either be sent to voicemail or "
 "forwarded to a phone number."
-msgstr ""
-"Када сте далеко од скајпа, позиви се могу слати као говорна пошта или "
-"прослеђивати на неки телефонски број."
+msgstr "Када сте далеко од скајпа, позиви се могу слати као говорна пошта или прослеђивати на неки телефонски број"
 
 #: skype:sF_VOICEMAIL_OPTIONS_LB5:1649
-#, fuzzy
 msgid ""
 "Call forwarding is active. Calls will be sent first to the phone number(s) "
 "set."
-msgstr ""
-"Ако је прослеђивање позива укључено, позиви ће прво бити слани на унесене "
-"бројеве."
+msgstr "Прослеђивање позива укључено.  Позиви ће прво бити слани на унесене бројеве."
 
 #: skype:sF_BLOCK_ALREADY_BLOCKED:1650
-#, fuzzy
 msgid "This person is already blocked."
-msgstr "Корисник је већ блокиран"
+msgstr "Овај корисник је већ блокиран."
 
 #: skype:sF_MULTICHAT_OFFLINE_CF_WARNING:1651
-#, fuzzy
 msgid ""
 "%s is currently not on Skype. Your IMs will be delivered when you are both "
 "online again. Your calls will be forwarded without charge."
@@ -6531,7 +6472,6 @@ msgstr ""
 "обоје будете на вези.  Ваши позиви се прослеђују бесплатно."
 
 #: skype:sF_MULTICHAT_OFFLINE_WARNING:1652
-#, fuzzy
 msgid ""
 "%s is currently not online. Your IMs will be delivered when you are both "
 "online again."
@@ -6540,13 +6480,10 @@ msgstr ""
 "обоје будете на вези."
 
 #: skype:sF_MULTICHAT_OFFLINE_VM_WARNING:1653
-#, fuzzy
 msgid ""
 "%s is currently not on Skype. Your instant messages will be delivered when "
 "you are both online again. Your calls will be sent to voicemail."
-msgstr ""
-"%s тренутно није на мрежи.  Ваше поруке биће испоручене када обоје опет "
-"будете на вези.  Ваши позиви биће прослеђени у говорну пошту."
+msgstr "%s тренутно није на вези.  Ваше поруке биће испоручене када обоје опет будете на вези.  Ваши позиви биће прослеђени у говорну пошту."
 
 #: skype:sF_MULTICHAT_OFFLINE_WARNING_BTN_SMS:1655
 #: skype:sZAPBUTTON_SENDSMS:2065 skype:sZAPBUTTON_SMS:2086
@@ -6555,16 +6492,14 @@ msgid "Send SMS"
 msgstr "Пошаљи СМС"
 
 #: skype:sF_MULTICHAT_OFFLINE_WARNING_BTN_VOICEMAIL:1656
-#, fuzzy
 msgid "Send voicemail"
-msgstr "Слање гласовне поруке"
+msgstr "Слање говорне поште"
 
 #: skype:sSTATUS_OFFLINE_TIP:1657
 msgid "This contact is currently not on Skype."
 msgstr "Овај познаник тренутно није на скајпу."
 
 #: skype:sSTATUS_ONLINE_TIP:1658
-#, fuzzy
 msgid "This contact is currently available to IM or call."
 msgstr "Овај познаник је тренутно доступан за позив или разговор."
 
@@ -6588,31 +6523,24 @@ msgid "This contact is currently busy and does not want to be disturbed."
 msgstr "Овај познаник је тренутно заузет и не жели да буде ометан."
 
 #: skype:sSTATUS_FREEFORCHAT_TIP:1662
-#, fuzzy
 msgid "This contact would like people to IM or call them."
 msgstr "Овај познаник тражи људе да са њима разговара."
 
 #: skype:sSTATUS_OFFLINE_CF_TIP:1663
-#, fuzzy
 msgid ""
 "If you call this contact, your call will be forwarded to another phone (and "
 "you don't pay anything)."
-msgstr ""
-"Можете да позовете овог познаника, а позив ће бити бесплатно преусмерен на "
-"други телефон."
+msgstr "Ако позовете овог познаника, позив ће бити преусмерен на други телефон (за вас ова услуга је бесплатна)."
 
 #: skype:sMOODVIEWER_CAPTION:1664
-#, fuzzy
 msgid "%s's mood"
 msgstr "Расположење за %s"
 
 #: skype:sMOODVIEWER_BTN_CHAT:1666
-#, fuzzy
 msgid "Instant message about this"
-msgstr "Пошаљи поруку за %s"
+msgstr "Пошаљи поруку о овоме"
 
 #: skype:sMOODVIEWER_BTN_ADDTOMOOD:1667
-#, fuzzy
 msgid "Add to my mood"
 msgstr "Додај у расположење"
 
@@ -6622,17 +6550,14 @@ msgid "Add video to your mood"
 msgstr "Додај видео у расположење"
 
 #: skype:sF_OPTIONS_LB_CHAT_SETTINGS:1669
-#, fuzzy
 msgid "IM settings"
-msgstr "Поставке за СМС"
+msgstr "Поставке за брзе поруке"
 
 #: skype:sF_OPTIONS_SETUP_CALLS:1670
-#, fuzzy
 msgid "Set up your call options"
-msgstr "подешавање опција за позиве"
+msgstr "Подесите опције за позиве"
 
 #: skype:sF_OPTIONS_VOICEMAIL_LABEL1:1671
-#, fuzzy
 msgid ""
 "Personalize your voicemail greeting, save messages to listen to again, and "
 "leave voice messages for your contacts if you can't get hold of them."
@@ -6641,27 +6566,21 @@ msgstr ""
 "касније, или оставите говорну пошту контактима ако је имају."
 
 #: skype:sF_OPTIONS_VOICEMAIL_LABEL2:1672
-#, fuzzy
 msgid "Get voicemail when you sign up for a subscription."
-msgstr "Говорна пошта је укључена ако се пријавите за претплату."
+msgstr "Говорна пошта се укључује ако се пријавите за претплату."
 
 #: skype:sF_OPTIONS_UPGRADE_SKYPPRO:1673
-#, fuzzy
 msgid "Get a subscription"
 msgstr "Набавите претплату."
 
 #: skype:sF_OPTIONS_ABOUT_SKYPEIN:1674
-#, fuzzy
 msgid "Learn more about online numbers"
-msgstr "Сазнајте више о скајпИновим бројевима"
+msgstr "Сазнајте више о мрежним бројевима"
 
 #: skype:sF_OPTIONS_VIDEO_CHANGE_TEXT:1675
-#, fuzzy
 msgid ""
 "You need to save webcam settings to start video preview from another source"
-msgstr ""
-"Треба да сачувате подешавања камере да бисте преглед видеа започели из "
-"другог извора."
+msgstr "Треба да сачувате подешавања камере да бисте преглед видеа започели из другог извора"
 
 #: skype:sF_OPTIONS_VIDEO_CHANGE_CAPTION:1676
 msgid "Webcam test"
@@ -6696,48 +6615,36 @@ msgid "<b>Need a headset?</b>"
 msgstr "<b>Да ли Вам требају слушалице и микрофон?</b>"
 
 #: skype:sF_GETTINGSTARTED_LB_HEADSET2:1686
-#, fuzzy
 msgid "<b>Enjoy Skype calls with a headset and webcam</b>."
-msgstr "<b>Уживајте у позивима преко скајпа помоћу слушалица и камере.</b>"
+msgstr "<b>Уживајте у позивима преко скајпа помоћу слушалица и камере</b>."
 
 #: skype:sF_GETTINGSTARTED_BTN_HEADSET:1687
 msgid "Buy now"
-msgstr "Сада заузет"
+msgstr "Купите одмах"
 
 #: skype:sF_NOTIFY_EXAMPLE:1688
-#, fuzzy
 msgid "This is an example of a tray alert."
-msgstr "Ово је пример узбуне у обавештајној зони"
+msgstr "Ово је пример узбуне у обавештајној траци."
 
 #: skype:sF_USERINFO_SERTIFIED_HINT:1689
 #: skype:sF_ADDFRIEND_SERTIFIED_HINT:1690
-#, fuzzy
 msgid "This is a business contact."
-msgstr "Ово је пословни познаник"
+msgstr "Ово је пословни познаник."
 
 #: skype:sCF_BANNER_HEADER:1691
-#, fuzzy
 msgid ""
 "Set up <b>call forwarding</b> and receive calls on your mobile phone while "
 "you are away from your computer. <a href=\"skype:?go#help.guide."
 "callforwarding\">Learn more about call forwarding</a>."
-msgstr ""
-"Подесите <b>прослеђивање позива</b> и примајте позиве преко скајпа и кад "
-"нисте за рачунаром. <a href=\"skype:?go#help.guide.callforwarding\">Сазнајте "
-"више о прослеђивању позива</a>"
+msgstr "Подесите <b>прослеђивање позива</b> и примајте позиве преко скајпа и кад нисте за рачунаром. <a href=\"skype:?go#help.guide.callforwarding\">Сазнајте више о прослеђивању позива</a>."
 
 #: skype:sCF_BANNER_HEADER_INVALID_NUMBER:1692
-#, fuzzy
 msgid ""
 "The phone number you entered is invalid. Please try another one. <a href="
 "\"skype:?go#help.guide.callforwarding\">Learn more about call forwarding</a>."
-msgstr ""
-"Број телефона ког сте унели је неважећи.  Молимо да пробате неки други број. "
-"<a href=\"skype:?go#help.guide.callforwarding\">Сазнајте више о прослеђивању "
-"позива</a>"
+msgstr "Број телефона ког сте унели је неважећи.  Молимо да пробате неки други број. <a href=\"skype:?go#help.guide.callforwarding\">Сазнајте више о прослеђивању позива</a>."
 
 #: skype:sCF_BANNER_HEADER_CONFIRMATION:1693
-#, fuzzy
 msgid ""
 "<b>Call forwarding is now active</b>.<br/>You can change your settings in "
 "Options in the Tools menu. <a href=\"skype:?options#callforward\">Open "
@@ -6748,13 +6655,10 @@ msgstr ""
 "опције</a>."
 
 #: skype:sCF_BANNER_HEADER_NETWORK_ERROR:1694
-#, fuzzy
 msgid ""
 "<b>Sorry, there was a problem with the network</b>.<br/><a href=\"skype:?"
 "options#callforward\">Open Options</a> and try again."
-msgstr ""
-"<b>Жао нам је, дошло је до проблема на мрежи.</b><br/><a href=\"skype:?"
-"options#callforward\">Отворите опције</a> и пробајте поново\""
+msgstr "<b>Жао нам је, дошло је до проблема на мрежи.</b><br/><a href=\"skype:?options#callforward\">Отворите опције</a> и пробајте поново."
 
 #: skype:sCF_BANNER_FOOTER:1695
 #, fuzzy
@@ -6766,9 +6670,8 @@ msgstr ""
 "тарифи</a>."
 
 #: skype:sPERSONALISE_MENU_ADD_MEDIA:1698
-#, fuzzy
 msgid "Add Video to Your Mood…"
-msgstr "Додај видео у расположење"
+msgstr "Додај видео у расположење…"
 
 #: skype:sMYSELF_HINT_EMPTY_MOOD_AREA:1699
 #, fuzzy
