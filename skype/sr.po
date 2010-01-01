@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 18:13+0100\n"
+"PO-Revision-Date: 2010-01-01 18:34+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -11128,39 +11128,32 @@ msgstr ""
 "за аудио или видео позив, или слање поруке."
 
 #: skype:sQUICKFILTER_NOTFOUND:2962 skype:sCALL_NOT_IN_CONTACTS:3312
-#, fuzzy
 msgid "%s is not in your Contact list"
-msgstr "%s је додат у списак познаника!"
+msgstr "%s није додат у списак познаника"
 
 #: skype:sQUICKFILTER_NOTFOUND_SEARCH:2963
-#, fuzzy
 msgid "Search for \"%s\" in the Skype directory"
-msgstr "Тражи друге кориснике скајпа"
+msgstr "Тражи „%s‟ in the Skype directory"
 
 #: skype:sCONVERSATIONS_NEW_SINGULAR:2964 skype:sCONVERSATIONS_NEW_PLURAL:2965
-#, fuzzy
 msgid "%d new"
-msgstr "Нових догађаја: %d"
+msgstr "нових: %d"
 
 #: skype:sINBOX_MARK_ALL_READ:2966
-#, fuzzy
 msgid "Mark all read"
-msgstr "Све је само за читање"
+msgstr "Означи све као прочитано"
 
 #: skype:sTRAYALERT_ISONLINE:2967
-#, fuzzy
 msgid "is online"
-msgstr "На вези је"
+msgstr "на вези"
 
 #: skype:sTRAYALERT_ISOFFLINE:2968
-#, fuzzy
 msgid "went offline"
-msgstr "се одјавио."
+msgstr "ван везе"
 
 #: skype:sTRAYALERT_ALLMESSAGES2:2970
-#, fuzzy
 msgid "View all messages"
-msgstr "пошаљем поруку"
+msgstr "Преглед свих порука"
 
 #: skype:sTRAYALERT_ALLMESSAGES:2971
 msgid "View all %d new conversations"
@@ -11168,20 +11161,17 @@ msgstr "Прегледајте све нове разговоре (укупно:
 
 #: skype:sMAINMENU_VIEW_SINGLE_WINDOW_MODE:2972
 #: skype:sSINGLE_WINDOW_MODE_BUTTON_HINT:3332
-#, fuzzy
 msgid "Default View"
-msgstr "Изворна слика"
+msgstr "Изворни поглед"
 
 #: skype:sMAINMENU_VIEW_MULTI_WINDOW_MODE:2973
 #: skype:sMULTI_WINDOW_MODE_BUTTON_HINT:3333
-#, fuzzy
 msgid "Compact View"
-msgstr "Сажет поглед"
+msgstr "Сажети поглед"
 
 #: skype:sTRAYALERT_NONEW:2974
-#, fuzzy
 msgid "No new conversations"
-msgstr "Нема мрежне везе"
+msgstr "Нема нових разговора"
 
 #: skype:sCOM_CQ_HIGH_ECHO_HEADER:2975
 msgid "Your speakers are really loud."
@@ -11202,15 +11192,12 @@ msgstr ""
 "Шум може да утиче на квалитет разговора са особом са којом разговарате."
 
 #: skype:sCOM_CQ_MUTED_INPUT_HEADER:2979
-#, fuzzy
 msgid "Check your microphone is plugged in."
-msgstr "Проверите да је мрежни кабл укључен."
+msgstr "Проверите да је микрофон укључен."
 
 #: skype:sCOM_CQ_MUTED_INPUT:2980
-#, fuzzy
 msgid "Check your microphone is plugged in properly and it's switched on."
-msgstr ""
-"Немате микрофон.  Молимо да проверите да је микрофон прикључен и укључен."
+msgstr "Проверите да је микрофон исправно прикључен и укључен."
 
 #: skype:sCOM_CQ_LOW_INPUT_HEADER:2981 skype:sTRAYALERT_CQ_LOW_INPUT:2986
 msgid "Your microphone is really quiet"
@@ -11225,19 +11212,16 @@ msgid "High sound coming from the speakers"
 msgstr "Из звучника допире гласан звук."
 
 #: skype:sTRAYALERT_CQ_MUTED_INPUT:2985
-#, fuzzy
 msgid "Check your microphone is plugged in"
-msgstr "Проверите да је мрежни кабл укључен."
+msgstr "Проверите да је микрофон укључен"
 
 #: skype:sINBOX_REMINDER_MULTI:2987
-#, fuzzy
 msgid "You have new conversations"
-msgstr "Имате нове поруке"
+msgstr "Имате нове разговоре"
 
 #: skype:sCONTACT_GROUP_NEW:2988
-#, fuzzy
 msgid "New Category"
-msgstr "Преглед дневника порука"
+msgstr "Нова категорија"
 
 #: skype:sCQ_TITLE_REMOTE_CPU_SLOW:2989
 #: skype:sCQ_TITLE_REMOTE_VIDEO_CPU_LOW:2999
@@ -11246,13 +11230,10 @@ msgid "Other person's computer is running slowly"
 msgstr "Рачунар друге особе ради споро"
 
 #: skype:sCQ_DESC_REMOTE_CPU_SLOW:2990
-#, fuzzy
 msgid ""
 "Video not great? The person you're talking to might be running a lot of "
 "programs on their computer. Ask if they can close some of them."
-msgstr ""
-"Видео није у реду?  Особа с којом причате има спору везу са Интернетом, што "
-"може бити узрок неким проблемима."
+msgstr "Видео није у реду?  Особа с којом причате можда извршава много програма на рачунару.  Замолите саговорника да затвори."
 
 #: skype:sCQ_TITLE_REMOTE_FIREWALL_BAD:2991
 #: skype:sCQ_TITLE_REMOTE_LOW_BANDWIDTH:2995
@@ -11312,7 +11293,6 @@ msgstr ""
 "Замолите га да затвори све програме за дељење датотека, попут бит-торента."
 
 #: skype:sCQ_DESC_REMOTE_VIDEO_CPU_POWERSAVE:3002
-#, fuzzy
 msgid ""
 "Call quality not great? Ask the person you're talking to to plug their "
 "laptop into AC power."
@@ -11321,46 +11301,38 @@ msgstr ""
 "можда узрок проблему."
 
 #: skype:sMAINMENU_CONTACTS_GROUPS_ENABLED:3003
-#, fuzzy
 msgid "See All Contact Categories"
-msgstr "Сви познаници"
+msgstr "Приказ свих категорије познаника"
 
 #: skype:sCONVERSATIONLIST_EMPTY_GROUP:3004
 msgid "Drag contacts here"
 msgstr "Превуците познанике овде"
 
 #: skype:sCONVERSATIONLIST_UNGROUPED_GROUP2:3006
-#, fuzzy
 msgid "All other contacts"
-msgstr "Сви познаници"
+msgstr "Сви остали познаници"
 
 #: skype:sCONTACTGROUPS_RENAME:3007
-#, fuzzy
 msgid "Rename category"
-msgstr " Преименуј "
+msgstr "Преименуј групу"
 
 #: skype:sCONTACTGROUPS_REMOVE:3008 skype:sREMOVEGROUP_TITLE:3012
-#, fuzzy
 msgid "Delete category"
-msgstr "Брисање дневника разговора?"
+msgstr "Уклони групу"
 
 #: skype:sCONTACTGROUPS_NEW:3009
-#, fuzzy
 msgid "Create New Category…"
-msgstr "Направи нови разговор"
+msgstr "Направи нову групу…"
 
 #: skype:sREMOVEGROUP_CAPTION:3010
-#, fuzzy
 msgid "Delete category?"
-msgstr "Брисање дневника разговора?"
+msgstr "Уклањање групе?"
 
 #: skype:sREMOVEGROUP_WARNING:3011
-#, fuzzy
 msgid "Do you want to delete the category \"%s\"?"
 msgstr "Да ли желите да уклоните групу „%s‟?"
 
 #: skype:sREMOVE_GROUP_INFO:3013
-#, fuzzy
 msgid ""
 "Contacts in this category will not be deleted. You can still find them under "
 "\"All Contacts\"."
@@ -11369,18 +11341,16 @@ msgstr ""
 "познаници“"
 
 #: skype:sCONTACT_PROFILE_EDIT_PHONE:3014
-#, fuzzy
 msgid "Edit number"
-msgstr "Унесите број телефона"
+msgstr "Уреди број"
 
 #: skype:sCONTACT_PROFILE_ADD_PHONE:3015
 msgid "Add a number to this profile"
 msgstr "Додајте број за овај профил"
 
 #: skype:sCONVERSATIONLIST_INBOX_ALERT_CAPTION:3016
-#, fuzzy
 msgid "New Conversation notifications"
-msgstr "Дојаве"
+msgstr "Дојаве о новим разговорима"
 
 #: skype:sCONVERSATIONLIST_INBOX_ALERT_TEXT1:3017
 msgid "Would you like notifications for new conversations to …"
@@ -11392,24 +11362,20 @@ msgstr ""
 "Можете да подесите детаљне поставке о обавештењима у скајповим опцијама"
 
 #: skype:sCONVERSATIONLIST_INBOX_ALERT_OPTION1:3019
-#, fuzzy
 msgid "appear when someone contacts you"
-msgstr "Вам шаље неке познанике"
+msgstr "појављује се када Вас неко контактира"
 
 #: skype:sCONVERSATIONLIST_INBOX_ALERT_OPTION2:3020
-#, fuzzy
 msgid "not appear again"
-msgstr "Не питај ме поново"
+msgstr "не појављује се опет"
 
 #: skype:sDIRECTORY_SKYPEPRIME_BROWSE:3021
-#, fuzzy
 msgid "Browse Skype Prime"
-msgstr "Изаберите скајпово име"
+msgstr "Преглед скајп прајма (Skype Prime)"
 
 #: skype:sDIRECTORY_SKYPEPRIME_HEADER:3022
-#, fuzzy
 msgid "Learn something new with Skype Prime"
-msgstr "Зарадите новац са скајп Прајмом Бета (Skype Prime Beta)…"
+msgstr "Научите нешто ново са скајп-прајмом (Skype Prime)"
 
 #: skype:sDIRECTORY_SKYPEPRIME_LEARN:3023
 msgid ""
@@ -11421,14 +11387,12 @@ msgstr ""
 "позива."
 
 #: skype:sCOM_GENERAL:3024
-#, fuzzy
 msgid "%s"
-msgstr "„%s‟"
+msgstr "%s"
 
 #: skype:sNOTIFY_API_AUTHORIZATION:3025
-#, fuzzy
 msgid "%s wants to use Skype"
-msgstr "жели да користи скајп"
+msgstr "%s жели да користи скајп"
 
 #: skype:sDEVICES_NEW_MIC4:3026
 msgid ""
@@ -11440,43 +11404,36 @@ msgstr ""
 "корситите."
 
 #: skype:sCONTACT_PROFILE_ENTER_NAME:3030
-#, fuzzy
 msgid "Enter a name for this contact"
-msgstr "Унесите тему за овај разговор:"
+msgstr "Унесите име за овог познаника"
 
 #: skype:sF_COM_CAPTION:3031
 msgid "Useful tip"
 msgstr "Корисан савет"
 
 #: skype:sF_COM_MULTIPLE:3032
-#, fuzzy
 msgid "%s messages"
-msgstr "СМС поруке"
+msgstr "порука: %s"
 
 #: skype:sCONTACT_ADD_TO_GROUP:3033
-#, fuzzy
 msgid "Add to category"
-msgstr "Додај у поруке"
+msgstr "Додај у групу"
 
 #: skype:sCONTACT_REMOVE_FROM_GROUP:3034
-#, fuzzy
 msgid "Remove from category"
-msgstr "Уклони из списка познаника"
+msgstr "Уклони из групе"
 
 #: skype:sCONTACT_REMOVE_FROM_ONE_GROUP:3035
-#, fuzzy
 msgid "Remove from %s"
-msgstr "Уклони из „%s“"
+msgstr "Уклони из групе „%s“"
 
 #: skype:sPFOFILE_HEADER_GROUP_SAVED:3036
-#, fuzzy
 msgid "Group saved"
-msgstr "Групе"
+msgstr "Група је сачувана"
 
 #: skype:sHIDE_ONLINE_USERS:3037
-#, fuzzy
 msgid "Hide online user count"
-msgstr "Прегледај мрежно упутство за употребу"
+msgstr "Сакриј број корисника на вези"
 
 #: skype:sINBOX_HINT_ONE:3038
 msgid "New conversation, last activity %s ago"
@@ -11487,39 +11444,32 @@ msgid "%d conversations with new messages, last activity %s ago"
 msgstr "Разговора са новим порукама:%d, последња активност %s"
 
 #: skype:sINBOX_ITEM_HINT_ONE:3040
-#, fuzzy
 msgid "New message %s ago"
-msgstr "Пошаљи поруку за %s"
+msgstr "Нова порука пре: %s"
 
 #: skype:sINBOX_ITEM_HINT_MULTIPLE:3041
-#, fuzzy
 msgid "%d new messages, last activity %s ago"
-msgstr "Нових порука у разговору: %s, последња у %s"
+msgstr "нових порука: %d, последња пре: %s"
 
 #: skype:sINBOX_CLOSE_HINT:3042
-#, fuzzy
 msgid "Remove from Conversations"
-msgstr "Уклони из списка познаника"
+msgstr "Уклони из разговора"
 
 #: skype:sCONVERSATION_HINT:3043
-#, fuzzy
 msgid "Last activity %s ago"
-msgstr "Последњи дани од %s"
+msgstr "Последња активност пре: %s"
 
 #: skype:sCONVERSATION_SPAWNED_CONFERENCE:3044
-#, fuzzy
 msgid "%s created a group conversation with %s."
-msgstr "Направите конференцију са %s"
+msgstr "Корисник %s је направио групни разговор са: %s."
 
 #: skype:sCONVERSATION_SPAWNED_CONF_LINK:3045
-#, fuzzy
 msgid "Show group conversation"
-msgstr "Позивница за дељену групу"
+msgstr "Прикажи групни разговор"
 
 #: skype:sCONTACTGROUPS_DELETE_SELECTED:3046
-#, fuzzy
 msgid "Delete Category \"%s\"…"
-msgstr "Брисање дневника разговора?"
+msgstr "Уклони групу „%s‟…"
 
 #: skype:sCONTACTGROUPS_RENAME_SELECTED:3047
 msgid "Rename Category \"%s\"…"
@@ -11534,17 +11484,14 @@ msgid "Rates per minute to phones and mobiles:"
 msgstr "Тарифе по минуту за звање телефона и мобилних:"
 
 #: skype:sF_OPTIONS_RING_ALL_DEVICES:3052
-#, fuzzy
 msgid "Ring on all devices"
-msgstr "На вези (мобилни уређај)"
+msgstr "Звони на свим уређајима"
 
 #: skype:sAUTHORIZATION_PANEL_TIP:3053
-#, fuzzy
 msgid ""
 "You can control who can contact you in your <a href=\"skype:?options#privacy"
 "\">privacy settings</a>."
-msgstr ""
-"<a href=\"skype:?options#privacy\">Напредна подешавања приватности.</a>"
+msgstr "Можете да одредите ко може да Вас зове помоћу <a href=\"skype:?options#privacy\">подешавања приватности.</a>"
 
 #: skype:sAUTHORIZATION_PANEL_COMMENT:3054
 #, fuzzy
