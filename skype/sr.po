@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 19:17+0100\n"
+"PO-Revision-Date: 2010-01-01 19:31+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -12610,24 +12610,20 @@ msgid "Display contact profile"
 msgstr "Прикажи профил познаника"
 
 #: skype:sACC_HIDE_CONTACT_PROFILE:3344
-#, fuzzy
 msgid "Hide contact profile"
 msgstr "Сакриј профил познаника"
 
 #: skype:sACC_PROFILE_MOODMESSAGE:3345
-#, fuzzy
 msgid "MoodMessage"
-msgstr "СМС поруке"
+msgstr "Расположење"
 
 #: skype:sINVITE_HEADING1:3346
-#, fuzzy
 msgid "Add <b>%s</b> to your contacts"
-msgstr "Да, додај %s међу познанике"
+msgstr "Додај <b>%s</b> у познанике"
 
 #: skype:sINVITE_HEADING2:3347
-#, fuzzy
 msgid "1 new contact added"
-msgstr "%s контаката"
+msgstr "Додат 1 нови контакт"
 
 #: skype:sINVITE_CONTACT_CAPTION:3348
 msgid ""
@@ -12636,147 +12632,113 @@ msgid ""
 msgstr "Добили сте позив у ел. пошти од: <b>%s</b>.<br/>Да ли желите да додате ову особу као познаника у скајп?"
 
 #: skype:sINVITE_REQUEST_TEXT:3349
-#, fuzzy
 msgid ""
 "Your email contact %s is now on Skype. Please add them to your Contact list."
-msgstr ""
-"Здраво. Малочас смо били у скајпкасту %s. Молим да ме додате на Ваш списак "
-"познаника."
+msgstr "Ваш познаник %s је на скајпу.  Молимо да их додате у списак познаника."
 
 #: skype:sINVITE_ADDED_CAPTION1:3350
-#, fuzzy
 msgid "Find them in your Contact list and send them messages"
-msgstr ""
-"<center>Корисник није у Вашем списку познаника.<br/><br/>Да бисте потражили "
-"<b>%s</b> на скајповој мрежи, притисните сличицу изнад.</center>"
+msgstr "Нађие их у списку познаника и пошаљите им поруку"
 
 #: skype:sINVITE_ADDED_CAPTION2:3351
-#, fuzzy
 msgid "Until they OK you as a contact, they look like this"
-msgstr "<center>Док не потврде да Вас познају, изгледаће овако.</center>"
+msgstr "Док вас не одобре као познаника, изгледаће овако"
 
 #: skype:sINVITE_ADDED_CAPTION3:3352
-#, fuzzy
 msgid "When they OK you, see when they're online and call them for free"
-msgstr ""
-"<center>Када Вас потврде, видећете када су на вези и моћи ћете да их "
-"бесплатно позовете.</center>"
+msgstr "Када Вас одобре, можете да видите када су на вези и можете да их бесплатно зовете."
 
 #: skype:sINVITE_NOTIFICATION:3353
-#, fuzzy
 msgid ""
 "%s has invited you to join them on Skype. Would you like to add this person "
 "as a contact?"
-msgstr ""
-"<b>%s</b> вас позива да се прикључите групи <b>%s</b>. Да ли желите да се "
-"прикључите овој групи?"
+msgstr "Корисник %s Вас позива да им се придружите на скајпу.  Да ли желите да додате ову особу као познаника?"
 
 #: skype:sINVITE_CONTACT_HINT:3354
-#, fuzzy
 msgid "When <b>%s</b> has accepted, you'll see when they come online"
-msgstr ""
-"<center>Чим прихвате позив, моћи ћете да видите када су на вези.</center>"
+msgstr "Када <b>%s</b> прихвати, видећете познаника када буде на вези"
 
 #: skype:sACC_PROFILE_PARTICIPANT_LIST:3355
-#, fuzzy
 msgid "Participants"
-msgstr "Погледај учеснике"
+msgstr "Учесници"
 
 #: skype:sSENDCONTACTS_DLG_CAPTION:3356
-#, fuzzy
 msgid "Send contacts to %s"
-msgstr "Пошаљи контакте целој групи"
+msgstr "Пошаљите податке о познаницима до %s"
 
 #: skype:sACC_PRESSME_BUTTON:3357
-#, fuzzy
 msgid "Press me to check your speakers"
-msgstr "Пусти звук за проверу звучника"
+msgstr "Притисните овде како бисте проверили звучнике"
 
 #: skype:sACC_GSW_NAVIGATION_PANEL:3359
 msgid "Navigation panel"
 msgstr "Панел за управљање"
 
 #: skype:sACC_GSW_LIVE_LIST:3360
-#, fuzzy
 msgid "Live conversation list"
-msgstr "Фиксирани разговори"
+msgstr "Списак живих разговора"
 
 #: skype:sVIDEOMENU_START_SCREEN_SHARING:3361
-#, fuzzy
 msgid "Share Your Screen"
-msgstr "Промени моју слику…"
+msgstr "Делите свој екран"
 
 #: skype:sVIDEOSUBMENU_SHARE_FULL_SCREEN:3362
-#, fuzzy
 msgid "Share Full Screen"
-msgstr "Видео на целом екрану"
+msgstr "Дељење целог екрана"
 
 #: skype:sVIDEOSUBMENU_SHARE_DISPLAY_NR:3363
-#, fuzzy
 msgid "Display %s (%d x %d)"
-msgstr "Бројчаник"
+msgstr "Приказ %s (%d x %d)"
 
 #: skype:sVIDEOSUBMENU_SHARE_SELECTION:3364
-#, fuzzy
 msgid "Share Selection"
-msgstr "Умножи избор"
+msgstr "Дели избор"
 
 #: skype:sVIDEOMENU_STOP_SCREEN_SHARING:3365
-#, fuzzy
 msgid "Stop Sending Screen"
-msgstr "Прекини слање"
+msgstr "Крај дељења екрана"
 
 #: skype:sACC_MYSELFPANEL_CHANGE_STATUS:3366
-#, fuzzy
 msgid "Change your status"
 msgstr "Промени статус"
 
 #: skype:sACC_MYSELFPANEL_SHOW_PROFILE:3367
-#, fuzzy
 msgid "Display profile"
-msgstr "Умножи профил"
+msgstr "Прикажи профил"
 
 #: skype:sACC_MYSELFPANEL_SET_MOODMESSAGE:3369
-#, fuzzy
 msgid "Click to set a moodmessage"
-msgstr "пошаљем поруку"
+msgstr "Притисните да бисте променили поруку о расположењу"
 
 #: skype:sACC_MYSELFPANEL_CHANGE_MOODMESSAGE:3370
 msgid "Click to update your moodmessage"
 msgstr "Притисните како бисте променили статусну поруку"
 
 #: skype:sACC_NEW_BUTTON_DESCRIPTION:3371
-#, fuzzy
 msgid "Add a new contact or create a new group conversation"
-msgstr "Додавање оволико контаката у дељену групу: %d?"
+msgstr "Додавање познаника или направите нови групни разговор"
 
 #: skype:sCHAT_RECEIVED_SINGLE_CONTACT:3372
-#, fuzzy
 msgid "Contact received from %s"
-msgstr "познаници од %s"
+msgstr "Познаник примљен од %s"
 
 #: skype:sCHAT_POSTED_SINGLE_CONTACT:3373
-#, fuzzy
 msgid "Contact sent to %s"
-msgstr "Познаници који се шаљу"
+msgstr "Познаник послат за %s"
 
 #: skype:sCHAT_RECEIVED_CONTACTS:3374
-#, fuzzy
 msgid "%d contacts received from %s"
-msgstr "познаници од %s"
+msgstr "%d познаника примљених од %s"
 
 #: skype:sHISTORY_FILTER_CONTACTTRANSFERS:3375
-#, fuzzy
 msgid "Contacts sent and received"
-msgstr "Послате и примљене датотеке"
+msgstr "Примљени и послати познаници"
 
 #: skype:sCQ_TITLE_PLAYBACK_ERROR:3376
-#, fuzzy
 msgid "Plug in your speakers"
-msgstr "Пусти звук за проверу звучника"
+msgstr "Укључите звучнике"
 
 #: skype:sCQ_DESC_PLAYBACK_ERROR:3377
-#, fuzzy
 msgid ""
 "You'll need a microphone and speakers or a headset to use Skype. Make sure "
 "you have plugged in your speakers and selected it. <br/>Get help <a href="
@@ -12787,19 +12749,16 @@ msgstr ""
 "\"skype:?gettingstarted#devices\">са подешавањем звучне опреме</a>.<br/>"
 
 #: skype:sCOM_CQ_PLAYBACK_ERROR_HEADER:3378
-#, fuzzy
 msgid "No speakers detected"
-msgstr "Микрофон је утишан"
+msgstr "Нема звучника"
 
 #: skype:sCOM_CQ_PLAYBACK_ERROR:3379
-#, fuzzy
 msgid "Check you've plugged in your speakers"
-msgstr "Проверите да ли сте укључили камеру."
+msgstr "Проверите да ли сте укључили звучнике"
 
 #: skype:sVIDEOMENU_VIEW_ACTUAL_SIZE:3381
-#, fuzzy
 msgid "View Actual Size"
-msgstr "Списак позива"
+msgstr "У пуној величини"
 
 #: skype:sVIDEO_SCREENSHARING_TOOLBAR_HINT:3382
 msgid ""
@@ -12811,9 +12770,8 @@ msgstr "Можете да приступите командама за деље�
 #: skype:sF_SCREENSHARING_STARTCALL_WARNING_CAPTION:3384
 #: skype:sF_SCREENSHARING_STOPRECEIVING_WARNING_TITLE:3386
 #: skype:sF_SCREENSHARING_STOPRECEIVING_WARNING_CAPTION:3387
-#, fuzzy
 msgid "Screen sharing"
-msgstr "Псује"
+msgstr "Дељење екрана"
 
 #: skype:sF_SCREENSHARING_STARTCALL_WARNING:3385
 msgid ""
@@ -12828,33 +12786,28 @@ msgid ""
 msgstr "Дељење екрана са новом особом ће обуставити дељење екрана од корисника %s.  Да ли сигурно желите да почнете са новим дељењем екрана?"
 
 #: skype:sF_OPTIONS_VIDEO_AND_SCREENSHARING_LB3:3389
-#, fuzzy
 msgid "Automatically receive video and screen sharing from…"
-msgstr "Аутоматски прихвати видео од"
+msgstr "Аутоматски прихвати видео и дељење екрана од…"
 
 #: skype:sCALL_STARTING_SCREENSHARING:3390
-#, fuzzy
 msgid "Starting screen sharing"
-msgstr "Почни поновно звање"
+msgstr "Дели екран"
 
 #: skype:sCALL_SCREENSHARING_ACTIVE:3391
 msgid "Screen sharing active"
 msgstr "Дељење екрана је укључено"
 
 #: skype:sSCREENSHARING_IS_IN_SEPARATE_WINDOW:3392
-#, fuzzy
 msgid "Screen share view is in a separate window"
-msgstr "Прикажи видео у прозору"
+msgstr "Поглед са дељеним екраном је у посебном прозору"
 
 #: skype:sVIDEO_BTN_SHOW_HERE:3393
-#, fuzzy
 msgid "Show here"
-msgstr "Прикажи локално време:"
+msgstr "Прикажи овде"
 
 #: skype:sAC_INVITE_UNFOUND:3394
-#, fuzzy
 msgid "Help this person get started on Skype"
-msgstr "Нађи пријатеље који користе скајп"
+msgstr "Помозите овој особи да почне да користи скајп"
 
 #: skype:sACC_OPEN_MYSELF_PANEL:3396
 msgid "Use spacebar to open profile"
