@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 15:20+0100\n"
+"PO-Revision-Date: 2010-01-01 16:09+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -7333,9 +7333,8 @@ msgid "You can always open Getting Started from the main menu"
 msgstr "Можете увек да отворите „Како почети‟ из главног менија"
 
 #: skype:sGSW_BUBBLE_ERROR_TEXT1:1873
-#, fuzzy
 msgid "Skype Test Call is not in your Contact list"
-msgstr "скајп је пронашао и додао познанике. Укупно их има %s."
+msgstr "Скајпов пробни позив тренутно није у списку познаника"
 
 #: skype:sGSW_BUBBLE_ERROR_TEXT2:1874
 msgid "Call button is not on screen"
@@ -7354,71 +7353,59 @@ msgstr ""
 #: skype:sZAPCONTACT_HOME_PHONE:1879 skype:sZAPBUTTON_CALLTOOLBARHOME:1911
 #: skype:sZAPBUTTON_CONVERSATIONSHOME:1932 skype:sZAPBUTTON_GROUPCALLHOME:1982
 #: skype:sZAPBUTTON_HOME:1993 skype:sDIRECTORY_NAVBAR_HOME_HINT:2152
-#, fuzzy
 msgid "Home"
-msgstr "кућни"
+msgstr "Кућа"
 
 #: skype:sZAPCONTACT_OFFICE_PHONE:1880
 #: skype:sZAPBUTTON_CONVERSATIONSOFFICE:1935
 #: skype:sZAPBUTTON_GROUPCALLOFFICE:1984
-#, fuzzy
 msgid "Office"
-msgstr "посао"
+msgstr "Посао"
 
 #: skype:sZAPCONTACT_MOBILE_PHONE:1881 skype:sZAPBUTTON_CALLTOOLBARMOBILE:1912
 #: skype:sZAPBUTTON_CONVERSATIONSMOBILE:1933
 #: skype:sZAPBUTTON_GROUPCALLMOBILE:1983
-#, fuzzy
 msgid "Mobile"
-msgstr "мобилни"
+msgstr "Мобилни"
 
 #: skype:sZAPBUTTON_NONE:1882
-#, fuzzy
 msgid "none"
-msgstr "било кога"
+msgstr "ниједан"
 
 #: skype:sZAPBUTTON_ACCEPT:1883
 msgid "Accept"
 msgstr "Прихвати"
 
 #: skype:sZAPBUTTON_ADDNUMBER:1885
-#, fuzzy
 msgid "Add a telephone number"
-msgstr "… или додајте телефонски број"
+msgstr "Додај тел. број"
 
 #: skype:sZAPBUTTON_ADDSOCONTACT:1886 skype:sCONTACT_PROFILE_SAVE:3029
 msgid "Save this number as a contact"
 msgstr "Сачувај овај број као број познаника"
 
-# 20050406 zmeYpc: много краће
-# 20050716 Додај познаника уместо Нови познаник. Прецизније.
 #: skype:sZAPBUTTON_ADDALL:1888
-#, fuzzy
 msgid "Add all to contacts"
-msgstr "Додај познаника"
+msgstr "Додај све у познанике"
 
 #: skype:sZAPBUTTON_ADDSKYPEOUT:1889
-#, fuzzy
 msgid "Save number in Contacts"
-msgstr "Пошаљи контакте"
+msgstr "Сачувај број"
 
 #: skype:sZAPBUTTON_ADDTOCONFERENCE:1890
-#, fuzzy
 msgid "Add to conference"
-msgstr "Крај конференције"
+msgstr "Додај у конференцију"
 
 # 20050406 zmeYpc: много краће
 # 20050716 Додај познаника уместо Нови познаник. Прецизније.
 #: skype:sZAPBUTTON_ADDTOCONTACTS:1891 skype:sZAPBUTTON_INVITENOTIFACCEPT:2132
 #: skype:sF_AUTH_BTN_ADD:2465
-#, fuzzy
 msgid "Add to contacts"
-msgstr "Додај познаника"
+msgstr "Додај у познанике"
 
 #: skype:sZAPBUTTON_ALLOW:1892
-#, fuzzy
 msgid "Allow"
-msgstr "Све"
+msgstr "Дозволи"
 
 #: skype:sZAPBUTTON_ALLOWNOT:1893
 msgid "Do not allow"
@@ -7439,34 +7426,28 @@ msgid "Back"
 msgstr "Назад"
 
 #: skype:sZAPBUTTON_CALLGROUP:1903 skype:sBUDDYMENU_CALLGROUP:3193
-#, fuzzy
 msgid "Call Group"
-msgstr "Позив пропуштен"
+msgstr "Група позива"
 
 #: skype:sZAPBUTTON_CALLQUALITY:1904 skype:sZAPBUTTON_CALLQUALITYINFO:1907
-#, fuzzy
 msgid "Call Quality"
-msgstr "Позови техничку подршку"
+msgstr "Квалитет везе"
 
 #: skype:sZAPBUTTON_CALLQUALITYAVERAGE:1905
-#, fuzzy
 msgid "Call Quality Average"
-msgstr "Позови техничку подршку"
+msgstr "Просечан квалитет везе"
 
 #: skype:sZAPBUTTON_CALLQUALITYBAD:1906
-#, fuzzy
 msgid "Call Quality Bad"
-msgstr "Позови техничку подршку"
+msgstr "Лош квалитет везе"
 
 #: skype:sZAPBUTTON_CALLQUALITYWARNING:1908
-#, fuzzy
 msgid "Call Quality Warning"
-msgstr "Позови техничку подршку"
+msgstr "Упозорење о квалитету везе"
 
 #: skype:sZAPBUTTON_CALLQUALITYERROR:1909
-#, fuzzy
 msgid "Call Quality Error"
-msgstr "Позови техничку подршку"
+msgstr "Грешка на вези"
 
 #: skype:sZAPBUTTON_CQ_5STAR:1913
 msgid "*****"
@@ -7489,9 +7470,8 @@ msgid "*"
 msgstr "*"
 
 #: skype:sZAPBUTTON_CHAT:1922 skype:sZAPBUTTON_SENDMESSAGE:2064
-#, fuzzy
 msgid "Send message"
-msgstr "Пошаљи једну поруку"
+msgstr "Пошаљи поруку"
 
 #: skype:sZAPBUTTON_CHARGE:1923 skype:sPREMIUMCALL_CHARGE:3150
 msgid "Charge"
@@ -7499,9 +7479,8 @@ msgstr "Уплати"
 
 #: skype:sZAPBUTTON_CHANGECOUNTRY:1924
 #: skype:sPROFILE_CHANGE_COUNTRY_BUTTON:3327
-#, fuzzy
 msgid "Change your country"
-msgstr "Промените вашу слику"
+msgstr "Промените државу"
 
 #: skype:sZAPBUTTON_CLEAR:1925
 msgid "Clear"
@@ -7510,14 +7489,12 @@ msgstr "Очисти"
 #: skype:sZAPBUTTON_CONVERSATIONS:1928 skype:sCONVERSATIONS_FILTER_INBOX:2317
 #: skype:sMAINMENU_VIEW_CONVERSATIONS:2664
 #: skype:sEMPTYCANVAS_CONVERSATIONS_TITLE:2722 skype:sCONVERSATIONS_MANY:2800
-#, fuzzy
 msgid "Conversations"
-msgstr "Потврда"
+msgstr "Разговори"
 
 #: skype:sZAPBUTTON_CONVERSATION:1929 skype:sCONVERSATION_DISPLAY_HERE:2858
-#, fuzzy
 msgid "Display the conversation here instead"
-msgstr "Прикажи дојаве у системској траци"
+msgstr "Приказуј разговоре овде"
 
 #: skype:sZAPBUTTON_CONVERSATIONCLASSIC:1930
 #: skype:sCONVERSATION_SHOW_WINDOW:2859
@@ -7525,9 +7502,8 @@ msgid "Show the window containing the conversation"
 msgstr "Прикажи прозор са разговором"
 
 #: skype:sZAPBUTTON_CONTACTSARROWSELECTED:1938
-#, fuzzy
 msgid "Selected contacts"
-msgstr "Изабери познаника"
+msgstr "Изабрани познаници"
 
 #: skype:sZAPBUTTON_DECLINE:1939
 msgid "Decline"
@@ -7547,9 +7523,8 @@ msgid " "
 msgstr " "
 
 #: skype:sZAPBUTTON_DIALNUMBER:1957
-#, fuzzy
 msgid "Dial this phone number"
-msgstr "Неважећи телефонски број"
+msgstr "Позови овај број"
 
 #: skype:sZAPBUTTON_DIRECTORY:1958 skype:sMAINMENU_VIEW_DIRECTORY:2668
 #: skype:sDIRECTORY_CAPTION:3027
@@ -7557,14 +7532,12 @@ msgid "Directory"
 msgstr "Именик"
 
 #: skype:sZAPBUTTON_DOWN:1959
-#, fuzzy
 msgid "Down"
-msgstr "&Доле"
+msgstr "Доле"
 
 #: skype:sZAPBUTTON_DONT:1961
-#, fuzzy
 msgid "Don't use for Skype"
-msgstr "Немате скајпово име?"
+msgstr "Не користи за скајп"
 
 #: skype:sZAPBUTTON_DONTSHOW:1962
 msgid "Don't show again"
@@ -7579,47 +7552,40 @@ msgid "File"
 msgstr "Датотека"
 
 #: skype:sZAPBUTTON_FILETRANSFER:1965
-#, fuzzy
 msgid "File Transfer"
-msgstr "Прихвати пренос датотеке"
+msgstr "Пренос датотеке"
 
 #: skype:sZAPBUTTON_EXITGSW:1967
 msgid "Exit this guide"
 msgstr "Затвори овај водич"
 
 #: skype:sZAPBUTTON_FINDOUTMORE:1968
-#, fuzzy
 msgid "Find out more"
-msgstr "Нађи бројеве"
+msgstr "Сазнајте више"
 
 #: skype:sZAPBUTTON_SHOWHISTORY:1969
-#, fuzzy
 msgid "Show history"
-msgstr "Нема дневника"
+msgstr "Приказ дневника"
 
 #: skype:sZAPBUTTON_HIDEHISTORY:1970
-#, fuzzy
 msgid "Hide history"
-msgstr "Сакриј списак уплата"
+msgstr "Сакриј дневник"
 
 #: skype:sZAPBUTTON_HISTORYFILTER:1971
-#, fuzzy
 msgid "All messages"
-msgstr "поруке од прикључка"
+msgstr "Све поруке"
 
 #: skype:sZAPBUTTON_FOUR:1972
 msgid "4"
 msgstr "4"
 
 #: skype:sZAPBUTTON_FINDFRIENDS:1973 skype:sGSW_FIND_FRIENDS_BUTTON:2788
-#, fuzzy
 msgid "Find friends"
-msgstr "Нађи пријатеље који користе скајп"
+msgstr "Нађи пријатеље"
 
 #: skype:sZAPBUTTON_FINDFRIENDSNEW:1974
-#, fuzzy
 msgid "FindFriends"
-msgstr "Нађи пријатеље који користе скајп"
+msgstr "Тражење пријатеља"
 
 #: skype:sZAPBUTTON_FINDNEXT:1975
 msgid "<ks>N</ks>ext"
@@ -7630,14 +7596,12 @@ msgid "<ks>P</ks>revious"
 msgstr "<ks>Н</ks>азад"
 
 #: skype:sZAPBUTTON_FORWARD:1977 skype:sDIRECTORY_NAVBAR_FORWARD_HINT:2151
-#, fuzzy
 msgid "Forward"
-msgstr "Проследио:"
+msgstr "Проследи"
 
 #: skype:sZAPBUTTON_UNREADMESSAGES:1979
-#, fuzzy
 msgid "%d new messages"
-msgstr "Имате нове поруке"
+msgstr "Нових порука: %d"
 
 #: skype:sZAPBUTTON_GETSTARTED:1980
 msgid "<b><font type=\"Arial\">Get started</font></b>"
@@ -7648,28 +7612,24 @@ msgid "Other"
 msgstr "Остало"
 
 #: skype:sZAPBUTTON_SAVEGROUP:1986
-#, fuzzy
 msgid "Save group in Contacts"
-msgstr "Познаници без групе"
+msgstr "Сачувај групу у познанике"
 
 #: skype:sZAPBUTTON_HANGUP:1987 skype:sCONTACT_HUNGUP_BUTTON_HINT:2146
 msgid "End call"
 msgstr "Крај везе"
 
 #: skype:sZAPBUTTON_HISTORYSLIDER:1989
-#, fuzzy
 msgid "Last message"
-msgstr "Уреди поруку"
+msgstr "Последња порука"
 
 #: skype:sZAPBUTTON_HIDEMESSAGES:1991 skype:sCALL_TOOLBAR_HIDE_MESSAGES:3059
-#, fuzzy
 msgid "Hide messages"
-msgstr "Уреди поруку"
+msgstr "Сакриј поруке"
 
 #: skype:sZAPBUTTON_HOLD:1992
-#, fuzzy
 msgid "Hold call"
-msgstr "Задржи позив"
+msgstr "На чекање"
 
 #: skype:sZAPBUTTON_INFO:1994
 msgid "Info"
@@ -7681,40 +7641,34 @@ msgid "Ignore"
 msgstr "Занемари"
 
 #: skype:sZAPBUTTON_JOINCALL:1996
-#, fuzzy
 msgid "Join call"
-msgstr "Крај везе"
+msgstr "Придруживање позиву"
 
 #: skype:sZAPBUTTON_LEFT:1998
 msgid "<b><font color=\"#475358\">Left</font></b>"
 msgstr "<b><font color=\"#475358\">Лево</font></b>"
 
 #: skype:sZAPBUTTON_MAKEDEMOCALL:1999
-#, fuzzy
 msgid "Make test call"
 msgstr "Направи пробни позив"
 
 #: skype:sZAPBUTTON_MESSAGESMILE:2001 skype:sZAPBUTTON_MESSAGEFROWN:2002
-#, fuzzy
 msgid "Choose emoticon"
-msgstr "Показуј емотиконе"
+msgstr "Избор емотикона"
 
 #: skype:sZAPBUTTON_MESSAGESHARE:2004
-#, fuzzy
 msgid "Share"
-msgstr "Мућка"
+msgstr "Дели"
 
 #: skype:sZAPBUTTON_MESSAGEEXTRAS:2005
 #: skype:sMAINMENU_CONVERSATION_EXTRAS:2628 skype:sMAINMENU_TOOLS_EXTRAS:2671
 #: skype:sCONVERSATION_MENU_EXTRAS:2774
-#, fuzzy
 msgid "Extras"
-msgstr "Набавка додатака"
+msgstr "Додаци"
 
 #: skype:sZAPBUTTON_MESSAGESMS:2006
-#, fuzzy
 msgid "Group SMS"
-msgstr "Групе: "
+msgstr "Групни СМС"
 
 #: skype:sZAPBUTTON_MESSAGEIM:2007
 msgid "IM"
@@ -7737,28 +7691,24 @@ msgid "Mute"
 msgstr "Утишај"
 
 #: skype:sZAPBUTTON_UNMUTE:2012
-#, fuzzy
 msgid "UnMute"
-msgstr "Утишај"
+msgstr "Звук"
 
 #: skype:sZAPBUTTON_SMSSELECTFROM:2013
-#, fuzzy
 msgid "Set your caller ID"
-msgstr "Поставите скајпов тапет"
+msgstr "Поставите идентификацију"
 
 #: skype:sZAPBUTTON_SMSSELECTTO:2014
-#, fuzzy
 msgid "SMS select to"
-msgstr "Изабери све"
+msgstr "СМС за"
 
 #: skype:sZAPBUTTON_NEW:2015 skype:sCHATITEM_DESCRIPTION_UNCONSUMED:3430
 msgid "New"
 msgstr "Ново"
 
 #: skype:sZAPBUTTON_NEXTPAGE:2018 skype:sZAPBUTTON_PROFILENEXT:2039
-#, fuzzy
 msgid "Next page"
-msgstr "Даље »"
+msgstr "Следећа страна"
 
 #: skype:sZAPBUTTON_OTHERACTIONS:2019 skype:sCALL_TOOLBAR_MENU:3088
 msgid "Other call functions"
@@ -7773,19 +7723,16 @@ msgid "1"
 msgstr "1"
 
 #: skype:sZAPBUTTON_OPENFILE:2023
-#, fuzzy
 msgid "Open file"
-msgstr "Отвори директоријум %s"
+msgstr "Отвори датотеку"
 
 #: skype:sZAPBUTTON_PAUSE:2025
-#, fuzzy
 msgid "Pause"
-msgstr "Убаци"
+msgstr "Пауза"
 
 #: skype:sZAPBUTTON_PLAY:2027
-#, fuzzy
 msgid "Play"
-msgstr "Пусти:"
+msgstr "Пусти"
 
 #: skype:sZAPBUTTON_PREVIOUSPAGE:2031 skype:sZAPBUTTON_PROFILEPREVIOUS:2042
 #, fuzzy
