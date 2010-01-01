@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 19:31+0100\n"
+"PO-Revision-Date: 2010-01-01 19:41+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -12814,9 +12814,8 @@ msgid "Use spacebar to open profile"
 msgstr "Користите размакницу да отворите профил"
 
 #: skype:sACC_CLOSE_MYSELF_PANEL:3397
-#, fuzzy
 msgid "Use spacebar to close profile"
-msgstr "Додај корисника у списак"
+msgstr "Користите размакницу да затворите профил"
 
 #: skype:sACC_DROPDOWBUTTON_DESCIPTION:3398
 msgid "To press use spacebar"
@@ -12827,25 +12826,21 @@ msgid "To edit use spacebar"
 msgstr "Да бисте уредили користите размакницу"
 
 #: skype:sVIDEOMENU_STOP_RECEIVING_SCREENSHARING:3400
-#, fuzzy
 msgid "Stop Incoming Sharing"
-msgstr "скајпов долазни разговор (Модеран)"
+msgstr "Заустави долазно дељење"
 
 #: skype:sNOTIF_RECEIVED_SINGLE_CONTACT:3401
-#, fuzzy
 msgid "New contact: %s"
-msgstr "Нови познаник"
+msgstr "Нови познаник: %s"
 
 #: skype:sNOTIF_RECEIVED_CONTACTS:3402
-#, fuzzy
 msgid "%d new contacts"
-msgstr "бр. познаника: %s"
+msgstr "бр. нових: %s"
 
 #: skype:sCQ_TITLE_AUTO_MIC_OVERLOAD:3403
 #: skype:sCQ_TITLE_MAN_MIC_OVERLOAD:3405
-#, fuzzy
 msgid "Microphone overloaded"
-msgstr "Микрофон"
+msgstr "Микрофон је преоптерећен"
 
 #: skype:sCQ_DESC_AUTO_MIC_OVERLOAD:3404
 msgid ""
@@ -12862,51 +12857,42 @@ msgid ""
 msgstr "Звук који долази до Вашег микрофона је прегласан.  Да бисте аутоматски подесили јачину снимљеног звука, идите у <a href=\"skype:?options#sounddevices\">аудио подешавања</a> и изаберите аутоматско подешавање микрофона."
 
 #: skype:sCHAT_POSTED_SINGLE_CONTACT_TO_GROUP:3407
-#, fuzzy
 msgid "Contact sent to the group"
-msgstr "Пошаљи контакте целој групи"
+msgstr "Познаник је послат групи"
 
 #: skype:sCHAT_POSTED_CONTACTS_TO_GROUP:3408
-#, fuzzy
 msgid "%d contacts sent to the group"
-msgstr "Пошаљи контакте целој групи"
+msgstr "Познаника послатих групи: %d"
 
 #: skype:sACC_CALL_TOOLBAR_DIALPAD_DESCRIPTION:3409
-#, fuzzy
 msgid "Numeric dial pad"
-msgstr "Прикажи бројчаник"
+msgstr "Бројчаник"
 
 #: skype:sACC_CALL_TOOLBAR_DIALPAD_HINT:3410
 msgid "Use numeric keyboard to generate tones"
 msgstr "Користите нумеричку тастатуру да генеришете тонове"
 
 #: skype:sF_OPTIONS_CF_ERROR6:3411
-#, fuzzy
 msgid "You are not allowed to forward calls to Skype Test Call"
-msgstr ""
-"Потребан вам је скајпов кредит за прослеђивање позива на обичне телефоне"
+msgstr "Није вам дозвољено да позиве прослеђујете скајповом пробном кориснику"
 
 #: skype:sPARTICIPANT_CALL_STATE_INCALL:3412
-#, fuzzy
 msgid "In call"
-msgstr "Крај везе"
+msgstr "На вези"
 
 #: skype:sPARTICIPANT_CALL_STATE_ONHOLD:3413
 msgid "On hold"
 msgstr "На чекању"
 
 #: skype:sPARTICIPANT_CALL_STATE_MUTED:3414
-#, fuzzy
 msgid "Muted"
-msgstr "Утишај"
+msgstr "Утишан"
 
 #: skype:sPARTICIPANT_CALL_STATE_VMPLAYING:3418
-#, fuzzy
 msgid "Playing voicemail"
-msgstr "Остављање гласовне поште"
+msgstr "Пуштање говорне поште"
 
 #: skype:sHOTKEY_ANSWER_WITH_VIDEO:3420
-#, fuzzy
 msgid "Answer call with video"
 msgstr "Јави се путем видеа"
 
@@ -12919,39 +12905,32 @@ msgid "WinKey cannot be used as a hotkey for %s"
 msgstr "Виндовс тастер не може да се користи као брзи тастер за %s"
 
 #: skype:sUSER_IN_CONTACTS:3423
-#, fuzzy
 msgid "This user is already in your contact list"
-msgstr "%s је додат у списак познаника!"
+msgstr "Овај корисник је већ у списку познаника"
 
 #: skype:sCHATITEM_DESCRIPTION_TIMESTAMP:3425
-#, fuzzy
 msgid "at %s"
-msgstr "Позови: %s"
+msgstr "у %s"
 
 #: skype:sCHATITEM_DESCRIPTION_REMOVED:3426
-#, fuzzy
 msgid "Removed by %s at %s"
-msgstr "Уклонио %s, %s"
+msgstr "Уклонио %s у %s"
 
 #: skype:sCHATITEM_DESCRIPTION_EDITED:3427
-#, fuzzy
 msgid "Edited by %s at %s"
-msgstr "Измена: %s, %s"
+msgstr "Уредио %s у %s"
 
 #: skype:sCHATITEM_DESCRIPTION_SENDING:3428
-#, fuzzy
 msgid "Not delivered"
-msgstr "Порука „%s‟ још није испоручена"
+msgstr "Није испоручено"
 
 #: skype:sCHATITEM_DESCRIPTION_FAILED:3429
-#, fuzzy
 msgid "Failed to deliver"
-msgstr "С олакшањем"
+msgstr "Испорука није успела"
 
 #: skype:sMYSELF_CAPTURE_HINT_SLIDER:3431
-#, fuzzy
 msgid "Slider"
-msgstr "Сакриј"
+msgstr "Клизач"
 
 #: skype:sOPTIONS_LIMITED_EMERGENCY_CALLS1:3432
 msgid ""
@@ -12967,9 +12946,8 @@ msgid ""
 msgstr "Тренутно су важеће географска, софтверска и друга ограничења - молимо да погледате наше <a href=\"skype:?go#tos\">услове услуге</a>.  Молимо да обезбедите приступ хитним службама помоћу уобичајене телефонске мреже."
 
 #: skype:sBROWSER_OFFLINE_CAPTION:3434
-#, fuzzy
 msgid "You are currently offline"
-msgstr "Немате више кредита"
+msgstr "Тренутно нисте на вези"
 
 #: skype:sBROWSER_OFFLINE_TEXT:3435
 msgid ""
@@ -12982,71 +12960,60 @@ msgid "Heartbeat (Skype Status)"
 msgstr "Ритам срца (скајпов статус)"
 
 #: skype:sINSERTSMILEY:3438
-#, fuzzy
 msgid "Insert smiley"
-msgstr "Велики смешак"
+msgstr "Убаци смешак"
 
 #: skype:sSAVE_GROUP_LABEL:3439
-#, fuzzy
 msgid "Save this group conversation in your Contact list."
-msgstr "Додати сте у списак познаника"
+msgstr "Сачувај овај групни разговор у списак познаника."
 
 #: skype:sSAVE_GROUP_TITLE:3440
-#, fuzzy
 msgid "Save group in your Contact list"
-msgstr "Нова дељена група скајпАут познаника"
+msgstr "Сачувајте групу у списак познаника"
 
 #: skype:sNOTIF_POSTED_SINGLE_CONTACT:3442
-#, fuzzy
 msgid "Contact sent: %s"
-msgstr "Спискови познаника"
+msgstr "Послат познаник: %s"
 
 #: skype:sNOTIF_POSTED_CONTACTS:3443
-#, fuzzy
 msgid "%d contacts sent"
-msgstr "бр. познаника: %s"
+msgstr "послатих познаника: %d"
 
 #: skype:sCALL_TOOLBAR_TECHNICAL_INFO:3444
 msgid "Call Technical Info"
 msgstr "Позовите техничку подршку"
 
 #: skype:sCALL_TOOLBAR_MIXED_CONTACTS:3445
-#, fuzzy
 msgid "%d phone(s)"
-msgstr "Више опција"
+msgstr "телефона: %d"
 
 #: skype:sCALL_BTN_TOO_MUCH_PARTICIPANTS_HINT:3448
 msgid "Select no more than 24 participants to be able to start a call"
 msgstr "Како бисте започели позив, изаберите највише 24 учесника."
 
 #: skype:sTRAYMENU_ANSWER:3449
-#, fuzzy
 msgid "Answer Call"
-msgstr "Одговори на позив"
+msgstr "Одговори"
 
 #: skype:sTRAYMENU_IGNORE:3450
 msgid "Ignore Call"
 msgstr "Занемари позив"
 
 #: skype:sTRAYMENU_HANGUP:3451
-#, fuzzy
 msgid "Hang Up"
 msgstr "Крај"
 
 #: skype:sUSERCREATE_NAME_HINT:3452
-#, fuzzy
 msgid "6-32 characters needed"
-msgstr "Од 6 до 32 знака (%d употребљено)"
+msgstr "Тражи се од 6 до 32 знака"
 
 #: skype:sUSERCREATE_PWD_HINT:3453
-#, fuzzy
 msgid "6-20 characters needed"
-msgstr "преостало знакова: %s"
+msgstr "Тражи се 6-20 знакова"
 
 #: skype:sUSERCREATE_FULLNAME_HINT:3454
-#, fuzzy
 msgid "Enter your name"
-msgstr "Унесите скајпово име"
+msgstr "Унесите Ваше име"
 
 #: skype:sUSERCREATE_ERROR_NAMETOOSHORT:3455
 #: skype:sUSERENTRY_ERROR_PASSWORD_TOO_SHORT:3458
@@ -13074,33 +13041,28 @@ msgid "Can't contain a space"
 msgstr "Не сме да садржи размак"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD_SAMEASUSERNAME:3462
-#, fuzzy
 msgid "Too similar to Skype Name"
-msgstr "Немате скајпово име?"
+msgstr "Сувише слично скајповом имену"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD_INVALID_WORD:3463
-#, fuzzy
 msgid "Too easy to guess eg abcd, Skype"
-msgstr "жели да користи скајп"
+msgstr "Сувише је лако погодити, нпр. абвгд"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD_TOO_SIMPLE:3464
 msgid "Use at least 1 letter and 1 number"
 msgstr "Користите бар 1 слово и бар 1 цифру"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD_OK:3465
-#, fuzzy
 msgid "Password OK"
-msgstr "Лозинка"
+msgstr "Лозинка је у реду"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD2_MATCH:3466
-#, fuzzy
 msgid "Passwords match"
-msgstr "Лозинке се не поклапају."
+msgstr "Лозинке се поклапају"
 
 #: skype:sUSERENTRY_ERROR_PASSWORD2_NOMATCH:3467
-#, fuzzy
 msgid "Passwords don't match"
-msgstr "Лозинке се не поклапају."
+msgstr "Лозинке се не поклапају"
 
 #: skype:sUSERCREATE_ERROR_WRONGFIRSTCHAR:3468
 msgid "Must begin with a letter (A-z)"
