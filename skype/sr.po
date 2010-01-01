@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: skype 4.1.0.179\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-26 19:24+0200\n"
-"PO-Revision-Date: 2010-01-01 18:00+0100\n"
+"PO-Revision-Date: 2010-01-01 18:13+0100\n"
 "Last-Translator: Filip Miletic <filmil at gmail dot com>\n"
 "Language-Team: Serbian <gnu@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -930,9 +930,7 @@ msgstr "Брзи тастер за %s"
 msgid ""
 "The hotkey for %s is probably used by another application and will be "
 "disabled for Skype"
-msgstr ""
-"Брзи тастер %s вероватно користи неки други програм па није на располагању "
-"за скајп"
+msgstr "Брзи тастер %s вероватно користи неки други програм па није доступан за скајп"
 
 #: skype:sBUDDYMENU_BLOCK:236
 msgid "Block This Person…"
@@ -10729,48 +10727,40 @@ msgid "Answer and show your video"
 msgstr "Јавите се и укључите ваш видео"
 
 #: skype:sGROUP_AVATAR_BROWSER_DEFAULT_PIC:2869
-#, fuzzy
 msgid "No picture"
 msgstr "Нема слике"
 
 #: skype:sCALL_LB2_USER_LEFT:2870
-#, fuzzy
 msgid "The other person has left"
-msgstr "Ова особа је отишла"
+msgstr "Друга особа је отишла"
 
 #: skype:sFEEDBACK_TITLE:2871
 msgid "Leave feedback about Skype™"
 msgstr "Оставите повратну информацију о скајпу"
 
 #: skype:sCHAT_MEMBER_LEFT:2872
-#, fuzzy
 msgid "%s has left"
-msgstr "преостало знакова: %s"
+msgstr "%s оде"
 
 #: skype:sAC_MORE_CAPTION:2873
-#, fuzzy
 msgid "<b>More things you can do</b>"
-msgstr "Остале ствари које можете да радите"
+msgstr "<b>Још ствари које можете да урадите</b>"
 
 #: skype:sAC_MORE_ADD:2874
-#, fuzzy
 msgid "Add Skype contacts"
-msgstr "Додај познаника са скајпа"
+msgstr "Додајте познанике из скајпа"
 
 #: skype:sAC_MORE_ADDPSTN:2875
-#, fuzzy
 msgid "Save a phone number in your Contact list"
-msgstr "Молим да ме додате у списак познаника"
+msgstr "Сачувајте број у списак познаника"
 
 #: skype:sAC_MORE_SHARE:2876
-#, fuzzy
 msgid "Help a friend get started on Skype"
-msgstr "Нађи пријатеље који користе скајп"
+msgstr "Помозите пријатељу да почне да ради са скајпом"
 
 #: skype:sAC_MORE_IMPORT:2877
-#, fuzzy
 msgid "Add people from your email address books"
-msgstr "Додај више ел. адреса."
+msgstr "Додајте људе из адресара ел. поште"
 
 #: skype:sAC_ADD_CONFIRM_CAPTION:2878
 msgid "Add <b>%s</b> to your Contact List and request his/her contact details."
@@ -10786,9 +10776,8 @@ msgstr ""
 "тарифама."
 
 #: skype:sAC_SUCCESS:2882
-#, fuzzy
 msgid "<b>Hurray! You've added %s to your Contact list.</b>"
-msgstr "Молим да ме додате у списак познаника"
+msgstr "<b>Ура! Додали сте %s у списак познаника.</b>"
 
 #: skype:sAC_SUCCESSDESC:2883
 msgid ""
@@ -10798,9 +10787,8 @@ msgstr ""
 "бисте додали још познаника."
 
 #: skype:sAC_SUCCESS_SHARE:2884
-#, fuzzy
 msgid "Sent!"
-msgstr "Постави"
+msgstr "Послато!"
 
 #: skype:sAC_SUCCESSSKYPEOUT:2885
 msgid "<b>Hurray! You've added %s's phone number to your Contact list.</b>"
@@ -10837,76 +10825,60 @@ msgid "<b>Friend's name</b>"
 msgstr "<b>Име пријатеља</b>"
 
 #: skype:sAC_INVITE_MORE_USERS:2890
-#, fuzzy
 msgid "Invite more friends"
-msgstr "Позови на конференцију"
+msgstr "Позовите више пријатеља"
 
 #: skype:sAC_ADD_SKYPEOUT_CONTACT:2893
-#, fuzzy
 msgid "Save number"
-msgstr "Телефонски број:"
+msgstr "Сачувај број"
 
 #: skype:sAC_ADDPSTN:2894
-#, fuzzy
 msgid "<b>Save a phone number in your Contact list</b>"
-msgstr "<b>Додај обичан телефонски број у скајпАут познанике.</b>"
+msgstr "<b>Додај телефонски број у списак познаника.</b>"
 
 #: skype:sAC_CLOSETHISWINDOW:2895
 msgid "Close this window to edit your details."
 msgstr "Затворите овај прозор како бисте уредили Ваше податке."
 
 #: skype:sAC_FOUND:2896
-#, fuzzy
 msgid "<b>Choose the person you're looking for and click 'Add Contact':</b>"
-msgstr ""
-"Нађено резултата: <b>%d</b>. Молимо да изаберете особу коју тражите и да "
-"притиснете „Додај‟."
+msgstr "<b>Изаберите особу коју тражите и притисните „Додај познаника‟:</b>"
 
 #: skype:sAC_SHARE_CAPTION:2897
 msgid "<b>Help a friend get started on Skype</b>"
 msgstr "<b>Помозите пријатељу да започне рад са скајпом.</b>"
 
 #: skype:sAC_SHARE_TEXT:2898
-#, fuzzy
 msgid ""
 "Enter your friend's name and email address. Your friend will get an email "
 "from you inviting them to start using Skype."
-msgstr ""
-"Ваши пријатељи ће примити ел. пошту од Вас, која их позива да почну да "
-"користе скајп."
+msgstr "Унесите пријатељево име и ел. адресу.  Пријатељ ће добити ел. пошту од Вас у којој га позивате да почне да користи скајп."
 
 #: skype:sAC_SHARE_TEXT_ERROR:2899
-#, fuzzy
 msgid ""
 "<b>Oops! The email addresses marked * don't appear to be valid. Please check "
 "them for mistakes and try again.</b>"
-msgstr ""
-"Ел. адреса коју сте унели није исправна. Молимо да је проверите и покушате "
-"поново."
+msgstr "<b>Упс! Адресе означене звездицом (*) нису исправне.  Молимо проверите какве грешке су у питању и пробајте поново."
 
 #: skype:sAC_SHARE_EMAIL:2900
 msgid "<b>Friend's email</b>"
 msgstr "<b>Пријатељева ел. адреса</b>"
 
 #: skype:sAC_SHARE_MYNAME:2901
-#, fuzzy
 msgid "<b>Your name</b>"
-msgstr "Ваше име"
+msgstr "<b>Ваше име</b>"
 
 #: skype:sAC_SHARE_MYEMAIL:2902
-#, fuzzy
 msgid "<b>Your email</b>"
-msgstr "Ваша ел. адреса"
+msgstr "<b>Ваша ел. адреса</b>"
 
 #: skype:sAC_SHARE_MESSAGE:2903
-#, fuzzy
 msgid "<b>Your welcome message</b>"
-msgstr "Ваша поздравна порука"
+msgstr "<b>Ваша поздравна порука</b>"
 
 #: skype:sF_CALLQUALITY_WINDOW_TITLE:2905
-#, fuzzy
 msgid "Improve your call quality"
-msgstr "Како побољшати квалитет разговора"
+msgstr "Побољшате квалитет везе"
 
 #: skype:sF_CALLQUALITY_BGR_CAPTION:2906
 msgid "How to improve call quality"
@@ -10929,9 +10901,8 @@ msgid "Resolved: %s"
 msgstr "Решено: %s"
 
 #: skype:sCQ_TITLE_CPU_HIGH:2912
-#, fuzzy
 msgid "Close some Skype applications"
-msgstr "Притисните овде да отворите скајпове опције"
+msgstr "Затворите неке скајпове апликације"
 
 #: skype:sCQ_TITLE_CPU_INUSE:2913 skype:sCQ_TITLE_VIDEO_CPU_LOW:2924
 msgid "Close some applications"
@@ -10946,32 +10917,28 @@ msgid "Stop any downloads or close web programs"
 msgstr "Зауставите пријеме са Интернета или затворите мрежне програме"
 
 #: skype:sCQ_TITLE_FIREWALL_STRONG:2916
-#, fuzzy
 msgid "Skype's access to the web is restricted"
-msgstr "скајпкаст још није почео"
+msgstr "Скајпов приступ мрежи је ограничен"
 
 #: skype:sCQ_TITLE_NOT_UDP:2917
 msgid "Skype's access to the web is limited"
 msgstr "Скајпов приступ Интернету је ограничен"
 
 #: skype:sCQ_TITLE_LOW_BANDWIDTH:2918 skype:sCQ_TITLE_VIDEO_BW_LOW:2923
-#, fuzzy
 msgid "Slow web connection"
-msgstr "Нема мрежне везе"
+msgstr "Спора мрежна веза"
 
 #: skype:sCQ_TITLE_HIGH_ECHO:2919
 msgid "Turn your speakers down"
 msgstr "Утишајте звучнике"
 
 #: skype:sCQ_TITLE_HIGH_NOISE:2920
-#, fuzzy
 msgid "Background noise"
-msgstr "Чуло се позадински шум"
+msgstr "Позадински шум"
 
 #: skype:sCQ_TITLE_LOW_INPUT:2921 skype:sCQ_TITLE_MUTED_INPUT:2922
-#, fuzzy
 msgid "Check your microphone"
-msgstr "Провера везе"
+msgstr "Проверите микрофон"
 
 #: skype:sCQ_TITLE_VIDEO_CPU_POWERSAVE:2925
 msgid "Running on battery? Switch to AC power"
@@ -10980,9 +10947,8 @@ msgstr ""
 "струју"
 
 #: skype:sCQ_TITLE_VIDEO_LIGHT_LOW:2926
-#, fuzzy
 msgid "Not enough light"
-msgstr "Немате довољно средстава"
+msgstr "Ниво светла је недовољан"
 
 #: skype:sCQ_TITLE_VIDEO_USB_LIMITED:2927
 msgid "Unplug some USB devices"
@@ -11007,11 +10973,10 @@ msgstr ""
 "како би се квалитет звука побољшао."
 
 #: skype:sCQ_DESC_CPU_SLOW:2930
-#, fuzzy
 msgid ""
 "Your computer might be too slow to make clear calls. You really need a 1 GHz "
 "processor and at least 256MB RAM."
-msgstr "Минимални системски захтеви су процесор на 1GHz и бар 256MB меморије"
+msgstr "Ваш рачунар је преспор за квалитетне везе.  Потребан Вам је процесор од бар 1 GHz и бар 256MB RAM меморије."
 
 #: skype:sCQ_DESC_FIREWALL_BAD:2931
 msgid ""
@@ -11067,67 +11032,51 @@ msgstr ""
 "даље од звучника како би Вас саговорник боље чуо."
 
 #: skype:sCQ_DESC_MUTED_INPUT:2938
-#, fuzzy
 msgid ""
 "Is your microphone on mute? Click the mute button again to clear it. Didn't "
 "fix it? Make sure you've plugged in your headset or microphone properly and "
 "you've selected them in your audio settings. <br/>Get help <a href=\"skype:?"
 "gettingstarted#devices\">setting up your sound equipment</a>.<br/>"
-msgstr ""
-"Да ли је Ваш микрофон сасвим утишан?  Притисните дугме за утишавање како "
-"бисте га поново укључили.  Није помогло?  Проверите да су микрофон или "
-"слушалице с микрофоном исправно прикључене и да су исправно подешене у "
-"подешавањима звука <br/>Можете добити и <a href=\"skype:?"
-"gettingstarted#devices\">помоћ за подешавање звучне опреме.</a><br/>"
+msgstr "Да ли је Ваш микрофон сасвим утишан?  Притисните дугме за утишавање како бисте га поново укључили.  Није помогло?  Проверите да су микрофон или слушалице с микрофоном исправно прикључене и да су исправно подешене у подешавањима звука <br/>Можете добити и <a href=\"skype:?gettingstarted#devices\">помоћ за подешавање звучне опреме</a>.<br/>"
 
 #: skype:sCQ_DESC_VIDEO_CPU_POWERSAVE:2941
-#, fuzzy
 msgid ""
 "Your laptop is in power saving mode. To get better sound or video quality, "
 "change your computer to AC power or switch your computer to maximum "
 "performance."
-msgstr ""
-"Можда имате проблема са позивима или видеом зато јер Ваш лаптоп покушава да "
-"уштеди струју.  Прикључите рачунар на мрежи или укључите максимум "
-"перформанси."
+msgstr "Ваш лаптоп тренутно штеди струју.  Како бисте имали бољи квалитет слике и звука, прикључите рачунар у ел. мрежу или га укључите за максимум перформанси."
 
 #: skype:sFILETRANSFER_STATUS_TEXT_WAITING:2944
 msgid "Waiting"
 msgstr "Чекање"
 
 #: skype:sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_ME:2945
-#, fuzzy
 msgid "The file isn't available on this computer"
-msgstr "Ова могућност још није на располагању у скајпу"
+msgstr "Датотека није доступна на овом рачунару"
 
 #: skype:sFILETRANSFER_STATUS_TEXT_PLACEHOLDER:2946
-#, fuzzy
 msgid "The file isn't available yet"
-msgstr "Ова могућност још није на располагању у скајпу"
+msgstr "Ова датотека још није на доступна"
 
 #: skype:sFILETRANSFER_STATUS_TEXT_PLACEHOLDER_TIMEOUT:2947
-#, fuzzy
 msgid "The file isn't available"
-msgstr "Корисница је на вези, али је недоступна"
+msgstr "Датотека није доступна"
 
 #: skype:sFILETRANSFER_GROUP_STATUS:2948
-#, fuzzy
 msgid "%d recipients: %s"
-msgstr "примају СМС:"
+msgstr "%d прималаца: %s"
 
 #: skype:sINBOX_PINNED_CONVERSATIONS:2949
 msgid "Pinned conversations"
 msgstr "Фиксирани разговори"
 
 #: skype:sINBOX_CLEAR_CONVERSATIONS:2950
-#, fuzzy
 msgid "Remove read conversations"
-msgstr "Уклањање познаника"
+msgstr "Уклони прочитане разговоре"
 
 #: skype:sF_CONVERSATIONS_MANY:2951
-#, fuzzy
 msgid "%d conversations"
-msgstr "бр. познаника: %s"
+msgstr "разговора: %d"
 
 #: skype:sLIVECONVLIST_CALL_FINISHED:2952
 msgid "Finished"
@@ -11145,24 +11094,20 @@ msgid ""
 msgstr "Дошло је до улазно-излазне грешке на диску.  Притисните сличицу скајпа десним дугметом у виндовсовој траци са задацима и изаберите Крај.  Ако и даље видите исту грешку, молимо да се обратите скајповој корисничкој подршци."
 
 #: skype:sINFORM_DB_CORRUPT:2955
-#, fuzzy
 msgid "Database error. Please close Skype and sign in again."
-msgstr "Лозинка је неисправна. Молимо пријавите се поново."
+msgstr "Грешка у бази података.  Молимо да затворите скајп и пријавите се опет."
 
 #: skype:sCHAT_DRAGFILE_CONF:2957
-#, fuzzy
 msgid "Post file to conversation"
-msgstr "Нема мрежне везе"
+msgstr "Закачи датотеку за разговор"
 
 #: skype:sEMPTY_CONVERSATIONS_0:2958
-#, fuzzy
 msgid "Conversation list"
-msgstr "Потврда"
+msgstr "Списак разговора"
 
 #: skype:sEMPTY_CONVERSATIONS_1:2959
-#, fuzzy
 msgid "(empty)"
-msgstr "празна"
+msgstr "(празно)"
 
 #: skype:sEMPTY_CONVERSATIONS_2:2960
 msgid ""
