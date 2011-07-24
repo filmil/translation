@@ -34,7 +34,7 @@ clean:
 	$(RM) sr@Latn.po sr.lang sr@Latn.lang  \
 	      semantic.cache *~ *.utf8 *.ts *.qm
 
-skype-$(VERSION).pot: source/$(VERSION).lang
+skype-%.pot: source/%.lang
 	$(SKYPE2PO) $< $@
 	$(MV) $@ pot/
 
